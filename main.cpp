@@ -94,18 +94,11 @@ int main() {
 
     while(true) {
         readData(reader);
+            
+        std::cout<<"REQUEST "<<reader.data[0] << " " << reader.data[1] << " " << reader.data[2] <<std::endl;
         
         if (reader.hasEnd)
             break;
-            
-        std::cout<<"REQUEST "<<reader.data[0] << " " << reader.data[1] << " " << reader.data[2] <<std::endl;
-            
-        // TODO logika jobb mint a semmitteves
-        std::string command = "PASS";
-        
-        // Ha szeretnetek debug uzenetet kuldeni, akkor megtehetitek.
-        // Vigyazzatok, mert maximalisan csak 1024 * 1024 bajtot kaptok vissza
-        std::cerr << "Send " << command << std::endl;
        
         // standard out-ra meg mehet ki a megoldas! Mas ne irodjon ide ki ;)
         std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << "CREATE 69 69"<< std::endl;
