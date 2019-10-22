@@ -98,6 +98,8 @@ int main() {
         if (reader.hasEnd)
             break;
             
+        std::cout<<"REQUEST "<<reader.data[0] << " " << reader.data[1] << " " << reader.data[2] <<std::endl;
+            
         // TODO logika jobb mint a semmitteves
         std::string command = "PASS";
         
