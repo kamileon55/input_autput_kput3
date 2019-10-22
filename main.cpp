@@ -84,10 +84,10 @@ void readData(Reader& to) {
 
 int main() {
     char teamToken[] = "tqEzVLvbq6wz_uWr6HS1";
-    // int seed = 0;
+    int seed = 0;
     std::cerr<<"Menj az a***ba! ";
     std::cout << "START " << teamToken 
-        // << " " << seed 
+        << " " << seed 
         << std::endl;
 
     Reader reader = {};
@@ -106,7 +106,7 @@ int main() {
         std::cerr << "Send " << command << std::endl;
        
         // standard out-ra meg mehet ki a megoldas! Mas ne irodjon ide ki ;)
-        std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
+        std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << "CREATE 69 69"<< std::endl;
     }
     std::cerr << "END (latest message): " << reader.previous << std::endl;
 }
