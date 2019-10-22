@@ -85,7 +85,7 @@ void readData(Reader& to) {
 int main() {
     char teamToken[] = "tqEzVLvbq6wz_uWr6HS1";
     // int seed = 0;
-    
+    std::cerr<<"Menj az a***ba! ";
     std::cout << "START " << teamToken 
         // << " " << seed 
         << std::endl;
