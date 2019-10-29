@@ -1,1 +1,2 @@
-Menj az a***ba! END (latest message): WRONG Cannot parse GameID, not an integer, or not exists!;Wrong storeId! 0<= storeId <= 9, but sent 69;TimeoutException
+Menj az a***ba! 32242 0 3 CREATE 69 69
+.END (latest message): WRONG Cannot parse GameID, not an integer, or not exists!;Wrong storeId! 0<= storeId <= 9, but sent 69;TimeoutException
