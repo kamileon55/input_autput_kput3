@@ -102,6 +102,7 @@ int main() {
        
         // standard out-ra meg mehet ki a megoldas! Mas ne irodjon ide ki ;)
         std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << "CREATE 69 69"<< std::endl <<".";
+        std::cerr << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << "CREATE 69 69"<< std::endl <<".";
     }
     std::cerr << "END (latest message): " << reader.previous << std::endl;
 }
