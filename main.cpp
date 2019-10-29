@@ -36,6 +36,8 @@ struct Reader {
 
 void readData(Reader& to) {
     std::string line;
+    std::cerr<<"\n";
+    std::cerr<<line<<"\n";
     to.dataArray.clear();
     to.receivedPieces.clear();
     
