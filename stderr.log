@@ -1,6 +1,6 @@
 Menj az a***ba! 
-
-32245 0 3 CREATE 69 69
+A vonal adatai: 
+32414 0 3 CREATE 69 69
 .
-
+A vonal adatai: 
 END (latest message): WRONG Cannot parse GameID, not an integer, or not exists!;Wrong storeId! 0<= storeId <= 9, but sent 69;TimeoutException
