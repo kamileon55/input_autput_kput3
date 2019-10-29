@@ -42,7 +42,7 @@ void readData(Reader& to) {
     to.receivedPieces.clear();
     
     while (std::getline(std::cin, line)) {
-        std::cerr<<"A vonal adatai: "<<line<<"\n";
+        std::cerr<<"A vonal adatai: "<<line<<endl;
         if (!line.rfind(".", 0))
             return;
         
