@@ -93,9 +93,9 @@ if __name__== "__main__":
         # Ha szeretnetek debug uzenetet kuldeni, akkor megtehetitek.
         # Vigyazzatok, mert maximalisan csak 1024 * 1024 bajtot kaptok vissza
         stderr.write("Send {}\n".format(command))
-        command = "PASS"
+        
         
         # standard out-ra meg mehet ki a megoldas! Mas ne irodjon ide ki ;)
         stdout.write("{} {} {} {}\n".format(reader.data[0], reader.data[1], reader.data[2], command))
-
+        command = "PASS"
     stderr.write("END (latest message): {}\n".format(reader.previous))
