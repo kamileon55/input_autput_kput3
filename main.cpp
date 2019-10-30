@@ -142,7 +142,7 @@ int main()
         }
         if(n%2!=0)
         {
-           std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << n-1<< std::endl;
+           std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << "^"<< std::endl;
         }
         n++;
     }
