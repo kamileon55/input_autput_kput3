@@ -159,11 +159,11 @@ int main()
         {
             for(int j=i+1; j<reader.receivedPieces.size(); j++)
             {
-                if (reader.receivedPieces[j] < reader.receivedPieces[i])
+                if (reader.receivedPieces[j].index < reader.receivedPieces[i].index)
                 {
-                    int cser=reader.receivedPieces[j];
-                    reader.receivedPieces[j]=reader.receivedPieces[i];
-                    reader.receivedPieces[i]=cser;
+                    int cser=reader.receivedPieces[j].index;
+                    reader.receivedPieces[j].index=reader.receivedPieces[i].index;
+                    reader.receivedPieces[i].index=cser;
                 }
             }
         }
