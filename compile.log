@@ -1,11 +1,13 @@
 /main.cpp: In function ‘int main()’:
-/main.cpp:129:17: error: ‘strcpy’ was not declared in this scope
+/main.cpp:129:24: error: cannot convert ‘std::__cxx11::string’ {aka ‘std::__cxx11::basic_string<char>’} to ‘char*’
                  strcpy(command, i);
-                 ^~~~~~
-/main.cpp:129:17: note: ‘strcpy’ is defined in header ‘<cstring>’; did you forget to ‘#include <cstring>’?
-/main.cpp:6:1:
-+#include <cstring>
- 
-/main.cpp:129:17:
-                 strcpy(command, i);
-                 ^~~~~~
+                        ^~~~~~~
+In file included from /usr/include/features.h:424,
+                 from /usr/include/x86_64-linux-gnu/c++/8/bits/os_defines.h:39,
+                 from /usr/include/x86_64-linux-gnu/c++/8/bits/c++config.h:508,
+                 from /usr/include/c++/8/utility:68,
+                 from /usr/include/c++/8/array:38,
+                 from /main.cpp:1:
+/usr/include/x86_64-linux-gnu/bits/string_fortified.h:88:1: note:   initializing argument 1 of ‘char* strcpy(char*, const char*)’
+ __NTH (strcpy (char *__restrict __dest, const char *__restrict __src))
+ ^~~~~
