@@ -1,13 +1,12 @@
 /main.cpp: In function ‘int main()’:
-/main.cpp:129:24: error: cannot convert ‘std::__cxx11::string’ {aka ‘std::__cxx11::basic_string<char>’} to ‘char*’
-                 strcpy(command, i);
-                        ^~~~~~~
-In file included from /usr/include/features.h:424,
-                 from /usr/include/x86_64-linux-gnu/c++/8/bits/os_defines.h:39,
-                 from /usr/include/x86_64-linux-gnu/c++/8/bits/c++config.h:508,
-                 from /usr/include/c++/8/utility:68,
-                 from /usr/include/c++/8/array:38,
+/main.cpp:129:34: error: ‘string’ was not declared in this scope
+                 command=command+(string) i;
+                                  ^~~~~~
+/main.cpp:129:34: note: suggested alternative:
+In file included from /usr/include/c++/8/string:39,
+                 from /usr/include/c++/8/stdexcept:39,
+                 from /usr/include/c++/8/array:39,
                  from /main.cpp:1:
-/usr/include/x86_64-linux-gnu/bits/string_fortified.h:88:1: note:   initializing argument 1 of ‘char* strcpy(char*, const char*)’
- __NTH (strcpy (char *__restrict __dest, const char *__restrict __src))
- ^~~~~
+/usr/include/c++/8/bits/stringfwd.h:74:33: note:   ‘std::__cxx11::string’
+   typedef basic_string<char>    string;
+                                 ^~~~~~
