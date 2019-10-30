@@ -126,7 +126,7 @@ int main()
             if(reader.routerBits[3][i]==1)
             {
                 command= "CREATE ";
-                strcpy(command, i);
+                command=command+(string) i;
                 break;
             }
             
