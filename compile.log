@@ -1,323 +1,162 @@
 /main.cpp: In function ‘int main()’:
 /main.cpp:149:49: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
                  if(reader.dataArray[i].dataIndex<min)
-/main.cpp:200:73: error: ‘__gnu_cxx::__alloc_traits<std::allocator<MessagePiece>, MessagePiece>::value_type’ {aka ‘struct MessagePiece’} has no member named ‘size’
-         int meret=reader.receivedPieces.size()/reader.receivedPieces[0].size();
-                                                                         ^~~~
-/main.cpp:201:58: error: no match for ‘operator+’ (operand types are ‘std::vector<MessagePiece>’ and ‘int’)
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                     ~~~~~~~~~~~~~~~~~~~~~^~~~~~
-In file included from /usr/include/c++/8/bits/stl_algobase.h:67,
-                 from /usr/include/c++/8/bits/char_traits.h:39,
-                 from /usr/include/c++/8/string:40,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/stl_iterator.h:400:5: note: candidate: ‘template<class _Iterator> constexpr std::reverse_iterator<_Iterator> std::operator+(typename std::reverse_iterator<_Iterator>::difference_type, const std::reverse_iterator<_Iterator>&)’
-     operator+(typename reverse_iterator<_Iterator>::difference_type __n,
-     ^~~~~~~~
-/usr/include/c++/8/bits/stl_iterator.h:400:5: note:   template argument deduction/substitution failed:
-/main.cpp:201:59: note:   mismatched types ‘const std::reverse_iterator<_Iterator>’ and ‘int’
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                                           ^~~~~
-In file included from /usr/include/c++/8/bits/stl_algobase.h:67,
-                 from /usr/include/c++/8/bits/char_traits.h:39,
-                 from /usr/include/c++/8/string:40,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/stl_iterator.h:1195:5: note: candidate: ‘template<class _Iterator> constexpr std::move_iterator<_IteratorL> std::operator+(typename std::move_iterator<_IteratorL>::difference_type, const std::move_iterator<_IteratorL>&)’
-     operator+(typename move_iterator<_Iterator>::difference_type __n,
-     ^~~~~~~~
-/usr/include/c++/8/bits/stl_iterator.h:1195:5: note:   template argument deduction/substitution failed:
-/main.cpp:201:59: note:   mismatched types ‘const std::move_iterator<_IteratorL>’ and ‘int’
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                                           ^~~~~
-In file included from /usr/include/c++/8/string:52,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/basic_string.h:5927:5: note: candidate: ‘template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Allocator> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Allocator>&, const std::__cxx11::basic_string<_CharT, _Traits, _Allocator>&)’
-     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
-     ^~~~~~~~
-/usr/include/c++/8/bits/basic_string.h:5927:5: note:   template argument deduction/substitution failed:
-/main.cpp:201:59: note:   ‘std::vector<MessagePiece>’ is not derived from ‘const std::__cxx11::basic_string<_CharT, _Traits, _Allocator>’
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                                           ^~~~~
-In file included from /usr/include/c++/8/string:53,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/basic_string.tcc:1157:5: note: candidate: ‘template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Allocator> std::operator+(const _CharT*, const std::__cxx11::basic_string<_CharT, _Traits, _Allocator>&)’
-     operator+(const _CharT* __lhs,
-     ^~~~~~~~
-/usr/include/c++/8/bits/basic_string.tcc:1157:5: note:   template argument deduction/substitution failed:
-/main.cpp:201:59: note:   mismatched types ‘const _CharT*’ and ‘std::vector<MessagePiece>’
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                                           ^~~~~
-In file included from /usr/include/c++/8/string:53,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/basic_string.tcc:1173:5: note: candidate: ‘template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Allocator> std::operator+(_CharT, const std::__cxx11::basic_string<_CharT, _Traits, _Allocator>&)’
-     operator+(_CharT __lhs, const basic_string<_CharT, _Traits, _Alloc>& __rhs)
-     ^~~~~~~~
-/usr/include/c++/8/bits/basic_string.tcc:1173:5: note:   template argument deduction/substitution failed:
-/main.cpp:201:59: note:   mismatched types ‘const std::__cxx11::basic_string<_CharT, _Traits, _Allocator>’ and ‘int’
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                                           ^~~~~
-In file included from /usr/include/c++/8/string:52,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/basic_string.h:5964:5: note: candidate: ‘template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Allocator> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Allocator>&, const _CharT*)’
-     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
-     ^~~~~~~~
-/usr/include/c++/8/bits/basic_string.h:5964:5: note:   template argument deduction/substitution failed:
-/main.cpp:201:59: note:   ‘std::vector<MessagePiece>’ is not derived from ‘const std::__cxx11::basic_string<_CharT, _Traits, _Allocator>’
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                                           ^~~~~
-In file included from /usr/include/c++/8/string:52,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/basic_string.h:5980:5: note: candidate: ‘template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Allocator> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Allocator>&, _CharT)’
-     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs, _CharT __rhs)
-     ^~~~~~~~
-/usr/include/c++/8/bits/basic_string.h:5980:5: note:   template argument deduction/substitution failed:
-/main.cpp:201:59: note:   ‘std::vector<MessagePiece>’ is not derived from ‘const std::__cxx11::basic_string<_CharT, _Traits, _Allocator>’
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                                           ^~~~~
-In file included from /usr/include/c++/8/string:52,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/basic_string.h:5992:5: note: candidate: ‘template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Allocator> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Allocator>&&, const std::__cxx11::basic_string<_CharT, _Traits, _Allocator>&)’
-     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
-     ^~~~~~~~
-/usr/include/c++/8/bits/basic_string.h:5992:5: note:   template argument deduction/substitution failed:
-/main.cpp:201:59: note:   ‘std::vector<MessagePiece>’ is not derived from ‘std::__cxx11::basic_string<_CharT, _Traits, _Allocator>’
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                                           ^~~~~
-In file included from /usr/include/c++/8/string:52,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/basic_string.h:5998:5: note: candidate: ‘template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Allocator> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Allocator>&, std::__cxx11::basic_string<_CharT, _Traits, _Allocator>&&)’
-     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
-     ^~~~~~~~
-/usr/include/c++/8/bits/basic_string.h:5998:5: note:   template argument deduction/substitution failed:
-/main.cpp:201:59: note:   ‘std::vector<MessagePiece>’ is not derived from ‘const std::__cxx11::basic_string<_CharT, _Traits, _Allocator>’
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                                           ^~~~~
-In file included from /usr/include/c++/8/string:52,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/basic_string.h:6004:5: note: candidate: ‘template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Allocator> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Allocator>&&, std::__cxx11::basic_string<_CharT, _Traits, _Allocator>&&)’
-     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
-     ^~~~~~~~
-/usr/include/c++/8/bits/basic_string.h:6004:5: note:   template argument deduction/substitution failed:
-/main.cpp:201:59: note:   ‘std::vector<MessagePiece>’ is not derived from ‘std::__cxx11::basic_string<_CharT, _Traits, _Allocator>’
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                                           ^~~~~
-In file included from /usr/include/c++/8/string:52,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/basic_string.h:6016:5: note: candidate: ‘template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Allocator> std::operator+(const _CharT*, std::__cxx11::basic_string<_CharT, _Traits, _Allocator>&&)’
-     operator+(const _CharT* __lhs,
-     ^~~~~~~~
-/usr/include/c++/8/bits/basic_string.h:6016:5: note:   template argument deduction/substitution failed:
-/main.cpp:201:59: note:   mismatched types ‘const _CharT*’ and ‘std::vector<MessagePiece>’
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                                           ^~~~~
-In file included from /usr/include/c++/8/string:52,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/basic_string.h:6022:5: note: candidate: ‘template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Allocator> std::operator+(_CharT, std::__cxx11::basic_string<_CharT, _Traits, _Allocator>&&)’
-     operator+(_CharT __lhs,
-     ^~~~~~~~
-/usr/include/c++/8/bits/basic_string.h:6022:5: note:   template argument deduction/substitution failed:
-/main.cpp:201:59: note:   mismatched types ‘std::__cxx11::basic_string<_CharT, _Traits, _Allocator>’ and ‘int’
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                                           ^~~~~
-In file included from /usr/include/c++/8/string:52,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/basic_string.h:6028:5: note: candidate: ‘template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Allocator> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Allocator>&&, const _CharT*)’
-     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
-     ^~~~~~~~
-/usr/include/c++/8/bits/basic_string.h:6028:5: note:   template argument deduction/substitution failed:
-/main.cpp:201:59: note:   ‘std::vector<MessagePiece>’ is not derived from ‘std::__cxx11::basic_string<_CharT, _Traits, _Allocator>’
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                                           ^~~~~
-In file included from /usr/include/c++/8/string:52,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/basic_string.h:6034:5: note: candidate: ‘template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Allocator> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Allocator>&&, _CharT)’
-     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
-     ^~~~~~~~
-/usr/include/c++/8/bits/basic_string.h:6034:5: note:   template argument deduction/substitution failed:
-/main.cpp:201:59: note:   ‘std::vector<MessagePiece>’ is not derived from ‘std::__cxx11::basic_string<_CharT, _Traits, _Allocator>’
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                                           ^~~~~
-In file included from /usr/include/c++/8/vector:65,
-                 from /main.cpp:3:
-/usr/include/c++/8/bits/stl_bvector.h:299:3: note: candidate: ‘std::_Bit_iterator std::operator+(std::ptrdiff_t, const std::_Bit_iterator&)’
-   operator+(ptrdiff_t __n, const _Bit_iterator& __x)
-   ^~~~~~~~
-/usr/include/c++/8/bits/stl_bvector.h:299:3: note:   no known conversion for argument 1 from ‘std::vector<MessagePiece>’ to ‘std::ptrdiff_t’ {aka ‘long int’}
-/usr/include/c++/8/bits/stl_bvector.h:389:3: note: candidate: ‘std::_Bit_const_iterator std::operator+(std::ptrdiff_t, const std::_Bit_const_iterator&)’
-   operator+(ptrdiff_t __n, const _Bit_const_iterator& __x)
-   ^~~~~~~~
-/usr/include/c++/8/bits/stl_bvector.h:389:3: note:   no known conversion for argument 1 from ‘std::vector<MessagePiece>’ to ‘std::ptrdiff_t’ {aka ‘long int’}
-In file included from /usr/include/c++/8/ccomplex:39,
-                 from /usr/include/x86_64-linux-gnu/c++/8/bits/stdc++.h:52,
-                 from /main.cpp:7:
-/usr/include/c++/8/complex:326:5: note: candidate: ‘template<class _Tp> std::complex<_Tp> std::operator+(const std::complex<_Tp>&, const std::complex<_Tp>&)’
-     operator+(const complex<_Tp>& __x, const complex<_Tp>& __y)
-     ^~~~~~~~
-/usr/include/c++/8/complex:326:5: note:   template argument deduction/substitution failed:
-/main.cpp:201:59: note:   ‘std::vector<MessagePiece>’ is not derived from ‘const std::complex<_Tp>’
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                                           ^~~~~
-In file included from /usr/include/c++/8/ccomplex:39,
-                 from /usr/include/x86_64-linux-gnu/c++/8/bits/stdc++.h:52,
-                 from /main.cpp:7:
-/usr/include/c++/8/complex:335:5: note: candidate: ‘template<class _Tp> std::complex<_Tp> std::operator+(const std::complex<_Tp>&, const _Tp&)’
-     operator+(const complex<_Tp>& __x, const _Tp& __y)
-     ^~~~~~~~
-/usr/include/c++/8/complex:335:5: note:   template argument deduction/substitution failed:
-/main.cpp:201:59: note:   ‘std::vector<MessagePiece>’ is not derived from ‘const std::complex<_Tp>’
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                                           ^~~~~
-In file included from /usr/include/c++/8/ccomplex:39,
-                 from /usr/include/x86_64-linux-gnu/c++/8/bits/stdc++.h:52,
-                 from /main.cpp:7:
-/usr/include/c++/8/complex:344:5: note: candidate: ‘template<class _Tp> std::complex<_Tp> std::operator+(const _Tp&, const std::complex<_Tp>&)’
-     operator+(const _Tp& __x, const complex<_Tp>& __y)
-     ^~~~~~~~
-/usr/include/c++/8/complex:344:5: note:   template argument deduction/substitution failed:
-/main.cpp:201:59: note:   mismatched types ‘const std::complex<_Tp>’ and ‘int’
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                                           ^~~~~
-In file included from /usr/include/c++/8/ccomplex:39,
-                 from /usr/include/x86_64-linux-gnu/c++/8/bits/stdc++.h:52,
-                 from /main.cpp:7:
-/usr/include/c++/8/complex:445:5: note: candidate: ‘template<class _Tp> std::complex<_Tp> std::operator+(const std::complex<_Tp>&)’
-     operator+(const complex<_Tp>& __x)
-     ^~~~~~~~
-/usr/include/c++/8/complex:445:5: note:   template argument deduction/substitution failed:
-/main.cpp:201:59: note:   ‘std::vector<MessagePiece>’ is not derived from ‘const std::complex<_Tp>’
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                                           ^~~~~
-In file included from /usr/include/c++/8/deque:64,
-                 from /usr/include/x86_64-linux-gnu/c++/8/bits/stdc++.h:68,
-                 from /main.cpp:7:
-/usr/include/c++/8/bits/stl_deque.h:375:5: note: candidate: ‘template<class _Tp, class _Ref, class _Ptr> std::_Deque_iterator<_Tp, _Ref, _Ptr> std::operator+(std::ptrdiff_t, const std::_Deque_iterator<_Tp, _Ref, _Ptr>&)’
-     operator+(ptrdiff_t __n, const _Deque_iterator<_Tp, _Ref, _Ptr>& __x)
-     ^~~~~~~~
-/usr/include/c++/8/bits/stl_deque.h:375:5: note:   template argument deduction/substitution failed:
-/main.cpp:201:59: note:   mismatched types ‘const std::_Deque_iterator<_Tp, _Ref, _Ptr>’ and ‘int’
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                                           ^~~~~
-In file included from /usr/include/c++/8/valarray:592,
-                 from /usr/include/x86_64-linux-gnu/c++/8/bits/stdc++.h:95,
-                 from /main.cpp:7:
-/usr/include/c++/8/bits/valarray_after.h:402:5: note: candidate: ‘template<class _Dom1, class _Dom2> std::_Expr<std::_BinClos<std::__plus, std::_Expr, std::_Expr, _Dom1, _Dom2>, typename std::__fun<std::__plus, typename _Dom1::value_type>::result_type> std::operator+(const std::_Expr<_Dom1, typename _Dom1::value_type>&, const std::_Expr<_Dom2, typename _Dom2::value_type>&)’
-     _DEFINE_EXPR_BINARY_OPERATOR(+, __plus)
-     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/include/c++/8/bits/valarray_after.h:402:5: note:   template argument deduction/substitution failed:
-/main.cpp:201:59: note:   ‘std::vector<MessagePiece>’ is not derived from ‘const std::_Expr<_Dom1, typename _Dom1::value_type>’
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                                           ^~~~~
-In file included from /usr/include/c++/8/valarray:592,
-                 from /usr/include/x86_64-linux-gnu/c++/8/bits/stdc++.h:95,
-                 from /main.cpp:7:
-/usr/include/c++/8/bits/valarray_after.h:402:5: note: candidate: ‘template<class _Dom> std::_Expr<std::_BinClos<std::__plus, std::_Expr, std::_Constant, _Dom, typename _Dom::value_type>, typename std::__fun<std::__plus, typename _Dom1::value_type>::result_type> std::operator+(const std::_Expr<_Dom1, typename _Dom1::value_type>&, const typename _Dom::value_type&)’
-     _DEFINE_EXPR_BINARY_OPERATOR(+, __plus)
-     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/include/c++/8/bits/valarray_after.h:402:5: note:   template argument deduction/substitution failed:
-/main.cpp:201:59: note:   ‘std::vector<MessagePiece>’ is not derived from ‘const std::_Expr<_Dom1, typename _Dom1::value_type>’
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                                           ^~~~~
-In file included from /usr/include/c++/8/valarray:592,
-                 from /usr/include/x86_64-linux-gnu/c++/8/bits/stdc++.h:95,
-                 from /main.cpp:7:
-/usr/include/c++/8/bits/valarray_after.h:402:5: note: candidate: ‘template<class _Dom> std::_Expr<std::_BinClos<std::__plus, std::_Constant, std::_Expr, typename _Dom::value_type, _Dom>, typename std::__fun<std::__plus, typename _Dom1::value_type>::result_type> std::operator+(const typename _Dom::value_type&, const std::_Expr<_Dom1, typename _Dom1::value_type>&)’
-     _DEFINE_EXPR_BINARY_OPERATOR(+, __plus)
-     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/include/c++/8/bits/valarray_after.h:402:5: note:   template argument deduction/substitution failed:
-/main.cpp:201:59: note:   mismatched types ‘const std::_Expr<_Dom1, typename _Dom1::value_type>’ and ‘int’
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                                           ^~~~~
-In file included from /usr/include/c++/8/valarray:592,
-                 from /usr/include/x86_64-linux-gnu/c++/8/bits/stdc++.h:95,
-                 from /main.cpp:7:
-/usr/include/c++/8/bits/valarray_after.h:402:5: note: candidate: ‘template<class _Dom> std::_Expr<std::_BinClos<std::__plus, std::_Expr, std::_ValArray, _Dom, typename _Dom::value_type>, typename std::__fun<std::__plus, typename _Dom1::value_type>::result_type> std::operator+(const std::_Expr<_Dom1, typename _Dom1::value_type>&, const std::valarray<typename _Dom::value_type>&)’
-     _DEFINE_EXPR_BINARY_OPERATOR(+, __plus)
-     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/include/c++/8/bits/valarray_after.h:402:5: note:   template argument deduction/substitution failed:
-/main.cpp:201:59: note:   ‘std::vector<MessagePiece>’ is not derived from ‘const std::_Expr<_Dom1, typename _Dom1::value_type>’
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                                           ^~~~~
-In file included from /usr/include/c++/8/valarray:592,
-                 from /usr/include/x86_64-linux-gnu/c++/8/bits/stdc++.h:95,
-                 from /main.cpp:7:
-/usr/include/c++/8/bits/valarray_after.h:402:5: note: candidate: ‘template<class _Dom> std::_Expr<std::_BinClos<std::__plus, std::_ValArray, std::_Expr, typename _Dom::value_type, _Dom>, typename std::__fun<std::__plus, typename _Dom1::value_type>::result_type> std::operator+(const std::valarray<typename _Dom::value_type>&, const std::_Expr<_Dom1, typename _Dom1::value_type>&)’
-     _DEFINE_EXPR_BINARY_OPERATOR(+, __plus)
-     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/include/c++/8/bits/valarray_after.h:402:5: note:   template argument deduction/substitution failed:
-/main.cpp:201:59: note:   mismatched types ‘const std::_Expr<_Dom1, typename _Dom1::value_type>’ and ‘int’
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                                           ^~~~~
-In file included from /usr/include/x86_64-linux-gnu/c++/8/bits/stdc++.h:95,
-                 from /main.cpp:7:
-/usr/include/c++/8/valarray:1172:1: note: candidate: ‘template<class _Tp> std::_Expr<std::_BinClos<std::__plus, std::_ValArray, std::_ValArray, _Tp, _Tp>, typename std::__fun<std::__plus, _Tp>::result_type> std::operator+(const std::valarray<_Tp>&, const std::valarray<_Tp>&)’
- _DEFINE_BINARY_OPERATOR(+, __plus)
- ^~~~~~~~~~~~~~~~~~~~~~~
-/usr/include/c++/8/valarray:1172:1: note:   template argument deduction/substitution failed:
-/main.cpp:201:59: note:   ‘std::vector<MessagePiece>’ is not derived from ‘const std::valarray<_Tp>’
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                                           ^~~~~
-In file included from /usr/include/x86_64-linux-gnu/c++/8/bits/stdc++.h:95,
-                 from /main.cpp:7:
-/usr/include/c++/8/valarray:1172:1: note: candidate: ‘template<class _Tp> std::_Expr<std::_BinClos<std::__plus, std::_ValArray, std::_Constant, _Tp, _Tp>, typename std::__fun<std::__plus, _Tp>::result_type> std::operator+(const std::valarray<_Tp>&, const _Tp&)’
- _DEFINE_BINARY_OPERATOR(+, __plus)
- ^~~~~~~~~~~~~~~~~~~~~~~
-/usr/include/c++/8/valarray:1172:1: note:   template argument deduction/substitution failed:
-/main.cpp:201:59: note:   ‘std::vector<MessagePiece>’ is not derived from ‘const std::valarray<_Tp>’
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                                           ^~~~~
-In file included from /usr/include/x86_64-linux-gnu/c++/8/bits/stdc++.h:95,
-                 from /main.cpp:7:
-/usr/include/c++/8/valarray:1172:1: note: candidate: ‘template<class _Tp> std::_Expr<std::_BinClos<std::__plus, std::_Constant, std::_ValArray, _Tp, _Tp>, typename std::__fun<std::__plus, _Tp>::result_type> std::operator+(const _Tp&, const std::valarray<_Tp>&)’
- _DEFINE_BINARY_OPERATOR(+, __plus)
- ^~~~~~~~~~~~~~~~~~~~~~~
-/usr/include/c++/8/valarray:1172:1: note:   template argument deduction/substitution failed:
-/main.cpp:201:59: note:   mismatched types ‘const std::valarray<_Tp>’ and ‘int’
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                                           ^~~~~
-In file included from /usr/include/c++/8/bits/stl_algobase.h:67,
-                 from /usr/include/c++/8/bits/char_traits.h:39,
-                 from /usr/include/c++/8/string:40,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/stl_iterator.h:973:5: note: candidate: ‘template<class _Iterator, class _Container> __gnu_cxx::__normal_iterator<_Iterator, _Container> __gnu_cxx::operator+(typename __gnu_cxx::__normal_iterator<_Iterator, _Container>::difference_type, const __gnu_cxx::__normal_iterator<_Iterator, _Container>&)’
-     operator+(typename __normal_iterator<_Iterator, _Container>::difference_type
-     ^~~~~~~~
-/usr/include/c++/8/bits/stl_iterator.h:973:5: note:   template argument deduction/substitution failed:
-/main.cpp:201:59: note:   mismatched types ‘const __gnu_cxx::__normal_iterator<_Iterator, _Container>’ and ‘int’
-         sort(reader.receivedPieces, reader.receivedPieces+meret);
-                                                           ^~~~~
 /main.cpp:203:23: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for(int i=0; i<reader.receivedPieces.size(); i++)
                       ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 /main.cpp:110:9: warning: unused variable ‘befutott’ [-Wunused-variable]
      int befutott=0;
          ^~~~~~~~
+In file included from /usr/include/c++/8/bits/stl_algobase.h:71,
+                 from /usr/include/c++/8/bits/char_traits.h:39,
+                 from /usr/include/c++/8/string:40,
+                 from /usr/include/c++/8/stdexcept:39,
+                 from /usr/include/c++/8/array:39,
+                 from /main.cpp:1:
+/usr/include/c++/8/bits/predefined_ops.h: In instantiation of ‘constexpr bool __gnu_cxx::__ops::_Iter_less_iter::operator()(_Iterator1, _Iterator2) const [with _Iterator1 = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Iterator2 = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >]’:
+/usr/include/c++/8/bits/stl_algo.h:81:17:   required from ‘void std::__move_median_to_first(_Iterator, _Iterator, _Iterator, _Iterator, _Compare) [with _Iterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_less_iter]’
+/usr/include/c++/8/bits/stl_algo.h:1921:34:   required from ‘_RandomAccessIterator std::__unguarded_partition_pivot(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_less_iter]’
+/usr/include/c++/8/bits/stl_algo.h:1953:38:   required from ‘void std::__introsort_loop(_RandomAccessIterator, _RandomAccessIterator, _Size, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Size = long int; _Compare = __gnu_cxx::__ops::_Iter_less_iter]’
+/usr/include/c++/8/bits/stl_algo.h:1968:25:   required from ‘void std::__sort(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_less_iter]’
+/usr/include/c++/8/bits/stl_algo.h:4834:18:   required from ‘void std::sort(_RAIter, _RAIter) [with _RAIter = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >]’
+/main.cpp:201:72:   required from here
+/usr/include/c++/8/bits/predefined_ops.h:43:23: error: no match for ‘operator<’ (operand types are ‘MessagePiece’ and ‘MessagePiece’)
+       { return *__it1 < *__it2; }
+                ~~~~~~~^~~~~~~~
+In file included from /usr/include/c++/8/bits/stl_algobase.h:67,
+                 from /usr/include/c++/8/bits/char_traits.h:39,
+                 from /usr/include/c++/8/string:40,
+                 from /usr/include/c++/8/stdexcept:39,
+                 from /usr/include/c++/8/array:39,
+                 from /main.cpp:1:
+/usr/include/c++/8/bits/stl_iterator.h:892:5: note: candidate: ‘template<class _IteratorL, class _IteratorR, class _Container> bool __gnu_cxx::operator<(const __gnu_cxx::__normal_iterator<_IteratorL, _Container>&, const __gnu_cxx::__normal_iterator<_IteratorR, _Container>&)’
+     operator<(const __normal_iterator<_IteratorL, _Container>& __lhs,
+     ^~~~~~~~
+/usr/include/c++/8/bits/stl_iterator.h:892:5: note:   template argument deduction/substitution failed:
+In file included from /usr/include/c++/8/bits/stl_algobase.h:71,
+                 from /usr/include/c++/8/bits/char_traits.h:39,
+                 from /usr/include/c++/8/string:40,
+                 from /usr/include/c++/8/stdexcept:39,
+                 from /usr/include/c++/8/array:39,
+                 from /main.cpp:1:
+/usr/include/c++/8/bits/predefined_ops.h:43:23: note:   ‘MessagePiece’ is not derived from ‘const __gnu_cxx::__normal_iterator<_IteratorL, _Container>’
+       { return *__it1 < *__it2; }
+                ~~~~~~~^~~~~~~~
+In file included from /usr/include/c++/8/bits/stl_algobase.h:67,
+                 from /usr/include/c++/8/bits/char_traits.h:39,
+                 from /usr/include/c++/8/string:40,
+                 from /usr/include/c++/8/stdexcept:39,
+                 from /usr/include/c++/8/array:39,
+                 from /main.cpp:1:
+/usr/include/c++/8/bits/stl_iterator.h:899:5: note: candidate: ‘template<class _Iterator, class _Container> bool __gnu_cxx::operator<(const __gnu_cxx::__normal_iterator<_Iterator, _Container>&, const __gnu_cxx::__normal_iterator<_Iterator, _Container>&)’
+     operator<(const __normal_iterator<_Iterator, _Container>& __lhs,
+     ^~~~~~~~
+/usr/include/c++/8/bits/stl_iterator.h:899:5: note:   template argument deduction/substitution failed:
+In file included from /usr/include/c++/8/bits/stl_algobase.h:71,
+                 from /usr/include/c++/8/bits/char_traits.h:39,
+                 from /usr/include/c++/8/string:40,
+                 from /usr/include/c++/8/stdexcept:39,
+                 from /usr/include/c++/8/array:39,
+                 from /main.cpp:1:
+/usr/include/c++/8/bits/predefined_ops.h:43:23: note:   ‘MessagePiece’ is not derived from ‘const __gnu_cxx::__normal_iterator<_Iterator, _Container>’
+       { return *__it1 < *__it2; }
+                ~~~~~~~^~~~~~~~
+/usr/include/c++/8/bits/predefined_ops.h: In instantiation of ‘bool __gnu_cxx::__ops::_Val_less_iter::operator()(_Value&, _Iterator) const [with _Value = MessagePiece; _Iterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >]’:
+/usr/include/c++/8/bits/stl_algo.h:1828:20:   required from ‘void std::__unguarded_linear_insert(_RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Val_less_iter]’
+/usr/include/c++/8/bits/stl_algo.h:1855:36:   required from ‘void std::__insertion_sort(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_less_iter]’
+/usr/include/c++/8/bits/stl_algo.h:1885:25:   required from ‘void std::__final_insertion_sort(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_less_iter]’
+/usr/include/c++/8/bits/stl_algo.h:1971:31:   required from ‘void std::__sort(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_less_iter]’
+/usr/include/c++/8/bits/stl_algo.h:4834:18:   required from ‘void std::sort(_RAIter, _RAIter) [with _RAIter = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >]’
+/main.cpp:201:72:   required from here
+/usr/include/c++/8/bits/predefined_ops.h:90:22: error: no match for ‘operator<’ (operand types are ‘MessagePiece’ and ‘MessagePiece’)
+       { return __val < *__it; }
+                ~~~~~~^~~~~~~
+In file included from /usr/include/c++/8/bits/stl_algobase.h:67,
+                 from /usr/include/c++/8/bits/char_traits.h:39,
+                 from /usr/include/c++/8/string:40,
+                 from /usr/include/c++/8/stdexcept:39,
+                 from /usr/include/c++/8/array:39,
+                 from /main.cpp:1:
+/usr/include/c++/8/bits/stl_iterator.h:892:5: note: candidate: ‘template<class _IteratorL, class _IteratorR, class _Container> bool __gnu_cxx::operator<(const __gnu_cxx::__normal_iterator<_IteratorL, _Container>&, const __gnu_cxx::__normal_iterator<_IteratorR, _Container>&)’
+     operator<(const __normal_iterator<_IteratorL, _Container>& __lhs,
+     ^~~~~~~~
+/usr/include/c++/8/bits/stl_iterator.h:892:5: note:   template argument deduction/substitution failed:
+In file included from /usr/include/c++/8/bits/stl_algobase.h:71,
+                 from /usr/include/c++/8/bits/char_traits.h:39,
+                 from /usr/include/c++/8/string:40,
+                 from /usr/include/c++/8/stdexcept:39,
+                 from /usr/include/c++/8/array:39,
+                 from /main.cpp:1:
+/usr/include/c++/8/bits/predefined_ops.h:90:22: note:   ‘MessagePiece’ is not derived from ‘const __gnu_cxx::__normal_iterator<_IteratorL, _Container>’
+       { return __val < *__it; }
+                ~~~~~~^~~~~~~
+In file included from /usr/include/c++/8/bits/stl_algobase.h:67,
+                 from /usr/include/c++/8/bits/char_traits.h:39,
+                 from /usr/include/c++/8/string:40,
+                 from /usr/include/c++/8/stdexcept:39,
+                 from /usr/include/c++/8/array:39,
+                 from /main.cpp:1:
+/usr/include/c++/8/bits/stl_iterator.h:899:5: note: candidate: ‘template<class _Iterator, class _Container> bool __gnu_cxx::operator<(const __gnu_cxx::__normal_iterator<_Iterator, _Container>&, const __gnu_cxx::__normal_iterator<_Iterator, _Container>&)’
+     operator<(const __normal_iterator<_Iterator, _Container>& __lhs,
+     ^~~~~~~~
+/usr/include/c++/8/bits/stl_iterator.h:899:5: note:   template argument deduction/substitution failed:
+In file included from /usr/include/c++/8/bits/stl_algobase.h:71,
+                 from /usr/include/c++/8/bits/char_traits.h:39,
+                 from /usr/include/c++/8/string:40,
+                 from /usr/include/c++/8/stdexcept:39,
+                 from /usr/include/c++/8/array:39,
+                 from /main.cpp:1:
+/usr/include/c++/8/bits/predefined_ops.h:90:22: note:   ‘MessagePiece’ is not derived from ‘const __gnu_cxx::__normal_iterator<_Iterator, _Container>’
+       { return __val < *__it; }
+                ~~~~~~^~~~~~~
+/usr/include/c++/8/bits/predefined_ops.h: In instantiation of ‘bool __gnu_cxx::__ops::_Iter_less_val::operator()(_Iterator, _Value&) const [with _Iterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Value = MessagePiece]’:
+/usr/include/c++/8/bits/stl_heap.h:133:48:   required from ‘void std::__push_heap(_RandomAccessIterator, _Distance, _Distance, _Tp, _Compare&) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Distance = long int; _Tp = MessagePiece; _Compare = __gnu_cxx::__ops::_Iter_less_val]’
+/usr/include/c++/8/bits/stl_heap.h:237:23:   required from ‘void std::__adjust_heap(_RandomAccessIterator, _Distance, _Distance, _Tp, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Distance = long int; _Tp = MessagePiece; _Compare = __gnu_cxx::__ops::_Iter_less_iter]’
+/usr/include/c++/8/bits/stl_heap.h:342:22:   required from ‘void std::__make_heap(_RandomAccessIterator, _RandomAccessIterator, _Compare&) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_less_iter]’
+/usr/include/c++/8/bits/stl_algo.h:1672:23:   required from ‘void std::__heap_select(_RandomAccessIterator, _RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_less_iter]’
+/usr/include/c++/8/bits/stl_algo.h:1933:25:   required from ‘void std::__partial_sort(_RandomAccessIterator, _RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_less_iter]’
+/usr/include/c++/8/bits/stl_algo.h:1948:27:   required from ‘void std::__introsort_loop(_RandomAccessIterator, _RandomAccessIterator, _Size, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Size = long int; _Compare = __gnu_cxx::__ops::_Iter_less_iter]’
+/usr/include/c++/8/bits/stl_algo.h:1968:25:   required from ‘void std::__sort(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_less_iter]’
+/usr/include/c++/8/bits/stl_algo.h:4834:18:   required from ‘void std::sort(_RAIter, _RAIter) [with _RAIter = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >]’
+/main.cpp:201:72:   required from here
+/usr/include/c++/8/bits/predefined_ops.h:65:22: error: no match for ‘operator<’ (operand types are ‘MessagePiece’ and ‘MessagePiece’)
+       { return *__it < __val; }
+                ~~~~~~^~~~~~~
+In file included from /usr/include/c++/8/bits/stl_algobase.h:67,
+                 from /usr/include/c++/8/bits/char_traits.h:39,
+                 from /usr/include/c++/8/string:40,
+                 from /usr/include/c++/8/stdexcept:39,
+                 from /usr/include/c++/8/array:39,
+                 from /main.cpp:1:
+/usr/include/c++/8/bits/stl_iterator.h:892:5: note: candidate: ‘template<class _IteratorL, class _IteratorR, class _Container> bool __gnu_cxx::operator<(const __gnu_cxx::__normal_iterator<_IteratorL, _Container>&, const __gnu_cxx::__normal_iterator<_IteratorR, _Container>&)’
+     operator<(const __normal_iterator<_IteratorL, _Container>& __lhs,
+     ^~~~~~~~
+/usr/include/c++/8/bits/stl_iterator.h:892:5: note:   template argument deduction/substitution failed:
+In file included from /usr/include/c++/8/bits/stl_algobase.h:71,
+                 from /usr/include/c++/8/bits/char_traits.h:39,
+                 from /usr/include/c++/8/string:40,
+                 from /usr/include/c++/8/stdexcept:39,
+                 from /usr/include/c++/8/array:39,
+                 from /main.cpp:1:
+/usr/include/c++/8/bits/predefined_ops.h:65:22: note:   ‘MessagePiece’ is not derived from ‘const __gnu_cxx::__normal_iterator<_IteratorL, _Container>’
+       { return *__it < __val; }
+                ~~~~~~^~~~~~~
+In file included from /usr/include/c++/8/bits/stl_algobase.h:67,
+                 from /usr/include/c++/8/bits/char_traits.h:39,
+                 from /usr/include/c++/8/string:40,
+                 from /usr/include/c++/8/stdexcept:39,
+                 from /usr/include/c++/8/array:39,
+                 from /main.cpp:1:
+/usr/include/c++/8/bits/stl_iterator.h:899:5: note: candidate: ‘template<class _Iterator, class _Container> bool __gnu_cxx::operator<(const __gnu_cxx::__normal_iterator<_Iterator, _Container>&, const __gnu_cxx::__normal_iterator<_Iterator, _Container>&)’
+     operator<(const __normal_iterator<_Iterator, _Container>& __lhs,
+     ^~~~~~~~
+/usr/include/c++/8/bits/stl_iterator.h:899:5: note:   template argument deduction/substitution failed:
+In file included from /usr/include/c++/8/bits/stl_algobase.h:71,
+                 from /usr/include/c++/8/bits/char_traits.h:39,
+                 from /usr/include/c++/8/string:40,
+                 from /usr/include/c++/8/stdexcept:39,
+                 from /usr/include/c++/8/array:39,
+                 from /main.cpp:1:
+/usr/include/c++/8/bits/predefined_ops.h:65:22: note:   ‘MessagePiece’ is not derived from ‘const __gnu_cxx::__normal_iterator<_Iterator, _Container>’
+       { return *__it < __val; }
+                ~~~~~~^~~~~~~
