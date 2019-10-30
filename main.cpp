@@ -33,7 +33,7 @@ struct Reader
     std::string previous;
     std::array<std::array<bool, 10>, 14> routerBits;
     std::vector<Data> dataArray;
-    std::vector<MessagePiece> receivedPieces;
+    std::vector<MessagePiece> receivedPieces; ///letarolando, rendezendo
     bool hasEnd;
 };
 
@@ -105,6 +105,7 @@ int main()
     char teamToken[] = "tqEzVLvbq6wz_uWr6HS1";
      int seed = 0;
     int n=0;
+    int z=0;
     std::cout << "START " << teamToken
                << " " << seed
               << std::endl;
@@ -121,18 +122,22 @@ int main()
             break;
 
         // TODO logika jobb mint a semmitteves
-        for(int i=0; i<9; i++)
+        if(dataArray.size()<5)
         {
-            if(reader.routerBits[3][i]==1)
-            {
-                command= "CREATE ";
-                command=command+std::to_string(i)+" "+std::to_string(n);
-                n++;
-                break;
-            }
             
-        }
         
+                for(int i=0; i<9; i++)
+                {
+                    if(reader.routerBits[3][i]==1)
+                    {
+                        command= "CREATE ";
+                        command=command+std::to_string(i)+" "+std::to_string(n);
+                        n++;
+                        break;
+                    }
+                    
+                }
+        }
         
         // Ha szeretnetek debug uzenetet kuldeni, akkor megtehetitek.
         // Vigyazzatok, mert maximalisan csak 1024 * 1024 bajtot kaptok vissza
