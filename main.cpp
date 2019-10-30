@@ -3,7 +3,7 @@
 #include <vector>
 #include <iostream>
 #include <sstream>
-
+#include <cstring>
 enum class Direction : char
 {
     LEFT = 'l',
