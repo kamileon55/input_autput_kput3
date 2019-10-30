@@ -182,10 +182,11 @@ int main()
         
             
             std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
-            std::cout << "SOLUTION "<<solution;
+            
         
         
         
     }
+    std::cout << "SOLUTION "<<solution;
     std::cerr << "END (latest message): " << reader.previous << std::endl;
 }
