@@ -1,162 +1,48 @@
+/main.cpp: In function ‘void bubbleSort(int*, int)’:
+/main.cpp:49:13: error: ‘swap’ was not declared in this scope
+             swap(&arr[j], &arr[j+1]);
+             ^~~~
+/main.cpp:49:13: note: suggested alternatives:
+In file included from /usr/include/c++/8/regex:62,
+                 from /usr/include/x86_64-linux-gnu/c++/8/bits/stdc++.h:110,
+                 from /main.cpp:7:
+/usr/include/c++/8/bits/regex.h:1995:5: note:   ‘std::__cxx11::swap’
+     swap(match_results<_Bi_iter, _Alloc>& __lhs,
+     ^~~~
+In file included from /usr/include/c++/8/bits/stl_pair.h:59,
+                 from /usr/include/c++/8/utility:70,
+                 from /usr/include/c++/8/array:38,
+                 from /main.cpp:1:
+/usr/include/c++/8/bits/move.h:182:5: note:   ‘std::swap’
+     swap(_Tp& __a, _Tp& __b)
+     ^~~~
+/usr/include/c++/8/bits/move.h:182:5: note:   ‘std::swap’
+In file included from /usr/include/c++/8/exception:143,
+                 from /usr/include/c++/8/stdexcept:38,
+                 from /usr/include/c++/8/array:39,
+                 from /main.cpp:1:
+/usr/include/c++/8/bits/exception_ptr.h:166:5: note:   ‘std::__exception_ptr::swap’
+     swap(exception_ptr& __lhs, exception_ptr& __rhs)
+     ^~~~
+In file included from /usr/include/c++/8/filesystem:37,
+                 from /usr/include/x86_64-linux-gnu/c++/8/bits/stdc++.h:127,
+                 from /main.cpp:7:
+/usr/include/c++/8/bits/fs_path.h:523:15: note:   ‘std::filesystem::__cxx11::swap’
+   inline void swap(path& __lhs, path& __rhs) noexcept { __lhs.swap(__rhs); }
+               ^~~~
 /main.cpp: In function ‘int main()’:
-/main.cpp:149:49: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
+/main.cpp:164:49: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
                  if(reader.dataArray[i].dataIndex<min)
-/main.cpp:203:23: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:201:20: error: ‘receivedPieces’ was not declared in this scope
+     for(int i=0; i<receivedPieces.size()-1; i++)
+                    ^~~~~~~~~~~~~~
+/main.cpp:201:20: note: suggested alternative: ‘MessagePiece’
+     for(int i=0; i<receivedPieces.size()-1; i++)
+                    ^~~~~~~~~~~~~~
+                    MessagePiece
+/main.cpp:230:23: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for(int i=0; i<reader.receivedPieces.size(); i++)
                       ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:110:9: warning: unused variable ‘befutott’ [-Wunused-variable]
+/main.cpp:125:9: warning: unused variable ‘befutott’ [-Wunused-variable]
      int befutott=0;
          ^~~~~~~~
-In file included from /usr/include/c++/8/bits/stl_algobase.h:71,
-                 from /usr/include/c++/8/bits/char_traits.h:39,
-                 from /usr/include/c++/8/string:40,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/predefined_ops.h: In instantiation of ‘constexpr bool __gnu_cxx::__ops::_Iter_less_iter::operator()(_Iterator1, _Iterator2) const [with _Iterator1 = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Iterator2 = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >]’:
-/usr/include/c++/8/bits/stl_algo.h:81:17:   required from ‘void std::__move_median_to_first(_Iterator, _Iterator, _Iterator, _Iterator, _Compare) [with _Iterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_less_iter]’
-/usr/include/c++/8/bits/stl_algo.h:1921:34:   required from ‘_RandomAccessIterator std::__unguarded_partition_pivot(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_less_iter]’
-/usr/include/c++/8/bits/stl_algo.h:1953:38:   required from ‘void std::__introsort_loop(_RandomAccessIterator, _RandomAccessIterator, _Size, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Size = long int; _Compare = __gnu_cxx::__ops::_Iter_less_iter]’
-/usr/include/c++/8/bits/stl_algo.h:1968:25:   required from ‘void std::__sort(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_less_iter]’
-/usr/include/c++/8/bits/stl_algo.h:4834:18:   required from ‘void std::sort(_RAIter, _RAIter) [with _RAIter = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >]’
-/main.cpp:201:72:   required from here
-/usr/include/c++/8/bits/predefined_ops.h:43:23: error: no match for ‘operator<’ (operand types are ‘MessagePiece’ and ‘MessagePiece’)
-       { return *__it1 < *__it2; }
-                ~~~~~~~^~~~~~~~
-In file included from /usr/include/c++/8/bits/stl_algobase.h:67,
-                 from /usr/include/c++/8/bits/char_traits.h:39,
-                 from /usr/include/c++/8/string:40,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/stl_iterator.h:892:5: note: candidate: ‘template<class _IteratorL, class _IteratorR, class _Container> bool __gnu_cxx::operator<(const __gnu_cxx::__normal_iterator<_IteratorL, _Container>&, const __gnu_cxx::__normal_iterator<_IteratorR, _Container>&)’
-     operator<(const __normal_iterator<_IteratorL, _Container>& __lhs,
-     ^~~~~~~~
-/usr/include/c++/8/bits/stl_iterator.h:892:5: note:   template argument deduction/substitution failed:
-In file included from /usr/include/c++/8/bits/stl_algobase.h:71,
-                 from /usr/include/c++/8/bits/char_traits.h:39,
-                 from /usr/include/c++/8/string:40,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/predefined_ops.h:43:23: note:   ‘MessagePiece’ is not derived from ‘const __gnu_cxx::__normal_iterator<_IteratorL, _Container>’
-       { return *__it1 < *__it2; }
-                ~~~~~~~^~~~~~~~
-In file included from /usr/include/c++/8/bits/stl_algobase.h:67,
-                 from /usr/include/c++/8/bits/char_traits.h:39,
-                 from /usr/include/c++/8/string:40,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/stl_iterator.h:899:5: note: candidate: ‘template<class _Iterator, class _Container> bool __gnu_cxx::operator<(const __gnu_cxx::__normal_iterator<_Iterator, _Container>&, const __gnu_cxx::__normal_iterator<_Iterator, _Container>&)’
-     operator<(const __normal_iterator<_Iterator, _Container>& __lhs,
-     ^~~~~~~~
-/usr/include/c++/8/bits/stl_iterator.h:899:5: note:   template argument deduction/substitution failed:
-In file included from /usr/include/c++/8/bits/stl_algobase.h:71,
-                 from /usr/include/c++/8/bits/char_traits.h:39,
-                 from /usr/include/c++/8/string:40,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/predefined_ops.h:43:23: note:   ‘MessagePiece’ is not derived from ‘const __gnu_cxx::__normal_iterator<_Iterator, _Container>’
-       { return *__it1 < *__it2; }
-                ~~~~~~~^~~~~~~~
-/usr/include/c++/8/bits/predefined_ops.h: In instantiation of ‘bool __gnu_cxx::__ops::_Val_less_iter::operator()(_Value&, _Iterator) const [with _Value = MessagePiece; _Iterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >]’:
-/usr/include/c++/8/bits/stl_algo.h:1828:20:   required from ‘void std::__unguarded_linear_insert(_RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Val_less_iter]’
-/usr/include/c++/8/bits/stl_algo.h:1855:36:   required from ‘void std::__insertion_sort(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_less_iter]’
-/usr/include/c++/8/bits/stl_algo.h:1885:25:   required from ‘void std::__final_insertion_sort(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_less_iter]’
-/usr/include/c++/8/bits/stl_algo.h:1971:31:   required from ‘void std::__sort(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_less_iter]’
-/usr/include/c++/8/bits/stl_algo.h:4834:18:   required from ‘void std::sort(_RAIter, _RAIter) [with _RAIter = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >]’
-/main.cpp:201:72:   required from here
-/usr/include/c++/8/bits/predefined_ops.h:90:22: error: no match for ‘operator<’ (operand types are ‘MessagePiece’ and ‘MessagePiece’)
-       { return __val < *__it; }
-                ~~~~~~^~~~~~~
-In file included from /usr/include/c++/8/bits/stl_algobase.h:67,
-                 from /usr/include/c++/8/bits/char_traits.h:39,
-                 from /usr/include/c++/8/string:40,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/stl_iterator.h:892:5: note: candidate: ‘template<class _IteratorL, class _IteratorR, class _Container> bool __gnu_cxx::operator<(const __gnu_cxx::__normal_iterator<_IteratorL, _Container>&, const __gnu_cxx::__normal_iterator<_IteratorR, _Container>&)’
-     operator<(const __normal_iterator<_IteratorL, _Container>& __lhs,
-     ^~~~~~~~
-/usr/include/c++/8/bits/stl_iterator.h:892:5: note:   template argument deduction/substitution failed:
-In file included from /usr/include/c++/8/bits/stl_algobase.h:71,
-                 from /usr/include/c++/8/bits/char_traits.h:39,
-                 from /usr/include/c++/8/string:40,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/predefined_ops.h:90:22: note:   ‘MessagePiece’ is not derived from ‘const __gnu_cxx::__normal_iterator<_IteratorL, _Container>’
-       { return __val < *__it; }
-                ~~~~~~^~~~~~~
-In file included from /usr/include/c++/8/bits/stl_algobase.h:67,
-                 from /usr/include/c++/8/bits/char_traits.h:39,
-                 from /usr/include/c++/8/string:40,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/stl_iterator.h:899:5: note: candidate: ‘template<class _Iterator, class _Container> bool __gnu_cxx::operator<(const __gnu_cxx::__normal_iterator<_Iterator, _Container>&, const __gnu_cxx::__normal_iterator<_Iterator, _Container>&)’
-     operator<(const __normal_iterator<_Iterator, _Container>& __lhs,
-     ^~~~~~~~
-/usr/include/c++/8/bits/stl_iterator.h:899:5: note:   template argument deduction/substitution failed:
-In file included from /usr/include/c++/8/bits/stl_algobase.h:71,
-                 from /usr/include/c++/8/bits/char_traits.h:39,
-                 from /usr/include/c++/8/string:40,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/predefined_ops.h:90:22: note:   ‘MessagePiece’ is not derived from ‘const __gnu_cxx::__normal_iterator<_Iterator, _Container>’
-       { return __val < *__it; }
-                ~~~~~~^~~~~~~
-/usr/include/c++/8/bits/predefined_ops.h: In instantiation of ‘bool __gnu_cxx::__ops::_Iter_less_val::operator()(_Iterator, _Value&) const [with _Iterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Value = MessagePiece]’:
-/usr/include/c++/8/bits/stl_heap.h:133:48:   required from ‘void std::__push_heap(_RandomAccessIterator, _Distance, _Distance, _Tp, _Compare&) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Distance = long int; _Tp = MessagePiece; _Compare = __gnu_cxx::__ops::_Iter_less_val]’
-/usr/include/c++/8/bits/stl_heap.h:237:23:   required from ‘void std::__adjust_heap(_RandomAccessIterator, _Distance, _Distance, _Tp, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Distance = long int; _Tp = MessagePiece; _Compare = __gnu_cxx::__ops::_Iter_less_iter]’
-/usr/include/c++/8/bits/stl_heap.h:342:22:   required from ‘void std::__make_heap(_RandomAccessIterator, _RandomAccessIterator, _Compare&) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_less_iter]’
-/usr/include/c++/8/bits/stl_algo.h:1672:23:   required from ‘void std::__heap_select(_RandomAccessIterator, _RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_less_iter]’
-/usr/include/c++/8/bits/stl_algo.h:1933:25:   required from ‘void std::__partial_sort(_RandomAccessIterator, _RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_less_iter]’
-/usr/include/c++/8/bits/stl_algo.h:1948:27:   required from ‘void std::__introsort_loop(_RandomAccessIterator, _RandomAccessIterator, _Size, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Size = long int; _Compare = __gnu_cxx::__ops::_Iter_less_iter]’
-/usr/include/c++/8/bits/stl_algo.h:1968:25:   required from ‘void std::__sort(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_less_iter]’
-/usr/include/c++/8/bits/stl_algo.h:4834:18:   required from ‘void std::sort(_RAIter, _RAIter) [with _RAIter = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >]’
-/main.cpp:201:72:   required from here
-/usr/include/c++/8/bits/predefined_ops.h:65:22: error: no match for ‘operator<’ (operand types are ‘MessagePiece’ and ‘MessagePiece’)
-       { return *__it < __val; }
-                ~~~~~~^~~~~~~
-In file included from /usr/include/c++/8/bits/stl_algobase.h:67,
-                 from /usr/include/c++/8/bits/char_traits.h:39,
-                 from /usr/include/c++/8/string:40,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/stl_iterator.h:892:5: note: candidate: ‘template<class _IteratorL, class _IteratorR, class _Container> bool __gnu_cxx::operator<(const __gnu_cxx::__normal_iterator<_IteratorL, _Container>&, const __gnu_cxx::__normal_iterator<_IteratorR, _Container>&)’
-     operator<(const __normal_iterator<_IteratorL, _Container>& __lhs,
-     ^~~~~~~~
-/usr/include/c++/8/bits/stl_iterator.h:892:5: note:   template argument deduction/substitution failed:
-In file included from /usr/include/c++/8/bits/stl_algobase.h:71,
-                 from /usr/include/c++/8/bits/char_traits.h:39,
-                 from /usr/include/c++/8/string:40,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/predefined_ops.h:65:22: note:   ‘MessagePiece’ is not derived from ‘const __gnu_cxx::__normal_iterator<_IteratorL, _Container>’
-       { return *__it < __val; }
-                ~~~~~~^~~~~~~
-In file included from /usr/include/c++/8/bits/stl_algobase.h:67,
-                 from /usr/include/c++/8/bits/char_traits.h:39,
-                 from /usr/include/c++/8/string:40,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/stl_iterator.h:899:5: note: candidate: ‘template<class _Iterator, class _Container> bool __gnu_cxx::operator<(const __gnu_cxx::__normal_iterator<_Iterator, _Container>&, const __gnu_cxx::__normal_iterator<_Iterator, _Container>&)’
-     operator<(const __normal_iterator<_Iterator, _Container>& __lhs,
-     ^~~~~~~~
-/usr/include/c++/8/bits/stl_iterator.h:899:5: note:   template argument deduction/substitution failed:
-In file included from /usr/include/c++/8/bits/stl_algobase.h:71,
-                 from /usr/include/c++/8/bits/char_traits.h:39,
-                 from /usr/include/c++/8/string:40,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/predefined_ops.h:65:22: note:   ‘MessagePiece’ is not derived from ‘const __gnu_cxx::__normal_iterator<_Iterator, _Container>’
-       { return *__it < __val; }
-                ~~~~~~^~~~~~~
