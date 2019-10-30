@@ -184,9 +184,9 @@ int main()
             {
                 if (reader.receivedPieces[j].index < reader.receivedPieces[i].index)
                 {
-                    int cser=reader.receivedPieces[j].index;
-                    reader.receivedPieces[j].index=reader.receivedPieces[i].index;
-                    reader.receivedPieces[i].index=cser;
+                    MessagePiece cser=reader.receivedPieces[j];
+                    reader.receivedPieces[j]=reader.receivedPieces[i];
+                    reader.receivedPieces[i]=cser;
                 }
             }
         }
