@@ -1,13 +1,30 @@
 /main.cpp: In function ‘int main()’:
 /main.cpp:148:49: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
                  if(reader.dataArray[i].dataIndex<min)
-/main.cpp:186:23: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
-         for(int i=0; i<reader.receivedPieces.size(); i++)
-                      ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:188:33: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
-                 for(int j=i+1; j<reader.receivedPieces.size(); j++)
-                                ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:199:23: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:199:26: error: ‘struct Reader’ has no member named ‘recivedPieces’; did you mean ‘receivedPieces’?
+         int meret=reader.recivedPieces.size()/reader.recivedPeaces[0];
+                          ^~~~~~~~~~~~~
+                          receivedPieces
+/main.cpp:199:54: error: ‘struct Reader’ has no member named ‘recivedPeaces’; did you mean ‘receivedPieces’?
+         int meret=reader.recivedPieces.size()/reader.recivedPeaces[0];
+                                                      ^~~~~~~~~~~~~
+                                                      receivedPieces
+/main.cpp:200:21: error: ‘struct Reader’ has no member named ‘recivedPieces’; did you mean ‘receivedPieces’?
+         sort(reader.recivedPieces, reader.recivedPieces+meret);
+                     ^~~~~~~~~~~~~
+                     receivedPieces
+/main.cpp:200:43: error: ‘struct Reader’ has no member named ‘recivedPieces’; did you mean ‘receivedPieces’?
+         sort(reader.recivedPieces, reader.recivedPieces+meret);
+                                           ^~~~~~~~~~~~~
+                                           receivedPieces
+/main.cpp:200:9: error: ‘sort’ was not declared in this scope
+         sort(reader.recivedPieces, reader.recivedPieces+meret);
+         ^~~~
+/main.cpp:200:9: note: suggested alternative: ‘qsort’
+         sort(reader.recivedPieces, reader.recivedPieces+meret);
+         ^~~~
+         qsort
+/main.cpp:202:23: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for(int i=0; i<reader.receivedPieces.size(); i++)
                       ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 /main.cpp:109:9: warning: unused variable ‘befutott’ [-Wunused-variable]
