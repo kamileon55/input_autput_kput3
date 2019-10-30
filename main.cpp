@@ -138,13 +138,15 @@ int main()
         
         if(n%2==0)
         {
+            
             std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << n << std::endl;
+            n++;
         }
         if(n%2!=0)
         {
            std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << "^"<< std::endl;
         }
-        n++;
+        
     }
     std::cerr << "END (latest message): " << reader.previous << std::endl;
 }
