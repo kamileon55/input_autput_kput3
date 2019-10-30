@@ -157,7 +157,7 @@ int main()
         }
         for(int i=0; i<reader.receivedPieces.size(); i++)
         {
-            for(j=i+1; j<reader.receivedPieces.size(); j++)
+            for(int j=i+1; j<reader.receivedPieces.size(); j++)
             {
                 if (reader.receivedPieces[j]<reader.receivedPieces[i])
                 {
