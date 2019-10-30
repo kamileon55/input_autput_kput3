@@ -122,7 +122,7 @@ int main()
             break;
 
         // TODO logika jobb mint a semmitteves
-        if(dataArray.size()<5)
+        if(reader.dataArray.size()<5)
         {
             
         
