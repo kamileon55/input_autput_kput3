@@ -111,23 +111,23 @@ int main()
 
     Reader reader = {};
     
-   
+   std::string command;
     
     while(true)
     {
         readData(reader);
-
+        
         if (reader.hasEnd)
             break;
 
         // TODO logika jobb mint a semmitteves
         if(n%2==0)
         {
-            std::string command = "CREATE 1 ";
+             command = "CREATE 1 ";
         }
         if(n%2!=0)
         {
-            std::string command = "MOVE 1 ";
+             command = "MOVE 1 ";
         }
         
         // Ha szeretnetek debug uzenetet kuldeni, akkor megtehetitek.
@@ -138,7 +138,7 @@ int main()
         
         if(n%2==0)
         {
-            std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << n<< std::endl;
+            std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << n << std::endl;
         }
         if(n%2!=0)
         {
