@@ -131,10 +131,7 @@ int main()
             }
             
         }
-        if(n%2!=0)
-        {
-             command = "MOVE 1 ";
-        }
+        
         
         // Ha szeretnetek debug uzenetet kuldeni, akkor megtehetitek.
         // Vigyazzatok, mert maximalisan csak 1024 * 1024 bajtot kaptok vissza
@@ -142,16 +139,12 @@ int main()
 
         // standard out-ra meg mehet ki a megoldas! Mas ne irodjon ide ki ;)
         
-        if(n%2==0)
-        {
+        
             
             std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
             n++;
-        }
-        if(n%2!=0)
-        {
-           std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << "^"<< std::endl;
-        }
+        
+        
         
     }
     std::cerr << "END (latest message): " << reader.previous << std::endl;
