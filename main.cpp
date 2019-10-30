@@ -143,11 +143,12 @@ int main()
             int min=1000;
             for(int i=0; i<5; i++)
             {
-                if(reader.receivedPieces.index<min)
+                if(reader.dataArray[i].dataIndex<min)
                 {
-                    min=reader.dataArray[i].index;
+                    min=reader.dataArray[i].dataIndex;
                     command= "MOVE ";
                         command=command+std::to_string(reader.dataArray[i].currRouter)+" "+"^";
+                        break;
                 }
                 
             }
