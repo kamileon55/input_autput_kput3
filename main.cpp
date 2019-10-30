@@ -138,6 +138,22 @@ int main()
                     
                 }
         }
+        else
+        {
+            int min=1000;
+            for(int i=0; i<5; i++)
+            {
+                if(reader.receivedPieces.index<min)
+                {
+                    min=reader.dataArray[i].index;
+                    command= "MOVE ";
+                        command=command+std::to_string(reader.dataArray[i].currRouter)+" "+"^";
+                }
+                
+            }
+            
+            
+        }
         
         // Ha szeretnetek debug uzenetet kuldeni, akkor megtehetitek.
         // Vigyazzatok, mert maximalisan csak 1024 * 1024 bajtot kaptok vissza
