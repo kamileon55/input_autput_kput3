@@ -196,7 +196,7 @@ int main()
                 }
         }
         */
-        int meret=reader.receivedPieces.size()/reader.receivedPieces[0];
+        int meret=reader.receivedPieces.size()/reader.receivedPieces[0].size();
         sort(reader.receivedPieces, reader.receivedPieces+meret); 
         std::cerr<<"Belelep"<<std::endl;
         for(int i=0; i<reader.receivedPieces.size(); i++)
