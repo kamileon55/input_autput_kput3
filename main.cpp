@@ -155,7 +155,18 @@ int main()
             
             
         }
-        
+        for(int i=0; i<reader.receivedPieces.size(); i++)
+        {
+            for(j=i+1; j<reader.receivedPieces.size(); j++)
+            {
+                if (reader.receivedPieces[j]<reader.receivedPieces[i])
+                {
+                    int cser=reader.receivedPieces[j];
+                    reader.receivedPieces[j]=reader.receivedPieces[i];
+                    reader.receivedPieces[i]=cser;
+                }
+            }
+        }
         // Ha szeretnetek debug uzenetet kuldeni, akkor megtehetitek.
         // Vigyazzatok, mert maximalisan csak 1024 * 1024 bajtot kaptok vissza
         std::cerr << "Send " << command << std::endl;
