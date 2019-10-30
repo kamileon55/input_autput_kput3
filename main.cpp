@@ -159,7 +159,7 @@ int main()
         {
             for(int j=i+1; j<reader.receivedPieces.size(); j++)
             {
-                if (reader.receivedPieces[j]<reader.receivedPieces[i])
+                if (reader.receivedPieces[j] < reader.receivedPieces[i])
                 {
                     int cser=reader.receivedPieces[j];
                     reader.receivedPieces[j]=reader.receivedPieces[i];
