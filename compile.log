@@ -7,8 +7,8 @@
 /main.cpp:160:29: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
              for(int j=i+1; j<reader.receivedPieces.size(); j++)
                             ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:162:45: error: no match for ‘operator<’ (operand types are ‘__gnu_cxx::__alloc_traits<std::allocator<MessagePiece>, MessagePiece>::value_type’ {aka ‘MessagePiece’} and ‘__gnu_cxx::__alloc_traits<std::allocator<MessagePiece>, MessagePiece>::value_type’ {aka ‘MessagePiece’})
-                 if (reader.receivedPieces[j]<reader.receivedPieces[i])
+/main.cpp:162:46: error: no match for ‘operator<’ (operand types are ‘__gnu_cxx::__alloc_traits<std::allocator<MessagePiece>, MessagePiece>::value_type’ {aka ‘MessagePiece’} and ‘__gnu_cxx::__alloc_traits<std::allocator<MessagePiece>, MessagePiece>::value_type’ {aka ‘MessagePiece’})
+                 if (reader.receivedPieces[j] < reader.receivedPieces[i])
 /main.cpp:164:53: error: cannot convert ‘__gnu_cxx::__alloc_traits<std::allocator<MessagePiece>, MessagePiece>::value_type’ {aka ‘MessagePiece’} to ‘int’ in initialization
                      int cser=reader.receivedPieces[j];
                                                      ^
