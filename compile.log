@@ -1,6 +1,21 @@
 /main.cpp: In function ‘int main()’:
 /main.cpp:146:49: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
                  if(reader.dataArray[i].dataIndex<min)
+/main.cpp:158:23: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+         for(int i=0; i<reader.receivedPieces.size(); i++)
+                      ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/main.cpp:160:17: error: ‘j’ was not declared in this scope
+             for(j=i+1; j<reader.receivedPieces.size(); j++)
+                 ^
+/main.cpp:166:46: error: no match for ‘operator=’ (operand types are ‘__gnu_cxx::__alloc_traits<std::allocator<MessagePiece>, MessagePiece>::value_type’ {aka ‘MessagePiece’} and ‘int’)
+                     reader.receivedPieces[i]=cser;
+                                              ^~~~
+/main.cpp:24:8: note: candidate: ‘MessagePiece& MessagePiece::operator=(const MessagePiece&)’
+ struct MessagePiece
+        ^~~~~~~~~~~~
+/main.cpp:24:8: note:   no known conversion for argument 1 from ‘int’ to ‘const MessagePiece&’
+/main.cpp:24:8: note: candidate: ‘MessagePiece& MessagePiece::operator=(MessagePiece&&)’
+/main.cpp:24:8: note:   no known conversion for argument 1 from ‘int’ to ‘MessagePiece&&’
 /main.cpp:108:9: warning: unused variable ‘z’ [-Wunused-variable]
      int z=0;
          ^
