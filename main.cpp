@@ -126,7 +126,7 @@ int main()
             if(reader.routerBits[3][i]==1)
             {
                 command= "CREATE ";
-                command=command+std::to_string(i)+std::to_string(n);
+                command=command+std::to_string(i)+" "+std::to_string(n);
                 break;
             }
             
