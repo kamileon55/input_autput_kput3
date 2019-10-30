@@ -1,10 +1,6 @@
 /main.cpp: In function ‘int main()’:
-/main.cpp:146:42: error: ‘class std::vector<MessagePiece>’ has no member named ‘index’
-                 if(reader.receivedPieces.index<min)
-                                          ^~~~~
-/main.cpp:148:45: error: ‘__gnu_cxx::__alloc_traits<std::allocator<Data>, Data>::value_type’ {aka ‘struct Data’} has no member named ‘index’
-                     min=reader.dataArray[i].index;
-                                             ^~~~~
+/main.cpp:146:49: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
+                 if(reader.dataArray[i].dataIndex<min)
 /main.cpp:108:9: warning: unused variable ‘z’ [-Wunused-variable]
      int z=0;
          ^
