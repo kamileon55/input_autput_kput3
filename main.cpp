@@ -38,7 +38,22 @@ struct Reader
     bool hasEnd;
 };
 
-
+void bubbleSort(int arr[], int n)  
+{  
+    int i, j;  
+    for (i = 0; i < n-1; i++)      
+      
+    // Last i elements are already in place  
+    for (j = 0; j < n-i-1; j++)  
+        if (arr[j] > arr[j+1])  
+            swap(&arr[j], &arr[j+1]);  
+}  
+void swap(int *xp, int *yp)  
+{  
+    int temp = *xp;  
+    *xp = *yp;  
+    *yp = temp;  
+}  
 void readData(Reader& to) // void barmi(int a)
 {
     std::string line;
@@ -183,6 +198,18 @@ int main()
         
         
     }
+    for(int i=0; i<receivedPieces.size()-1; i++)
+    {
+        for (int j=0; j<receivedPieces.size()-i-1; j++)
+        {
+            if(receivedPieces[j].index>receivedPieces[j+1].index)
+            {
+                MessagePiece temp=receivedPieces[j];
+                receivedPieces[j]=receivedPieces[j+1];
+                receivedPieces[j+1]=temp;
+            }
+        }
+    }
     std::cerr<<"Megtortent"<<std::endl;/*
         for(int i=0; i<reader.receivedPieces.size(); i++)
             {
@@ -198,7 +225,7 @@ int main()
         }
         */
         
-        sort(reader.receivedPieces.begin(), reader.receivedPieces.end()); 
+       
         std::cerr<<"Belelep"<<std::endl;
         for(int i=0; i<reader.receivedPieces.size(); i++)
         {
