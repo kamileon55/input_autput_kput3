@@ -106,7 +106,7 @@ int main()
      int seed = 0;
     int n=0;
     int z=0;
-    string solution;
+    std::string solution;
     std::cout << "START " << teamToken
                << " " << seed
               << std::endl;
