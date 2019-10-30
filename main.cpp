@@ -106,6 +106,7 @@ int main()
      int seed = 0;
     int n=0;
     int z=0;
+    string solution;
     std::cout << "START " << teamToken
                << " " << seed
               << std::endl;
@@ -167,6 +168,11 @@ int main()
                 }
             }
         }
+        for(int i=0; i<reader.receivedPieces.size(); i++)
+        {
+            solution=solution+reader.receivedPieces[i].message;
+        }
+        
         // Ha szeretnetek debug uzenetet kuldeni, akkor megtehetitek.
         // Vigyazzatok, mert maximalisan csak 1024 * 1024 bajtot kaptok vissza
         std::cerr << "Send " << command << std::endl;
@@ -176,7 +182,7 @@ int main()
         
             
             std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
-            
+            std::cout << "SOLUTION "<<solution;
         
         
         
