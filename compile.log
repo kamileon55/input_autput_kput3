@@ -1,8 +1,9 @@
 /main.cpp: In function ‘int main()’:
 /main.cpp:148:49: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
                  if(reader.dataArray[i].dataIndex<min)
-/main.cpp:199:47: error: no match for ‘operator/’ (operand types are ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} and ‘__gnu_cxx::__alloc_traits<std::allocator<MessagePiece>, MessagePiece>::value_type’ {aka ‘MessagePiece’})
-         int meret=reader.receivedPieces.size()/reader.receivedPieces[0];
+/main.cpp:199:73: error: ‘__gnu_cxx::__alloc_traits<std::allocator<MessagePiece>, MessagePiece>::value_type’ {aka ‘struct MessagePiece’} has no member named ‘size’
+         int meret=reader.receivedPieces.size()/reader.receivedPieces[0].size();
+                                                                         ^~~~
 /main.cpp:200:58: error: no match for ‘operator+’ (operand types are ‘std::vector<MessagePiece>’ and ‘int’)
          sort(reader.receivedPieces, reader.receivedPieces+meret);
                                      ~~~~~~~~~~~~~~~~~~~~~^~~~~~
