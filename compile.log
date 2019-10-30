@@ -1,12 +1,15 @@
 /main.cpp: In function ‘int main()’:
 /main.cpp:148:49: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
                  if(reader.dataArray[i].dataIndex<min)
-/main.cpp:182:23: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:186:23: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for(int i=0; i<reader.receivedPieces.size(); i++)
                       ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:184:33: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:188:33: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
                  for(int j=i+1; j<reader.receivedPieces.size(); j++)
                                 ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:195:23: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:199:23: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for(int i=0; i<reader.receivedPieces.size(); i++)
                       ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/main.cpp:109:9: warning: unused variable ‘befutott’ [-Wunused-variable]
+     int befutott=0;
+         ^~~~~~~~
