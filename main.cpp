@@ -157,7 +157,10 @@ int main()
             
         }
 
-        
+        if(reader.receivedPieces.size()==100)
+        {
+            break;
+        }
         
         // Ha szeretnetek debug uzenetet kuldeni, akkor megtehetitek.
         // Vigyazzatok, mert maximalisan csak 1024 * 1024 bajtot kaptok vissza
@@ -169,10 +172,7 @@ int main()
             
             std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
             
-        if(reader.receivedPieces.size()==100)
-        {
-            break;
-        }
+        
         
         
     }
@@ -191,6 +191,7 @@ int main()
         for(int i=0; i<reader.receivedPieces.size(); i++)
         {
             solution=solution+reader.receivedPieces[i].message;
+            std::cerr<< reader.receivedPieces[i].index<<"   "<<reader.receivedPieces[i].message;
         }
     std::cout << "SOLUTION "<<solution;
     std::cerr << "END (latest message): " << reader.previous << std::endl;
