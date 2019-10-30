@@ -177,6 +177,7 @@ int main()
         
         
     }
+    std::cerr<<"Megtortent"<<std::endl;
             for(int i=0; i<reader.receivedPieces.size(); i++)
         {
             for(int j=i+1; j<reader.receivedPieces.size(); j++)
