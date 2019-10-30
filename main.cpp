@@ -86,7 +86,7 @@ void readData(Reader& to) // void barmi(int a)
         }
         else if (!line.rfind("MESSAGE"))
         {
-            std::cerr<<"MESSAGE"<<endl;
+            std::cerr<<"MESSAGE"<<std::endl;
             MessagePiece& msg = to.receivedPieces.emplace_back();
             std::istringstream(std::move(line).substr(8)) >> msg.index >> msg.message;
         }
