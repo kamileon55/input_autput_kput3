@@ -1,6 +1,19 @@
+/main.cpp: In function ‘void readData(Reader&)’:
+/main.cpp:89:35: error: ‘endl’ was not declared in this scope
+             std::cerr<<"MESSAGE"<<endl;
+                                   ^~~~
+/main.cpp:89:35: note: suggested alternative:
+In file included from /usr/include/c++/8/iostream:39,
+                 from /main.cpp:4:
+/usr/include/c++/8/ostream:590:5: note:   ‘std::endl’
+     endl(basic_ostream<_CharT, _Traits>& __os)
+     ^~~~
 /main.cpp: In function ‘int main()’:
 /main.cpp:148:49: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
                  if(reader.dataArray[i].dataIndex<min)
+/main.cpp:160:72: error: ‘class std::vector<MessagePiece>’ has no member named ‘length’
+         std::cerr << "Recived pieces number " << reader.receivedPieces.length() << std::endl;
+                                                                        ^~~~~~
 /main.cpp:180:27: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
              for(int i=0; i<reader.receivedPieces.size(); i++)
                           ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
