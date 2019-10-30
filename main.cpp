@@ -126,7 +126,7 @@ int main()
             if(reader.routerBits[3][i]==1)
             {
                 command= "CREATE ";
-                command=command+(string) i;
+                command=command+i+" "+n;
                 break;
             }
             
@@ -145,7 +145,7 @@ int main()
         if(n%2==0)
         {
             
-            std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << n << std::endl;
+            std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
             n++;
         }
         if(n%2!=0)
