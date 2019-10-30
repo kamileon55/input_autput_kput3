@@ -1,15 +1,4 @@
 /main.cpp: In function ‘int main()’:
-/main.cpp:109:5: error: ‘string’ was not declared in this scope
-     string solution;
-     ^~~~~~
-/main.cpp:109:5: note: suggested alternative:
-In file included from /usr/include/c++/8/string:39,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/stringfwd.h:74:33: note:   ‘std::__cxx11::string’
-   typedef basic_string<char>    string;
-                                 ^~~~~~
 /main.cpp:147:49: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
                  if(reader.dataArray[i].dataIndex<min)
 /main.cpp:159:23: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
@@ -21,20 +10,6 @@ In file included from /usr/include/c++/8/string:39,
 /main.cpp:171:23: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for(int i=0; i<reader.receivedPieces.size(); i++)
                       ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:173:13: error: ‘solution’ was not declared in this scope
-             solution=solution+reader.receivedPieces[i].message;
-             ^~~~~~~~
-/main.cpp:173:13: note: suggested alternative: ‘union’
-             solution=solution+reader.receivedPieces[i].message;
-             ^~~~~~~~
-             union
-/main.cpp:185:39: error: ‘solution’ was not declared in this scope
-             std::cout << "SOLUTION "<<solution;
-                                       ^~~~~~~~
-/main.cpp:185:39: note: suggested alternative: ‘union’
-             std::cout << "SOLUTION "<<solution;
-                                       ^~~~~~~~
-                                       union
 /main.cpp:108:9: warning: unused variable ‘z’ [-Wunused-variable]
      int z=0;
          ^
