@@ -165,7 +165,7 @@ int main()
         
         // Ha szeretnetek debug uzenetet kuldeni, akkor megtehetitek.
         // Vigyazzatok, mert maximalisan csak 1024 * 1024 bajtot kaptok vissza
-        std::cerr << "Send " << command << std::endl;
+     //   std::cerr << "Send " << command << std::endl;
 
         // standard out-ra meg mehet ki a megoldas! Mas ne irodjon ide ki ;)
         
