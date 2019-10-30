@@ -156,18 +156,7 @@ int main()
             
             
         }
-        for(int i=0; i<reader.receivedPieces.size(); i++)
-        {
-            for(int j=i+1; j<reader.receivedPieces.size(); j++)
-            {
-                if (reader.receivedPieces[j].index < reader.receivedPieces[i].index)
-                {
-                    int cser=reader.receivedPieces[j].index;
-                    reader.receivedPieces[j].index=reader.receivedPieces[i].index;
-                    reader.receivedPieces[i].index=cser;
-                }
-            }
-        }
+
         for(int i=0; i<reader.receivedPieces.size(); i++)
         {
             solution=solution+reader.receivedPieces[i].message;
@@ -187,6 +176,18 @@ int main()
         
         
     }
+            for(int i=0; i<reader.receivedPieces.size(); i++)
+        {
+            for(int j=i+1; j<reader.receivedPieces.size(); j++)
+            {
+                if (reader.receivedPieces[j].index < reader.receivedPieces[i].index)
+                {
+                    int cser=reader.receivedPieces[j].index;
+                    reader.receivedPieces[j].index=reader.receivedPieces[i].index;
+                    reader.receivedPieces[i].index=cser;
+                }
+            }
+        }
     std::cout << "SOLUTION "<<solution;
     std::cerr << "END (latest message): " << reader.previous << std::endl;
 }
