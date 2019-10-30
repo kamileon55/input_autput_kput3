@@ -157,8 +157,12 @@ int main()
             
             
         }
-        std::cerr << "Recived pieces number " << reader.receivedPieces[befutott].index << std::endl;
-        befutott++;
+        if(reader.receivedPieces.size()!=0)
+        {
+            std::cerr << "Recived pieces number " << reader.receivedPieces[reader.receivedPieces.size()-1].index << std::endl;
+            
+        }
+        
         if(reader.receivedPieces.size()>100)
         {
             break;
