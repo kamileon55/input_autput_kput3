@@ -1,48 +1,16 @@
-/main.cpp: In function ‘void bubbleSort(int*, int)’:
-/main.cpp:49:13: error: ‘swap’ was not declared in this scope
-             swap(&arr[j], &arr[j+1]);
-             ^~~~
-/main.cpp:49:13: note: suggested alternatives:
-In file included from /usr/include/c++/8/regex:62,
-                 from /usr/include/x86_64-linux-gnu/c++/8/bits/stdc++.h:110,
-                 from /main.cpp:7:
-/usr/include/c++/8/bits/regex.h:1995:5: note:   ‘std::__cxx11::swap’
-     swap(match_results<_Bi_iter, _Alloc>& __lhs,
-     ^~~~
-In file included from /usr/include/c++/8/bits/stl_pair.h:59,
-                 from /usr/include/c++/8/utility:70,
-                 from /usr/include/c++/8/array:38,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/move.h:182:5: note:   ‘std::swap’
-     swap(_Tp& __a, _Tp& __b)
-     ^~~~
-/usr/include/c++/8/bits/move.h:182:5: note:   ‘std::swap’
-In file included from /usr/include/c++/8/exception:143,
-                 from /usr/include/c++/8/stdexcept:38,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/exception_ptr.h:166:5: note:   ‘std::__exception_ptr::swap’
-     swap(exception_ptr& __lhs, exception_ptr& __rhs)
-     ^~~~
-In file included from /usr/include/c++/8/filesystem:37,
-                 from /usr/include/x86_64-linux-gnu/c++/8/bits/stdc++.h:127,
-                 from /main.cpp:7:
-/usr/include/c++/8/bits/fs_path.h:523:15: note:   ‘std::filesystem::__cxx11::swap’
-   inline void swap(path& __lhs, path& __rhs) noexcept { __lhs.swap(__rhs); }
-               ^~~~
 /main.cpp: In function ‘int main()’:
-/main.cpp:164:49: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
+/main.cpp:150:49: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
                  if(reader.dataArray[i].dataIndex<min)
-/main.cpp:201:20: error: ‘receivedPieces’ was not declared in this scope
+/main.cpp:187:20: error: ‘receivedPieces’ was not declared in this scope
      for(int i=0; i<receivedPieces.size()-1; i++)
                     ^~~~~~~~~~~~~~
-/main.cpp:201:20: note: suggested alternative: ‘MessagePiece’
+/main.cpp:187:20: note: suggested alternative: ‘MessagePiece’
      for(int i=0; i<receivedPieces.size()-1; i++)
                     ^~~~~~~~~~~~~~
                     MessagePiece
-/main.cpp:230:23: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:216:23: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for(int i=0; i<reader.receivedPieces.size(); i++)
                       ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:125:9: warning: unused variable ‘befutott’ [-Wunused-variable]
+/main.cpp:111:9: warning: unused variable ‘befutott’ [-Wunused-variable]
      int befutott=0;
          ^~~~~~~~
