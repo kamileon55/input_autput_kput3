@@ -156,8 +156,8 @@ int main()
             
             
         }
-
-        if(reader.receivedPieces.size()==100)
+        std::cerr << "Recived pieces number " << reader.receivedPieces.size() << std::endl;
+        if(reader.receivedPieces.size()>100)
         {
             break;
         }
