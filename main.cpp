@@ -104,13 +104,15 @@ int main()
 {
     char teamToken[] = "tqEzVLvbq6wz_uWr6HS1";
     // int seed = 0;
-
+    int n=0;
     std::cout << "START " << teamToken
               // << " " << seed
               << std::endl;
 
     Reader reader = {};
-    std::string command = "CREATE 1 0";
+    
+   
+    
     while(true)
     {
         readData(reader);
@@ -119,14 +121,30 @@ int main()
             break;
 
         // TODO logika jobb mint a semmitteves
+        if(n%2==0)
+        {
+            std::string command = "CREATE 1 ";
+        }
+        if(n%2!=0)
+        {
+            std::string command = "MOVE 1 ";
+        }
         
-
         // Ha szeretnetek debug uzenetet kuldeni, akkor megtehetitek.
         // Vigyazzatok, mert maximalisan csak 1024 * 1024 bajtot kaptok vissza
         std::cerr << "Send " << command << std::endl;
 
         // standard out-ra meg mehet ki a megoldas! Mas ne irodjon ide ki ;)
-        std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
+        
+        if(n%2==0)
+        {
+            std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << n<< std::endl;
+        }
+        if(n%2!=0)
+        {
+           std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << n-1<< std::endl;
+        }
+        n++;
     }
     std::cerr << "END (latest message): " << reader.previous << std::endl;
 }
