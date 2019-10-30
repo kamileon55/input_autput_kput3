@@ -1,5 +1,5 @@
 Menj az a***ba! 
-A vonal adatai: REQUEST 49342 0 3
+A vonal adatai: REQUEST 49374 0 3
 A vonal adatai: ROUTER 0 0010011110
 A vonal adatai: ROUTER 1 0101101010
 A vonal adatai: ROUTER 2 0101101010
@@ -15,7 +15,8 @@ A vonal adatai: ROUTER 11 1100110001
 A vonal adatai: ROUTER 12 0101100011
 A vonal adatai: ROUTER 13 1101101000
 A vonal adatai: .
-49342 0 3 CREATE 69 69
+49374 0 3 CREATE 69 69
 .
 A vonal adatai: WRONG Cannot parse GameID, not an integer, or not exists!;Wrong storeId! 0<= storeId <= 9, but sent 69;TimeoutException
 A vonal adatai: .
+END (latest message): WRONG Cannot parse GameID, not an integer, or not exists!;Wrong storeId! 0<= storeId <= 9, but sent 69;TimeoutException
