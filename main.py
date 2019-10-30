@@ -80,7 +80,7 @@ if __name__== "__main__":
         + "\n")
         
     reader = Reader()
-    command = "CREATE 0 0"
+    command = "CREATE 5 0"
     while True:
         readData(reader)
         
