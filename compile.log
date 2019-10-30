@@ -1,7 +1,4 @@
 /main.cpp: In function ‘int main()’:
-/main.cpp:125:12: error: ‘dataArray’ was not declared in this scope
-         if(dataArray.size()<5)
-            ^~~~~~~~~
 /main.cpp:108:9: warning: unused variable ‘z’ [-Wunused-variable]
      int z=0;
          ^
