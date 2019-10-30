@@ -80,7 +80,7 @@ if __name__== "__main__":
         + "\n")
         
     reader = Reader()
-    
+    command = "CEATE 0 0"
     while True:
         readData(reader)
         
@@ -88,11 +88,12 @@ if __name__== "__main__":
             break
             
         # TODO logika jobb mint a semmitteves
-        command = "PASS"
+        
         
         # Ha szeretnetek debug uzenetet kuldeni, akkor megtehetitek.
         # Vigyazzatok, mert maximalisan csak 1024 * 1024 bajtot kaptok vissza
         stderr.write("Send {}\n".format(command))
+        command = "PASS"
         
         # standard out-ra meg mehet ki a megoldas! Mas ne irodjon ide ki ;)
         stdout.write("{} {} {} {}\n".format(reader.data[0], reader.data[1], reader.data[2], command))
