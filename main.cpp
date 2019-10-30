@@ -127,6 +127,7 @@ int main()
             {
                 command= "CREATE ";
                 command=command+std::to_string(i)+" "+std::to_string(n);
+                n++;
                 break;
             }
             
@@ -142,7 +143,7 @@ int main()
         
             
             std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
-            n++;
+            
         
         
         
