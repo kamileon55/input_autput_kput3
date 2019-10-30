@@ -42,7 +42,7 @@ void readData(Reader& to) // void barmi(int a)
 {
     std::string line;
     to.dataArray.clear();
-    to.receivedPieces.clear();
+  //  to.receivedPieces.clear();
 
     while (std::getline(std::cin, line))
     {
