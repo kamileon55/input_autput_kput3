@@ -178,18 +178,19 @@ int main()
         
     }
     std::cerr<<"Megtortent"<<std::endl;
-            for(int i=0; i<reader.receivedPieces.size(); i++)
-        {
-            for(int j=i+1; j<reader.receivedPieces.size(); j++)
+        for(int i=0; i<reader.receivedPieces.size(); i++)
             {
-                if (reader.receivedPieces[j].index < reader.receivedPieces[i].index)
+                for(int j=i+1; j<reader.receivedPieces.size(); j++)
                 {
-                    MessagePiece cser=reader.receivedPieces[j];
-                    reader.receivedPieces[j]=reader.receivedPieces[i];
-                    reader.receivedPieces[i]=cser;
+                    if (reader.receivedPieces[j].index < reader.receivedPieces[i].index)
+                    {
+                        MessagePiece cser=reader.receivedPieces[j];
+                        reader.receivedPieces[j]=reader.receivedPieces[i];
+                        reader.receivedPieces[i]=cser;
+                    }
                 }
-            }
         }
+        std::cerr<<"Belelep"<<std::endl;
         for(int i=0; i<reader.receivedPieces.size(); i++)
         {
             solution=solution+reader.receivedPieces[i].message;
