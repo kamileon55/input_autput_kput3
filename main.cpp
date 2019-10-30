@@ -106,7 +106,7 @@ int main()
     char teamToken[] = "tqEzVLvbq6wz_uWr6HS1";
      int seed = 0;
     int n=0;
-    int z=0;
+    int befutott=0;
     std::string solution;
     std::cout << "START " << teamToken
                << " " << seed
@@ -157,7 +157,8 @@ int main()
             
             
         }
-        std::cerr << "Recived pieces number " << reader.receivedPieces.index << std::endl;
+        std::cerr << "Recived pieces number " << reader.receivedPieces[befutott].index << std::endl;
+        befutott++;
         if(reader.receivedPieces.size()>100)
         {
             break;
