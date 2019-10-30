@@ -121,9 +121,15 @@ int main()
             break;
 
         // TODO logika jobb mint a semmitteves
-        if(n%2==0)
+        for(int i=0; i<9; i++)
         {
-             command = "CREATE 1 ";
+            if(reader.routerBits[3][i]==1)
+            {
+                command= "CREATE ";
+                strcpy(command, i);
+                break;
+            }
+            
         }
         if(n%2!=0)
         {
