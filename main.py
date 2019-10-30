@@ -73,7 +73,7 @@ def readData(reader):
 
 if __name__== "__main__":
     teamToken = "tqEzVLvbq6wz_uWr6HS1"
-     seed = 0
+    seed = 0
 
     stdout.write("START " + teamToken 
         + " " + str(seed)
