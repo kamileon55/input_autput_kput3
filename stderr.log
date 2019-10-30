@@ -998,4 +998,4 @@ Send MOVE 1
 Send MOVE 1 
 Send MOVE 1 
 Send MOVE 1 
-END (latest message): TICK TIMEOUT, PIECES ARRIVED 0
+END (latest message): TICK TIMEOUT, PIECES ARRIVED 1
