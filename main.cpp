@@ -4,6 +4,7 @@
 #include <iostream>
 #include <sstream>
 #include <cstring>
+#include <bits/stdc++.h>
 enum class Direction : char
 {
     LEFT = 'l',
