@@ -1,8 +1,13 @@
 /main.cpp: In function ‘int main()’:
-/main.cpp:239:23: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:156:35: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+                     for(int j=0; j<reader.dataArray.size(); j++)
+                                  ~^~~~~~~~~~~~~~~~~~~~~~~~
+/main.cpp:158:58: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
+                         if(reader.dataArray[j].currRouter!=i)
+/main.cpp:246:23: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for(int i=0; i<azenyem.size(); i++)
                       ~^~~~~~~~~~~~~~~
-/main.cpp:255:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:262:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
      for(int i=0; i<azenyem.size(); i++)
                   ~^~~~~~~~~~~~~~~
 /main.cpp:130:9: warning: unused variable ‘befutott’ [-Wunused-variable]
