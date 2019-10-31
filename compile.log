@@ -1,16 +1,26 @@
 /main.cpp: In function ‘int main()’:
-/main.cpp:150:49: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
+/main.cpp:151:49: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
                  if(reader.dataArray[i].dataIndex<min)
-/main.cpp:187:21: error: ‘receivedPieces’ was not declared in this scope
-     for(int i=0; i<(receivedPieces.size())-1; i++)
-                     ^~~~~~~~~~~~~~
-/main.cpp:187:21: note: suggested alternative: ‘MessagePiece’
-     for(int i=0; i<(receivedPieces.size())-1; i++)
-                     ^~~~~~~~~~~~~~
-                     MessagePiece
-/main.cpp:216:23: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:185:20: error: ‘receivedPieces’ was not declared in this scope
+        int tarolo= receivedPieces.size();
+                    ^~~~~~~~~~~~~~
+/main.cpp:185:20: note: suggested alternative: ‘MessagePiece’
+        int tarolo= receivedPieces.size();
+                    ^~~~~~~~~~~~~~
+                    MessagePiece
+/main.cpp:185:12: warning: unused variable ‘tarolo’ [-Wunused-variable]
+        int tarolo= receivedPieces.size();
+            ^~~~~~
+/main.cpp:192:16: error: ‘receivedPieces’ was not declared in this scope
+             if(receivedPieces[j].index>receivedPieces[j+1].index)
+                ^~~~~~~~~~~~~~
+/main.cpp:192:16: note: suggested alternative: ‘MessagePiece’
+             if(receivedPieces[j].index>receivedPieces[j+1].index)
+                ^~~~~~~~~~~~~~
+                MessagePiece
+/main.cpp:217:23: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for(int i=0; i<reader.receivedPieces.size(); i++)
                       ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:111:9: warning: unused variable ‘befutott’ [-Wunused-variable]
+/main.cpp:112:9: warning: unused variable ‘befutott’ [-Wunused-variable]
      int befutott=0;
          ^~~~~~~~
