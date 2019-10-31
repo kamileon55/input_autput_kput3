@@ -167,7 +167,7 @@ int main()
                             for(int j=0; j<reader.dataArray.size(); j++)
                             {
                               
-                                if(reader.dataArray[j].currRouter==i && reader.dataArray[j].currStoreId!=i)
+                                if(reader.dataArray[j].currRouter==3 && reader.dataArray[j].currStoreId!=i)
                                 {
                                     command= "CREATE ";
                                     command=command+std::to_string(i)+" "+std::to_string(n);
