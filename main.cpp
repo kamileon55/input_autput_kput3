@@ -212,12 +212,13 @@ int main()
         */
         
        
-        std::cerr<<"Belelep"<<std::endl;
+      
         for(long unsigned int i=0; i<reader.receivedPieces.size(); i++)
         {
             solution=solution+reader.receivedPieces[i].message;
             std::cerr<< reader.receivedPieces[i].index<<"   "<<reader.receivedPieces[i].message;
         }
+          std::cerr<<"Belelep"<<std::endl;
     std::cout << "SOLUTION "<<solution;
     std::cerr << "END (latest message): " << reader.previous << std::endl;
 }
