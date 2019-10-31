@@ -103,6 +103,7 @@ void readData(Reader& to) // void barmi(int a)
             std::cerr<<msg.message<<"   "<<std::endl;
             if(msg.message.size()==0)
             {
+                msg.pop_back();
                 break;
             }
             
