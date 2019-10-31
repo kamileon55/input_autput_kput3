@@ -30,7 +30,7 @@ struct MessagePiece
     int index;
     std::string message;
 };
- std::vector<MessagePiece> azenyem;
+std::vector<MessagePiece> azenyem;
 void swap(MessagePiece *xp, MessagePiece *yp)  
 {  
     MessagePiece temp = *xp;  
@@ -102,7 +102,7 @@ void readData(Reader& to) // void barmi(int a)
             MessagePiece & msg = to.receivedPieces.emplace_back();
             
             std::istringstream(std::move(line).substr(8)) >> msg.index >> msg.message;
-            std::cerr<<msg.message<<"   "<<msg.index<<std::endl;
+          //  std::cerr<<msg.message<<"   "<<msg.index<<std::endl;
             if(msg.message.size()==0)
             {
                 break;
@@ -215,7 +215,12 @@ int main()
             }
         }
     }
-    
+     for( int i=0; i<reader.receivedPieces.size(); i++)
+        {
+           // solution=solution+reader.receivedPieces[i].message;
+           std::cerr<<msg.message<<"   "<<msg.index<<std::endl;
+           // std::cerr<< solution;
+        }
     std::cerr<<"Megtortent"<<std::endl;/*
         for(int i=0; i<reader.receivedPieces.size(); i++)
             {
@@ -231,7 +236,7 @@ int main()
         }
         */
         
-       
+      /* 
       std::cerr<<"Meret: "<<reader.receivedPieces.size()<<std::endl;
         for( int i=0; i<reader.receivedPieces.size(); i++)
         {
@@ -239,6 +244,7 @@ int main()
            // std::cerr<< reader.receivedPieces[i].index<<"       -----     "<<reader.receivedPieces[i].message;
             std::cerr<< solution;
         }
+        */
           std::cerr<<"Belelep"<<std::endl;
     std::cout << "SOLUTION "<<solution;
     std::cerr << "END (latest message): " << reader.previous << std::endl;
