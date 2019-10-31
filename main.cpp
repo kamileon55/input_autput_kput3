@@ -246,6 +246,6 @@ int main()
         }
         */
           command="SOLUTION ";
-    std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command <<solution<<" "<<std::endl;
+    std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command <<solution<<std::endl;
     std::cerr << "END (latest message): " << reader.previous << std::endl;
 }
