@@ -7,12 +7,6 @@
 /main.cpp:196:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for (int j=0; j<reader.receivedPieces.size()-i-1; j++)
                        ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:200:74: error: cannot convert ‘__gnu_cxx::__alloc_traits<std::allocator<MessagePiece>, MessagePiece>::value_type’ {aka ‘MessagePiece’} to ‘MessagePiece*’
-                 swap(reader.receivedPieces[j], reader.receivedPieces[j+1]);
-                                                                          ^
-/main.cpp:32:25: note:   initializing argument 1 of ‘void swap(MessagePiece*, MessagePiece*)’
- void swap(MessagePiece *xp, MessagePiece *yp)
-           ~~~~~~~~~~~~~~^~
 /main.cpp:118:9: warning: unused variable ‘befutott’ [-Wunused-variable]
      int befutott=0;
          ^~~~~~~~
