@@ -102,7 +102,7 @@ void readData(Reader& to) // void barmi(int a)
             MessagePiece & msg = to.receivedPieces.emplace_back();
 
             std::istringstream(std::move(line).substr(8)) >> msg.index >> msg.message;
-            std::cerr<<msg.message<<"   "<<msg.index<<std::endl;
+           // std::cerr<<msg.message<<"   "<<msg.index<<std::endl;
             if(msg.message.size()==0)
             {
                 //  to.hasEnd = true;
@@ -236,6 +236,10 @@ int main()
                 }
         }
         */
+        for(int i=0; i<azenyem.size(); i++)
+        {
+            std::cerr<<azenyem.message<<" "<<azenyem.index<<std::endl;
+        }
 
     /*
     std::cerr<<"Meret: "<<reader.receivedPieces.size()<<std::endl;
