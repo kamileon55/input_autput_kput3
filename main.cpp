@@ -219,7 +219,7 @@ int main()
         {
            // solution=solution+reader.receivedPieces[i].message;
            std::cerr<<reader.receivedPieces[i].message<<"   "<<reader.receivedPieces[i].index<<std::endl;
-           // std::cerr<< solution;
+           solution=solution+reader.receivedPieces[i].message;// std::cerr<< solution;
         }
     std::cerr<<"Megtortent"<<std::endl;/*
         for(int i=0; i<reader.receivedPieces.size(); i++)
@@ -245,7 +245,7 @@ int main()
             std::cerr<< solution;
         }
         */
-          std::cerr<<"Belelep"<<std::endl;
-    std::cout << "SOLUTION "<<solution;
+          command="SOLUTION "<<solution;
+    std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
     std::cerr << "END (latest message): " << reader.previous << std::endl;
 }
