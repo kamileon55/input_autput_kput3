@@ -1,15 +1,86 @@
 /main.cpp: In function ‘int main()’:
-/main.cpp:167:43: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
-                             for(int j=0; j<reader.dataArray.size(); j++)
-                                          ~^~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:170:104: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
-                                 if(reader.dataArray[j].currRouter==3 && reader.dataArray[j].currStoreId!=i)
-/main.cpp:259:23: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
-         for(int i=0; i<azenyem.size(); i++)
-                      ~^~~~~~~~~~~~~~~
-/main.cpp:275:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
-     for(int i=0; i<azenyem.size(); i++)
-                  ~^~~~~~~~~~~~~~~
+/main.cpp:162:45: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+                               for(int j=0; j<reader.dataArray.size(); j++)
+                                            ~^~~~~~~~~~~~~~~~~~~~~~~~
+/main.cpp:165:106: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
+                                   if(reader.dataArray[j].currRouter==3 && reader.dataArray[j].currStoreId==i)
+/main.cpp:189:9: error: ‘else’ without a previous ‘if’
+         else
+         ^~~~
+/main.cpp:225:13: error: break statement not within loop or switch
+             break;
+             ^~~~~
 /main.cpp:130:9: warning: unused variable ‘befutott’ [-Wunused-variable]
      int befutott=0;
          ^~~~~~~~
+/main.cpp: At global scope:
+/main.cpp:244:5: error: expected unqualified-id before ‘for’
+     for( long unsigned int i=0; i<reader.receivedPieces.size(); i++)
+     ^~~
+/main.cpp:244:33: error: ‘i’ does not name a type
+     for( long unsigned int i=0; i<reader.receivedPieces.size(); i++)
+                                 ^
+/main.cpp:244:65: error: ‘i’ does not name a type
+     for( long unsigned int i=0; i<reader.receivedPieces.size(); i++)
+                                                                 ^
+/main.cpp:250:10: error: ‘cerr’ in namespace ‘std’ does not name a type
+     std::cerr<<"Megtortent"<<std::endl;/*
+          ^~~~
+In file included from /main.cpp:4:
+/usr/include/c++/8/iostream:62:18: note: ‘std::cerr’ declared here
+   extern ostream cerr;  /// Linked to standard error (unbuffered)
+                  ^~~~
+/main.cpp:264:9: error: expected unqualified-id before ‘for’
+         for(int i=0; i<azenyem.size(); i++)
+         ^~~
+/main.cpp:264:22: error: ‘i’ does not name a type
+         for(int i=0; i<azenyem.size(); i++)
+                      ^
+/main.cpp:264:40: error: ‘i’ does not name a type
+         for(int i=0; i<azenyem.size(); i++)
+                                        ^
+/main.cpp:269:13: error: expected unqualified-id before ‘for’
+             for(long unsigned int i=0; i<azenyem.size()-1; i++)
+             ^~~
+/main.cpp:269:40: error: ‘i’ does not name a type
+             for(long unsigned int i=0; i<azenyem.size()-1; i++)
+                                        ^
+/main.cpp:269:60: error: ‘i’ does not name a type
+             for(long unsigned int i=0; i<azenyem.size()-1; i++)
+                                                            ^
+/main.cpp:279:10: error: ‘cerr’ in namespace ‘std’ does not name a type
+     std::cerr<<"Betaprotokol "<<std::endl;
+          ^~~~
+In file included from /main.cpp:4:
+/usr/include/c++/8/iostream:62:18: note: ‘std::cerr’ declared here
+   extern ostream cerr;  /// Linked to standard error (unbuffered)
+                  ^~~~
+/main.cpp:280:5: error: expected unqualified-id before ‘for’
+     for(int i=0; i<azenyem.size(); i++)
+     ^~~
+/main.cpp:280:18: error: ‘i’ does not name a type
+     for(int i=0; i<azenyem.size(); i++)
+                  ^
+/main.cpp:280:36: error: ‘i’ does not name a type
+     for(int i=0; i<azenyem.size(); i++)
+                                    ^
+/main.cpp:295:5: error: ‘command’ does not name a type
+     command="SOLUTION ";
+     ^~~~~~~
+/main.cpp:296:10: error: ‘cout’ in namespace ‘std’ does not name a type
+     std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command <<solution<<std::endl;
+          ^~~~
+In file included from /main.cpp:4:
+/usr/include/c++/8/iostream:61:18: note: ‘std::cout’ declared here
+   extern ostream cout;  /// Linked to standard output
+                  ^~~~
+/main.cpp:297:10: error: ‘cerr’ in namespace ‘std’ does not name a type
+     std::cerr << "END (latest message): " << reader.previous << std::endl;
+          ^~~~
+In file included from /main.cpp:4:
+/usr/include/c++/8/iostream:62:18: note: ‘std::cerr’ declared here
+   extern ostream cerr;  /// Linked to standard error (unbuffered)
+                  ^~~~
+/main.cpp:298:1: error: expected declaration before ‘}’ token
+ }
+ ^
