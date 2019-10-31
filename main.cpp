@@ -103,16 +103,6 @@ void readData(Reader& to) // void barmi(int a)
             std::cerr<<msg.message<<"   "<<std::endl;
             if(msg.message.size()==0)
             {
-                    for(int i=0; i<msg.size()-1; i++)
-                    {
-                        for (int j=0; j<msg.size()-i-1; j++)
-                        {
-                            if(msg[j].index>msg[j+1].index)
-                            {
-                                swap(&msg[j], &msg[j+1]);
-                            }
-                        }
-                    }
                 break;
             }
             
@@ -241,6 +231,7 @@ int main()
         {
             solution=solution+reader.receivedPieces[i].message;
             std::cerr<< reader.receivedPieces[i].index<<"       -----     "<<reader.receivedPieces[i].message;
+            std::cerr<< solution;
         }
           std::cerr<<"Belelep"<<std::endl;
     std::cout << "SOLUTION "<<solution;
