@@ -204,14 +204,14 @@ int main()
         
         
     }
-   
-    for(int i=0; i<azenyem.size()-1; i++)
+  
+    for(int i=0; i<reader.receivedPieces.size()-1; i++)
     {
-        for (int j=0; j<azenyem.size()-i-1; j++)
+        for (int j=0; j<reader.receivedPieces.size()-i-1; j++)
         {
-            if(azenyem.index>azenyem[j+1].index)
+            if(reader.receivedPieces[j].index>reader.receivedPieces[j+1].index)
             {
-                swap(azenyem[j], azenyem[j+1]);
+                swap(&reader.receivedPieces[j], &reader.receivedPieces[j+1]);
             }
         }
     }
