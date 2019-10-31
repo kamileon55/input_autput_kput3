@@ -5,6 +5,7 @@
 #include <sstream>
 #include <cstring>
 #include <bits/stdc++.h>
+#include <vector>
 enum class Direction : char
 {
     LEFT = 'l',
@@ -29,6 +30,7 @@ struct MessagePiece
     int index;
     std::string message;
 };
+ std::vector<MessagePiece> azenyem;
 void swap(MessagePiece *xp, MessagePiece *yp)  
 {  
     MessagePiece temp = *xp;  
@@ -101,10 +103,7 @@ void readData(Reader& to) // void barmi(int a)
             
             std::istringstream(std::move(line).substr(8)) >> msg.index >> msg.message;
             std::cerr<<msg.message<<"   "<<msg.index<<std::endl;
-            if(msg.message.size()==0)
-            {
-                break;
-            }
+            azenyem.push_back(msg);
             
         }
         else
