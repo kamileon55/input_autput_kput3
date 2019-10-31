@@ -141,7 +141,7 @@ int main()
     {
         readData(reader);
 
-        if (reader.hasEnd)
+        if (reader.hasEnd || reader.receivedPieces.size()>100)
             break;
 
         // TODO logika jobb mint a semmitteves
