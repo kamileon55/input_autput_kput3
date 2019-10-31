@@ -184,9 +184,9 @@ int main()
         
         
     }
-    for(int i=0; i<receivedPieces.size()-1; i++)
+    for(int i=0; i<(receivedPieces.size())-1; i++)
     {
-        for (int j=0; j<receivedPieces.size()-i-1; j++)
+        for (int j=0; j<(receivedPieces.size())-i-1; j++)
         {
             if(receivedPieces[j].index>receivedPieces[j+1].index)
             {
