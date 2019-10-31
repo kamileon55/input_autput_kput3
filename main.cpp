@@ -11,6 +11,8 @@ enum class Direction : char
     RIGHT = 'r'
 };
 
+ 
+
 struct Data
 {
     unsigned int currRouter; ///
@@ -27,7 +29,12 @@ struct MessagePiece
     int index;
     std::string message;
 };
-
+void swap(MessagePiece *xp, MessagePiece *yp)  
+{  
+    MessagePiece temp = *xp;  
+    *xp = *yp;  
+    *yp = temp;  
+} 
 struct Reader
 {
     std::array<unsigned int, 3> data;
@@ -190,9 +197,7 @@ int main()
         {
             if(reader.receivedPieces[j].index>reader.receivedPieces[j+1].index)
             {
-                MessagePiece temp= reader.receivedPieces[j];
-                reader.receivedPieces[j]= reader.receivedPieces[j+1];
-                reader.receivedPieces[j+1]= temp;
+                swap(reader.receivedPieces[j], reader.receivedPieces[j+1]);
             }
         }
     }
