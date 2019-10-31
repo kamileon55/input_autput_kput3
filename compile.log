@@ -2,20 +2,11 @@
 /main.cpp:169:49: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
                  if(reader.dataArray[i].dataIndex<min)
 /main.cpp:208:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
-     for(int i=0; i<azenyem.size()-1; i++)
-                  ~^~~~~~~~~~~~~~~~~
+     for(int i=0; i<reader.receivedPieces.size()-1; i++)
+                  ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 /main.cpp:210:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
-         for (int j=0; j<azenyem.size()-i-1; j++)
-                       ~^~~~~~~~~~~~~~~~~~~
-/main.cpp:212:24: error: ‘class std::vector<MessagePiece>’ has no member named ‘index’
-             if(azenyem.index>azenyem[j+1].index)
-                        ^~~~~
-/main.cpp:214:46: error: cannot convert ‘__gnu_cxx::__alloc_traits<std::allocator<MessagePiece>, MessagePiece>::value_type’ {aka ‘MessagePiece’} to ‘MessagePiece*’
-                 swap(azenyem[j], azenyem[j+1]);
-                                              ^
-/main.cpp:34:25: note:   initializing argument 1 of ‘void swap(MessagePiece*, MessagePiece*)’
- void swap(MessagePiece *xp, MessagePiece *yp)
-           ~~~~~~~~~~~~~~^~
+         for (int j=0; j<reader.receivedPieces.size()-i-1; j++)
+                       ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 /main.cpp:236:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for( int i=0; i<reader.receivedPieces.size(); i++)
                        ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
