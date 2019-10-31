@@ -7,9 +7,12 @@
 /main.cpp:210:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for (int j=0; j<reader.receivedPieces.size()-i-1; j++)
                        ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:236:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
-         for( int i=0; i<reader.receivedPieces.size(); i++)
-                       ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/main.cpp:218:21: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+      for( int i=0; i<reader.receivedPieces.size(); i++)
+                    ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/main.cpp:221:23: error: ‘msg’ was not declared in this scope
+            std::cerr<<msg.message<<"   "<<msg.index<<std::endl;
+                       ^~~
 /main.cpp:130:9: warning: unused variable ‘befutott’ [-Wunused-variable]
      int befutott=0;
          ^~~~~~~~
