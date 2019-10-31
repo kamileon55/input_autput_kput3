@@ -180,10 +180,7 @@ int main()
             
         }
         
-        if(reader.receivedPieces.size()>100)
-        {
-            break;
-        }
+     
         
         // Ha szeretnetek debug uzenetet kuldeni, akkor megtehetitek.
         // Vigyazzatok, mert maximalisan csak 1024 * 1024 bajtot kaptok vissza
