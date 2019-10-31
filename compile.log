@@ -1,7 +1,4 @@
 /main.cpp: In function ‘int main()’:
-/main.cpp:221:78: error: expected primary-expression before ‘]’ token
-         std::cerr<<reader.receivedPieces[i].message<<"   "<<reader.dataArray[].dataIndex<<std::endl;
-                                                                              ^
 /main.cpp:130:9: warning: unused variable ‘befutott’ [-Wunused-variable]
      int befutott=0;
          ^~~~~~~~
