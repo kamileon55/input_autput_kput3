@@ -206,7 +206,7 @@ int main()
         {
             if(reader.receivedPieces[j].index>reader.receivedPieces[j+1].index)
             {
-                swap(reader.receivedPieces[j], reader.receivedPieces[j+1]);
+                swap(&reader.receivedPieces[j], &reader.receivedPieces[j+1]);
             }
         }
     }
@@ -226,7 +226,7 @@ int main()
         */
         
        
-      
+      cerr<<"Meret: "<<reader.receivedPieces.size()<<std::endl;
         for( int i=0; i<reader.receivedPieces.size(); i++)
         {
             solution=solution+reader.receivedPieces[i].message;
