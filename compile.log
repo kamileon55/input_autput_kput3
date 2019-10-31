@@ -1,13 +1,10 @@
 /main.cpp: In function ‘int main()’:
 /main.cpp:169:49: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
                  if(reader.dataArray[i].dataIndex<min)
-/main.cpp:208:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
-     for(int i=0; i<reader.receivedPieces.size()-1; i++)
-                  ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:210:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
-         for (int j=0; j<reader.receivedPieces.size()-i-1; j++)
-                       ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:235:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:218:57: error: ‘class std::vector<MessagePiece>’ has no member named ‘index’
+     */std::sort(azenyem.begin(), azenyem.end(), azenyem.index);
+                                                         ^~~~~
+/main.cpp:236:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for( int i=0; i<reader.receivedPieces.size(); i++)
                        ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 /main.cpp:130:9: warning: unused variable ‘befutott’ [-Wunused-variable]
