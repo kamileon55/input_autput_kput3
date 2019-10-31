@@ -105,7 +105,7 @@ void readData(Reader& to) // void barmi(int a)
           //  std::cerr<<msg.message<<"   "<<msg.index<<std::endl;
             if(msg.message.size()==0)
             {
-                break;
+                to.hasEnd = true;
             }
             azenyem.push_back(msg);
             
