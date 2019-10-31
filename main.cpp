@@ -97,7 +97,7 @@ void readData(Reader& to) // void barmi(int a)
         }
         else if (!line.rfind("MESSAGE"))
         {
-            std::cerr<<"MESSAGE"<<std::endl;
+          //  std::cerr<<"MESSAGE"<<std::endl;
 
             MessagePiece & msg = to.receivedPieces.emplace_back();
 
@@ -204,17 +204,18 @@ int main()
 
 
     }
-
+/*
     for(long unsigned int i=0; i<reader.receivedPieces.size()-1; i++)
     {
         for (long unsigned int j=0; j<reader.receivedPieces.size()-i-1; j++)
         {
-            if(reader.dataArray[j].dataIndex>reader.dataArray[j+1].dataIndex)
+            if(reader.receivedPieces[j].Index>reader.dataArray[j+1].dataIndex)
             {
                 swap(&reader.receivedPieces[j], &reader.receivedPieces[j+1]);
             }
         }
     }
+    */
     for( long unsigned int i=0; i<reader.receivedPieces.size(); i++)
     {
         // solution=solution+reader.receivedPieces[i].message;
@@ -234,8 +235,8 @@ int main()
                     }
                 }
         }
-        */
-
+        
+*/
     /*
     std::cerr<<"Meret: "<<reader.receivedPieces.size()<<std::endl;
       for( int i=0; i<reader.receivedPieces.size(); i++)
