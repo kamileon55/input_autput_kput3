@@ -1,12 +1,16 @@
+/main.cpp: In function ‘void readData(Reader&)’:
+/main.cpp:106:21: error: ‘struct MessagePiece’ has no member named ‘pop_back’
+                 msg.pop_back();
+                     ^~~~~~~~
 /main.cpp: In function ‘int main()’:
-/main.cpp:165:49: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
+/main.cpp:166:49: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
                  if(reader.dataArray[i].dataIndex<min)
-/main.cpp:202:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:203:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
      for(int i=0; i<reader.receivedPieces.size()-1; i++)
                   ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:204:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:205:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for (int j=0; j<reader.receivedPieces.size()-i-1; j++)
                        ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:126:9: warning: unused variable ‘befutott’ [-Wunused-variable]
+/main.cpp:127:9: warning: unused variable ‘befutott’ [-Wunused-variable]
      int befutott=0;
          ^~~~~~~~
