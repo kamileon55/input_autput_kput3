@@ -213,7 +213,7 @@ int main()
         
        
         std::cerr<<"Belelep"<<std::endl;
-        for(int i=0; i<reader.receivedPieces.size(); i++)
+        for(long unsigned int i=0; i<reader.receivedPieces.size(); i++)
         {
             solution=solution+reader.receivedPieces[i].message;
             std::cerr<< reader.receivedPieces[i].index<<"   "<<reader.receivedPieces[i].message;
