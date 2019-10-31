@@ -52,7 +52,7 @@ struct Reader
 void readData(Reader& to) // void barmi(int a)
 {
     std::string line;
-    to.dataArray.clear();
+    //to.dataArray.clear();
     //  to.receivedPieces.clear();
 
     while (std::getline(std::cin, line))
@@ -153,15 +153,28 @@ int main()
             {
                 if(reader.routerBits[3][i]==1)
                 {
-                    for(int j=0; j<reader.dataArray.size(); j++)
+                    if(reader.dataArray.size()==0)
                     {
-                        if(reader.dataArray[j].currRouter!=i)
-                        {
                             command= "CREATE ";
                             command=command+std::to_string(i)+" "+std::to_string(n);
                                 n++;
                             break;
-                        }
+                    }
+                    else
+                    {
+                        
+                    
+                            for(int j=0; j<reader.dataArray.size(); j++)
+                            {
+                              
+                                if(reader.dataArray[j].currRouter==i && reader.dataArray[j].currStoreId!=i)
+                                {
+                                    command= "CREATE ";
+                                    command=command+std::to_string(i)+" "+std::to_string(n);
+                                        n++;
+                                    break;
+                                }
+                            }
                     }
                     
                 }
