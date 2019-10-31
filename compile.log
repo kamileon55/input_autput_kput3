@@ -1,12 +1,7 @@
 /main.cpp: In function ‘int main()’:
-/main.cpp:150:49: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
-                 if(reader.dataArray[i].dataIndex<min)
-/main.cpp:187:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
-     for(int i=0; i<reader.receivedPieces.size()-1; i++)
-                  ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:189:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
-         for (int j=0; j<reader.receivedPieces.size()-i-1; j++)
-                       ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:111:9: warning: unused variable ‘befutott’ [-Wunused-variable]
+/main.cpp:221:78: error: expected primary-expression before ‘]’ token
+         std::cerr<<reader.receivedPieces[i].message<<"   "<<reader.dataArray[].dataIndex<<std::endl;
+                                                                              ^
+/main.cpp:130:9: warning: unused variable ‘befutott’ [-Wunused-variable]
      int befutott=0;
          ^~~~~~~~
