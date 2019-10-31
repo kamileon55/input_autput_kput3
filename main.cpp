@@ -204,18 +204,18 @@ int main()
         
         
     }
-   /* 
-    for(int i=0; i<reader.receivedPieces.size()-1; i++)
+   
+    for(int i=0; i<azenyem.size()-1; i++)
     {
-        for (int j=0; j<reader.receivedPieces.size()-i-1; j++)
+        for (int j=0; j<azenyem.size()-i-1; j++)
         {
-            if(reader.receivedPieces[j].index>reader.receivedPieces[j+1].index)
+            if(azenyem.index>azenyem[j+1].index)
             {
-                swap(&reader.receivedPieces[j], &reader.receivedPieces[j+1]);
+                swap(azenyem[j], azenyem[j+1]);
             }
         }
     }
-    */std::sort(azenyem.begin(), azenyem.end(), index);
+    
     std::cerr<<"Megtortent"<<std::endl;/*
         for(int i=0; i<reader.receivedPieces.size(); i++)
             {
