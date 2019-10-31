@@ -245,7 +245,7 @@ int main()
              {
                 for (long unsigned int j=0; j<azenyem.size()-i-1; j++)
                 {
-                    if(azenyem[j].index>reader.azenyem[j+1].index)
+                    if(azenyem[j].index>azenyem[j+1].index)
                     {
                         swap(&azenyem[j], &azenyem[j+1]);
                     }
