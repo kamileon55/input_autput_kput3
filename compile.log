@@ -1,9 +1,29 @@
 /main.cpp: In function ‘int main()’:
 /main.cpp:169:49: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
                  if(reader.dataArray[i].dataIndex<min)
-/main.cpp:218:57: error: ‘class std::vector<MessagePiece>’ has no member named ‘index’
-     */std::sort(azenyem.begin(), azenyem.end(), azenyem.index);
-                                                         ^~~~~
+/main.cpp:218:54: error: no matching function for call to ‘sort(std::vector<MessagePiece>::iterator, std::vector<MessagePiece>::iterator, <unresolved overloaded function type>)’
+     */std::sort(azenyem.begin(), azenyem.end(), index);
+                                                      ^
+In file included from /usr/include/c++/8/algorithm:62,
+                 from /usr/include/x86_64-linux-gnu/c++/8/bits/stdc++.h:65,
+                 from /main.cpp:7:
+/usr/include/c++/8/bits/stl_algo.h:4824:5: note: candidate: ‘template<class _RAIter> void std::sort(_RAIter, _RAIter)’
+     sort(_RandomAccessIterator __first, _RandomAccessIterator __last)
+     ^~~~
+/usr/include/c++/8/bits/stl_algo.h:4824:5: note:   template argument deduction/substitution failed:
+/main.cpp:218:54: note:   candidate expects 2 arguments, 3 provided
+     */std::sort(azenyem.begin(), azenyem.end(), index);
+                                                      ^
+In file included from /usr/include/c++/8/algorithm:62,
+                 from /usr/include/x86_64-linux-gnu/c++/8/bits/stdc++.h:65,
+                 from /main.cpp:7:
+/usr/include/c++/8/bits/stl_algo.h:4854:5: note: candidate: ‘template<class _RAIter, class _Compare> void std::sort(_RAIter, _RAIter, _Compare)’
+     sort(_RandomAccessIterator __first, _RandomAccessIterator __last,
+     ^~~~
+/usr/include/c++/8/bits/stl_algo.h:4854:5: note:   template argument deduction/substitution failed:
+/main.cpp:218:54: note:   couldn't deduce template parameter ‘_Compare’
+     */std::sort(azenyem.begin(), azenyem.end(), index);
+                                                      ^
 /main.cpp:236:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for( int i=0; i<reader.receivedPieces.size(); i++)
                        ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
