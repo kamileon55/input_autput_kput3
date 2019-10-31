@@ -1,7 +1,7 @@
 /main.cpp: In function ‘void readData(Reader&)’:
-/main.cpp:106:21: error: ‘struct MessagePiece’ has no member named ‘pop_back’
-                 msg.pop_back();
-                     ^~~~~~~~
+/main.cpp:106:21: error: expected unqualified-id before ‘;’ token
+                 msg.;
+                     ^
 /main.cpp: In function ‘int main()’:
 /main.cpp:166:49: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
                  if(reader.dataArray[i].dataIndex<min)
