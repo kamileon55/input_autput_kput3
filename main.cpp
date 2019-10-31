@@ -158,31 +158,20 @@ int main()
                    
                         
                     
-                               int alfa=0;
-                              for(int j=0; j<reader.dataArray.size(); j++)
-                              {
-                                  
-                                  if(reader.dataArray[j].currRouter==3 && reader.dataArray[j].currStoreId==i)
-                                  {
-                                      alfa=1;
-                                  }
-                              
-                                
-                      
-                              }
-                              if(alfa==0)
-                              {
+                            
+                             
                                  command= "CREATE ";
                                 command=command+std::to_string(i)+" "+std::to_string(n);
                                 n++;
                                 break;
-                              }
+                              
                               
                               
                            
-                    }
+                    
                     
                 }
+            }
 
             
         }
