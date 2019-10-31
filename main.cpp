@@ -161,7 +161,7 @@ int main()
         }
         if(reader.receivedPieces.size()!=0)
         {
-            std::cerr << "Recived pieces number " << reader.receivedPieces[reader.receivedPieces.size()-1].index << std::endl;
+          //  std::cerr << "Recived pieces number " << reader.receivedPieces[reader.receivedPieces.size()-1].index << std::endl;
             
         }
         
