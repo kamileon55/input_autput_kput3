@@ -240,7 +240,23 @@ int main()
         {
             std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
         }
-
+        
+            for(long unsigned int i=0; i<azenyem.size()-1; i++)
+             {
+                for (long unsigned int j=0; j<azenyem.size()-i-1; j++)
+                {
+                    if(azenyem[j].Index>reader.azenyem[j][j+1].Index)
+                    {
+                        swap(&azenyem[j], &azenyem[j+1]);
+                    }
+                }
+             }
+    std::cerr<<"Betaprotokol "<<std::endl;
+    for(int i=0; i<azenyem.size(); i++)
+        {
+            std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
+        }
+    
     /*
     std::cerr<<"Meret: "<<reader.receivedPieces.size()<<std::endl;
       for( int i=0; i<reader.receivedPieces.size(); i++)
