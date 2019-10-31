@@ -5,14 +5,11 @@
 #include <sstream>
 #include <cstring>
 #include <bits/stdc++.h>
-#include <vector>
 enum class Direction : char
 {
     LEFT = 'l',
     RIGHT = 'r'
 };
-
- 
 
 struct Data
 {
@@ -30,13 +27,7 @@ struct MessagePiece
     int index;
     std::string message;
 };
-std::vector<MessagePiece> azenyem;
-void swap(MessagePiece *xp, MessagePiece *yp)  
-{  
-    MessagePiece temp = *xp;  
-    *xp = *yp;  
-    *yp = temp;  
-} 
+
 struct Reader
 {
     std::array<unsigned int, 3> data;
@@ -47,13 +38,13 @@ struct Reader
     bool hasEnd;
 };
 
- 
-  
+
+
 void readData(Reader& to) // void barmi(int a)
 {
     std::string line;
     to.dataArray.clear();
-  //  to.receivedPieces.clear();
+    //  to.receivedPieces.clear();
 
     while (std::getline(std::cin, line))
     {
@@ -98,18 +89,8 @@ void readData(Reader& to) // void barmi(int a)
         else if (!line.rfind("MESSAGE"))
         {
             std::cerr<<"MESSAGE"<<std::endl;
-            
-            MessagePiece & msg = to.receivedPieces.emplace_back();
-            
+            MessagePiece& msg = to.receivedPieces.emplace_back();
             std::istringstream(std::move(line).substr(8)) >> msg.index >> msg.message;
-          //  std::cerr<<msg.message<<"   "<<msg.index<<std::endl;
-            if(msg.message.size()==0)
-            {
-              //  to.hasEnd = true;
-            }
-            azenyem.push_back(msg);
-            
-            
         }
         else
         {
@@ -125,102 +106,96 @@ void readData(Reader& to) // void barmi(int a)
 int main()
 {
     char teamToken[] = "tqEzVLvbq6wz_uWr6HS1";
-   //  int seed = 0;
+    int seed = 0;
     int n=0;
     int befutott=0;
     std::string solution;
     std::cout << "START " << teamToken
-             //  << " " << seed
+              << " " << seed
               << std::endl;
 
     Reader reader = {};
-    
-   std::string command;
-    
+
+    std::string command;
+
     while(true)
     {
         readData(reader);
-        
+
         if (reader.hasEnd)
             break;
 
         // TODO logika jobb mint a semmitteves
         if(reader.dataArray.size()<5)
         {
-            
-        
-                for(int i=0; i<9; i++)
+
+
+            for(int i=0; i<9; i++)
+            {
+                if(reader.routerBits[3][i]==1)
                 {
-                    if(reader.routerBits[3][i]==1)
-                    {
-                        command= "CREATE ";
-                        command=command+std::to_string(i)+" "+std::to_string(n);
-                        n++;
-                        break;
-                    }
-                    
+                    command= "CREATE ";
+                    command=command+std::to_string(i)+" "+std::to_string(n);
+                    n++;
+                    break;
                 }
+
+            }
         }
         else
         {
-            long unsigned int min=1000;
+            int min=1000;
             for(int i=0; i<5; i++)
             {
                 if(reader.dataArray[i].dataIndex<min)
                 {
                     min=reader.dataArray[i].dataIndex;
                     command= "MOVE ";
-                        command=command+std::to_string(reader.dataArray[i].currRouter)+" "+"^";
-                        break;
+                    command=command+std::to_string(reader.dataArray[i].currRouter)+" "+"^";
+                    break;
                 }
-                
+
             }
-            
-            
+
+
         }
         if(reader.receivedPieces.size()!=0)
         {
-          //  std::cerr << "Recived pieces number " << reader.receivedPieces[reader.receivedPieces.size()-1].index << std::endl;
-            
-        }
-        
-     
-        
-        // Ha szeretnetek debug uzenetet kuldeni, akkor megtehetitek.
-        // Vigyazzatok, mert maximalisan csak 1024 * 1024 bajtot kaptok vissza
-     //   std::cerr << "Send " << command << std::endl;
+            //  std::cerr << "Recived pieces number " << reader.receivedPieces[reader.receivedPieces.size()-1].index << std::endl;
 
-        // standard out-ra meg mehet ki a megoldas! Mas ne irodjon ide ki ;)
-        
-        
-            
-            std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
-            if(reader.receivedPieces.size()>100)
+        }
+
+        if(reader.receivedPieces.size()>100)
         {
             break;
         }
-            
-        
-        
-        
+
+        // Ha szeretnetek debug uzenetet kuldeni, akkor megtehetitek.
+        // Vigyazzatok, mert maximalisan csak 1024 * 1024 bajtot kaptok vissza
+        //   std::cerr << "Send " << command << std::endl;
+
+        // standard out-ra meg mehet ki a megoldas! Mas ne irodjon ide ki ;)
+
+
+
+        std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
+
+
+
+
     }
-  
-    for(long unsigned int i=0; i<reader.receivedPieces.size()-1; i++)
+    for(int i=0; i<reader.receivedPieces.size()-1; i++)
     {
-        for (long unsigned int j=0; j<reader.receivedPieces.size()-i-1; j++)
+        for (int j=0; j<reader.receivedPieces.size()-i-1; j++)
         {
-            if(reader.dataArray[j].dataIndex>reader.dataArray[j+1].dataIndex)
+            if(reader.receivedPieces[j].index>reader.receivedPieces[j+1].index)
             {
-                swap(&reader.receivedPieces[j], &reader.receivedPieces[j+1]);
+                MessagePiece temp=reader.receivedPieces[j];
+                reader.receivedPieces[j]=reader.receivedPieces[j+1];
+                reader.receivedPieces[j+1]=temp;
             }
         }
     }
-     for( long unsigned int i=0; i<reader.receivedPieces.size(); i++)
-        {
-           // solution=solution+reader.receivedPieces[i].message;
-           std::cerr<<reader.receivedPieces[i].message<<"   "<<reader.dataArray[i].dataIndex<<std::endl;
-           solution=solution+reader.receivedPieces[i].message;// std::cerr<< solution;
-        }
     std::cerr<<"Megtortent"<<std::endl;/*
         for(int i=0; i<reader.receivedPieces.size(); i++)
             {
@@ -235,17 +210,15 @@ int main()
                 }
         }
         */
-        
-      /* 
-      std::cerr<<"Meret: "<<reader.receivedPieces.size()<<std::endl;
-        for( int i=0; i<reader.receivedPieces.size(); i++)
-        {
-            solution=solution+reader.receivedPieces[i].message;
-           // std::cerr<< reader.receivedPieces[i].index<<"       -----     "<<reader.receivedPieces[i].message;
-            std::cerr<< solution;
-        }
-        */
-          command="SOLUTION ";
-    std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command <<solution<<std::endl;
+
+
+    std::cerr<<"Belelep"<<std::endl;
+    for(long unsigned int i=0; i<reader.receivedPieces.size(); i++)
+    {
+        solution=solution+reader.receivedPieces[i].message;
+        std::cerr<< reader.receivedPieces[i].index<<"   "<<reader.receivedPieces[i].message;
+    }
+    std::cout << "SOLUTION "<<solution;
     std::cerr << "END (latest message): " << reader.previous << std::endl;
 }
+
