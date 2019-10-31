@@ -227,10 +227,10 @@ int main()
         
        
       
-        for(long unsigned int i=0; i<reader.receivedPieces.size(); i++)
+        for( int i=0; i<reader.receivedPieces.size(); i++)
         {
             solution=solution+reader.receivedPieces[i].message;
-            std::cerr<< reader.receivedPieces[i].index<<"       -----     "<<reader.receivedPieces[i].message;
+           // std::cerr<< reader.receivedPieces[i].index<<"       -----     "<<reader.receivedPieces[i].message;
             std::cerr<< solution;
         }
           std::cerr<<"Belelep"<<std::endl;
