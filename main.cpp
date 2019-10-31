@@ -215,7 +215,7 @@ int main()
             }
         }
     }
-    */std::sort(azenyem.begin(), azenyem.end(), azenyem.index);
+    */std::sort(azenyem.begin(), azenyem.end(), index);
     std::cerr<<"Megtortent"<<std::endl;/*
         for(int i=0; i<reader.receivedPieces.size(); i++)
             {
