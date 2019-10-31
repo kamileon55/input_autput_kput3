@@ -190,9 +190,9 @@ int main()
         {
             if(reader.receivedPieces[j].index>reader.receivedPieces[j+1].index)
             {
-                MessagePiece *temp= *reader.receivedPieces[j];
-                *reader.receivedPieces[j]= *reader.receivedPieces[j+1];
-                *reader.receivedPieces[j+1]= *temp;
+                MessagePiece temp= reader.receivedPieces[j];
+                reader.receivedPieces[j]= reader.receivedPieces[j+1];
+                reader.receivedPieces[j+1]= temp;
             }
         }
     }
