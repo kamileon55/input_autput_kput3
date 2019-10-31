@@ -1,13 +1,13 @@
 /main.cpp: In function ‘int main()’:
 /main.cpp:150:49: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
                  if(reader.dataArray[i].dataIndex<min)
-/main.cpp:187:20: error: ‘receivedPieces’ was not declared in this scope
-     for(int i=0; i<receivedPieces.size()-1; i++)
-                    ^~~~~~~~~~~~~~
-/main.cpp:187:20: note: suggested alternative: ‘MessagePiece’
-     for(int i=0; i<receivedPieces.size()-1; i++)
-                    ^~~~~~~~~~~~~~
-                    MessagePiece
+/main.cpp:187:21: error: ‘receivedPieces’ was not declared in this scope
+     for(int i=0; i<(receivedPieces.size())-1; i++)
+                     ^~~~~~~~~~~~~~
+/main.cpp:187:21: note: suggested alternative: ‘MessagePiece’
+     for(int i=0; i<(receivedPieces.size())-1; i++)
+                     ^~~~~~~~~~~~~~
+                     MessagePiece
 /main.cpp:216:23: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for(int i=0; i<reader.receivedPieces.size(); i++)
                       ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
