@@ -100,7 +100,7 @@ void readData(Reader& to) // void barmi(int a)
             MessagePiece & msg = to.receivedPieces.emplace_back();
             
             std::istringstream(std::move(line).substr(8)) >> msg.index >> msg.message;
-            std::cerr<<msg.message<<"   "<<std::endl;
+            std::cerr<<msg.message<<"   "<<msg.index<<std::endl;
             if(msg.message.size()==0)
             {
                 break;
