@@ -1,13 +1,13 @@
 /main.cpp: In function ‘int main()’:
-/main.cpp:162:45: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
-                               for(int j=0; j<reader.dataArray.size(); j++)
-                                            ~^~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:165:106: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
-                                   if(reader.dataArray[j].currRouter==3 && reader.dataArray[j].currStoreId==i)
-/main.cpp:265:23: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
-         for(int i=0; i<azenyem.size(); i++)
-                      ~^~~~~~~~~~~~~~~
-/main.cpp:281:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:162:35: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+                     for(int j=0; j<reader.dataArray.size(); j++)
+                                  ~^~~~~~~~~~~~~~~~~~~~~~~~
+/main.cpp:165:96: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
+                         if(reader.dataArray[j].currRouter==3 && reader.dataArray[j].currStoreId==i)
+/main.cpp:266:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+     for(int i=0; i<azenyem.size(); i++)
+                  ~^~~~~~~~~~~~~~~
+/main.cpp:282:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
      for(int i=0; i<azenyem.size(); i++)
                   ~^~~~~~~~~~~~~~~
 /main.cpp:130:9: warning: unused variable ‘befutott’ [-Wunused-variable]
