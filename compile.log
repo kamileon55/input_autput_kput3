@@ -2,6 +2,16 @@
 /main.cpp:239:23: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for(int i=0; i<azenyem.size(); i++)
                       ~^~~~~~~~~~~~~~~
+/main.cpp:248:35: error: ‘__gnu_cxx::__alloc_traits<std::allocator<MessagePiece>, MessagePiece>::value_type’ {aka ‘struct MessagePiece’} has no member named ‘Index’; did you mean ‘index’?
+                     if(azenyem[j].Index>reader.azenyem[j][j+1].Index)
+                                   ^~~~~
+                                   index
+/main.cpp:248:48: error: ‘struct Reader’ has no member named ‘azenyem’
+                     if(azenyem[j].Index>reader.azenyem[j][j+1].Index)
+                                                ^~~~~~~
+/main.cpp:255:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+     for(int i=0; i<azenyem.size(); i++)
+                  ~^~~~~~~~~~~~~~~
 /main.cpp:130:9: warning: unused variable ‘befutott’ [-Wunused-variable]
      int befutott=0;
          ^~~~~~~~
