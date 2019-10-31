@@ -153,28 +153,33 @@ int main()
             {
                 if(reader.routerBits[3][i]==1)
                 {
-                    if(reader.dataArray.size()==0)
-                    {
-                            command= "CREATE ";
-                            command=command+std::to_string(i)+" "+std::to_string(n);
-                                n++;
-                            break;
-                    }
-                    else
-                    {
+                    
+                          
+                   
                         
                     
-                            for(int j=0; j<reader.dataArray.size(); j++)
-                            {
+                               int alfa=0;
+                              for(int j=0; j<reader.dataArray.size(); j++)
+                              {
+                                  
+                                  if(reader.dataArray[j].currRouter==3 && reader.dataArray[j].currStoreId==i)
+                                  {
+                                      alfa=1;
+                                  }
                               
-                                if(reader.dataArray[j].currRouter==3 && reader.dataArray[j].currStoreId!=i)
-                                {
-                                    command= "CREATE ";
-                                    command=command+std::to_string(i)+" "+std::to_string(n);
-                                        n++;
-                                    break;
-                                }
-                            }
+                                
+                      
+                              }
+                              if(alfa==0)
+                              {
+                                 command= "CREATE ";
+                                command=command+std::to_string(i)+" "+std::to_string(n);
+                                n++;
+                                break;
+                              }
+                              
+                              
+                           
                     }
                     
                 }
