@@ -1,16 +1,12 @@
-/main.cpp: In function ‘void readData(Reader&)’:
-/main.cpp:100:42: error: ‘class std::vector<MessagePiece>’ has no member named ‘message’
-             std::cerr<<to.receivedPieces.message<<"   "<<std::endl;
-                                          ^~~~~~~
 /main.cpp: In function ‘int main()’:
-/main.cpp:158:49: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
+/main.cpp:159:49: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
                  if(reader.dataArray[i].dataIndex<min)
-/main.cpp:195:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:196:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
      for(int i=0; i<reader.receivedPieces.size()-1; i++)
                   ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:197:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:198:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for (int j=0; j<reader.receivedPieces.size()-i-1; j++)
                        ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:119:9: warning: unused variable ‘befutott’ [-Wunused-variable]
+/main.cpp:120:9: warning: unused variable ‘befutott’ [-Wunused-variable]
      int befutott=0;
          ^~~~~~~~
