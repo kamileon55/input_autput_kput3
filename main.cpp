@@ -255,6 +255,7 @@ int main()
     for(int i=0; i<azenyem.size(); i++)
         {
             std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
+            solution=solution+azenyem[i].message;
         }
     
     /*
