@@ -1,3 +1,7 @@
+/main.cpp: In function ‘void readData(Reader&)’:
+/main.cpp:110:13: error: ‘azenyem’ was not declared in this scope
+             azenyem.push_back(msg);
+             ^~~~~~~
 /main.cpp: In function ‘int main()’:
 /main.cpp:130:9: warning: unused variable ‘befutott’ [-Wunused-variable]
      int befutott=0;
