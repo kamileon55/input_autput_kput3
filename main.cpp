@@ -204,7 +204,7 @@ int main()
         
         
     }
-    
+   /* 
     for(int i=0; i<reader.receivedPieces.size()-1; i++)
     {
         for (int j=0; j<reader.receivedPieces.size()-i-1; j++)
@@ -215,6 +215,7 @@ int main()
             }
         }
     }
+    */std::sort(azenyem.begin(), azenyem.end(), azenyem.index);
     std::cerr<<"Megtortent"<<std::endl;/*
         for(int i=0; i<reader.receivedPieces.size(); i++)
             {
