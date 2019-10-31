@@ -149,28 +149,16 @@ int main()
         {
 
 
-            for(int i=0; i<9; i++)
+     for(int i=0; i<9; i++)
             {
                 if(reader.routerBits[3][i]==1)
                 {
-                    
-                          
-                   
-                        
-                    
-                            
-                             
-                                 command= "CREATE ";
-                                command=command+std::to_string(i)+" "+std::to_string(n);
-                                n++;
-                                break;
-                              
-                              
-                              
-                           
-                    
-                    
+                    command= "CREATE ";
+                    command=command+std::to_string(i)+" "+std::to_string(n);
+                    n++;
+                    break;
                 }
+
             }
 
             
