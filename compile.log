@@ -7,14 +7,6 @@
 /main.cpp:205:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for (int j=0; j<reader.receivedPieces.size()-i-1; j++)
                        ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:229:7: error: ‘cerr’ was not declared in this scope
-       cerr<<"Meret: "<<reader.receivedPieces.size()<<std::endl;
-       ^~~~
-/main.cpp:229:7: note: suggested alternative:
-In file included from /main.cpp:4:
-/usr/include/c++/8/iostream:62:18: note:   ‘std::cerr’
-   extern ostream cerr;  /// Linked to standard error (unbuffered)
-                  ^~~~
 /main.cpp:230:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for( int i=0; i<reader.receivedPieces.size(); i++)
                        ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~

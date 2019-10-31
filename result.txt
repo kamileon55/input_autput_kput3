@@ -1,5 +1,6 @@
 {
-  "compile_id": "5409",
-  "git_hash": "2fc98f77839575ad504228806b49b1172b9d8d2d",
-  "compile_success": false
+  "compile_id": "5410",
+  "git_hash": "ec2d5d5a8631ae9295ce1cfdb645b5fde61a1ce5",
+  "compile_success": true,
+  "result": "{\"gameID\":54439,\"seed\":0,\"score\":{\"success\":false,\"point\":655,\"size\":40}}\n"
 }
