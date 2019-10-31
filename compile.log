@@ -7,6 +7,14 @@
 /main.cpp:189:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for (int j=0; j<reader.receivedPieces.size()-i-1; j++)
                        ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/main.cpp:193:37: error: no match for ‘operator*’ (operand type is ‘__gnu_cxx::__alloc_traits<std::allocator<MessagePiece>, MessagePiece>::value_type’ {aka ‘MessagePiece’})
+                 MessagePiece *temp= *reader.receivedPieces[j];
+/main.cpp:194:17: error: no match for ‘operator*’ (operand type is ‘__gnu_cxx::__alloc_traits<std::allocator<MessagePiece>, MessagePiece>::value_type’ {aka ‘MessagePiece’})
+                 *reader.receivedPieces[j]= *reader.receivedPieces[j+1];
+/main.cpp:194:44: error: no match for ‘operator*’ (operand type is ‘__gnu_cxx::__alloc_traits<std::allocator<MessagePiece>, MessagePiece>::value_type’ {aka ‘MessagePiece’})
+                 *reader.receivedPieces[j]= *reader.receivedPieces[j+1];
+/main.cpp:195:17: error: no match for ‘operator*’ (operand type is ‘__gnu_cxx::__alloc_traits<std::allocator<MessagePiece>, MessagePiece>::value_type’ {aka ‘MessagePiece’})
+                 *reader.receivedPieces[j+1]= *temp;
 /main.cpp:111:9: warning: unused variable ‘befutott’ [-Wunused-variable]
      int befutott=0;
          ^~~~~~~~
