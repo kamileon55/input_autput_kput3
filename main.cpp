@@ -218,7 +218,7 @@ int main()
      for( long unsigned int i=0; i<reader.receivedPieces.size(); i++)
         {
            // solution=solution+reader.receivedPieces[i].message;
-           std::cerr<<reader.receivedPieces[i].message<<"   "<<reader.receivedPieces[i].index<<std::endl;
+           std::cerr<<reader.receivedPieces[i].message<<"   "<<reader.dataArray[i].dataIndex<<std::endl;
            solution=solution+reader.receivedPieces[i].message;// std::cerr<< solution;
         }
     std::cerr<<"Megtortent"<<std::endl;/*
