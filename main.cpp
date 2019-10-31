@@ -204,7 +204,7 @@ int main()
         
         
     }
-  /*
+  
     for(int i=0; i<reader.receivedPieces.size()-1; i++)
     {
         for (int j=0; j<reader.receivedPieces.size()-i-1; j++)
@@ -214,7 +214,7 @@ int main()
                 swap(&reader.receivedPieces[j], &reader.receivedPieces[j+1]);
             }
         }
-    }*/
+    }
      for( int i=0; i<reader.receivedPieces.size(); i++)
         {
            // solution=solution+reader.receivedPieces[i].message;
@@ -246,6 +246,6 @@ int main()
         }
         */
           command="SOLUTION ";
-    std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command <<solution<< std::endl;
+    std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command <<solution<<" "<<std::endl;
     std::cerr << "END (latest message): " << reader.previous << std::endl;
 }
