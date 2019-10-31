@@ -226,7 +226,7 @@ int main()
         */
         
        
-      cerr<<"Meret: "<<reader.receivedPieces.size()<<std::endl;
+      std::cerr<<"Meret: "<<reader.receivedPieces.size()<<std::endl;
         for( int i=0; i<reader.receivedPieces.size(); i++)
         {
             solution=solution+reader.receivedPieces[i].message;
