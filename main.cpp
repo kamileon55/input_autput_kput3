@@ -5,11 +5,14 @@
 #include <sstream>
 #include <cstring>
 #include <bits/stdc++.h>
+#include <vector>
 enum class Direction : char
 {
     LEFT = 'l',
     RIGHT = 'r'
 };
+
+
 
 struct Data
 {
@@ -27,7 +30,13 @@ struct MessagePiece
     int index;
     std::string message;
 };
-
+std::vector<MessagePiece> azenyem;
+void swap(MessagePiece *xp, MessagePiece *yp)
+{
+    MessagePiece temp = *xp;
+    *xp = *yp;
+    *yp = temp;
+}
 struct Reader
 {
     std::array<unsigned int, 3> data;
@@ -89,8 +98,18 @@ void readData(Reader& to) // void barmi(int a)
         else if (!line.rfind("MESSAGE"))
         {
             std::cerr<<"MESSAGE"<<std::endl;
-            MessagePiece& msg = to.receivedPieces.emplace_back();
+
+            MessagePiece & msg = to.receivedPieces.emplace_back();
+
             std::istringstream(std::move(line).substr(8)) >> msg.index >> msg.message;
+            std::cerr<<msg.message<<"   "<<msg.index<<std::endl;
+            if(msg.message.size()==0)
+            {
+                //  to.hasEnd = true;
+            }
+            azenyem.push_back(msg);
+
+
         }
         else
         {
@@ -106,12 +125,12 @@ void readData(Reader& to) // void barmi(int a)
 int main()
 {
     char teamToken[] = "tqEzVLvbq6wz_uWr6HS1";
-    int seed = 0;
+    //  int seed = 0;
     int n=0;
     int befutott=0;
     std::string solution;
     std::cout << "START " << teamToken
-              << " " << seed
+              //  << " " << seed
               << std::endl;
 
     Reader reader = {};
@@ -144,7 +163,7 @@ int main()
         }
         else
         {
-            int min=1000;
+            long unsigned int min=1000;
             for(int i=0; i<5; i++)
             {
                 if(reader.dataArray[i].dataIndex<min)
@@ -165,10 +184,7 @@ int main()
 
         }
 
-        if(reader.receivedPieces.size()>100)
-        {
-            break;
-        }
+
 
         // Ha szeretnetek debug uzenetet kuldeni, akkor megtehetitek.
         // Vigyazzatok, mert maximalisan csak 1024 * 1024 bajtot kaptok vissza
@@ -179,22 +195,31 @@ int main()
 
 
         std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
+        if(reader.receivedPieces.size()>100)
+        {
+            break;
+        }
 
 
 
 
     }
-    for(int i=0; i<reader.receivedPieces.size()-1; i++)
+
+    for(long unsigned int i=0; i<reader.receivedPieces.size()-1; i++)
     {
-        for (int j=0; j<reader.receivedPieces.size()-i-1; j++)
+        for (long unsigned int j=0; j<reader.receivedPieces.size()-i-1; j++)
         {
-            if(reader.receivedPieces[j].index>reader.receivedPieces[j+1].index)
+            if(reader.dataArray[j].dataIndex>reader.dataArray[j+1].dataIndex)
             {
-                MessagePiece temp=reader.receivedPieces[j];
-                reader.receivedPieces[j]=reader.receivedPieces[j+1];
-                reader.receivedPieces[j+1]=temp;
+                swap(&reader.receivedPieces[j], &reader.receivedPieces[j+1]);
             }
         }
+    }
+    for( long unsigned int i=0; i<reader.receivedPieces.size(); i++)
+    {
+        // solution=solution+reader.receivedPieces[i].message;
+        std::cerr<<reader.receivedPieces[i].message<<"   "<<reader.dataArray[].dataIndex<<std::endl;
+        solution=solution+reader.receivedPieces[i].message;// std::cerr<< solution;
     }
     std::cerr<<"Megtortent"<<std::endl;/*
         for(int i=0; i<reader.receivedPieces.size(); i++)
@@ -211,14 +236,16 @@ int main()
         }
         */
 
-
-    std::cerr<<"Belelep"<<std::endl;
-    for(long unsigned int i=0; i<reader.receivedPieces.size(); i++)
-    {
-        solution=solution+reader.receivedPieces[i].message;
-        std::cerr<< reader.receivedPieces[i].index<<"   "<<reader.receivedPieces[i].message;
-    }
-    std::cout << "SOLUTION "<<solution;
+    /*
+    std::cerr<<"Meret: "<<reader.receivedPieces.size()<<std::endl;
+      for( int i=0; i<reader.receivedPieces.size(); i++)
+      {
+          solution=solution+reader.receivedPieces[i].message;
+         // std::cerr<< reader.receivedPieces[i].index<<"       -----     "<<reader.receivedPieces[i].message;
+          std::cerr<< solution;
+      }
+      */
+    command="SOLUTION ";
+    std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command <<solution<<std::endl;
     std::cerr << "END (latest message): " << reader.previous << std::endl;
 }
-
