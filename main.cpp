@@ -108,6 +108,7 @@ int main()
     char teamToken[] = "tqEzVLvbq6wz_uWr6HS1";
      int seed = 0;
     int n=0;
+    int tarolo;
     int befutott=0;
     std::string solution;
     std::cout << "START " << teamToken
@@ -181,12 +182,12 @@ int main()
             std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
             
         
-        
+       int tarolo= receivedPieces.size();
         
     }
-    for(int i=0; i<(receivedPieces.size())-1; i++)
+    for(int i=0; i<tarolo-1; i++)
     {
-        for (int j=0; j<(receivedPieces.size())-i-1; j++)
+        for (int j=0; j<tarolo-i-1; j++)
         {
             if(receivedPieces[j].index>receivedPieces[j+1].index)
             {
