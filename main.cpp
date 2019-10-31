@@ -163,7 +163,7 @@ int main()
         }
         else
         {
-            int min=1000;
+            long unsigned int min=1000;
             for(int i=0; i<5; i++)
             {
                 if(reader.dataArray[i].dataIndex<min)
@@ -205,9 +205,9 @@ int main()
         
     }
   
-    for(int i=0; i<reader.receivedPieces.size()-1; i++)
+    for(long unsigned int i=0; i<reader.receivedPieces.size()-1; i++)
     {
-        for (int j=0; j<reader.receivedPieces.size()-i-1; j++)
+        for (long unsigned int j=0; j<reader.receivedPieces.size()-i-1; j++)
         {
             if(reader.receivedPieces[j].index>reader.receivedPieces[j+1].index)
             {
@@ -215,7 +215,7 @@ int main()
             }
         }
     }
-     for( int i=0; i<reader.receivedPieces.size(); i++)
+     for( long unsigned int i=0; i<reader.receivedPieces.size(); i++)
         {
            // solution=solution+reader.receivedPieces[i].message;
            std::cerr<<reader.receivedPieces[i].message<<"   "<<reader.receivedPieces[i].index<<std::endl;
