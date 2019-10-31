@@ -30,7 +30,7 @@ struct MessagePiece
     int index;
     std::string message;
 };
-
+std::vector<MessagePiece>azenyem;
 void swap(MessagePiece *xp, MessagePiece *yp)
 {
     MessagePiece temp = *xp;
