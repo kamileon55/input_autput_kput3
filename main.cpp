@@ -97,7 +97,7 @@ void readData(Reader& to) // void barmi(int a)
         {
             std::cerr<<"MESSAGE"<<std::endl;
             MessagePiece & msg = to.receivedPieces.emplace_back();
-            std::cerr<<msg.message<<"   "<<std::endl;
+            
             std::istringstream(std::move(line).substr(8)) >> msg.index >> msg.message;
             std::cerr<<msg.message<<"   "<<std::endl;
         }
