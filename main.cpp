@@ -205,11 +205,11 @@ int main()
         
     }
   
-    for(long unsigned int i=0; i<reader.receivedPieces.size()-1; i++)
+    for(long unsigned int i=0; i<reader.dataArray.size()-1; i++)
     {
-        for (long unsigned int j=0; j<reader.receivedPieces.size()-i-1; j++)
+        for (long unsigned int j=0; j<reader.dataArray.size()-i-1; j++)
         {
-            if(reader.receivedPieces[j].index>reader.receivedPieces[j+1].index)
+            if(reader.dataArray[j].dataIndex>reader.dataArray[j+1].dataIndex)
             {
                 swap(&reader.receivedPieces[j], &reader.receivedPieces[j+1]);
             }
