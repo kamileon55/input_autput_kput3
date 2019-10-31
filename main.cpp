@@ -102,10 +102,10 @@ void readData(Reader& to) // void barmi(int a)
             MessagePiece & msg = to.receivedPieces.emplace_back();
 
             std::istringstream(std::move(line).substr(8)) >> msg.index >> msg.message;
-           // std::cerr<<msg.message<<"   "<<msg.index<<std::endl;
+            // std::cerr<<msg.message<<"   "<<msg.index<<std::endl;
             if(msg.message.size()==0)
             {
-                 // to.hasEnd = true;
+                // to.hasEnd = true;
             }
             azenyem.push_back(msg);
 
@@ -153,39 +153,39 @@ int main()
             {
                 if(reader.routerBits[3][i]==1)
                 {
-                    
-                          
-                   
-                        
-                    
-                               int alfa=0;
-                              for(int j=0; j<reader.dataArray.size(); j++)
-                              {
-                                  
-                                  if(reader.dataArray[j].currRouter==3 && reader.dataArray[j].currStoreId==i)
-                                  {
-                                      alfa=1;
-                                  }
-                              
-                                
-                      
-                              }
-                              if(alfa==0)
-                              {
-                                  command= "CREATE ";
-                                command=command+std::to_string(i)+" "+std::to_string(n);
-                                n++;
-                                break;
-                              }
-                              
-                              
-                           
+
+
+
+
+
+                    int alfa=0;
+                    for(int j=0; j<reader.dataArray.size(); j++)
+                    {
+
+                        if(reader.dataArray[j].currRouter==3 && reader.dataArray[j].currStoreId==i)
+                        {
+                            alfa=1;
+                        }
+
+
+
                     }
-                    
+                    if(alfa==0)
+                    {
+                        command= "CREATE ";
+                        command=command+std::to_string(i)+" "+std::to_string(n);
+                        n++;
+                        break;
+                    }
+
+
+
                 }
 
             }
-        
+
+        }
+
         else
         {
             long unsigned int min=1000;
@@ -222,32 +222,33 @@ int main()
         std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
         if(reader.receivedPieces.size()>100)
         {
-          //  break;
+            //  break;
         }
-   
+
 
 
 
 
     }
-/*
-    for(long unsigned int i=0; i<reader.receivedPieces.size()-1; i++)
-    {
-        for (long unsigned int j=0; j<reader.receivedPieces.size()-i-1; j++)
+    /*
+        for(long unsigned int i=0; i<reader.receivedPieces.size()-1; i++)
         {
-            if(reader.dataArray[j].dataIndex>reader.dataArray[j+1].dataIndex)
+            for (long unsigned int j=0; j<reader.receivedPieces.size()-i-1; j++)
             {
-                swap(&reader.receivedPieces[j], &reader.receivedPieces[j+1]);
+                if(reader.dataArray[j].dataIndex>reader.dataArray[j+1].dataIndex)
+                {
+                    swap(&reader.receivedPieces[j], &reader.receivedPieces[j+1]);
+                }
             }
         }
-    }
-    */
-    for( long unsigned int i=0; i<reader.receivedPieces.size(); i++)
+        */
+ /*   for( long unsigned int i=0; i<reader.receivedPieces.size(); i++)
     {
         // solution=solution+reader.receivedPieces[i].message;
-    //    std::cerr<<reader.receivedPieces[i].message<<"   "<<reader.dataArray[].dataIndex<<std::endl;
+        //    std::cerr<<reader.receivedPieces[i].message<<"   "<<reader.dataArray[].dataIndex<<std::endl;
         solution=solution+reader.receivedPieces[i].message;// std::cerr<< solution;
     }
+    */
     std::cerr<<"Megtortent"<<std::endl;/*
         for(int i=0; i<reader.receivedPieces.size(); i++)
             {
@@ -262,28 +263,28 @@ int main()
                 }
         }
         */
-        for(int i=0; i<azenyem.size(); i++)
+    for(int i=0; i<azenyem.size(); i++)
+    {
+        std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
+    }
+
+    for(long unsigned int i=0; i<azenyem.size()-1; i++)
+    {
+        for (long unsigned int j=0; j<azenyem.size()-i-1; j++)
         {
-            std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
+            if(azenyem[j].index>azenyem[j+1].index)
+            {
+                swap(&azenyem[j], &azenyem[j+1]);
+            }
         }
-        
-            for(long unsigned int i=0; i<azenyem.size()-1; i++)
-             {
-                for (long unsigned int j=0; j<azenyem.size()-i-1; j++)
-                {
-                    if(azenyem[j].index>azenyem[j+1].index)
-                    {
-                        swap(&azenyem[j], &azenyem[j+1]);
-                    }
-                }
-             }
+    }
     std::cerr<<"Betaprotokol "<<std::endl;
     for(int i=0; i<azenyem.size(); i++)
-        {
-            std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
-            solution=solution+azenyem[i].message;
-        }
-    
+    {
+        std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
+        solution=solution+azenyem[i].message;
+    }
+
     /*
     std::cerr<<"Meret: "<<reader.receivedPieces.size()<<std::endl;
       for( int i=0; i<reader.receivedPieces.size(); i++)
@@ -294,6 +295,8 @@ int main()
       }
       */
     command="SOLUTION ";
-    std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command <<solution<<std::endl;
+    std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command<<solution<<std::endl;
+    std::cerr << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command<<solution<<std::endl;
+    std::cout << "END (latest message): " << reader.previous << std::endl;
     std::cerr << "END (latest message): " << reader.previous << std::endl;
 }
