@@ -1,4 +1,3 @@
-     int seed = 0;
 
 #include <array>
 #include <string>
@@ -9,6 +8,7 @@
 #include <bits/stdc++.h>
 #include <vector>
 char verzio[20]="prometeuszprotokol";
+unsigned int alaprouter;
 enum class Direction : char
 {
     LEFT = 'l',
@@ -73,6 +73,7 @@ void readData(Reader& to) // void barmi(int a)
         else if (!line.rfind("REQUEST", 0))
         {
             std::stringstream(std::move(line).substr(8)) >> to.data[0] >> to.data[1] >> to.data[2];
+            alaprouter=to.data[2];
         }
         else if (!line.rfind("PREVIOUS", 0))
         {
@@ -128,12 +129,12 @@ void readData(Reader& to) // void barmi(int a)
 int main()
 {
     char teamToken[] = "tqEzVLvbq6wz_uWr6HS1";
-     int seed = 0;
+    int seed = 0;
     int n=0;
     int befutott=0;
     std::string solution;
     std::cout << "START " << teamToken
-                << " " << seed<<" "<<verzio
+              << " " << seed<<" "<<verzio
               << std::endl;
 
     Reader reader = {};
@@ -148,13 +149,13 @@ int main()
             break;
 
         // TODO logika jobb mint a semmitteves
-        if(reader.dataArray.size()<5)
+        if(reader.dataArray.size()<4)
         {
 
 
             for(int i=0; i<9; i++)
             {
-                if(reader.routerBits[3][i]==1)
+                if(reader.routerBits[alaprouter][i]==1)
                 {
 
 
@@ -165,7 +166,7 @@ int main()
                     for(int j=0; j<reader.dataArray.size(); j++)
                     {
 
-                        if(reader.dataArray[j].currRouter==3 && reader.dataArray[j].currStoreId==i)
+                        if(reader.dataArray[j].currRouter==alaprouter && reader.dataArray[j].currStoreId==i)
                         {
                             alfa=1;
                         }
@@ -245,13 +246,13 @@ int main()
             }
         }
         */
- /*   for( long unsigned int i=0; i<reader.receivedPieces.size(); i++)
-    {
-        // solution=solution+reader.receivedPieces[i].message;
-        //    std::cerr<<reader.receivedPieces[i].message<<"   "<<reader.dataArray[].dataIndex<<std::endl;
-        solution=solution+reader.receivedPieces[i].message;// std::cerr<< solution;
-    }
-    */
+    /*   for( long unsigned int i=0; i<reader.receivedPieces.size(); i++)
+       {
+           // solution=solution+reader.receivedPieces[i].message;
+           //    std::cerr<<reader.receivedPieces[i].message<<"   "<<reader.dataArray[].dataIndex<<std::endl;
+           solution=solution+reader.receivedPieces[i].message;// std::cerr<< solution;
+       }
+       */
     std::cerr<<"Megtortent"<<std::endl;/*
         for(int i=0; i<reader.receivedPieces.size(); i++)
             {
