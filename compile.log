@@ -10,6 +10,9 @@
 /main.cpp:287:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
      for(int i=0; i<azenyem.size(); i++)
                   ~^~~~~~~~~~~~~~~
+/main.cpp:133:9: warning: unused variable ‘n’ [-Wunused-variable]
+     int n=0;
+         ^
 /main.cpp:134:9: warning: unused variable ‘befutott’ [-Wunused-variable]
      int befutott=0;
          ^~~~~~~~
