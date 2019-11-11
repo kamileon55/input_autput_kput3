@@ -176,9 +176,9 @@ int main()
                     }
                     if(alfa==0)
                     {
-                       // command= "CREATE ";
-                     //   command=command+std::to_string(i)+" "+std::to_string(alaprouter);
-                     //   n++;
+                        command= "CREATE ";
+                        command=command+std::to_string(i)+" "+std::to_string(alaprouter);
+                        n++;
                         break;
                     }
 
