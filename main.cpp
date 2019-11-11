@@ -155,7 +155,7 @@ int main()
 
             for(int i=0; i<9; i++)
             {
-                if(reader.routerBits[8][i]==1)
+                if(reader.routerBits[i][alaprouter]==1)
                 {
 
 
@@ -166,7 +166,7 @@ int main()
                     for(int j=0; j<reader.dataArray.size(); j++)
                     {
 
-                        if(reader.dataArray[j].currRouter==8 && reader.dataArray[j].currStoreId==i)
+                        if(reader.dataArray[j].currRouter==alaprouter && reader.dataArray[j].currStoreId==i)
                         {
                             alfa=1;
                         }
@@ -177,7 +177,7 @@ int main()
                     if(alfa==0)
                     {
                         command= "CREATE ";
-                        command=command+std::to_string(i)+" "+std::to_string(n);
+                        command=command+std::to_string(i)+" "+std::to_string(alaprouter);
                         n++;
                         break;
                     }
