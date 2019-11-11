@@ -1,6 +1,6 @@
 {
-  "compile_id": "11960",
-  "git_hash": "aaf36215cf647beddff101b4305d87f802ed972a",
+  "compile_id": "11965",
+  "git_hash": "bc0778a43f1cfbf7bf1b67c1c28ec72808ad2eac",
   "compile_success": true,
-  "result": "{\"error\":\"No game to show\"}\n"
+  "result": "{\"gameID\":74352,\"seed\":0,\"isTest\":true,\"maxSize\":70,\"score\":{\"success\":false,\"point\":225,\"size\":27}}\n"
 }
