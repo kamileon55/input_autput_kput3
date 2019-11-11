@@ -1,3 +1,5 @@
+     int seed = 0;
+
 #include <array>
 #include <string>
 #include <vector>
@@ -6,6 +8,7 @@
 #include <cstring>
 #include <bits/stdc++.h>
 #include <vector>
+char verzio[20]="prometeuszprotokol";
 enum class Direction : char
 {
     LEFT = 'l',
@@ -130,7 +133,7 @@ int main()
     int befutott=0;
     std::string solution;
     std::cout << "START " << teamToken
-                << " " << seed
+                << " " << seed<<" "<<verzio
               << std::endl;
 
     Reader reader = {};
