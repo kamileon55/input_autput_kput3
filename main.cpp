@@ -224,7 +224,6 @@ int main()
 
 
         std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
-        std::cerr << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
         if(reader.receivedPieces.size()>100)
         {
             //  break;
