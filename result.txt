@@ -1,6 +1,6 @@
 {
-  "compile_id": "11956",
-  "git_hash": "fbaab674b2e55533fd7d4a3db76c541ae38f9952",
+  "compile_id": "11960",
+  "git_hash": "aaf36215cf647beddff101b4305d87f802ed972a",
   "compile_success": true,
   "result": "{\"error\":\"No game to show\"}\n"
 }

@@ -1,7 +1,7 @@
-2019-11-11T21:50:08.770298Z Started to read
-2019-11-11T21:50:08.770326Z Readed: START tqEzVLvbq6wz_uWr6HS1
-2019-11-11T21:50:08.770425Z Start write: WRONG Cannot parse Seed, not an integer, or it is missing from START message!
+2019-11-11T21:53:55.702567Z Started to read
+2019-11-11T21:53:55.702581Z Readed: START tqEzVLvbq6wz_uWr6HS1 0
+2019-11-11T21:53:55.702708Z Start write: WRONG Version is missing from START message!
 .
-2019-11-11T21:50:08.770467Z Write ended
-2019-11-11T21:50:08.770865Z Start write: WRONG WRITE TIMEOUT
+2019-11-11T21:53:55.702758Z Write ended
+2019-11-11T21:53:55.703232Z Start write: WRONG WRITE TIMEOUT
 .
