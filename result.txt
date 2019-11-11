@@ -1,6 +1,6 @@
 {
-  "compile_id": "5803",
-  "git_hash": "6e0175812a6aa4ea31ab74c13bc76fad9b09bea8",
+  "compile_id": "11956",
+  "git_hash": "fbaab674b2e55533fd7d4a3db76c541ae38f9952",
   "compile_success": true,
-  "result": "{\"gameID\":54986,\"seed\":1664890192,\"score\":{\"success\":true,\"point\":304,\"size\":101}}\n"
+  "result": "{\"error\":\"No game to show\"}\n"
 }
