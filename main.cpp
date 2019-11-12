@@ -139,6 +139,8 @@ int main()
     Reader reader = {};
 
     std::string command;
+    
+    int faszpicsa = 0;
 
     while(true)
     {
@@ -158,7 +160,7 @@ int main()
                 {
                     
                         command= "CREATE ";
-                        command=command+std::to_string(i)+" "+std::to_string(alaprouter);
+                        command=command+std::to_string(i)+" "+std::to_string(faszpicsa++);
                        
                         break;
                     
