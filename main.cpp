@@ -7,7 +7,7 @@
 #include <cstring>
 #include <bits/stdc++.h>
 #include <vector>
-char verzio[20]="prometeuszprotokol";
+char verzio[20]="69";
 unsigned int alaprouter;
 enum class Direction : char
 {
@@ -186,17 +186,20 @@ int main()
         else
         {
             long unsigned int min=1000;
-            for(int i=0; i<5; i++)
+            int minIndex = -1;
+            for(int i=0; i<4; i++)
             {
-                if(reader.dataArray[i].dataIndex<min)
+                if(reader.dataArray[i].dataIndex<min && reader.dataArray[i].fromRouter==alaprouter)
                 {
                     min=reader.dataArray[i].dataIndex;
-                    command= "MOVE ";
-                    command=command+std::to_string(reader.dataArray[i].currRouter)+" "+"^";
-                    break;
+                    minIndex = 1;
                 }
 
             }
+            
+             command= "MOVE ";
+            command=command+std::to_string(reader.dataArray[minIndex].currRouter)+" "+"^";
+            
 
 
         }
