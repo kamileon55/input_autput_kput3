@@ -149,7 +149,7 @@ int main()
             break;
 
         // TODO logika jobb mint a semmitteves
-        if(reader.dataArray.size()<4)
+        if(reader.dataArray.size()<5)
         {
 
 
@@ -197,7 +197,7 @@ int main()
 
             }
             
-             command= "MOVE ";
+            command= "MOVE ";
             command=command+std::to_string(reader.dataArray[minIndex].currRouter)+" "+"^";
             
 
