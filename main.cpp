@@ -129,8 +129,7 @@ void readData(Reader& to) // void barmi(int a)
 int main()
 {
     char teamToken[] = "tqEzVLvbq6wz_uWr6HS1";
-    int seed = 0;
-    int n=0;
+    int seed = 2;
     int befutott=0;
     std::string solution;
     std::cout << "START " << teamToken
@@ -157,17 +156,6 @@ int main()
             {
                 if(reader.routerBits[i][alaprouter]==1)
                 {
-
-
-
-
-
-                    
-                    
-
-
-
-                   
                     
                         command= "CREATE ";
                         command=command+std::to_string(i)+" "+std::to_string(alaprouter);
