@@ -163,7 +163,7 @@ int main()
 
                         command= "CREATE ";
                         command=command+std::to_string(i)+" "+std::to_string(faszpicsa++);
-                        cerr<<" a["<<i<<"]["<<alaprouter<<"]="<<reader.routerBits[i][alaprouter]<<endl;
+                        std::cerr<<" a["<<i<<"]["<<alaprouter<<"]="<<reader.routerBits[i][alaprouter]<<"\n";
                         break;
 
 
