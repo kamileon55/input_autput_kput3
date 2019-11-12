@@ -7,6 +7,13 @@
                                   ~^~~~~~~~~~~~~~~~~~~~~~~~
 /main.cpp:198:59: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
                          if(reader.dataArray[j].currStoreId==i)
+/main.cpp:229:13: error: ‘minIndex’ was not declared in this scope
+             minIndex=-1;
+             ^~~~~~~~
+/main.cpp:229:13: note: suggested alternative: ‘rindex’
+             minIndex=-1;
+             ^~~~~~~~
+             rindex
 /main.cpp:270:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
      for(int i=0; i<azenyem.size(); i++)
                   ~^~~~~~~~~~~~~~~
