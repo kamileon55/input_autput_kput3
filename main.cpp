@@ -175,7 +175,7 @@ int main()
         }
         */
         command= "CREATE ";
-        command=command+std::to_string(i)+" "+std::to_string(faszpicsa++);
+        command=command+std::to_string(1)+" "+std::to_string(faszpicsa++);
         if(reader.dataArray.size()==4)
         
         {
