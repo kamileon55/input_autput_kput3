@@ -170,8 +170,8 @@ int main()
                    
                     
                         command= "CREATE ";
-                        command=command+std::to_string(i-1)+" "+std::to_string(alaprouter);
-                        n++;
+                        command=command+std::to_string(i)+" "+std::to_string(alaprouter);
+                       
                         break;
                     
 
