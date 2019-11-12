@@ -226,13 +226,13 @@ int main()
 
         {
             long unsigned int min=1000;
-            int minIndex = -1;
+            minIndex=-1;
             for(int i=0; i<8; i++)
             {
                 if(reader.dataArray[i].dataIndex<min && reader.dataArray[i].fromRouter==alaprouter)
                 {
                     min=reader.dataArray[i].dataIndex;
-                    minIndex = 1;
+                    minIndex = i;
                 }
 
             }
