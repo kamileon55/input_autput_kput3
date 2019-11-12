@@ -1,8 +1,8 @@
 /main.cpp: In function ‘int main()’:
-/main.cpp:255:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:257:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
      for(int i=0; i<azenyem.size(); i++)
                   ~^~~~~~~~~~~~~~~
-/main.cpp:271:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:273:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
      for(int i=0; i<azenyem.size(); i++)
                   ~^~~~~~~~~~~~~~~
 /main.cpp:133:9: warning: unused variable ‘befutott’ [-Wunused-variable]
