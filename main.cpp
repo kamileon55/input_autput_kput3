@@ -184,9 +184,10 @@ int main()
             }
         }
         int betesz=0;
+        int beleptem=0;
         if(bitjeim<4)
         {
-
+            beleptem=1;
             for(int i=0; i<9; i++)
             {
                 if(reader.routerBits[i][alaprouter]==1 )
@@ -221,7 +222,7 @@ int main()
         }
 
 
-        if(bitjeim==4 || betesz==0)
+        if(bitjeim==4 || (betesz==0 && beleptem==1))
 
         {
             long unsigned int min=1000;
@@ -264,45 +265,8 @@ int main()
         {
             //  break;
         }
-
-
-
-
-
     }
-    /*
-        for(long unsigned int i=0; i<reader.receivedPieces.size()-1; i++)
-        {
-            for (long unsigned int j=0; j<reader.receivedPieces.size()-i-1; j++)
-            {
-                if(reader.dataArray[j].dataIndex>reader.dataArray[j+1].dataIndex)
-                {
-                    swap(&reader.receivedPieces[j], &reader.receivedPieces[j+1]);
-                }
-            }
-        }
-        */
-    /*   for( long unsigned int i=0; i<reader.receivedPieces.size(); i++)
-       {
-           // solution=solution+reader.receivedPieces[i].message;
-           //    std::cerr<<reader.receivedPieces[i].message<<"   "<<reader.dataArray[].dataIndex<<std::endl;
-           solution=solution+reader.receivedPieces[i].message;// std::cerr<< solution;
-       }
-       */
-    std::cerr<<"Megtortent"<<std::endl;/*
-        for(int i=0; i<reader.receivedPieces.size(); i++)
-            {
-                for(int j=i+1; j<reader.receivedPieces.size(); j++)
-                {
-                    if (reader.receivedPieces[j].index < reader.receivedPieces[i].index)
-                    {
-                        MessagePiece cser=reader.receivedPieces[j];
-                        reader.receivedPieces[j]=reader.receivedPieces[i];
-                        reader.receivedPieces[i]=cser;
-                    }
-                }
-        }
-        */
+
     for(int i=0; i<azenyem.size(); i++)
     {
         std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
@@ -325,15 +289,7 @@ int main()
         solution=solution+azenyem[i].message;
     }
 
-    /*
-    std::cerr<<"Meret: "<<reader.receivedPieces.size()<<std::endl;
-      for( int i=0; i<reader.receivedPieces.size(); i++)
-      {
-          solution=solution+reader.receivedPieces[i].message;
-         // std::cerr<< reader.receivedPieces[i].index<<"       -----     "<<reader.receivedPieces[i].message;
-          std::cerr<< solution;
-      }
-      */
+
     command="SOLUTION ";
     std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command<<solution<<std::endl;
     std::cerr << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command<<solution<<std::endl;
