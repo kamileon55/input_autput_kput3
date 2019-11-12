@@ -2,20 +2,10 @@
 /main.cpp:179:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for (int i=0; i<reader.dataArray.size(); i++)
                        ~^~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:188:17: warning: variable ‘betesz’ set but not used [-Wunused-but-set-variable]
-             int betesz=0;
-                 ^~~~~~
-/main.cpp:209:26: error: ‘betesz’ was not declared in this scope
-         if(bitjeim==4 || betesz==0)
-                          ^~~~~~
-/main.cpp:209:26: note: suggested alternative: ‘setenv’
-         if(bitjeim==4 || betesz==0)
-                          ^~~~~~
-                          setenv
-/main.cpp:291:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:292:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
      for(int i=0; i<azenyem.size(); i++)
                   ~^~~~~~~~~~~~~~~
-/main.cpp:307:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:308:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
      for(int i=0; i<azenyem.size(); i++)
                   ~^~~~~~~~~~~~~~~
 /main.cpp:133:9: warning: unused variable ‘befutott’ [-Wunused-variable]
