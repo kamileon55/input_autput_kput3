@@ -139,7 +139,7 @@ int main()
     Reader reader = {};
 
     std::string command;
-    
+
     int faszpicsa = 0;
 
     while(true)
@@ -150,8 +150,9 @@ int main()
             break;
 
         // TODO logika jobb mint a semmitteves
-       /*
-        if(reader.dataArray.size()<5)
+        ///
+       
+        if(reader.dataArray.size()<8)
         {
 
 
@@ -159,12 +160,12 @@ int main()
             {
                 if(reader.routerBits[i][alaprouter]==1)
                 {
-                    
+
                         command= "CREATE ";
                         command=command+std::to_string(i)+" "+std::to_string(faszpicsa++);
-                       
+                        cerr<<" a["<<i<<"]["<<alaprouter<<"]="<<reader.routerBits[i][alaprouter]<<endl;
                         break;
-                    
+
 
 
 
@@ -173,15 +174,14 @@ int main()
             }
 
         }
-        */
-        command= "CREATE ";
-        command=command+std::to_string(1)+" "+std::to_string(faszpicsa++);
-        if(reader.dataArray.size()==4)
+
         
+        if(reader.dataArray.size()==8)
+
         {
             long unsigned int min=1000;
             int minIndex = -1;
-            for(int i=0; i<4; i++)
+            for(int i=0; i<8; i++)
             {
                 if(reader.dataArray[i].dataIndex<min && reader.dataArray[i].fromRouter==alaprouter)
                 {
@@ -190,10 +190,10 @@ int main()
                 }
 
             }
-            
+
             command= "MOVE ";
             command=command+std::to_string(reader.dataArray[minIndex].currRouter)+" "+"^";
-            
+
 
 
         }
