@@ -196,10 +196,10 @@ int main()
                     {
                         if(reader.dataArray[j].currRouter==i)
                         {
-                            ures=1;
+                            ures=0;
                         }
                     }
-                    if(ures==0)
+                    if(ures==1)
                     {
 
                         command= "CREATE ";
