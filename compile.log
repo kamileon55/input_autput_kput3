@@ -1,4 +1,21 @@
 /main.cpp: In function ‘int main()’:
+/main.cpp:166:25: error: ‘cerr’ was not declared in this scope
+                         cerr<<" a["<<i<<"]["<<alaprouter<<"]="<<reader.routerBits[i][alaprouter]<<endl;
+                         ^~~~
+/main.cpp:166:25: note: suggested alternative:
+In file included from /main.cpp:5:
+/usr/include/c++/8/iostream:62:18: note:   ‘std::cerr’
+   extern ostream cerr;  /// Linked to standard error (unbuffered)
+                  ^~~~
+/main.cpp:166:99: error: ‘endl’ was not declared in this scope
+                         cerr<<" a["<<i<<"]["<<alaprouter<<"]="<<reader.routerBits[i][alaprouter]<<endl;
+                                                                                                   ^~~~
+/main.cpp:166:99: note: suggested alternative:
+In file included from /usr/include/c++/8/iostream:39,
+                 from /main.cpp:5:
+/usr/include/c++/8/ostream:590:5: note:   ‘std::endl’
+     endl(basic_ostream<_CharT, _Traits>& __os)
+     ^~~~
 /main.cpp:261:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
      for(int i=0; i<azenyem.size(); i++)
                   ~^~~~~~~~~~~~~~~
