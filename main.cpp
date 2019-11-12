@@ -151,30 +151,30 @@ int main()
 
         // TODO logika jobb mint a semmitteves
         ///
-       /*
-        if(reader.dataArray.size()<8)
-        {
+        /*
+         if(reader.dataArray.size()<8)
+         {
 
 
-            for(int i=0; i<9; i++)
-            {
-                if(reader.routerBits[i][alaprouter]==1)
-                {
+             for(int i=0; i<9; i++)
+             {
+                 if(reader.routerBits[i][alaprouter]==1)
+                 {
 
-                        command= "CREATE ";
-                        command=command+std::to_string(i)+" "+std::to_string(faszpicsa++);
-                        std::cerr<<" a["<<i<<"]["<<alaprouter<<"]="<<reader.routerBits[i][alaprouter]<<"\n";
-                        break;
-
-
+                         command= "CREATE ";
+                         command=command+std::to_string(i)+" "+std::to_string(faszpicsa++);
+                         std::cerr<<" a["<<i<<"]["<<alaprouter<<"]="<<reader.routerBits[i][alaprouter]<<"\n";
+                         break;
 
 
-                }
 
-            }
 
-        }
-        */
+                 }
+
+             }
+
+         }
+         */
         int bitjeim=0;
         for (int i=0; i<reader.dataArray.size(); i++)
         {
@@ -186,17 +186,31 @@ int main()
         int betesz=0;
         if(bitjeim<4)
         {
-            
+
             for(int i=0; i<9; i++)
             {
-                if(reader.routerBits[i][alaprouter]==1)
+                if(reader.routerBits[i][alaprouter]==1 )
                 {
+                    int ures=1;
+                    for(int j=0; j<reader.dataArray.size(); j++)
+                    {
+                        if(reader.dataArray[j].currRouter==i)
+                        {
+                            ures=1;
+                        }
+                    }
+                    if(ures==0)
+                    {
 
                         command= "CREATE ";
                         command=command+std::to_string(i)+" "+std::to_string(faszpicsa++);
                         std::cerr<<" a["<<i<<"]["<<alaprouter<<"]="<<reader.routerBits[i][alaprouter]<<"\n";
                         betesz=1;
                         break;
+
+
+
+                    }
 
 
 
