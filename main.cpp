@@ -194,7 +194,7 @@ int main()
                     int ures=1;
                     for(int j=0; j<reader.dataArray.size(); j++)
                     {
-                        if(reader.dataArray[j].currRouter==i)
+                        if(reader.dataArray[j].currStoreId==i)
                         {
                             ures=0;
                         }
