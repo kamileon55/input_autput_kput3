@@ -1,6 +1,6 @@
 {
-  "compile_id": "12221",
-  "git_hash": "aef46f09a08ffe582149e1c86c153b7ecca132d4",
+  "compile_id": "12222",
+  "git_hash": "52f9e98ff73bd19d4541c541a99236a0742c918e",
   "compile_success": true,
   "unreachable_server": true,
   "timeout": false
