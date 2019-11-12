@@ -151,7 +151,7 @@ int main()
 
         // TODO logika jobb mint a semmitteves
         ///
-       
+       /*
         if(reader.dataArray.size()<8)
         {
 
@@ -174,9 +174,39 @@ int main()
             }
 
         }
+        */
+        int bitjeim=0;
+        for (int i=0; i<reader.dataArray.size(); i++)
+        {
+            if( reader.dataArray[i].fromRouter==alaprouter)
+            {
+                bitjeim++;
+            }
+        }
+        if(bitjeim<4)
+        {
+            int betesz=0;
+            for(int i=0; i<9; i++)
+            {
+                if(reader.routerBits[i][alaprouter]==1)
+                {
 
-        
-        if(reader.dataArray.size()==8)
+                        command= "CREATE ";
+                        command=command+std::to_string(i)+" "+std::to_string(faszpicsa++);
+                        std::cerr<<" a["<<i<<"]["<<alaprouter<<"]="<<reader.routerBits[i][alaprouter]<<"\n";
+                        betesz=1;
+                        break;
+
+
+
+
+                }
+
+            }
+        }
+
+
+        if(bitjeim==4 || betesz==0)
 
         {
             long unsigned int min=1000;
