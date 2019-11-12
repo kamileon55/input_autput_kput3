@@ -183,9 +183,10 @@ int main()
                 bitjeim++;
             }
         }
+        int betesz=0;
         if(bitjeim<4)
         {
-            int betesz=0;
+            
             for(int i=0; i<9; i++)
             {
                 if(reader.routerBits[i][alaprouter]==1)
