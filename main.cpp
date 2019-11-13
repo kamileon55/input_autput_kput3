@@ -120,7 +120,7 @@ void readData(Reader& to) // void barmi(int a)
             int al_index=msg.rendszam;
           
             Rendezendo alma;
-            alma.ertek=al_index/fogadott*(1001-to.data[1])/1000;
+            alma.ertek=al_index/fogadott*(1001-to.data[1])/10;
             alma.indexem=msg.index;
             anyukad.push_back(alma);
             
@@ -284,11 +284,12 @@ int main()
         }
     }
     std::cerr<<"Betaprotokol "<<std::endl;
-    for(int i=0; i<azenyem.size(); i++)
+  /*  for(int i=0; i<azenyem.size(); i++)
     {
         std::cerr<<anyukad[i].indexem<<" "<<anyukad[i].ertek<<std::endl;
         solution=solution+azenyem[i].message;
     }
+    */
 
 
     command="SOLUTION ";
