@@ -1,35 +1,21 @@
-/main.cpp: In function ‘void readData(Reader&)’:
-/main.cpp:120:30: error: ‘struct MessagePiece’ has no member named ‘rendszam’
-             int al_index=msg.rendszam;
-                              ^~~~~~~~
-/main.cpp:126:48: error: ‘alma’ was not declared in this scope
-                 std::cerr<<"Az a nyomorult: "<<alma.ertek<<"\n";
-                                                ^~~~
-/main.cpp:126:48: note: suggested alternative: ‘gamma’
-                 std::cerr<<"Az a nyomorult: "<<alma.ertek<<"\n";
-                                                ^~~~
-                                                gamma
-/main.cpp:120:17: warning: unused variable ‘al_index’ [-Wunused-variable]
-             int al_index=msg.rendszam;
-                 ^~~~~~~~
 /main.cpp: In function ‘int main()’:
-/main.cpp:176:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:172:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for (int i=0; i<reader.dataArray.size(); i++)
                        ~^~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:196:35: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:192:35: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
                      for(int j=0; j<reader.dataArray.size(); j++)
                                   ~^~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:198:59: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
+/main.cpp:194:59: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
                          if(reader.dataArray[j].currStoreId==i && reader.dataArray[j].currRouter==alaprouter )
-/main.cpp:272:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:268:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
      for(int i=0; i<azenyem.size(); i++)
                   ~^~~~~~~~~~~~~~~
-/main.cpp:277:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:273:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
      for(int i=0; i<azenyem.size(); i++)
                   ~^~~~~~~~~~~~~~~
-/main.cpp:293:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:289:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
      for(int i=0; i<azenyem.size(); i++)
                   ~^~~~~~~~~~~~~~~
-/main.cpp:150:9: warning: unused variable ‘befutott’ [-Wunused-variable]
+/main.cpp:146:9: warning: unused variable ‘befutott’ [-Wunused-variable]
      int befutott=0;
          ^~~~~~~~
