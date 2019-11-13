@@ -1,146 +1,500 @@
-CANCREATE3<><@SSi,mmm<5.12>mi,mmm<4.12>mi,mmm<3.12>mi,mmm<2.12>mi,mmm<1.12>mi...si,mm><@SSi...si,mmm<5.12>mi,mmm<4.12>mi,mmm<3.12>mi,mmm<2.12>mi,mmm<1.12>mi...si,mm><><><@SSi,mmm<5.12>mi,mmm<4.12>mi,mmm<3.12>mi,mm><><><@SSi,mmm<5.12>mi,mmm<4.12>mi...si,mmm<3.12>mi,mmm<2.12>mi...si,mm>ALLPOSSIBLE2PICKBEST1RUNCOMMAND0.0Command: CREATE 1 0
-CANCREATE3<><@SSi,mmmmmmm<5.12>mi,mmmmmm><@SSi...si,mmmmmmm<5.12>mi,mmmmmm><><><@SSi,mmmmmmm<5.12>mi,mmmmmm><><><@SSi,mmmmmm>ALLPOSSIBLE2##12SSi,mmmm34SSi,mmmm5PICKBEST1RUNCOMMAND0.0Command: CREATE 1 1
-CANCREATE3<><@SSi,mmmmmmmmmmm<5.12>mi,mmmmmmmmmmm<4.12>mi,mmmmmmmmmmm<3.12>mi,mmmmmmmmmmm<2.12>mi,mmmmmmmmmmm<1.12>mi,mmmmmmmmmm><@SSi...si,mmmmmmmmmmm<5.12>mi,mmmmmmmmmmm<4.12>mi,mmmmmmmmmmm<3.12>mi,mmmmmmmmmmm<2.12>mi,mmmmmmmmmmm<1.12>mi,mmmmmmmmmm><><><@SSi,mmmmmmmmmmm<5.12>mi,mmmmmmmmmmm<4.12>mi,mmmmmmmmmmm<3.12>mi,mmmmmmmmmm><><><@SSi,mmmmmmmmmmm<5.12>mi,mmmmmmmmmmm<4.12>mi...si,mmmmmmmmmmm<3.12>mi,mmmmmmmmmmm<2.12>mi...si,mmmmmmmmmm>ALLPOSSIBLE2##12SSi,mmmmmmmm34SSi,mmmmmmmm5##12SSi,mmm<6.13>mi...si,mmm<5.13>mi,mmm<4.13>mi,mmm<3.13>mi,mmm<2.13>mi,mmm<1.13>mi,mmmmmmm<6.13>mi,mmmmmmm<7.13>mi,mmmmmmm<8.13>mi,mmmmmmm<9.13>mi,mmmmmmmmm<6.12>mi,mmmmmmmmm<7.12>mi,mmmmmmmm34SSi,mmmmmmm<6.13>mi,mmmmmmm<7.13>mi,mmmmmmmmm<6.12>mi,mmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 6 ^
-CANCREATE3<><@SSi,mmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmm<4.12>mi...si,mmmmmmmmmmmmm<3.12>mi...si,mmmmmmmmmmmmm<2.12>mi,mmmmmmmmmmmm>ALLPOSSIBLE2##12SSi,mmmmmmmmmm34SSi,mmmmmmmmmm5##12SSi,mmmmmmmmmm34SSi,mmmmmmmmm<8.12>mi,mmmmmmmmm<9.12>mi...si,mmmmmmmmm<10.12>mi,mmmmmmmmm<11.12>mi,mmmmmmmmmm5#PICKBEST1RUNCOMMAND0.0Command: CREATE 8 2
-CANCREATE3<><@SSi,mmmmmmmmm<12.5>mi,mmmmmmmmm<11.5>mi,mmmmmmmmm<10.5>mi,mmmmmmmmm<9.5>mi,mmmmmmmmm<8.5>mi,mmmmmmmmm<7.5>mi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmm<12.5>mi,mmmmmmmmm<11.5>mi,mmmmmmmmm<10.5>mi,mmmmmmmmm<9.5>mi,mmmmmmmmm<8.5>mi,mmmmmmmmm<7.5>mi,mmmmmmmmmmmmmmmm><><><@SSi,mmmmmmmmm<12.5>mi,mmmmmmmmm<11.5>mi,mmmmmmmmm<10.5>mi,mmmmmmmmm<9.5>mi,mmmmmmmmm<8.5>mi,mmmmmmmmm<7.5>mi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmm><><><@SSi,mmmmmmmmm<12.5>mi,mmmmmmmmm<11.5>mi,mmmmmmmmm<10.5>mi,mmmmmmmmm<9.5>mi,mmmmmmmmm<8.5>mi,mmmmmmmmm<7.5>mi,mmmmmmmmmmmmmmmm>ALLPOSSIBLE2##12SSi,mmmmmmmmm<12.5>mi,mmmmmmmmm<11.5>mi,mmmmmmmmm<10.5>mi,mmmmmmmmm<9.5>mi,mmmmmmmmm<8.5>mi,mmmmmmmmm<7.5>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmm<12.5>mi,mmmmmmmmm<11.5>mi,mmmmmmmmm<10.5>mi,mmmmmmmmm<9.5>mi,mmmmmmmmm<8.5>mi,mmmmmmmmm<7.5>mi,mmmmmmmmmmmmmmm<1.12>mi...si,mmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmm5###12SSi,mmmmmmmmm<12.5>mi,mmmmmmmmm<11.5>mi,mmmmmmmmm<10.5>mi,mmmmmmmmm<9.5>mi,mmmmmmmmm<8.5>mi,mmmmmmmmm<7.5>mi,mmmmmmmmmmmmmmm<1.12>mi...si,mmmmmmmmmmmmmm34SSi,mmmmmmmmm<12.5>mi,mmmmmmmmm<11.5>mi,mmmmmmmmm<10.5>mi,mmmmmmmmm<9.5>mi,mmmmmmmmm<8.5>mi,mmmmmmmmm<7.5>mi,mmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: CREATE 5 3
-CANCREATE3ALLPOSSIBLE2##12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmm<1.12>mi...si,mmmmmmmmmmmmmmmm5##12SSi,mmmmmmmmm<7.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmm<7.5>mi,mmmmmmmmm<6.5>mi,mmmmmmmmmmmmm<7.13>mi,mmmmmmmmmmmmm<8.13>mi...si...si,mmmmmmmmmmmmm<9.13>mi,mmmmmmmmmmmmmmmm5###12SSi,mmmmmmmmmmmmmmm<1.12>mi...si,mmmmmmmmmmmmmmmm34SSi,mmm<2.13>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmmm<6.12>mi,mmmmmmmmmmmmmmmmm<7.12>mi,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 7 v
-CANCREATE3ALLPOSSIBLE2##12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmm<1.12>mi...si,mmmmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmm<6.5>mi,mmmmmmmmmmm<6.13>mi,mmmmmmmmmmm<5.13>mi,mmmmmmmmmmmmmmmm5###12SSi,mmmmmmmmmmmmmmm<1.12>mi...si,mmmmmmmmmmmmmmmm34SSi,mmm<2.13>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmmmm<7.12>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmmm<7.12>mi,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 6 v
+RUNCOMMAND0.0Command: CREATE 1 0
+RUNCOMMAND0.0Command: CREATE 1 1
+RUNCOMMAND0.0Command: MOVE 6 ^
+RUNCOMMAND0.0Command: CREATE 8 2
+RUNCOMMAND0.0Command: CREATE 5 3
+RUNCOMMAND0.0Command: MOVE 7 v
+RUNCOMMAND0.0Command: MOVE 6 v
 cqdQzTOZbb__10
-CANCREATE3<><@SSi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmmmmmm>ALLPOSSIBLE2##12SSi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<1.12>mi...si,mmmmmmmmmmmmmm5####12SSi,mmmmmmmmmmmmm<1.12>mi...si,mmmmmmmmmmmmmm34SSi,mmm<2.13>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmm<7.12>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmm<7.12>mi,mmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: CREATE 8 4
-CANCREATE3ALLPOSSIBLE2##12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5####12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmm<7.12>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmm<7.12>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmm<4.13>mi,mmmmmmmmmmmmmmmmm<3.12>mi...si,mmmmmmmmmmmmmmmmm<2.12>mi...si,mmmmmmmmmmmmmmmmm<1.12>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 3 ^
-CANCREATE3ALLPOSSIBLE2##12SSi...si,mmm<13.6>mi,mmm<0.6>mi,mmm<1.6>mi,mmmmmmmmmmmmmmmm34SSi...si,mmmmmmmmm<1.13>mi...si,mmmmmmmmmmmmmmmm5####12SSi,mmmmmmmmmmmmmmmm34SSi,mmm<13.6>mi...si,mmm<0.6>mi,mmm<1.6>mi,mmmmmmmmmmmmm<13.12>mi,mmmmmmmmmmmmmmmm5#12SSi,mmm<13.6>mi,mmm<0.6>mi,mmm<1.6>mi,mmmmmmmmmmmmmmm<7.12>mi,mmmmmmmmmmmmmmmm34SSi,mmm<13.6>mi,mmm<0.6>mi,mmm<1.6>mi,mmmmmmmmmmmmmmm<7.12>mi,mmmmmmmmmmmmmmmm5#12SSi,mmm<13.6>mi,mmm<0.6>mi,mmmmmmmmmmmmmmmmm<2.12>mi,mmmmmmmmmmmmmmmm34SSi,mmm<13.6>mi,mmm<0.6>mi,mmmmmmmmmmmmmmmmm<2.12>mi,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 13 v
-CANCREATE3ALLPOSSIBLE2##12SSi...si,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<13.5>mi,mmmmmmmmmmmmm<0.5>mi,mmmmmmmmmmmmmmmm34SSi...si,mmmmmmmmm<1.13>mi...si,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmmm5####12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<12.5>mi...si,mmmmmmmmmmmmm<13.5>mi,mmmmmmmmmmmmm<0.5>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<13.5>mi,mmmmmmmmmmmmm<0.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<13.5>mi,mmmmmmmmmmmmm<0.5>mi,mmmmmmmmmmmmmmm<9.12>mi,mmmmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmmmm<11.12>mi...si,mmmmmmmmmmmmmmmm5#12SSi,mmm<2.6>mi...si,mmm<3.6>mi,mmm<4.6>mi,mmm<5.6>mi,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<13.5>mi,mmmmmmmmmmmmm<0.5>mi,mmmmmmmmmmmmmmmmm<2.12>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<13.5>mi,mmmmmmmmmmmmm<0.5>mi,mmmmmmmmmmmmmmmmm<2.12>mi,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 2 ^
-CANCREATE3ALLPOSSIBLE2##12SSi...si,mmmmmmmmmmmmmmmmm<1.12>mi,mmmmmmmmmmmmmmmm34SSi...si,mmmmmmmmm<1.13>mi...si...si,mmmmmmmmmmmmmmmmm<1.12>mi,mmmmmmmmmmmmmmmm5####12SSi,mmmmmmmmm<1.13>mi...si...si,mmmmmmmmmmmmm<1.5>mi,mmmmmmmmmmmmm<2.5>mi,mmmmmmmmmmmmm<3.5>mi,mmmmmmmmmmmmm<4.5>mi...si,mmmmmmmmmmmmmmmmm<1.12>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<1.5>mi,mmmmmmmmmmmmmmmmm<1.12>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmmmm<11.12>mi...si,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmm<1.13>mi...si...si,mmmmmmmmmmmmm<1.5>mi,mmmmmmmmmmmmm<2.5>mi,mmmmmmmmmmmmm<3.5>mi,mmmmmmmmmmmmm<4.5>mi...si,mmmmmmmmmmmmmmmmm<1.12>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<1.5>mi,mmmmmmmmmmmmmmmmm<1.12>mi,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 1 ^
+RUNCOMMAND0.0Command: CREATE 8 4
+RUNCOMMAND0.0Command: MOVE 3 ^
+RUNCOMMAND0.0Command: MOVE 13 v
+RUNCOMMAND0.0Command: MOVE 2 ^
+RUNCOMMAND0.0Command: MOVE 1 ^
 Do3tAnYsqC__10
-CANCREATE3<@SSi,mmmmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmmmmm<5.12>mi...si,mmmmmmmmmmmmmmmmm<6.12>mi,mmmmmmmmmmmmmmmmm<7.12>mi,mmmmmmmmmmmmmmmmm<8.12>mi,mmmmmmmmmmmmmmmm><><>ALLPOSSIBLE2##12SSi,mmmmmmmmm<13.6>mi,mmmmmmmmmmmmmm34SSi...si,mmmmmmmmmmmmmm5####12SSi,mmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmm<13.6>mi,mmmmmmmmmmmmmm34SSi...si,mmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: CREATE 6 5
-CANCREATE3ALLPOSSIBLE2##12SSi,mmmmmmmmm<13.6>mi,mmmmmmmmmmmmmmmm34SSi...si,mmmmmmmmmmmmmmmm5####12SSi,mmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmm<13.6>mi,mmmmmmmmmmmmmmmm34SSi...si,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmmmm<8.12>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 10 ^
-CANCREATE3ALLPOSSIBLE2##12SSi,mmmmmmmmm<13.6>mi,mmmmmmmmmmmmmmmm34SSi...si,mmmmmmmmmmmmmmmm5####12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmm<13.6>mi,mmmmmmmmmmmmmmmm34SSi...si,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmmmm<8.12>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 0 ^
-CANCREATE3ALLPOSSIBLE2##12SSi,mmmmm<13.12>mi,mmmmmmmmmmmmmmmm34SSi,mmmmm<13.12>mi,mmmmmmmmmmmmmmmm5####12SSi,mmmmmmmmmmm<13.6>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmm<13.6>mi,mmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmm<0.6>mi,mmmmmmmmm<1.6>mi,mmmmmmmmmmm<13.6>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmm<0.6>mi,mmmmmmmmm<1.6>mi,mmmmmmmmm<2.6>mi,mmmmmmmmm<3.6>mi,mmmmmmmmmmm<13.6>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmm<13.6>mi,mmmmmmmmmmmmmmmmm<8.12>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmm<13.6>mi,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 0 v
-CANCREATE3ALLPOSSIBLE2##12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmm<12.5>mi...si,mmmmmmm<11.13>mi,mmmmmmmmmmmmmmmm5####12SSi,mmmmm<12.5>mi,mmmmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmm<13.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmm<12.5>mi,mmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmm<13.5>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmm<12.5>mi...si,mmmmmmm<11.13>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmm<12.5>mi,mmmmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmm<13.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmm<12.5>mi,mmmmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmm<13.5>mi,mmmmmmmmmmmmmmmmm<8.12>mi,mmmmmmmmmmmmmmmmm<9.12>mi...si,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 10 v
-CANCREATE3ALLPOSSIBLE2##12SSi,mmmmm<13.5>mi,mmmmm<0.5>mi,mmmmm<1.5>mi,mmmmmmmmmmm<13.6>mi,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<11.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmm<13.6>mi,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<11.5>mi,mmmmmmmmmmmmmmmm5####12SSi,mmmmmmm<11.13>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmm<11.13>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<11.5>mi,mmmmmmmmmmmmmmm<0.5>mi,mmmmmmmmmmmmmmm<1.5>mi,mmmmmmmmmmmmmmm<2.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmm<13.5>mi,mmmmm<0.5>mi...si,mmmmm<1.5>mi,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<11.5>mi,mmmmmmmmmmmmmmm<0.5>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<11.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<11.5>mi,mmmmmmmmmmmmmmmmm<8.12>mi,mmmmmmmmmmmmmmmmm<9.12>mi,mmmmmmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 13 ^
-CANCREATE3ALLPOSSIBLE2##12SSi,mmmmm<1.5>mi,mmmmmmmmmmmmmmm<0.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmm<1.5>mi,mmmmm<2.5>mi,mmmmmmmmmmmmmmm<0.5>mi,mmmmmmmmmmmmmmm<1.5>mi,mmmmmmmmmmmmmmmm5####12SSi,mmmmmmmmmmmmm<10.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmm<0.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmmm<8.12>mi,mmmmmmmmmmmmmmmmm<9.12>mi,mmmmmmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 1 v
-CANCREATE3ALLPOSSIBLE2##12SSi,mmmmm<1.5>mi,mmmmmmmmmmmmmmm<0.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmm<1.5>mi,mmmmm<2.5>mi,mmmmmmmmmmmmmmm<0.5>mi,mmmmmmmmmmmmmmm<1.5>mi,mmmmmmmmmmmmmmmm5####12SSi,mmmmmmmmmmmmm<10.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmm<0.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmmm<8.12>mi,mmmmmmmmmmmmmmmmm<9.12>mi,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 1 v
-CANCREATE3ALLPOSSIBLE2##12SSi,mmmmmmmmmmmmmmmm34SSi,mmm<3.6>mi,mmm<4.6>mi...si,mmmmm<3.5>mi,mmmmmmmmmmmmmmm<2.5>mi...si,mmmmmmmmmmmmmmm<3.5>mi,mmmmmmmmmmmmmmm<4.5>mi,mmmmmmmmmmmmmmmm5####12SSi,mmmmmmmmmmmmm<10.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmm<2.5>mi,mmmmmmmmmmmmmmm<3.5>mi,mmmmmmmmmmmmmmm<4.5>mi...si,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmmm<8.12>mi,mmmmmmmmmmmmmmmmm<9.12>mi,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 3 v
-CANCREATE3ALLPOSSIBLE2##12SSi,mmmmmmmmmmmmmmmm34SSi,mmm<3.6>mi,mmm<4.6>mi...si,mmmmm<3.5>mi,mmmmmmmmmmmmmmm<2.5>mi...si,mmmmmmmmmmmmmmm<3.5>mi,mmmmmmmmmmmmmmm<4.5>mi,mmmmmmmmmmmmmmmm5####12SSi,mmmmmmmmmmmmmmmmm<9.12>mi,mmmmmmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmm<2.5>mi,mmmmmmmmmmmmmmm<3.5>mi,mmmmmmmmmmmmmmm<4.5>mi...si,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmmm<9.12>mi,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 3 v
-CANCREATE3ALLPOSSIBLE2##12SSi,mmmmm<3.5>mi,mmmmm<4.5>mi,mmmmmmmmmmmmmm34SSi,mmmmm<3.5>mi,mmmmmmmmmmmmmm5###12SSi,mmmmmmmmmmmmmmm<9.12>mi,mmmmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmm5#12SSi,mmmmm<3.5>mi,mmmmmmmmmmmmm<4.5>mi...si,mmm<3.6>mi,mmm<4.6>mi,mmm<5.6>mi,mmmmmmmmmmmmmm34SSi,mmmmm<3.5>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmm<9.12>mi,mmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 4 ^
+RUNCOMMAND0.0Command: CREATE 6 5
+RUNCOMMAND0.0Command: MOVE 10 ^
+RUNCOMMAND0.0Command: MOVE 0 ^
+RUNCOMMAND0.0Command: MOVE 0 v
+RUNCOMMAND0.0Command: MOVE 10 v
+RUNCOMMAND0.0Command: MOVE 13 ^
+RUNCOMMAND0.0Command: MOVE 1 v
+RUNCOMMAND0.0Command: MOVE 1 v
+RUNCOMMAND0.0Command: MOVE 3 v
+RUNCOMMAND0.0Command: MOVE 3 v
+RUNCOMMAND0.0Command: MOVE 4 ^
 ph2O8LWDVp__10
-CANCREATE3<><@SSi,mmm<4.6>mi,mmmmmmmmmmmmmmmm><@SSi...si,mmm<4.6>mi,mmmmmmmmmmmmmmmm><><><@><><><@SSi,mmm<4.6>mi...si,mmm<5.6>mi,mmmmmmmmmmmmmmmm>ALLPOSSIBLE2##12SSi,mmm<4.6>mi,mmm<5.6>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmm<5.13>mi,mmmmmmmmmmmmmm5###12SSi,mmm<4.6>mi...si,mmm<5.6>mi,mmmmmmmmmmmmm<9.12>mi,mmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmm34SSi,mmm<4.6>mi...si,mmm<5.6>mi,mmmmmmmmmmmmmm5#12SSi,mmm<4.6>mi...si,mmm<5.6>mi,mmmmmmmmmmmmmm34SSi,mmm<4.6>mi...si,mmm<5.6>mi,mmmmmmmmmmmmm<9.12>mi,mmmmmmmmmmmmmm5#PICKBEST1RUNCOMMAND0.0Command: MOVE 10 ^
-CANCREATE3<><@SSi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmm><><><@><><><@SSi,mmmmmmmmmmmmmm>ALLPOSSIBLE2#12SSi,mmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<5.13>mi,mmmmmmmmmmmm5###12SSi,mmmmmmmmm<10.5>mi,mmmmmmmmm<9.5>mi...si,mmmmmmmmmmmm34SSi,mmmmmmmmmmmm5#12SSi,mmmmmmmmmmm<11.12>mi,mmmmmmmmmmmm34SSi,mmmmmmmmmmm<11.12>mi,mmmmmmmmmmmm5#PICKBEST1RUNCOMMAND0.0Command: MOVE 10 ^
-CANCREATE3<><@SSi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmmm><><><@><><><@SSi,mmmmmmmmmmmmmmmm>ALLPOSSIBLE2#12SSi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<5.13>mi,mmmmmmmmmmmmmm5###12SSi,mmmmmmmmm<9.5>mi...si,mmmmmmmmm<8.5>mi,mmmmmmmmm<7.5>mi,mmmmmmmmm<6.5>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmm5##PICKBEST1RUNCOMMAND0.0Command: MOVE 9 ^
+RUNCOMMAND0.0Command: MOVE 10 ^
+RUNCOMMAND0.0Command: MOVE 10 ^
+RUNCOMMAND0.0Command: MOVE 9 ^
 hXPNVKjVCf__10
-CANCREATE3<><@SSi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmm><><><@><><><@SSi,mmmmmmmmmmmmmm>ALLPOSSIBLE2#12SSi,mmmmmmmmmmmm34SSi,mmmmmmmmmmm<5.13>mi,mmmmmmmmmmmm5###12SSi,mmmmmmmmm<11.12>mi,mmmmmmmmmmmm34SSi,mmmmmmmmm<11.12>mi,mmmmmmmmmmmm5##PICKBEST1RUNCOMMAND0.0Command: MOVE 4 v
-CANCREATE3<><@SSi,mmmmmmmmm<12.5>mi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmm<12.5>mi,mmmmmmmmmmmmmm><><><@SSi,mmmmmmmmm<12.5>mi,mmmmmmmmmmmmmm><><><@SSi,mmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmmmm>ALLPOSSIBLE2#12SSi,mmmmmmmmm<12.5>mi,mmmmmmmmmmmm34SSi,mmm<4.5>mi,mmmmmmmmm<12.5>mi,mmmmmmmmmmm<4.13>mi,mmmmmmmmmmm<3.13>mi,mmmmmmmmmmm<2.13>mi...si,mmmmmmmmmmm<1.13>mi...si,mmmmmmmmmmmm5###12SSi,mmmmm<11.13>mi,mmmmmmm<12.6>mi,mmmmmmm<11.6>mi,mmmmmmmmmmmm34SSi,mmmmmmmmmmmm5##PICKBEST1RUNCOMMAND0.0Command: MOVE 4 v
+RUNCOMMAND0.0Command: MOVE 4 v
+RUNCOMMAND0.0Command: MOVE 4 v
 r2FDNOgOXf__10
-CANCREATE3<><@SSi,mmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmm>ALLPOSSIBLE2###12SSi,mmm<12.13>mi...si,mmmmmmm<12.5>mi,mmmmmmm<11.5>mi,mmmmmmm<10.5>mi,mmmmmmm<9.5>mi,mmmmmmmmmm34SSi,mmm<12.13>mi,mmmmmmm<12.5>mi,mmmmmmmmmm5##PICKBEST1RUNCOMMAND0.0Command: MOVE 12 ^
-CANCREATE3<@SSi...si,mmmmmmmmmmmm><><@SSi...si,mmmmmmmmmmmm><@SSi...si...si,mmmmmmmmmmmm><><><@SSi...si,mmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmmm<3.12>mi,mmmmmmmmmmmm><><>ALLPOSSIBLE2###12SSi...si,mmmmmmm<8.5>mi,mmmmmmmmmm34SSi...si,mmmmmmm<8.5>mi,mmmmmmm<7.5>mi...si,mmmmmmmmmmm<8.13>mi,mmmmmmmmmm5##PICKBEST1RUNCOMMAND0.0Command: CREATE 6 6
-CANCREATE3<@SSi,mmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmmm<5.12>mi...si,mmmmmmmmmmmmmm><><>ALLPOSSIBLE2###12SSi,mmmmmmm<7.5>mi,mmmmmmm<6.5>mi...si,mmmmmmmmmmmm34SSi,mmmmmmm<7.5>mi,mmmmmmmmmmmm5###12SSi,mmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmmm<3.12>mi...si,mmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 7 ^
-CANCREATE3<@SSi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<6.12>mi,mmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmm><><>ALLPOSSIBLE2###12SSi,mmmmmmm<7.5>mi,mmmmmmm<6.5>mi,mmmmmmmmmmmm34SSi,mmmmmmm<7.5>mi,mmmmmmmmmmmm5###12SSi,mmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmmm<3.12>mi...si,mmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: CREATE 0 7
-CANCREATE3<@SSi,mmmmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmmmm><><>ALLPOSSIBLE2###12SSi,mmmmmmm<7.5>mi...si,mmmmmmm<6.5>mi,mmmmmmmmmmmmmm34SSi,mmmmmmm<7.5>mi,mmmmmmmmmmmmmmm<7.12>mi,mmmmmmmmmmmmmm5###12SSi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmmm<3.12>mi...si,mmmmmmmmmmmmmm5#12SSi,mmmmmmm<7.5>mi...si,mmmmmmm<6.5>mi,mmmmmmmmmmmmmm34SSi,mmmmmmm<7.5>mi,mmmmmmmmmmmmmmm<7.12>mi,mmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 7 ^
+RUNCOMMAND0.0Command: MOVE 12 ^
+RUNCOMMAND0.0Command: CREATE 6 6
+RUNCOMMAND0.0Command: MOVE 7 ^
+RUNCOMMAND0.0Command: CREATE 0 7
+RUNCOMMAND0.0Command: MOVE 7 ^
 9ken0QKpsx__10
-CANCREATE3<@SSi,mmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmm><><>ALLPOSSIBLE2#####12SSi,mmmmmmmmmmmm34SSi,mmmmmmmmmmm<4.12>mi,mmmmmmmmmmmm5#12SSi,mmmmmmmmmmmm34SSi...si,mmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 4 v
-CANCREATE3<@SSi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmm><><>ALLPOSSIBLE2#####12SSi,mmmmmmmmmmm<3.12>mi...si,mmmmmmmmmmm<2.12>mi,mmmmmmmmmmm<1.12>mi...si,mmmmmmmmmmmm34SSi,mmmmmmmmmmmm5#12SSi...si...si,mmmmmmmmmmmm34SSi...si,mmmmm<8.6>mi,mmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 3 ^
-CANCREATE3<@SSi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmm><><>ALLPOSSIBLE2#####12SSi,mmmmmmmmmmm<13.12>mi,mmmmmmmmmmmm34SSi,mmmmmmmmmmm<13.12>mi,mmmmmmmmmmmm5#12SSi...si...si,mmmmmmmmmmmmm<8.12>mi...si,mmmmm<8.6>mi,mmmmm<7.6>mi,mmmmmmmmmmmmm<9.12>mi,mmmmmmmmmmmm34SSi...si,mmmmm<8.6>mi,mmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 8 ^
-CANCREATE3<@SSi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmm><><>ALLPOSSIBLE2#####12SSi,mmmmmmmmmmm<13.12>mi,mmmmmmmmmmmm34SSi,mmmmmmmmmmm<13.12>mi,mmmmmmmmmmmm5#12SSi...si...si,mmmmmmmmmmmmm<8.12>mi...si,mmmmm<8.6>mi,mmmmm<7.6>mi,mmmmmmmmmmmmm<9.12>mi,mmmmmmmmmmmm34SSi...si,mmmmm<8.6>mi,mmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 8 ^
-CANCREATE3<><@SSi,mmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmm>ALLPOSSIBLE2####12SSi,mmmmmmmmm<13.12>mi,mmmmmmmmmm34SSi,mmmmmmmmm<13.12>mi,mmmmmmmmmm5#12SSi,mmmmmmmmmmm<8.12>mi...si...si,mmmmmmmmmmm<9.12>mi...si,mmmmmmmmmm34SSi,mmmmmmmmmmm<8.12>mi,mmmmmmmmmmm<9.12>mi...si,mmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 8 ^
-CANCREATE3<><@SSi,mmmmmmmmm<12.5>mi,mmmmmmmmm<13.5>mi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmm<12.5>mi,mmmmmmmmm<13.5>mi,mmmmmmmmmmmmmm><><><@SSi,mmmmmmmmm<12.5>mi,mmmmmmmmm<13.5>mi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm><><><@>ALLPOSSIBLE2####12SSi,mmmmmmm<11.13>mi,mmmmmmmmmmmm34SSi,mmmmmmmmm<12.5>mi...si,mmmmmmmmm<13.5>mi,mmmmmmmmmmmm5#12SSi,mmmmmmmmm<12.5>mi,mmmmmmmmm<13.5>mi,mmmmmmmmmmmm34SSi,mmm<11.6>mi,mmmmmmmmm<12.5>mi,mmmmmmmmm<13.5>mi,mmmmmmmmmmm<10.12>mi,mmmmmmmmmmm<11.12>mi...si,mmmmmmmmmmmm5#PICKBEST1RUNCOMMAND0.0Command: MOVE 10 v
-CANCREATE3<@SSi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmm><><>ALLPOSSIBLE2####12SSi,mmmmmmmmm<0.5>mi,mmmmmmmmm<1.5>mi,mmmmmmmmm<2.5>mi...si,mmmmmmmmm<3.5>mi,mmmmmmmmm<4.5>mi,mmmmmmmmmmmm34SSi,mmmmmmmmmmmm5#12SSi,mmmmmmmmmmmm34SSi,mmm<11.6>mi,mmmmmmmmmmm<10.12>mi,mmmmmmmmmmm<11.12>mi...si,mmmmmmmmmmmm5#PICKBEST1RUNCOMMAND0.0Command: MOVE 0 ^
+RUNCOMMAND0.0Command: MOVE 4 v
+RUNCOMMAND0.0Command: MOVE 3 ^
+RUNCOMMAND0.0Command: MOVE 8 ^
+RUNCOMMAND0.0Command: MOVE 8 ^
+RUNCOMMAND0.0Command: MOVE 8 ^
+RUNCOMMAND0.0Command: MOVE 10 v
+RUNCOMMAND0.0Command: MOVE 0 ^
 peC4R2YgRU__10
-CANCREATE3<@SSi,mmmmmmmmm<12.5>mi,mmmmmmmmm<11.5>mi,mmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmm><><@SSi,mmmmmmmmm<12.5>mi,mmmmmmmmm<11.5>mi,mmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmm><@SSi...si,mmmmmmmmm<12.5>mi,mmmmmmmmm<11.5>mi,mmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmm><><><@SSi,mmmmmmmmm<12.5>mi,mmmmmmmmm<11.5>mi,mmmmmmmmmmmm><><>ALLPOSSIBLE2####12SSi,mmmmmmmmmm34SSi,mmmmmmm<11.13>mi,mmmmmmm<12.13>mi...si...si,mmmmmmmmmm5#PICKBEST1RUNCOMMAND0.0Command: CREATE 2 8
-CANCREATE3<@SSi...si,mmmmmmmmmmmmmm><><@SSi...si,mmmmmmmmmmmmmm><@SSi...si...si,mmmmmmmmmmmmmm><><><@SSi...si,mmmmmmmmmmmmmmm<5.12>mi...si,mmmmmmmmmmmmmm><><>ALLPOSSIBLE2####12SSi...si,mmm<10.6>mi...si...si,mmmmmmmmmmmm34SSi...si,mmm<10.6>mi,mmmmmmmmm<10.5>mi,mmmmmmmmmmmm5##12SSi...si,mmmmmmmmmmmmm<3.12>mi,mmmmmmmmmmmmm<2.12>mi,mmmmmmmmmmmm34SSi...si,mmmmmmmmmmm<3.13>mi,mmmmmmmmmmm<2.13>mi...si,mmmmmmmmmmm<1.13>mi,mmmmmmmmmmmmm<3.12>mi,mmmmmmmmmmmmm<2.12>mi,mmmmmmmmmmmmm<1.12>mi...si,mmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 3 v
-CANCREATE3<@SSi,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<13.5>mi,mmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<13.5>mi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<13.5>mi,mmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<13.5>mi,mmmmmmmmmmmmmmm<5.12>mi...si,mmmmmmmmmmmmmmm<6.12>mi,mmmmmmmmmmmmmm><><>ALLPOSSIBLE2####12SSi,mmm<9.6>mi...si,mmm<8.6>mi,mmmmmmmmm<9.5>mi...si,mmmmmmmmm<8.5>mi,mmmmmmmmm<7.5>mi,mmmmmmmmm<6.5>mi...si,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<13.5>mi,mmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<13.5>mi,mmmmmmmmmmmm5##12SSi,mmmmmmmmmmmm34SSi,mmmmmmm<11.13>mi...si,mmmmmmmmmmmmm<12.5>mi...si,mmmmmmmmmmmmm<13.5>mi,mmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 9 ^
+RUNCOMMAND0.0Command: CREATE 2 8
+RUNCOMMAND0.0Command: MOVE 3 v
+RUNCOMMAND0.0Command: MOVE 9 ^
 gtzxX8rpVN__10
-CANCREATE3<@SSi,mmmmmmmmmmmm><><@SSi,mmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmm<5.12>mi...si,mmmmmmmmmmmmm<6.12>mi,mmmmmmmmmmmm><><>ALLPOSSIBLE2#####12SSi,mmmmm<13.6>mi,mmmmmmmmmmm<0.5>mi,mmmmmmmmmm34SSi,mmmmmmmmmmm<0.5>mi,mmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: CREATE 6 9
-CANCREATE3<@SSi,mmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm><><>ALLPOSSIBLE2#####12SSi,mmmmmmmmmmm<0.5>mi,mmmmmmmmmmmm34SSi,mmmmm<13.6>mi,mmmmmmmmmmm<0.5>mi...si,mmmmmmmmmmmm5#12SSi,mmm<7.6>mi...si,mmmmmmmmmmmmm<7.12>mi...si,mmmmmmmmmmmm34SSi,mmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 0 v
-CANCREATE3<@SSi,mmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm><><>ALLPOSSIBLE2#####12SSi,mmmmm<13.6>mi,mmmmmmmmmmmm34SSi,mmmmmmmmmmm<0.5>mi,mmmmmmmmmmm<1.5>mi...si,mmmmmmmmmmm<2.5>mi...si,mmmmmmmmmmmm5#12SSi,mmm<7.6>mi...si,mmmmmmmmmmmmm<7.12>mi...si,mmmmmmmmmmmm34SSi,mmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 0 v
-CANCREATE3<@SSi,mmmmmmm<13.6>mi,mmmmmmmmmmmm><><@SSi,mmmmmmm<13.6>mi,mmmmmmmmmmmm><@SSi...si,mmmmmmm<13.6>mi,mmmmmmmmmmmm><><><@SSi,mmmmmmm<13.6>mi,mmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmm><><>ALLPOSSIBLE2####12SSi,mmmmmmm<13.6>mi,mmmmmmmmmm34SSi,mmmmmmm<13.6>mi,mmmmmmmmm<3.5>mi,mmmmmmmmmm5#12SSi,mmmmmmm<13.6>mi,mmmmmmmmmmm<9.12>mi,mmmmmmmmmm34SSi,mmmmmmm<13.6>mi,mmmmmmmmmmm<9.12>mi,mmmmmmmmmmm<10.12>mi,mmmmmmmmmmm<11.12>mi...si,mmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 9 v
-CANCREATE3<@SSi,mmmmmmmmmmm<12.5>mi,mmmmmmmmmmm<11.5>mi,mmmmmmmmmmm<10.5>mi,mmmmmmmmmmm<9.5>mi...si,mmmmmmmmmmm<8.5>mi,mmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmm<12.5>mi,mmmmmmmmmmm<11.5>mi,mmmmmmmmmmm<10.5>mi,mmmmmmmmmmm<9.5>mi...si,mmmmmmmmmmm<8.5>mi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmm<12.5>mi,mmmmmmmmmmm<11.5>mi,mmmmmmmmmmm<10.5>mi,mmmmmmmmmmm<9.5>mi...si,mmmmmmmmmmm<8.5>mi,mmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmm<12.5>mi,mmmmmmmmmmm<11.5>mi,mmmmmmmmmmm<10.5>mi,mmmmmmmmmmm<9.5>mi...si,mmmmmmmmmmm<8.5>mi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm><><>ALLPOSSIBLE2####12SSi,mmmmmmmmmmm<12.5>mi,mmmmmmmmmmm<11.5>mi,mmmmmmmmmmm<10.5>mi,mmmmmmmmmmm<9.5>mi...si,mmmmmmmmmmm<8.5>mi,mmmmmmmmmmmm34SSi,mmmmmmmmm<3.5>mi,mmmmmmmmmmm<12.5>mi,mmmmmmmmmmm<11.5>mi,mmmmmmmmmmm<10.5>mi,mmmmmmmmmmm<9.5>mi...si,mmmmmmmmmmm<8.5>mi,mmmmmmmmmmmm5#12SSi,mmmmmmmmmmmm34SSi,mmmmm<11.13>mi,mmmmmmmmmmmm5#PICKBEST1RUNCOMMAND0.0Command: CREATE 6 10
-CANCREATE3<@SSi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm><><><@><>ALLPOSSIBLE2###12SSi,mmmmmmmmmmmm34SSi,mmmmmmm<3.5>mi,mmmmmmm<4.5>mi...si,mmmmmmmmmmmm5#12SSi,mmmmmmmmm<7.5>mi,mmmmmmmmm<6.5>mi,mmmmmmmmmmm<6.13>mi,mmmmmmmmmmm<7.13>mi...si,mmmmmmmmmmmm34SSi,mmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 7 ^
-CANCREATE3<@><@SSi,mmmmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmmm><><><@><>ALLPOSSIBLE2###12SSi,mmmmmmmmmmmmmm34SSi,mmmmmmm<3.5>mi,mmmmmmm<4.5>mi...si,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmm<7.5>mi,mmmmmmmmmmm<6.13>mi,mmmmmmmmmmm<7.13>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmm5##12SSi...si,mmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<5.13>mi,mmmmmmmmmmmmmm5#PICKBEST1RUNCOMMAND0.0Command: MOVE 7 ^
+RUNCOMMAND0.0Command: CREATE 6 9
+RUNCOMMAND0.0Command: MOVE 0 v
+RUNCOMMAND0.0Command: MOVE 0 v
+RUNCOMMAND0.0Command: MOVE 9 v
+RUNCOMMAND0.0Command: CREATE 6 10
+RUNCOMMAND0.0Command: MOVE 7 ^
+RUNCOMMAND0.0Command: MOVE 7 ^
 XVFk5UH10c__10
-CANCREATE3<><@SSi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<6.12>mi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<6.12>mi,mmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<6.12>mi...si,mmmmmmmmmmmmmm>ALLPOSSIBLE2###12SSi,mmmmmmmmmmm<4.12>mi,mmmmmmmmmmm<3.12>mi,mmmmmmmmmmm<2.12>mi...si,mmmmmmmmmmmm34SSi,mmmmmmm<3.5>mi,mmmmmmm<4.5>mi,mmmmmmmmmmm<4.12>mi,mmmmmmmmmmm<3.12>mi,mmmmmmmmmmm<2.12>mi...si,mmmmmmmmmmmmm<4.13>mi...si,mmmmmmmmmmmmm<3.13>mi,mmmmmmmmmmmmm<2.13>mi,mmmmmmmmmmmm5##12SSi,mmmmmmm<3.5>mi,mmmmmmmmmmm<4.12>mi,mmmmmmmmmmmmm<4.13>mi,mmmmmmmmmmmmm<3.13>mi,mmmmmmmmmmmmm<2.13>mi,mmmmmmmmmmmm34SSi,mmmmmmmmmmm<4.12>mi,mmmmmmmmmmmm5#PICKBEST1RUNCOMMAND0.0Command: MOVE 3 v
-CANCREATE3<><@SSi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<6.12>mi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<6.12>mi,mmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<6.12>mi...si,mmmmmmmmmmmmmm>ALLPOSSIBLE2###12SSi,mmmmmmmmmmm<4.12>mi,mmmmmmmmmmm<3.12>mi,mmmmmmmmmmm<2.12>mi...si,mmmmmmmmmmmm34SSi,mmmmmmm<3.5>mi,mmmmmmm<4.5>mi,mmmmmmmmmmm<4.12>mi,mmmmmmmmmmm<3.12>mi,mmmmmmmmmmm<2.12>mi...si,mmmmmmmmmmmmm<4.13>mi...si,mmmmmmmmmmmmm<3.13>mi,mmmmmmmmmmmmm<2.13>mi,mmmmmmmmmmmm5##12SSi,mmmmmmm<3.5>mi,mmmmmmmmmmm<4.12>mi,mmmmmmmmmmmmm<4.13>mi,mmmmmmmmmmmmm<3.13>mi,mmmmmmmmmmmmm<2.13>mi,mmmmmmmmmmmm34SSi,mmmmmmmmmmm<4.12>mi,mmmmmmmmmmmm5#PICKBEST1RUNCOMMAND0.0Command: MOVE 3 v
+RUNCOMMAND0.0Command: MOVE 3 v
+RUNCOMMAND0.0Command: MOVE 3 v
 ODezmuHw69__10
-CANCREATE3<><@SSi,mmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmm<6.12>mi,mmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmm<6.12>mi,mmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmm<6.12>mi...si,mmmmmmmmmmmm>ALLPOSSIBLE2####12SSi,mmmmm<0.6>mi,mmmmmmmmm<1.12>mi...si,mmmmmmmmmm34SSi,mmmmmmmmmm5#PICKBEST1RUNCOMMAND0.0Command: CREATE 4 11
-CANCREATE3<><@SSi,mmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<4.12>mi...si,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<4.12>mi...si,mmmmmmmmmmmmmm><><@SSi,mmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmmmm><><><@SSi,mmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmmmm>ALLPOSSIBLE2####12SSi,mmmmmmmmmmmm34SSi,mmm<11.13>mi,mmm<12.13>mi...si...si,mmmmmmmmm<12.5>mi,mmmmmmmmm<13.5>mi,mmmmmmmmmmmm5##12SSi,mmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<7.12>mi,mmmmmmmmmmmm34SSi,mmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<7.12>mi,mmmmmmmmmmmmm<8.12>mi,mmmmmmmmmmmmm<9.12>mi,mmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmm<11.12>mi,mmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 7 v
-CANCREATE3<><@SSi,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<11.5>mi,mmmmmmmmmmmmm<10.5>mi,mmmmmmmmmmmmm<9.5>mi,mmmmmmmmmmmmm<8.5>mi,mmmmmmmmmmmmm<7.5>mi...si,mmmmmmmmmmmmm<6.5>mi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<11.5>mi,mmmmmmmmmmmmm<10.5>mi,mmmmmmmmmmmmm<9.5>mi,mmmmmmmmmmmmm<8.5>mi,mmmmmmmmmmmmm<7.5>mi...si,mmmmmmmmmmmmm<6.5>mi,mmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<11.5>mi,mmmmmmmmmmmmm<10.5>mi,mmmmmmmmmmmmm<9.5>mi,mmmmmmmmmmmmm<8.5>mi,mmmmmmmmmmmmm<7.5>mi...si,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<11.5>mi,mmmmmmmmmmmmm<10.5>mi,mmmmmmmmmmmmm<9.5>mi,mmmmmmmmmmmmm<8.5>mi,mmmmmmmmmmmmm<7.5>mi...si,mmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<11.5>mi,mmmmmmmmmmmmm<10.5>mi,mmmmmmmmmmmmm<9.5>mi,mmmmmmmmmmmmm<8.5>mi,mmmmmmmmmmmmm<7.5>mi...si,mmmmmmmmmmmmm<6.5>mi,mmmmmmmmmmmmmm>ALLPOSSIBLE2####12SSi,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<11.5>mi,mmmmmmmmmmmmm<10.5>mi,mmmmmmmmmmmmm<9.5>mi,mmmmmmmmmmmmm<8.5>mi,mmmmmmmmmmmmm<7.5>mi...si,mmmmmmmmmmmmm<6.5>mi,mmmmmmmmmmmm34SSi,mmmmmmmmm<13.5>mi,mmmmmmmmm<0.5>mi,mmmmmmmmm<1.5>mi...si,mmmmmmmmm<2.5>mi...si,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<11.5>mi,mmmmmmmmmmmmm<10.5>mi,mmmmmmmmmmmmm<9.5>mi,mmmmmmmmmmmmm<8.5>mi,mmmmmmmmmmmmm<7.5>mi...si,mmmmmmmmmmmmm<6.5>mi,mmmmmmmmmmmm5##12SSi,mmmmmmmmmmmm34SSi,mmm<11.13>mi,mmm<12.13>mi...si,mmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 13 v
-CANCREATE3<><@SSi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmm>ALLPOSSIBLE2####12SSi,mmmmmmmmmmmm34SSi,mmmmmmmmm<3.5>mi,mmmmmmmmm<4.5>mi...si,mmmmmmmmmmmm5##12SSi,mmm<11.13>mi...si,mmmmmmmmmmmmm<11.5>mi,mmmmmmmmmmmmm<10.5>mi,mmmmmmmmmmmm34SSi,mmmmmmm<10.13>mi,mmmmmmm<11.13>mi,mmmmmmm<12.13>mi,mmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 11 ^
-CANCREATE3<><@SSi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmm>ALLPOSSIBLE2####12SSi,mmmmmmmmmmmm34SSi,mmmmmmmmm<3.5>mi,mmmmmmmmm<4.5>mi...si,mmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmm<11.5>mi,mmmmmmmmmmmmm<10.5>mi,mmmmmmmmmmmm34SSi,mmm<11.13>mi,mmm<12.13>mi...si...si,mmmmmmm<10.13>mi,mmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 11 v
-CANCREATE3<><@SSi...si...si,mmmmmmmmmmmmmm><@SSi...si...si...si,mmmmmmmmmmmmmm><><@SSi...si...si,mmmmmmmmmmmmmm><@SSi...si...si...si,mmmmmmmmmmmmmm><><><@SSi...si...si,mmmmmmmmmmmmmm>ALLPOSSIBLE2####12SSi...si...si,mmmmmmmmmmmm34SSi...si...si,mmmmmmmmm<3.5>mi,mmmmmmmmm<4.5>mi...si,mmmmmmmmmmmm5##12SSi...si...si,mmmmmmm<11.13>mi,mmmmmmmmmmmm34SSi...si...si,mmmmmmm<11.13>mi,mmmmmmm<12.13>mi...si,mmmmmmmmmmmmm<11.5>mi,mmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 11 v
-CANCREATE3<><><@SSi...si,mmmmmmmmmmmmmm><@SSi...si...si,mmmmmmmmmmmmmm><><@SSi...si,mmmmmmmmmmmmmm><@SSi...si...si,mmmmmmmmmmmmmm><><>ALLPOSSIBLE2####12SSi...si,mmmmmmmmm<4.5>mi...si,mmmmmmmmmmmm34SSi...si,mmmmm<4.6>mi,mmmmm<5.6>mi,mmmmmmmmm<4.5>mi,mmmmmmmmmmmm5##12SSi...si,mmmmmmmmmmmmm<10.5>mi...si...si,mmmmmmmmmmmm34SSi...si,mmmmmmmmmmmmm<10.5>mi,mmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 4 v
+RUNCOMMAND0.0Command: CREATE 4 11
+RUNCOMMAND0.0Command: MOVE 7 v
+RUNCOMMAND0.0Command: MOVE 13 v
+RUNCOMMAND0.0Command: MOVE 11 ^
+RUNCOMMAND0.0Command: MOVE 11 v
+RUNCOMMAND0.0Command: MOVE 11 v
+RUNCOMMAND0.0Command: MOVE 4 v
 T055tmNXRA__10
-CANCREATE3<><><@SSi,mmmmmmmmmmm<5.12>mi,mmmmmmmmmm><@SSi...si,mmmmmmmmmmm<5.12>mi,mmmmmmmmmm><><@SSi,mmmmmmmmmmm<5.12>mi,mmmmmmmmmmm<4.12>mi...si,mmmmmmmmmm><@SSi...si,mmmmmmmmmmm<5.12>mi,mmmmmmmmmmm<4.12>mi...si,mmmmmmmmmm><><>ALLPOSSIBLE2####12SSi,mmmmmmmmm<10.5>mi...si...si,mmmmmmmmm<9.5>mi,mmmmmmmm34SSi,mmmmmmmmm<10.5>mi,mmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: CREATE 5 12
-CANCREATE3<><><@SSi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmm><><>ALLPOSSIBLE2####12SSi,mmmmmmmmm<10.5>mi...si...si,mmmmmmmmm<9.5>mi,mmmmmmmmmmmm34SSi,mmmmmmmmm<10.5>mi,mmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmm<2.12>mi,mmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<2.12>mi,mmmmmmmmmmmmm<1.12>mi,mmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 10 ^
-CANCREATE3<><><@SSi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmm><><>ALLPOSSIBLE2####12SSi,mmmmmmmmmmmm34SSi,mmmmmmmmm<8.5>mi,mmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmm<1.12>mi...si,mmmmmmmmmmmm34SSi,mmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 8 v
-CANCREATE3<><><@SSi,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmm><><>ALLPOSSIBLE2####12SSi,mmmmmmmmm<7.5>mi...si,mmmmmmmmm<6.5>mi...si,mmmmmmmmmmm<7.13>mi...si,mmmmmmmmmmm<8.13>mi,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmm5##12SSi,mmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<12.5>mi...si,mmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 7 ^
+RUNCOMMAND0.0Command: CREATE 5 12
+RUNCOMMAND0.0Command: MOVE 10 ^
+RUNCOMMAND0.0Command: MOVE 8 v
+RUNCOMMAND0.0Command: MOVE 7 ^
 GR1EycQt2S__10
-CANCREATE3<><><@SSi,mmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmm><><@SSi,mmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmm><><>ALLPOSSIBLE2#####12SSi,mmmmmmmmmm34SSi,mmmmmmmmmmm<13.5>mi,mmmmmmmmmmm<0.5>mi,mmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 13 v
-CANCREATE3<><><@SSi,mmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmm><><@SSi,mmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmm><><>ALLPOSSIBLE2#####12SSi,mmmmmmmmmmm<1.5>mi,mmmmmmmmmmm<2.5>mi...si,mmmmmmmmmm34SSi,mmmmmmmmmmm<1.5>mi,mmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 1 ^
-CANCREATE3<><><@SSi,mmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmm><><@SSi,mmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmm><><>ALLPOSSIBLE2#####12SSi,mmmmmmmmmmm<3.5>mi,mmmmmmmmmm34SSi,mmmmmmmmmmm<3.5>mi,mmmmmmmmmmm<4.5>mi,mmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 3 v
+RUNCOMMAND0.0Command: MOVE 13 v
+RUNCOMMAND0.0Command: MOVE 1 ^
+RUNCOMMAND0.0Command: MOVE 3 v
 rLRJwLzmmf__10
-CANCREATE3<><><@SSi,mmmmmmmmmmm<5.12>mi,mmmmmmmmmmm<6.12>mi,mmmmmmmmmmm<7.12>mi...si,mmmmmmmmmm><@SSi...si,mmmmmmmmmmm<5.12>mi,mmmmmmmmmmm<6.12>mi,mmmmmmmmmmm<7.12>mi...si,mmmmmmmmmm><><@SSi,mmmmmmmmmmm<5.12>mi...si,mmmmmmmmmmm<6.12>mi,mmmmmmmmmm><@SSi...si,mmmmmmmmmmm<5.12>mi...si,mmmmmmmmmmm<6.12>mi,mmmmmmmmmm><><>ALLPOSSIBLE2####PICKBEST1RUNCOMMAND0.0Command: CREATE 2 13
-CANCREATE3<><@><@SSi,mmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmmm<3.12>mi,mmmmmmmmmmmmm<2.12>mi,mmmmmmmmmmmm><><@SSi,mmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmm>ALLPOSSIBLE2#####12SSi,mmmmmmmmmmm<5.12>mi,mmmmmmmmmmm<6.12>mi,mmmmmmmmmm34SSi,mmmmmmmmmmm<5.12>mi,mmmmmmmmmmm<6.12>mi,mmmmmmmmmmm<7.12>mi...si,mmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: CREATE 2 14
-CANCREATE3<><@><@><><@SSi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<6.12>mi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<6.12>mi,mmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<6.12>mi...si,mmmmmmmmmmmmmmm<7.12>mi,mmmmmmmmmmmmmmm<8.12>mi...si...si,mmmmmmmmmmmmmmm<9.12>mi...si,mmmmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmmm>ALLPOSSIBLE2#####12SSi,mmmmmmmmmmm<5.12>mi...si,mmmmmmmmmmm<6.12>mi,mmmmmmmmmmmm34SSi,mmmmmmmmmmm<5.12>mi...si,mmmmmmmmmmm<6.12>mi,mmmmmmmmmmm<7.12>mi...si,mmmmmmmmmmmm5#12SSi,mmmmmmmmmmm<5.12>mi...si,mmmmmmmmmmm<6.12>mi,mmmmmmmmmmmm34SSi,mmmmmmmmmmm<5.12>mi...si,mmmmmmmmmmm<6.12>mi,mmmmmmmmmmm<7.12>mi...si,mmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: CREATE 8 15
-CANCREATE3<><@><@><><@SSi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmm>ALLPOSSIBLE2#####12SSi,mmmmmmmmmmm<5.12>mi...si,mmmmmmmmmmm<6.12>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmm<5.12>mi...si,mmmmmmmmmmm<6.12>mi,mmmmmmmmmmm<7.12>mi...si,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmm<5.12>mi...si,mmmmmmmmmmm<6.12>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmm<5.12>mi...si,mmmmmmmmmmm<6.12>mi,mmmmmmmmmmm<7.12>mi...si,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 5 v
-CANCREATE3<><><@><@SSi,mmmmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmmm><><>ALLPOSSIBLE2#####12SSi,mmmmmmmmmmmmmm34SSi,mmmmm<9.6>mi,mmm<10.6>mi,mmmmm<8.6>mi,mmm<9.6>mi,mmmmm<7.6>mi,mmm<8.6>mi,mmmmmmmmmmm<8.12>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 8 v
-CANCREATE3<><><@><@SSi,mmmmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmmm><><>ALLPOSSIBLE2#####12SSi,mmmmmmmmmmm<9.12>mi,mmmmmmmmmmm<10.12>mi...si,mmmmmmmmmmmmmm34SSi,mmm<10.6>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 9 ^
-CANCREATE3<><><@><@SSi,mmmmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmmm><><>ALLPOSSIBLE2#####12SSi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 5 ^
-CANCREATE3<><@SSi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmm>ALLPOSSIBLE2#####12SSi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmmm<11.5>mi,mmmmmmmmmmmmmmm<10.5>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmmm<11.5>mi,mmmmmmmmmmmmmmm<10.5>mi,mmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 11 v
-CANCREATE3<><@SSi,mmmmmmmmmmm<12.5>mi,mmmmmmmmmmm<11.5>mi,mmmmmmmmmmm<10.5>mi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmmmmmmm<3.12>mi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmm<12.5>mi,mmmmmmmmmmm<11.5>mi,mmmmmmmmmmm<10.5>mi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmmmmmmm<3.12>mi,mmmmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmm<12.5>mi,mmmmmmmmmmm<11.5>mi,mmmmmmmmmmm<10.5>mi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmm<12.5>mi,mmmmmmmmmmm<11.5>mi,mmmmmmmmmmm<10.5>mi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmm<12.5>mi,mmmmmmmmmmm<11.5>mi,mmmmmmmmmmm<10.5>mi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmm>ALLPOSSIBLE2#####12SSi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmm<12.5>mi...si,mmmmmmmmmmm<11.5>mi,mmmmmmmmmmm<10.5>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmm<12.5>mi,mmmmmmmmmmm<11.5>mi,mmmmmmmmmmm<10.5>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmm<12.5>mi,mmmmmmmmmmm<11.5>mi,mmmmmmmmmmm<10.5>mi,mmmmmmmmmmmmm<1.12>mi,mmmmmmmmmmmmmm5#12SSi,mmmmm<8.6>mi,mmmmmmmmmmm<12.5>mi,mmmmmmmmmmm<11.5>mi,mmmmmmmmmmm<10.5>mi,mmmmmmmmmmmmmm34SSi,mmmmm<8.6>mi,mmmmmmmmmmm<12.5>mi,mmmmmmmmmmm<11.5>mi,mmmmmmmmmmm<10.5>mi,mmmmmmmmmmm<9.5>mi...si,mmmmmmmmmmmmmmm<8.5>mi,mmmmmmmmmmmmmmm<7.5>mi...si,mmmmmmmmmmmmmmm<6.5>mi,mmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 8 v
-CANCREATE3<><@SSi,mmm<7.6>mi,mmmmmmmmm<8.5>mi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmmmmm<3.12>mi,mmmmmmmmmmmmmm><@SSi...si,mmm<7.6>mi,mmmmmmmmm<8.5>mi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmmmmm<3.12>mi,mmmmmmmmmmmmmm><><@SSi,mmm<7.6>mi,mmmmmmmmm<8.5>mi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm><@SSi...si,mmm<7.6>mi,mmmmmmmmm<8.5>mi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm><><><@SSi,mmm<7.6>mi,mmmmmmmmm<8.5>mi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm>ALLPOSSIBLE2####12SSi,mmm<7.6>mi,mmmmmmmmmmmm34SSi,mmm<7.6>mi,mmmmmmmmmmmm5#12SSi,mmm<7.6>mi,mmmmmmmmm<8.5>mi,mmmmmmmmmmmm34SSi,mmm<7.6>mi,mmmmmmmmm<8.5>mi,mmmmmmmmmmm<1.12>mi,mmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmm<7.5>mi...si,mmmmmmmmmmmm34SSi,mmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: CREATE 1 16
-CANCREATE3ALLPOSSIBLE2###12SSi,mmmmmmmmmmm<7.5>mi...si,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmm5#12SSi,mmmmmmm<7.5>mi,mmmmmmmmmmmmmm34SSi,mmmmmmm<7.5>mi,mmmmmmmmm<1.12>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmm<7.5>mi...si,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmm5##12SSi,mmmmmmm<7.5>mi,mmmmmmm<6.5>mi,mmmmmmmmmmmmm<6.13>mi,mmmmmmmmmmmmm<5.13>mi,mmmmmmmmmmmmmmm<5.12>mi...si,mmmmmmmmmmmmmm34SSi,mmmmmmm<7.5>mi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<4.12>mi...si,mmmmmmmmmmmmmmm<3.12>mi,mmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 5 ^
-CANCREATE3ALLPOSSIBLE2###12SSi,mmmmmmmmmmm<7.5>mi...si,mmmmmmmmmmm<6.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmm<1.12>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmm<7.5>mi...si,mmmmmmmmmmm<6.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmm<4.13>mi...si,mmmmmmmmmmmmm<3.13>mi...si,mmmmmmmmmmmmm<2.13>mi...si,mmmmmmmmmmmmm<1.13>mi...si,mmmmmmmmmmmmmmmm34SSi...si,mmmmmmmmmmmmmmmm5#PICKBEST1RUNCOMMAND0.0Command: MOVE 4 ^
-CANCREATE3ALLPOSSIBLE2###12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmm<7.5>mi,mmmmmmm<6.5>mi,mmmmmmmmmmm<7.5>mi,mmmmmmmmmmm<6.5>mi,mmmmmmmmmmmmmmmmm<6.13>mi...si,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmm<7.5>mi,mmmmmmm<6.5>mi,mmmmmmmmmmm<7.5>mi,mmmmmmmmmmm<6.5>mi,mmmmmmmmmmmmmmmmm<6.13>mi...si,mmmmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmmmm<4.12>mi...si,mmmmmmmmmmmmmmm<3.12>mi...si,mmmmmmmmmmmmmmm<2.12>mi...si,mmmmmmmmmmmmmmm<1.12>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5#PICKBEST1RUNCOMMAND0.0Command: MOVE 7 v
-CANCREATE3ALLPOSSIBLE2###12SSi,mmmmmmm<6.5>mi...si,mmmmmmmmmmm<7.5>mi,mmmmmmmmmmm<6.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmm<6.5>mi,mmmmmmmmmmm<7.5>mi,mmmmmmmmmmm<6.5>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5#12SSi...si,mmmmmmmmmmm<7.5>mi,mmmmmmmmmmmmmmmmm<7.13>mi...si,mmmmmmmmmmmmmmmmm<8.13>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmm<7.5>mi,mmmmmmmmmmmmmmmmm<7.13>mi,mmmmmmmmmmmmmmmmm<8.13>mi,mmmmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmmmm<4.12>mi...si,mmmmmmmmmmmmmmm<3.12>mi...si,mmmmmmmmmmmmmmm<2.12>mi...si,mmmmmmmmmmmmmmm<1.12>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5#PICKBEST1RUNCOMMAND0.0Command: MOVE 4 ^
-CANCREATE3ALLPOSSIBLE2###12SSi,mmmmmmm<6.5>mi...si,mmmmmmmmmmm<7.5>mi,mmmmmmmmmmm<6.5>mi,mmmmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmm<13.5>mi,mmmmmmmmmmmmmmm<0.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmm<6.5>mi,mmmmmmmmmmm<7.5>mi,mmmmmmmmmmm<6.5>mi,mmmmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmm<13.5>mi,mmmmmmmmmmmmmmm<0.5>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmm<13.5>mi,mmmmmmmmmmmmmmm<0.5>mi...si,mmmmmmmmmmmmmmm<1.5>mi,mmmmmmmmmmmmmmm<2.5>mi...si,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmm<13.5>mi,mmmmmmmmmmmmmmmm5#12SSi...si,mmmmmmmmmmm<7.5>mi,mmmmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmm<13.5>mi,mmmmmmmmmmmmmmm<0.5>mi,mmmmmmmmmmmmmmmmm<7.13>mi...si,mmmmmmmmmmmmmmmmm<8.13>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmm<7.5>mi,mmmmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmm<13.5>mi,mmmmmmmmmmmmmmm<0.5>mi,mmmmmmmmmmmmmmmmm<7.13>mi,mmmmmmmmmmmmmmmmm<8.13>mi,mmmmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmm<12.5>mi...si,mmmmmmmmmmmmmmm<13.5>mi,mmmmmmmmmmmmmmm<0.5>mi,mmmmmmmmmmmmmmmm5#PICKBEST1RUNCOMMAND0.0Command: MOVE 6 ^
+RUNCOMMAND0.0Command: CREATE 2 13
+RUNCOMMAND0.0Command: CREATE 2 14
+RUNCOMMAND0.0Command: CREATE 8 15
+RUNCOMMAND0.0Command: MOVE 5 v
+RUNCOMMAND0.0Command: MOVE 8 v
+RUNCOMMAND0.0Command: MOVE 9 ^
+RUNCOMMAND0.0Command: MOVE 5 ^
+RUNCOMMAND0.0Command: MOVE 11 v
+RUNCOMMAND0.0Command: MOVE 8 v
+RUNCOMMAND0.0Command: CREATE 1 16
+RUNCOMMAND0.0Command: MOVE 5 ^
+RUNCOMMAND0.0Command: MOVE 4 ^
+RUNCOMMAND0.0Command: MOVE 7 v
+RUNCOMMAND0.0Command: MOVE 4 ^
+RUNCOMMAND0.0Command: MOVE 6 ^
 NoJnk2ybK5__10
 kRKLuf9q7k__10
-CANCREATE3<@SSi...si...si,mmmmmmmmmmmmmm><@SSi...si...si...si,mmmmmmmmmmmmmm><><@SSi...si...si,mmmmmmmmmmmmmm><@SSi...si...si...si,mmmmmmmmmmmmmm><><><@SSi...si...si,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<6.12>mi,mmmmmmmmmmmmmm><>ALLPOSSIBLE2###12SSi...si...si,mmmmmmmmmmm<13.5>mi,mmmmmmmmmmm<0.5>mi,mmmmmmmmmmmm34SSi...si...si,mmm<13.6>mi...si,mmmmmmmmmmmm5##12SSi...si...si,mmm<13.6>mi...si,mmm<0.6>mi...si,mmmmmmmmmmmm34SSi...si...si,mmmmmmmmmmm<13.5>mi,mmmmmmmmmmm<0.5>mi...si,mmmmmmmmmmmm5#PICKBEST1RUNCOMMAND0.0Command: CREATE 7 17
-CANCREATE3<@SSi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmmmmm<5.12>mi...si,mmmmmmmmmmmmmmmmm<4.12>mi...si,mmmmmmmmmmmmmmmmm<3.12>mi...si,mmmmmmmmmmmmmmmmm<2.12>mi,mmmmmmmmmmmmmmmmm<1.12>mi,mmmmmmmmmmmmmmmm><>ALLPOSSIBLE2###12SSi,mmmmmmmmmmm<13.5>mi,mmmmmmmmmmmmmm34SSi,mmm<13.6>mi...si,mmm<0.6>mi...si,mmm<1.6>mi,mmmmmmmmmmmmmm5##12SSi,mmm<13.6>mi...si,mmm<0.6>mi,mmm<1.6>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmm<13.5>mi,mmmmmmmmmmm<0.5>mi,mmmmmmmmmmm<1.5>mi,mmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmmmm<6.12>mi,mmmmmmmmmmmmmmm<7.12>mi...si,mmmmmmmmmmmmmmm<8.12>mi...si,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmm<6.12>mi,mmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: CREATE 7 18
-CANCREATE3ALLPOSSIBLE2###12SSi,mmmmmmmmmmm<13.5>mi,mmmmmmmmmmmmmmmm34SSi,mmm<13.6>mi...si,mmm<0.6>mi...si,mmm<1.6>mi,mmmmmmmmmmmmmmmm5##12SSi,mmm<13.6>mi...si,mmm<0.6>mi,mmm<1.6>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmm<13.5>mi,mmmmmmmmmmm<0.5>mi,mmmmmmmmmmm<1.5>mi,mmmmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmmmm<6.12>mi,mmmmmmmmmmmmmmm<7.12>mi...si,mmmmmmmmmmmmmmm<8.12>mi...si,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmm<6.12>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmmmm<3.12>mi...si,mmmmmmmmmmmmmmmmm<2.12>mi,mmmmmmmmmmmmmmmmm<1.12>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 0 v
-CANCREATE3ALLPOSSIBLE2###12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5##12SSi,mmmmm<12.13>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmmmm<6.12>mi,mmmmmmmmmmmmmmm<7.12>mi...si,mmmmmmmmmmmmmmm<8.12>mi...si,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmm<6.12>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmmmm<3.12>mi,mmmmmmmmmmmmmmmmm<2.12>mi...si,mmmmmmmmmmmmmmmm34SSi,mmm<2.6>mi...si,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 6 ^
-CANCREATE3ALLPOSSIBLE2###12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmm<13.12>mi,mmmmmmmmmmm<13.5>mi,mmmmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmm<13.12>mi,mmmmmmmmmmm<13.5>mi,mmmmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmmmm<7.12>mi...si,mmmmmmmmmmmmmmm<8.12>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmmmm<3.12>mi,mmmmmmmmmmmmmmmmm<2.12>mi...si,mmmmmmmmmmmmmmmm34SSi,mmm<2.6>mi...si,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 13 v
-CANCREATE3ALLPOSSIBLE2###12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmm<13.12>mi,mmmmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmm<0.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmm<0.5>mi,mmmmmmmmmmm<1.5>mi...si,mmmmmmmmmmm<2.5>mi...si,mmmmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmmmm<7.12>mi...si,mmmmmmmmmmmmmmm<8.12>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmmm<3.12>mi,mmmmmmmmmmmmmmmmm<2.12>mi,mmmmmmmmmmmmmmmmm<1.12>mi...si,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 0 v
-CANCREATE3ALLPOSSIBLE2###12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmm<13.12>mi,mmmmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmm<4.5>mi,mmmmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmmmm<7.12>mi...si,mmmmmmmmmmmmmmm<8.12>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmmm<3.12>mi,mmmmmmmmmmmmmmmmm<2.12>mi,mmmmmmmmmmmmmmmmm<1.12>mi,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 3 v
-CANCREATE3ALLPOSSIBLE2###12SSi,mmmmmmmmmmmmmmmmm<12.5>mi...si,mmmmmmmmmmmmmmmm34SSi,mmmmmmm<13.12>mi,mmmmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmm<4.5>mi...si,mmmmmmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmmmm<7.12>mi...si,mmmmmmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmm<13.12>mi,mmmmmmmmmmmmm<12.13>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmmm<12.5>mi...si,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 4 ^
-CANCREATE3ALLPOSSIBLE2###12SSi,mmmmm<12.13>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmmm<13.5>mi,mmmmmmmmmmmmmmmmm<0.5>mi,mmmmmmmmmmmmmmmmm<1.5>mi,mmmmmmmmmmmmmmmmm<2.5>mi,mmmmmmmmmmmmmmmmm<3.5>mi...si,mmmmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmm<4.5>mi...si,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmmmm<7.12>mi...si,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5#12SSi,mmmmm<12.13>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmmm<13.5>mi,mmmmmmmmmmmmmmmmm<0.5>mi,mmmmmmmmmmmmmmmmm<1.5>mi,mmmmmmmmmmmmmmmmm<2.5>mi,mmmmmmmmmmmmmmmmm<3.5>mi...si,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 13 v
-CANCREATE3ALLPOSSIBLE2###12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmm<13.12>mi,mmmmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmm<4.5>mi...si,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmm<7.12>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmmmm<0.5>mi...si,mmmmmmmmmmmmmmmmm<1.5>mi...si,mmmmmmmmmmmmmmmmm<2.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmmm<0.5>mi,mmmmmmmmmmmmmmmmm<1.5>mi,mmmmmmmmmmmmmmmmm<2.5>mi,mmmmmmmmmmmmmmmmm<3.5>mi...si,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 0 v
-CANCREATE3ALLPOSSIBLE2###12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmm<13.12>mi,mmmmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmm<4.5>mi,mmmmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmm<7.12>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmmmm<0.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmmm<0.5>mi,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 13 v
-CANCREATE3ALLPOSSIBLE2###12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmm<13.12>mi,mmmmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmm<4.5>mi,mmmmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmm<7.12>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmmmm<0.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmmm<0.5>mi,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 13 v
-CANCREATE3ALLPOSSIBLE2###12SSi,mmmmmmmmmmmmm<12.13>mi...si,mmmmmmmmmmmmmmmm34SSi,mmmmmmm<12.5>mi...si,mmmmmmm<13.5>mi,mmmmmmmmmmmmmmmm5##12SSi,mmmmmmm<12.5>mi,mmmmmmm<13.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmm<12.5>mi,mmmmmmm<13.5>mi,mmmmmmmmmmm<4.5>mi,mmmmmmmmmmmmmmmm5##12SSi,mmmmmmm<12.5>mi,mmmmmmm<13.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmm<12.5>mi,mmmmmmm<13.5>mi,mmmmmmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmm<12.5>mi,mmmmmmm<13.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmm<12.5>mi,mmmmmmm<13.5>mi,mmmmmmmmmmmmmmmmm<1.5>mi,mmmmmmmmmmmmmmmmm<2.5>mi,mmmmmmmmmmmmmmmmm<3.5>mi...si,mmmmmmmmmmmmmmmmm<4.5>mi,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 1 v
-CANCREATE3ALLPOSSIBLE2##12SSi,mmmmm<0.5>mi...si,mmmmm<1.5>mi,mmmmm<2.5>mi...si,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmm5##12SSi,mmmmmmmmm<4.5>mi...si,mmmmmmmmmmmmmm34SSi,mmmmmmmmm<4.5>mi,mmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmm34SSi,mmmmm<0.5>mi...si,mmmmm<1.5>mi...si,mmmmm<2.5>mi...si,mmmmmmmmmmmmmmm<1.5>mi,mmmmmmmmmmmmmmm<2.5>mi...si,mmmmmmmmmmmmmmm<3.5>mi...si,mmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 1 v
-CANCREATE3ALLPOSSIBLE2##12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmm<3.5>mi,mmmmm<4.5>mi...si,mmmmmmmmmmmmmmmm5##12SSi,mmmmm<3.5>mi,mmmmm<4.5>mi,mmmmmmmmm<4.5>mi...si,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmm<4.5>mi,mmmmm<3.5>mi,mmmmmmmmmmmmmmm<4.5>mi,mmmmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmm<3.5>mi,mmmmm<4.5>mi,mmmmmmmmm<4.5>mi...si,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmm<4.5>mi,mmmmm<3.5>mi,mmmmmmmmmmmmmmm<4.5>mi,mmmmmmmmmmmmmmmm5#PICKBEST1RUNCOMMAND0.0Command: MOVE 4 ^
+RUNCOMMAND0.0Command: CREATE 7 17
+RUNCOMMAND0.0Command: CREATE 7 18
+RUNCOMMAND0.0Command: MOVE 0 v
+RUNCOMMAND0.0Command: MOVE 6 ^
+RUNCOMMAND0.0Command: MOVE 13 v
+RUNCOMMAND0.0Command: MOVE 0 v
+RUNCOMMAND0.0Command: MOVE 3 v
+RUNCOMMAND0.0Command: MOVE 4 ^
+RUNCOMMAND0.0Command: MOVE 13 v
+RUNCOMMAND0.0Command: MOVE 0 v
+RUNCOMMAND0.0Command: MOVE 13 v
+RUNCOMMAND0.0Command: MOVE 13 v
+RUNCOMMAND0.0Command: MOVE 1 v
+RUNCOMMAND0.0Command: MOVE 1 v
+RUNCOMMAND0.0Command: MOVE 4 ^
 wa3WAMxUCZ__10
 72F1vilW9j__10
-CANCREATE3<@SSi...si,mmmmmmmmm<12.5>mi,mmmmmmmmm<11.5>mi,mmmmmmmmm<10.5>mi...si,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm><@SSi...si...si,mmmmmmmmm<12.5>mi,mmmmmmmmm<11.5>mi,mmmmmmmmm<10.5>mi...si,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm><><@SSi...si,mmmmmmmmm<12.5>mi,mmmmmmmmm<11.5>mi,mmmmmmmmm<10.5>mi...si,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<6.12>mi...si,mmmmmmmmmmmmmm><@SSi...si...si,mmmmmmmmm<12.5>mi,mmmmmmmmm<11.5>mi,mmmmmmmmm<10.5>mi...si,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<6.12>mi...si,mmmmmmmmmmmmmm><><><@SSi...si,mmmmmmmmm<12.5>mi,mmmmmmmmm<11.5>mi,mmmmmmmmm<10.5>mi...si,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<6.12>mi,mmmmmmmmmmmmmmm<7.12>mi,mmmmmmmmmmmmmmm<8.12>mi...si,mmmmmmmmmmmmmmm<9.12>mi,mmmmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmm><>ALLPOSSIBLE2####12SSi...si,mmmmmmm<12.13>mi,mmmmmmmmmmmm34SSi...si,mmmmmmmmmmmm5#12SSi...si,mmmmmmmmm<12.5>mi,mmmmmmmmm<11.5>mi,mmmmmmmmm<10.5>mi...si,mmmmmmmmmmm<4.5>mi...si,mmmmmmmmmmmm34SSi...si,mmmmmmmmm<12.5>mi,mmmmmmmmm<11.5>mi,mmmmmmmmm<10.5>mi...si,mmmmmmmmmmmm5#PICKBEST1RUNCOMMAND0.0Command: CREATE 7 19
-CANCREATE3<@SSi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmm><><><@><>ALLPOSSIBLE2####12SSi,mmmmmmmmm<6.5>mi...si,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<6.12>mi,mmmmmmmmmmmmmmm<7.12>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmm<6.5>mi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<6.12>mi,mmmmmmmmmmmmmmm<7.12>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmm<4.5>mi...si,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmm5##12SSi,mmmmmmmmm<6.5>mi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmm<6.5>mi...si,mmmmmmmmmmm<4.5>mi...si,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 6 ^
+RUNCOMMAND0.0Command: CREATE 7 19
+RUNCOMMAND0.0Command: MOVE 6 ^
 ckrxDYYiQw__10
-CANCREATE3<@SSi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<4.12>mi...si,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<4.12>mi...si,mmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmm><>ALLPOSSIBLE2####12SSi,mmmmmmmmm<4.5>mi...si,mmmmmmmmmmmm34SSi,mmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmm<8.12>mi...si...si,mmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<8.12>mi,mmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: CREATE 3 20
-CANCREATE3<@SSi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmm><>ALLPOSSIBLE2####12SSi,mmmmmmmmm<4.5>mi...si,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmm<8.12>mi...si...si,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<8.12>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: CREATE 3 21
-CANCREATE3ALLPOSSIBLE2####12SSi,mmmmmmmmm<4.5>mi...si,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5##12SSi,mmmmmmmmmmmmm<9.12>mi...si,mmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmm<3.12>mi,mmmmmmmmmmmmmmm<2.12>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmmmm<6.12>mi...si,mmmmmmmmmmmmmmmmm<7.12>mi...si,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmmm<6.12>mi,mmmmmmmmmmmmmmmmm<7.12>mi,mmmmmmmmmmmmmmmmm<8.12>mi,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 6 v
+RUNCOMMAND0.0Command: CREATE 3 20
+RUNCOMMAND0.0Command: CREATE 3 21
+RUNCOMMAND0.0Command: MOVE 6 v
 weolxh89Kc__10
-CANCREATE3<><@SSi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmm>ALLPOSSIBLE2#####12SSi,mmmmmmmmmmm<9.12>mi...si,mmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmmmm<9.12>mi...si,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<3.12>mi,mmmmmmmmmmmmm<2.12>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmm<9.12>mi...si,mmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmmmm<9.12>mi...si,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 9 ^
-CANCREATE3<><@SSi,mmmmmmmmm<13.6>mi,mmmmmmmmm<0.6>mi,mmmmmmmmm<1.6>mi,mmmmmmmmmmm<12.5>mi,mmm<13.6>mi,mmmmmmmmmmm<11.5>mi,mmm<12.6>mi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmm<13.6>mi,mmmmmmmmm<0.6>mi,mmmmmmmmm<1.6>mi,mmmmmmmmmmm<12.5>mi,mmm<13.6>mi,mmmmmmmmmmm<11.5>mi,mmm<12.6>mi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmm><><@SSi,mmmmmmmmm<13.6>mi,mmmmmmmmm<0.6>mi,mmmmmmmmm<1.6>mi,mmmmmmmmmmm<12.5>mi,mmm<13.6>mi,mmmmmmmmmmm<11.5>mi,mmm<12.6>mi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmm<13.6>mi,mmmmmmmmm<0.6>mi,mmmmmmmmm<1.6>mi,mmmmmmmmmmm<12.5>mi,mmm<13.6>mi,mmmmmmmmmmm<11.5>mi,mmm<12.6>mi,mmmmmmmmmmmmmmmm><><><@SSi,mmmmmmmmm<13.6>mi,mmmmmmmmm<0.6>mi,mmmmmmmmm<1.6>mi,mmmmmmmmmmm<12.5>mi,mmm<13.6>mi,mmmmmmmmmmm<11.5>mi,mmm<12.6>mi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmm>ALLPOSSIBLE2#####12SSi,mmmmmmmmm<13.6>mi,mmmmmmmmm<0.6>mi,mmmmmmmmm<1.6>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmm<13.6>mi,mmmmmmmmm<0.6>mi,mmmmmmmmm<1.6>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmm<13.6>mi,mmmmmmmmm<0.6>mi,mmmmmmmmm<1.6>mi,mmmmmmmmmmm<12.5>mi,mmm<13.6>mi,mmmmmmmmmmm<11.5>mi,mmm<12.6>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmm<13.6>mi,mmmmmmmmm<0.6>mi,mmmmmmmmm<1.6>mi,mmmmmmmmm<2.6>mi,mmmmmmmmm<3.6>mi,mmmmmmmmm<4.6>mi,mmmmmmmmmmm<12.5>mi,mmm<13.6>mi,mmmmmmmmmmm<11.5>mi,mmm<12.6>mi,mmmmmmmmmmmmm<3.12>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmm<13.6>mi,mmmmmmmmm<0.6>mi,mmmmmmmmm<1.6>mi,mmmmmmmmmmm<12.5>mi,mmm<13.6>mi,mmmmmmmmmmm<11.5>mi...si,mmm<12.6>mi,mmm<11.6>mi,mmmmmmmmmmm<10.5>mi...si...si...si,mmm<10.6>mi...si,mmm<9.6>mi,mmm<8.6>mi,mmm<7.6>mi,mmmmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmmmm<11.12>mi...si,mmmmmmmmmmmmmm34SSi,mmmmmmmmm<13.6>mi,mmmmmmmmm<0.6>mi,mmmmmmmmm<1.6>mi,mmmmmmmmmmm<12.5>mi,mmm<13.6>mi,mmmmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 10 ^
-CANCREATE3<><@SSi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmm>ALLPOSSIBLE2#####12SSi,mmm<13.6>mi,mmm<12.6>mi,mmmmmmmmmmm<12.5>mi...si,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmm<12.5>mi,mmm<13.6>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmm34SSi,mmmmmmmmm<2.6>mi,mmmmmmmmm<3.6>mi,mmmmmmmmm<4.6>mi,mmmmmmmmmmmmm<3.12>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 3 v
-CANCREATE3<><@SSi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmmm<4.12>mi...si,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmmm<4.12>mi...si,mmmmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmmmm>ALLPOSSIBLE2#####12SSi,mmmmmmmmmmm<11.5>mi...si,mmmmmmmmmmm<10.5>mi...si,mmmmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<2.12>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmm<11.5>mi...si,mmm<12.6>mi,mmm<11.6>mi,mmmmmmmmmmm<10.5>mi...si...si...si,mmm<10.6>mi...si,mmm<9.6>mi,mmm<8.6>mi,mmm<7.6>mi,mmmmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmmmm<11.12>mi...si,mmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 10 v
-CANCREATE3<><@SSi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmmm<4.12>mi...si,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmmm<4.12>mi...si,mmmmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmmmm>ALLPOSSIBLE2#####12SSi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmm<9.5>mi,mmmmmmmmmmm<8.5>mi,mmmmmmmmmmm<7.5>mi,mmmmmmmmmmm<6.5>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<2.12>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 9 v
+RUNCOMMAND0.0Command: MOVE 9 ^
+RUNCOMMAND0.0Command: MOVE 10 ^
+RUNCOMMAND0.0Command: MOVE 3 v
+RUNCOMMAND0.0Command: MOVE 10 v
+RUNCOMMAND0.0Command: MOVE 9 v
 mo2fkDzh4I__10
-CANCREATE3<><@SSi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmm>ALLPOSSIBLE2#####12SSi,mmmmmmmmmmmm34SSi,mmmmmmmmmmm<2.12>mi,mmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmmm<11.12>mi,mmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<10.12>mi,mmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 10 ^
-CANCREATE3<><@SSi,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<11.5>mi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<11.5>mi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<11.5>mi,mmmmmmmmmmmmmmm<5.12>mi...si,mmmmmmmmmmmmmmm<4.12>mi...si,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<11.5>mi,mmmmmmmmmmmmmmm<5.12>mi...si,mmmmmmmmmmmmmmm<4.12>mi...si,mmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<11.5>mi,mmmmmmmmmmmmmm>ALLPOSSIBLE2#####12SSi,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<11.5>mi,mmmmmmmmmmmm34SSi,mmmmmmmmmmm<2.12>mi,mmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmm<11.5>mi,mmmmmmmmmmmm5#12SSi,mmm<12.6>mi,mmm<11.6>mi...si,mmm<10.6>mi,mmm<9.6>mi,mmmmmmmmmmmmm<12.5>mi...si,mmmmmmmmmmmm34SSi,mmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 12 ^
-CANCREATE3<><@SSi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmmm<5.12>mi...si,mmmmmmmmmmmmmmm<4.12>mi...si,mmmmmmmmmmmmmmm<3.12>mi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmm<5.12>mi...si,mmmmmmmmmmmmmmm<4.12>mi...si,mmmmmmmmmmmmmmm<3.12>mi,mmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmm>ALLPOSSIBLE2#####12SSi,mmmmm<0.6>mi,mmmmm<1.6>mi,mmmmm<2.6>mi,mmmmmmmmmmm<1.12>mi...si,mmmmmmmmmmmm34SSi,mmmmm<0.6>mi,mmmmm<1.6>mi,mmmmm<2.6>mi,mmmmmmmmmmmm5#12SSi,mmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<10.5>mi,mmmmmmmmmmmmm<9.5>mi...si,mmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 1 ^
-CANCREATE3<><@SSi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmmm<5.12>mi...si,mmmmmmmmmmmmmmm<4.12>mi...si,mmmmmmmmmmmmmmm<3.12>mi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmm<5.12>mi...si,mmmmmmmmmmmmmmm<4.12>mi...si,mmmmmmmmmmmmmmm<3.12>mi,mmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmm>ALLPOSSIBLE2#####12SSi,mmmmm<0.6>mi,mmmmmmmmmmm<1.12>mi...si,mmmmmmmmmmmm34SSi,mmmmm<0.6>mi,mmmmmmmmmmmm5#12SSi,mmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<10.5>mi,mmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: CREATE 4 22
-CANCREATE3<@><@SSi,mmmmmmmmmmmmmmmm><><@><@SSi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmmmm><>ALLPOSSIBLE2#####12SSi,mmmmm<0.6>mi,mmmmmmmmmmm<1.12>mi...si,mmmmmmmmmmmmmm34SSi,mmmmm<0.6>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<10.5>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmm<5.12>mi...si,mmmmmmmmm<5.6>mi,mmmmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmmmmm<3.12>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 5 ^
-CANCREATE3<@><><@SSi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmmmm><><>ALLPOSSIBLE2#####12SSi,mmmmm<0.6>mi,mmmmmmmmmmm<1.12>mi...si,mmmmmmmmmmmmmmm<2.12>mi,mmmmmmmmmmmmmmm<1.12>mi,mmmmmmmmmmmmmm34SSi,mmmmm<0.6>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<10.5>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 1 ^
-CANCREATE3<@><><@SSi,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmmmm><><>ALLPOSSIBLE2#####12SSi,mmmmm<0.6>mi,mmmmm<1.6>mi,mmmmmmmmmmm<1.12>mi...si,mmmmmmmmmmmmmm34SSi,mmmmm<0.6>mi,mmmmm<1.6>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<10.5>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 1 ^
-CANCREATE3<@><@SSi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmmm<6.12>mi...si,mmmmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmmm<6.12>mi...si,mmmmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmmmm<6.12>mi,mmmmmmmmmmmmmmmmm<7.12>mi,mmmmmmmmmmmmmmmm><>ALLPOSSIBLE2#####12SSi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<10.5>mi,mmmmmmmmmmmmmm5#12SSi,mmmmm<2.6>mi...si,mmmmmmmmmmmmmmm<2.12>mi,mmmmmmmmmmmmmmm<1.12>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmm<2.12>mi,mmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: CREATE 7 23
-CANCREATE3ALLPOSSIBLE2#####12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmmm34SSi,mmm<11.6>mi...si,mmm<10.6>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmm<2.6>mi...si,mmmmmmmmmmmmmmm<2.12>mi,mmmmmmmmmmmmmmm<1.12>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmm<2.12>mi,mmmmmmmmmmmmmmmm5#12SSi,mmm<11.6>mi...si,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 2 ^
-CANCREATE3ALLPOSSIBLE2#####12SSi...si,mmmmmmmmmmmmmmmm34SSi...si,mmmmmmmmmmmmmmmm5#12SSi...si,mmmmmmmmmmmmmmmm34SSi...si,mmm<10.6>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmm<12.13>mi...si...si,mmmmmmmmmmmmmmmm34SSi...si,mmmmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmm<13.5>mi,mmmmmmmmmmmmmmm<0.5>mi,mmmmmmmmmmmmmmm<1.5>mi,mmmmmmmmmmmmmmm<2.5>mi,mmmmmmmmmmmmmmmmm<11.12>mi...si,mmmmmmmmmmmmmmmm5#12SSi...si,mmmmmmmmmmmmmmmmm<11.12>mi,mmmmmmmmmmmmmmmm34SSi...si,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 12 v
-CANCREATE3ALLPOSSIBLE2#####12SSi,mmmmmmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmmm34SSi,mmm<10.6>mi,mmmmmmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmmmm<11.5>mi,mmmmmmmmmmmmmmmmm<10.5>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmm<3.5>mi,mmmmmmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmm<2.6>mi...si,mmmmmmmmmmmmmmm<3.5>mi,mmmmmmmmmmmmmmmmm<12.5>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmmm<12.5>mi...si,mmmmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 10 v
-CANCREATE3ALLPOSSIBLE2####12SSi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmm34SSi,mmm<10.6>mi,mmmmmmmmmmmmmmm<11.5>mi,mmmmmmmmmmmmmmm<10.5>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmm<3.5>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<3.5>mi,mmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmm<11.5>mi,mmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmm5PICKBEST1RUNCOMMAND0.0Command: MOVE 10 v
-CANCREATE3ALLPOSSIBLE2####12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmm<3.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmm<3.5>mi,mmmmmmmmmmmmmmmm5#12SSi,mmmmmmmmmmmmmmm<9.5>mi...si,mmmmmmmmmmm<10.5>mi,mmmmmmmmmmm<9.5>mi,mmmmmmmmmmm<8.5>mi,mmmmmmmmmmm<7.5>mi,mmmmmmmmmmm<6.5>mi,mmmmmmmmmmmmmmmm34SSi,mmmmmmmmmmmmmmmm5#PICKBEST1RUNCOMMAND0.0Command: MOVE 9 ^
+RUNCOMMAND0.0Command: MOVE 10 ^
+RUNCOMMAND0.0Command: MOVE 12 ^
+RUNCOMMAND0.0Command: MOVE 1 ^
+RUNCOMMAND0.0Command: CREATE 4 22
+RUNCOMMAND0.0Command: MOVE 5 ^
+RUNCOMMAND0.0Command: MOVE 1 ^
+RUNCOMMAND0.0Command: MOVE 1 ^
+RUNCOMMAND0.0Command: CREATE 7 23
+RUNCOMMAND0.0Command: MOVE 2 ^
+RUNCOMMAND0.0Command: MOVE 12 v
+RUNCOMMAND0.0Command: MOVE 10 v
+RUNCOMMAND0.0Command: MOVE 10 v
+RUNCOMMAND0.0Command: MOVE 9 ^
 Lza6k3Oc04__10
-CANCREATE3<@><@SSi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmmm<4.12>mi,mmmmmmmmmmmmmm><><@SSi,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm><@SSi...si,mmmmmmmmmmmmmmm<5.12>mi,mmmmmmmmmmmmmm><><><@SSi,mmmmmmmmmmmmmm><>ALLPOSSIBLE2###12SSi,mmmmmmmmmmmm34SSi,mmmmmmmmmmmm5#12SSi,mmmmmmmmmmm<8.5>mi,mmmmmmmmmmm<7.5>mi,mmmmmmmmmmm<6.5>mi,mmmmmmmmmmmm34SSi,mmmmmmmmmmmm5#12SSi,mmmmmmmmmmm<8.5>mi,mmmmmmmmmmm<7.5>mi,mmmmmmmmmmm<6.5>mi,mmmmmmmmmmmm34SSi,mmmmmmmmmmmm5#PICKBEST1RUNCOMMAND0.0Command: MOVE 8 ^
-##end1
-WRONG TimeoutException
+RUNCOMMAND0.0Command: MOVE 8 ^
+RUNCOMMAND0.0Command: CREATE 1 24
+RUNCOMMAND0.0Command: MOVE 5 ^
+RUNCOMMAND0.0Command: MOVE 6 v
+6BJR54FWlk__10
+RUNCOMMAND0.0Command: MOVE 2 ^
+RUNCOMMAND0.0Command: MOVE 7 v
+IvRzImp7uN__10
+RUNCOMMAND0.0Command: CREATE 5 25
+RUNCOMMAND0.0Command: MOVE 9 v
+RUNCOMMAND0.0Command: MOVE 2 ^
+RUNCOMMAND0.0Command: MOVE 2 ^
+RUNCOMMAND0.0Command: MOVE 11 v
+RUNCOMMAND0.0Command: MOVE 10 v
+RUNCOMMAND0.0Command: CREATE 0 26
+RUNCOMMAND0.0Command: MOVE 0 v
+RUNCOMMAND0.0Command: MOVE 0 v
+RUNCOMMAND0.0Command: MOVE 10 ^
+RUNCOMMAND0.0Command: MOVE 7 ^
+RUNCOMMAND0.0Command: MOVE 7 ^
+HsJ69hgUQZ__10
+RUNCOMMAND0.0Command: CREATE 0 27
+RUNCOMMAND0.0Command: MOVE 4 ^
+RUNCOMMAND0.0Command: MOVE 4 ^
+RUNCOMMAND0.0Command: MOVE 4 ^
+3labSAVERN__10
+RUNCOMMAND0.0Command: CREATE 2 28
+RUNCOMMAND0.0Command: MOVE 1 v
+RUNCOMMAND0.0Command: MOVE 0 ^
+RUNCOMMAND0.0Command: MOVE 8 v
+RUNCOMMAND0.0Command: MOVE 10 v
+RUNCOMMAND0.0Command: MOVE 1 ^
+RUNCOMMAND0.0Command: MOVE 12 v
+RUNCOMMAND0.0Command: MOVE 10 v
+KjWJXrpSJv__10
+RUNCOMMAND0.0Command: CREATE 4 29
+RUNCOMMAND0.0Command: MOVE 5 v
+RUNCOMMAND0.0Command: MOVE 4 ^
+RUNCOMMAND0.0Command: MOVE 1 v
+RUNCOMMAND0.0Command: MOVE 9 ^
+RUNCOMMAND0.0Command: MOVE 1 v
+RUNCOMMAND0.0Command: MOVE 2 ^
+RUNCOMMAND0.0Command: MOVE 11 ^
+RUNCOMMAND0.0Command: MOVE 0 ^
+RUNCOMMAND0.0Command: MOVE 10 ^
+RUNCOMMAND0.0Command: MOVE 8 ^
+RUNCOMMAND0.0Command: MOVE 13 ^
+RUNCOMMAND0.0Command: MOVE 8 ^
+RUNCOMMAND0.0Command: MOVE 0 v
+RUNCOMMAND0.0Command: MOVE 8 ^
+RUNCOMMAND0.0Command: MOVE 6 v
+5ozEFCf1eL__10
+RUNCOMMAND0.0Command: CREATE 1 30
+RUNCOMMAND0.0Command: MOVE 5 ^
+ycHwDV2ss5__10
+RUNCOMMAND0.0Command: CREATE 7 31
+8yLJ9hXr8z__10
+RUNCOMMAND0.0Command: CREATE 0 32
+RUNCOMMAND0.0Command: MOVE 6 v
+RUNCOMMAND0.0Command: MOVE 6 v
+RUNCOMMAND0.0Command: MOVE 8 ^
+RUNCOMMAND0.0Command: MOVE 4 ^
+RUNCOMMAND0.0Command: MOVE 10 v
+RUNCOMMAND0.0Command: MOVE 10 ^
+RUNCOMMAND0.0Command: MOVE 8 v
+ON1N6xpVMJ__10
+RUNCOMMAND0.0Command: CREATE 0 33
+RUNCOMMAND0.0Command: MOVE 6 ^
+RUNCOMMAND0.0Command: MOVE 6 ^
+RUNCOMMAND0.0Command: MOVE 8 ^
+RUNCOMMAND0.0Command: MOVE 8 v
+RUNCOMMAND0.0Command: MOVE 11 ^
+RUNCOMMAND0.0Command: MOVE 1 v
+RUNCOMMAND0.0Command: MOVE 4 ^
+RUNCOMMAND0.0Command: MOVE 4 ^
+7xK9Ipvt2q__10
+RUNCOMMAND0.0Command: CREATE 7 34
+RUNCOMMAND0.0Command: MOVE 5 ^
+RUNCOMMAND0.0Command: MOVE 11 ^
+RUNCOMMAND0.0Command: MOVE 11 ^
+RUNCOMMAND0.0Command: MOVE 12 ^
+RUNCOMMAND0.0Command: MOVE 0 ^
+RUNCOMMAND0.0Command: MOVE 1 v
+SANq4NlrpF__10
+RUNCOMMAND0.0Command: MOVE 12 v
+RUNCOMMAND0.0Command: MOVE 11 ^
+RUNCOMMAND0.0Command: MOVE 11 ^
+RUNCOMMAND0.0Command: MOVE 11 ^
+RUNCOMMAND0.0Command: MOVE 10 v
+RUNCOMMAND0.0Command: CREATE 5 35
+RUNCOMMAND0.0Command: MOVE 5 ^
+RUNCOMMAND0.0Command: MOVE 9 ^
+RUNCOMMAND0.0Command: MOVE 9 ^
+RUNCOMMAND0.0Command: MOVE 9 ^
+RUNCOMMAND0.0Command: MOVE 11 v
+RUNCOMMAND0.0Command: MOVE 8 v
+uBpEJfkK7V__10
+RUNCOMMAND0.0Command: MOVE 11 ^
+RUNCOMMAND0.0Command: MOVE 12 ^
+RUNCOMMAND0.0Command: MOVE 13 ^
+RUNCOMMAND0.0Command: MOVE 13 ^
+RUNCOMMAND0.0Command: MOVE 13 ^
+RUNCOMMAND0.0Command: MOVE 3 v
+RUNCOMMAND0.0Command: CREATE 8 36
+RUNCOMMAND0.0Command: MOVE 10 v
+RUNCOMMAND0.0Command: MOVE 4 ^
+RUNCOMMAND0.0Command: MOVE 13 ^
+RUNCOMMAND0.0Command: MOVE 8 v
+RUNCOMMAND0.0Command: MOVE 3 ^
+RUNCOMMAND0.0Command: MOVE 1 v
+RUNCOMMAND0.0Command: MOVE 4 ^
+msbUIykE0e__10
+RUNCOMMAND0.0Command: CREATE 7 37
+RUNCOMMAND0.0Command: MOVE 13 ^
+RUNCOMMAND0.0Command: MOVE 13 ^
+RUNCOMMAND0.0Command: MOVE 13 ^
+RUNCOMMAND0.0Command: MOVE 13 ^
+RUNCOMMAND0.0Command: MOVE 1 v
+No7hbFBxY6__10
+RUNCOMMAND0.0Command: MOVE 7 ^
+RUNCOMMAND0.0Command: CREATE 5 38
+RUNCOMMAND0.0Command: MOVE 2 ^
+RUNCOMMAND0.0Command: MOVE 12 v
+RUNCOMMAND0.0Command: MOVE 6 v
+09ojt4oNJo__10
+RUNCOMMAND0.0Command: MOVE 1 v
+RUNCOMMAND0.0Command: MOVE 9 v
+RUNCOMMAND0.0Command: MOVE 2 v
+wO1tkLikL9__10
+RUNCOMMAND0.0Command: MOVE 12 v
+RUNCOMMAND0.0Command: CREATE 7 39
+RUNCOMMAND0.0Command: CREATE 1 40
+b8SgYJBeG9__10
+RUNCOMMAND0.0Command: MOVE 6 ^
+RUNCOMMAND0.0Command: MOVE 12 v
+RUNCOMMAND0.0Command: MOVE 3 v
+RUNCOMMAND0.0Command: CREATE 0 41
+RUNCOMMAND0.0Command: MOVE 3 v
+RUNCOMMAND0.0Command: MOVE 6 ^
+RUNCOMMAND0.0Command: MOVE 6 ^
+47PaeDZTB7__10
+RUNCOMMAND0.0Command: CREATE 1 42
+RUNCOMMAND0.0Command: MOVE 12 ^
+RUNCOMMAND0.0Command: MOVE 12 ^
+RUNCOMMAND0.0Command: MOVE 9 v
+RUNCOMMAND0.0Command: MOVE 12 v
+RUNCOMMAND0.0Command: MOVE 1 v
+RUNCOMMAND0.0Command: MOVE 2 ^
+RUNCOMMAND0.0Command: MOVE 1 ^
+RUNCOMMAND0.0Command: MOVE 12 v
+RUNCOMMAND0.0Command: MOVE 12 ^
+RUNCOMMAND0.0Command: MOVE 12 ^
+RUNCOMMAND0.0Command: MOVE 3 v
+fegLCbPdg8__10
+RUNCOMMAND0.0Command: MOVE 4 ^
+RUNCOMMAND0.0Command: MOVE 4 ^
+ViaGh83UOz__10
+RUNCOMMAND0.0Command: CREATE 2 43
+RUNCOMMAND0.0Command: MOVE 11 ^
+RUNCOMMAND0.0Command: MOVE 11 v
+RUNCOMMAND0.0Command: MOVE 11 v
+RUNCOMMAND0.0Command: MOVE 10 v
+RUNCOMMAND0.0Command: CREATE 4 44
+RUNCOMMAND0.0Command: MOVE 9 v
+RUNCOMMAND0.0Command: MOVE 8 ^
+RUNCOMMAND0.0Command: MOVE 6 ^
+xSxRXKutiL__10
+1PMqcInaUo__10
+RUNCOMMAND0.0Command: MOVE 3 v
+RUNCOMMAND0.0Command: CREATE 4 45
+RUNCOMMAND0.0Command: CREATE 4 46
+RUNCOMMAND0.0Command: MOVE 8 v
+RUNCOMMAND0.0Command: MOVE 0 v
+RUNCOMMAND0.0Command: MOVE 9 ^
+RUNCOMMAND0.0Command: MOVE 9 ^
+RUNCOMMAND0.0Command: MOVE 9 ^
+RUNCOMMAND0.0Command: MOVE 12 v
+RUNCOMMAND0.0Command: MOVE 2 ^
+RUNCOMMAND0.0Command: MOVE 3 v
+UTc5gypQQy__10
+RncDaNYf23__10
+RUNCOMMAND0.0Command: MOVE 10 v
+RUNCOMMAND0.0Command: MOVE 10 v
+RUNCOMMAND0.0Command: CREATE 0 47
+RUNCOMMAND0.0Command: CREATE 3 48
+RUNCOMMAND0.0Command: MOVE 10 ^
+RUNCOMMAND0.0Command: MOVE 5 v
+oBVcQdgBlA__10
+RUNCOMMAND0.0Command: MOVE 10 v
+RUNCOMMAND0.0Command: MOVE 10 v
+RUNCOMMAND0.0Command: MOVE 2 ^
+RUNCOMMAND0.0Command: MOVE 2 v
+RUNCOMMAND0.0Command: MOVE 2 ^
+RUNCOMMAND0.0Command: CREATE 4 49
+RUNCOMMAND0.0Command: MOVE 12 ^
+RUNCOMMAND0.0Command: MOVE 7 v
+zH5WB0wHos__10
+argpO8dgjP__10
+RUNCOMMAND0.0Command: MOVE 1 ^
+RUNCOMMAND0.0Command: CREATE 4 50
+RUNCOMMAND0.0Command: CREATE 2 51
+RUNCOMMAND0.0Command: MOVE 3 ^
+RUNCOMMAND0.0Command: MOVE 1 v
+RUNCOMMAND0.0Command: MOVE 1 v
+RUNCOMMAND0.0Command: MOVE 3 v
+KzjsLmTJby__10
+RUNCOMMAND0.0Command: CREATE 4 52
+RUNCOMMAND0.0Command: MOVE 6 ^
+RUNCOMMAND0.0Command: MOVE 6 v
+JlMm24tuIr__10
+RUNCOMMAND0.0Command: CREATE 0 53
+RUNCOMMAND0.0Command: MOVE 5 v
+RUNCOMMAND0.0Command: MOVE 2 v
+RUNCOMMAND0.0Command: MOVE 6 v
+RUNCOMMAND0.0Command: MOVE 8 ^
+RUNCOMMAND0.0Command: MOVE 8 ^
+RUNCOMMAND0.0Command: MOVE 11 ^
+RUNCOMMAND0.0Command: MOVE 11 ^
+RUNCOMMAND0.0Command: MOVE 11 ^
+RUNCOMMAND0.0Command: MOVE 9 v
+RUNCOMMAND0.0Command: MOVE 8 ^
+I5WjPqpaAG__10
+RUNCOMMAND0.0Command: CREATE 3 54
+RUNCOMMAND0.0Command: MOVE 7 v
+RUNCOMMAND0.0Command: MOVE 8 v
+RUNCOMMAND0.0Command: MOVE 3 v
+RUNCOMMAND0.0Command: MOVE 3 v
+RUNCOMMAND0.0Command: MOVE 6 ^
+BVqbCxlAEV__10
+RUNCOMMAND0.0Command: CREATE 1 55
+RUNCOMMAND0.0Command: MOVE 6 ^
+RUNCOMMAND0.0Command: MOVE 13 ^
+RUNCOMMAND0.0Command: MOVE 12 v
+RUNCOMMAND0.0Command: MOVE 13 v
+RUNCOMMAND0.0Command: MOVE 13 v
+RUNCOMMAND0.0Command: MOVE 2 ^
+RUNCOMMAND0.0Command: MOVE 2 v
+vsfCBA7UsR__10
+RUNCOMMAND0.0Command: CREATE 3 56
+RUNCOMMAND0.0Command: MOVE 0 v
+RUNCOMMAND0.0Command: MOVE 9 ^
+RUNCOMMAND0.0Command: MOVE 11 v
+RUNCOMMAND0.0Command: MOVE 2 ^
+RUNCOMMAND0.0Command: MOVE 9 ^
+RUNCOMMAND0.0Command: MOVE 13 v
+RUNCOMMAND0.0Command: MOVE 13 v
+RUNCOMMAND0.0Command: MOVE 7 ^
+RUNCOMMAND0.0Command: MOVE 12 ^
+RUNCOMMAND0.0Command: MOVE 13 ^
+RUNCOMMAND0.0Command: MOVE 6 ^
+RUNCOMMAND0.0Command: MOVE 3 v
+RUNCOMMAND0.0Command: MOVE 2 ^
+RUNCOMMAND0.0Command: MOVE 6 v
+JX9497NXkY__10
+RUNCOMMAND0.0Command: CREATE 8 57
+RUNCOMMAND0.0Command: MOVE 6 ^
+eVpnnUYIid__10
+RUNCOMMAND0.0Command: CREATE 5 58
+RUNCOMMAND0.0Command: MOVE 4 ^
+W1yyCcEX1p__10
+RUNCOMMAND0.0Command: CREATE 2 59
+RUNCOMMAND0.0Command: MOVE 8 v
+RUNCOMMAND0.0Command: MOVE 9 v
+RUNCOMMAND0.0Command: MOVE 7 ^
+RUNCOMMAND0.0Command: MOVE 9 v
+RUNCOMMAND0.0Command: MOVE 6 v
+mV8XDVEoVE__10
+RUNCOMMAND0.0Command: CREATE 1 60
+RUNCOMMAND0.0Command: MOVE 11 ^
+RUNCOMMAND0.0Command: MOVE 12 ^
+RUNCOMMAND0.0Command: MOVE 13 ^
+RUNCOMMAND0.0Command: MOVE 1 ^
+RUNCOMMAND0.0Command: MOVE 6 ^
+aPfDqIlE7E__10
+RUNCOMMAND0.0Command: CREATE 7 61
+RUNCOMMAND0.0Command: MOVE 3 ^
+HxnZtmX3Gz__10
+RUNCOMMAND0.0Command: CREATE 2 62
+RUNCOMMAND0.0Command: MOVE 3 v
+RUNCOMMAND0.0Command: MOVE 8 ^
+RUNCOMMAND0.0Command: MOVE 0 ^
+RUNCOMMAND0.0Command: MOVE 8 ^
+RUNCOMMAND0.0Command: MOVE 8 ^
+RUNCOMMAND0.0Command: MOVE 1 ^
+RUNCOMMAND0.0Command: MOVE 1 v
+RUNCOMMAND0.0Command: MOVE 2 v
+RUNCOMMAND0.0Command: MOVE 7 v
+RUNCOMMAND0.0Command: MOVE 7 v
+RUNCOMMAND0.0Command: MOVE 6 v
+Vg5rH12lH4__10
+RUNCOMMAND0.0Command: CREATE 4 63
+RUNCOMMAND0.0Command: MOVE 10 v
+RUNCOMMAND0.0Command: MOVE 10 v
+RUNCOMMAND0.0Command: MOVE 6 ^
+RUNCOMMAND0.0Command: MOVE 6 v
+a54skp7zeH__10
+RUNCOMMAND0.0Command: CREATE 5 64
+RUNCOMMAND0.0Command: MOVE 3 v
+RUNCOMMAND0.0Command: MOVE 6 ^
+lZif92NlqY__10
+RUNCOMMAND0.0Command: CREATE 2 65
+RUNCOMMAND0.0Command: MOVE 2 ^
+RUNCOMMAND0.0Command: MOVE 8 v
+RUNCOMMAND0.0Command: MOVE 10 ^
+RUNCOMMAND0.0Command: MOVE 12 v
+Tg9rMvNRPJ__10
+RUNCOMMAND0.0Command: CREATE 6 66
+RUNCOMMAND0.0Command: MOVE 11 v
+RUNCOMMAND0.0Command: MOVE 13 v
+RUNCOMMAND0.0Command: MOVE 12 ^
+RUNCOMMAND0.0Command: MOVE 0 v
+RUNCOMMAND0.0Command: MOVE 4 ^
+RUNCOMMAND0.0Command: MOVE 4 ^
+6VogdoOK7l__10
+RUNCOMMAND0.0Command: MOVE 2 v
+8xZdIyO8lR__10
+RUNCOMMAND0.0Command: CREATE 7 67
+RUNCOMMAND0.0Command: CREATE 0 68
+RUNCOMMAND0.0Command: MOVE 7 ^
+RUNCOMMAND0.0Command: MOVE 0 ^
+RUNCOMMAND0.0Command: MOVE 11 ^
+RUNCOMMAND0.0Command: MOVE 12 ^
+RUNCOMMAND0.0Command: MOVE 12 ^
+RUNCOMMAND0.0Command: MOVE 1 v
+RUNCOMMAND0.0Command: MOVE 11 ^
+RUNCOMMAND0.0Command: MOVE 9 v
+RUNCOMMAND0.0Command: MOVE 9 v
+RUNCOMMAND0.0Command: MOVE 10 ^
+RUNCOMMAND0.0Command: MOVE 7 ^
+RUNCOMMAND0.0Command: MOVE 3 ^
+RUNCOMMAND0.0Command: MOVE 6 ^
+sHgStR__6
+RUNCOMMAND0.0Command: CREATE 4 69
+RUNCOMMAND0.0Command: MOVE 6 v
+__0
+Finish Mode Started
+RUNCOMMAND0.1Command: MOVE 6 ^
+RUNCOMMAND0.1Command: MOVE 1 v
+RUNCOMMAND0.1Command: MOVE 1 v
+RUNCOMMAND0.1Command: MOVE 2 ^
+RUNCOMMAND0.1Command: MOVE 8 v
+RUNCOMMAND0.1Command: MOVE 6 ^
+RUNCOMMAND0.1Command: MOVE 11 ^
+RUNCOMMAND0.1Command: MOVE 10 ^
+RUNCOMMAND0.1Command: MOVE 6 v
+RUNCOMMAND0.1Command: MOVE 6 ^
+RUNCOMMAND0.1Command: MOVE 6 ^
+n07WGb4Tps__10
+RUNCOMMAND0.1Command: MOVE 7 ^
+RUNCOMMAND0.1Command: MOVE 3 v
+RUNCOMMAND0.1Command: MOVE 4 v
+__0
+Finish Mode Started
+RUNCOMMAND0.1Command: MOVE 7 ^
+__0
+Finish Mode Started
+##end2
 ##end4
 cqdQzTOZbb 1
 Do3tAnYsqC 2
@@ -163,6 +517,55 @@ ckrxDYYiQw 17
 weolxh89Kc 18
 mo2fkDzh4I 19
 Lza6k3Oc04 22
+6BJR54FWlk 23
+IvRzImp7uN 21
+HsJ69hgUQZ 25
+3labSAVERN 20
+KjWJXrpSJv 27
+5ozEFCf1eL 24
+ycHwDV2ss5 29
+8yLJ9hXr8z 30
+ON1N6xpVMJ 31
+7xK9Ipvt2q 26
+SANq4NlrpF 32
+uBpEJfkK7V 33
+msbUIykE0e 28
+No7hbFBxY6 34
+09ojt4oNJo 35
+wO1tkLikL9 36
+b8SgYJBeG9 38
+47PaeDZTB7 37
+fegLCbPdg8 40
+ViaGh83UOz 42
+xSxRXKutiL 39
+1PMqcInaUo 41
+UTc5gypQQy 44
+RncDaNYf23 46
+oBVcQdgBlA 43
+zH5WB0wHos 45
+argpO8dgjP 47
+KzjsLmTJby 50
+JlMm24tuIr 48
+I5WjPqpaAG 51
+BVqbCxlAEV 49
+vsfCBA7UsR 52
+JX9497NXkY 56
+eVpnnUYIid 53
+W1yyCcEX1p 54
+mV8XDVEoVE 55
+aPfDqIlE7E 57
+HxnZtmX3Gz 58
+Vg5rH12lH4 62
+a54skp7zeH 61
+lZif92NlqY 63
+Tg9rMvNRPJ 59
+6VogdoOK7l 60
+8xZdIyO8lR 64
+sHgStR 66
+ 67
+n07WGb4Tps 65
+ 68
+ 69
 Betaprotokol 
 r2FDNOgOXf 0
 cqdQzTOZbb 1
@@ -184,5 +587,56 @@ wa3WAMxUCZ 16
 ckrxDYYiQw 17
 weolxh89Kc 18
 mo2fkDzh4I 19
+3labSAVERN 20
+IvRzImp7uN 21
 Lza6k3Oc04 22
-Betaprotokol
+6BJR54FWlk 23
+5ozEFCf1eL 24
+HsJ69hgUQZ 25
+7xK9Ipvt2q 26
+KjWJXrpSJv 27
+msbUIykE0e 28
+ycHwDV2ss5 29
+8yLJ9hXr8z 30
+ON1N6xpVMJ 31
+SANq4NlrpF 32
+uBpEJfkK7V 33
+No7hbFBxY6 34
+09ojt4oNJo 35
+wO1tkLikL9 36
+47PaeDZTB7 37
+b8SgYJBeG9 38
+xSxRXKutiL 39
+fegLCbPdg8 40
+1PMqcInaUo 41
+ViaGh83UOz 42
+oBVcQdgBlA 43
+UTc5gypQQy 44
+zH5WB0wHos 45
+RncDaNYf23 46
+argpO8dgjP 47
+JlMm24tuIr 48
+BVqbCxlAEV 49
+KzjsLmTJby 50
+I5WjPqpaAG 51
+vsfCBA7UsR 52
+eVpnnUYIid 53
+W1yyCcEX1p 54
+mV8XDVEoVE 55
+JX9497NXkY 56
+aPfDqIlE7E 57
+HxnZtmX3Gz 58
+Tg9rMvNRPJ 59
+6VogdoOK7l 60
+a54skp7zeH 61
+Vg5rH12lH4 62
+lZif92NlqY 63
+8xZdIyO8lR 64
+n07WGb4Tps 65
+sHgStR 66
+ 67
+ 68
+ 69
+Betaprotokol 
+112255 423 5 SOLUTION r2FDNOgOXfcqdQzTOZbbDo3tAnYsqChXPNVKjVCfph2O8LWDVp9ken0QKpsxpeC4R2YgRUgtzxX8rpVNODezmuHw69XVFk5UH10cT055tmNXRAGR1EycQt2SrLRJwLzmmfNoJnk2ybK572F1vilW9jkRKLuf9q7kwa3WAMxUCZckrxDYYiQwweolxh89Kcmo2fkDzh4I3labSAVERNIvRzImp7uNLza6k3Oc046BJR54FWlk5ozEFCf1eLHsJ69hgUQZ7xK9Ipvt2qKjWJXrpSJvmsbUIykE0eycHwDV2ss58yLJ9hXr8zON1N6xpVMJSANq4NlrpFuBpEJfkK7VNo7hbFBxY609ojt4oNJowO1tkLikL947PaeDZTB7b8SgYJBeG9xSxRXKutiLfegLCbPdg81PMqcInaUoViaGh83UOzoBVcQdgBlAUTc5gypQQyzH5WB0wHosRncDaNYf23argpO8dgjPJlMm24tuIrBVqbCxlAEVKzjsLmTJbyI5WjPqpaAGvsfCBA7UsReVpnnUYIidW1yyCcEX1pmV8XDVEoVEJX9497NXkYaPfDqIlE7EHxnZtmX3GzTg9rMvNRPJ6VogdoOK7la54skp7zeHVg5rH12lH4lZif92NlqY8xZdIyO8lRn07WGb4TpssHgStR
+END (latest message):
