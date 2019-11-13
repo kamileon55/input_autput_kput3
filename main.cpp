@@ -4,10 +4,11 @@
 #include <iostream>
 #include <sstream>
 #include <cstring>
+#include <bits/stdc++.h>
 #include <vector>
 
 
-int seed = 111;
+int seed = 10;
 
 
 char verzio[20]="69";
@@ -15,9 +16,6 @@ unsigned int alaprouter;
 bool finishMode = 0;
 int fogadott=0;
 int bevaras=0;
-
-bool createLeft = 1;
-int lowestEmptyPacket = 9999;
 
 enum class Direction : char
 {
@@ -28,7 +26,7 @@ enum class Direction : char
 
 struct Data
 {
-    unsigned int currRouter;
+    unsigned int currRouter; ///
     unsigned int currStoreId;
     unsigned int dataIndex;
     unsigned int messageId;
@@ -59,144 +57,34 @@ struct Reader
     std::vector<MessagePiece> receivedPieces; ///letarolando, rendezendo
     bool hasEnd;
 };
-
-struct PossibleAction
+struct Rendezendo
 {
-	PossibleAction(char c, int i) {
-		action = c;
-		moveRouter = i;
-		value = 0;
-	}
-	char action; //^, v, c
-	union
-	{
-		int moveRouter;
-		int createSlot;
-	};
-
-	int value;
+    float ertek;
+    int indexem;
 };
+std::vector<Rendezendo>anyukad;
 
-
-void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vector<Data> originalPackets, PossibleAction &pa)
+int leu(std::array<std::array<bool, 10>, 14> routerBits, int curRouter, int curRI, int targetRouter, bool goingLeft)
 {
-	//Copy vector
-	std::vector<Data> packets(originalPackets);
 
-	//Diversify. Each moving by 1 is better than 1 moving by 4.
-	bool couldMove[8] = {0};
+    curRI = curRI % 14;
+    int dir = 1;
+    if (goingLeft)
+        dir = -1;
 
-	//Copy data into an array
-	char state[14][10];
-	for (int i = 0; i<14; i++)
-		for (int j = 0; j<10; j++)
-			state[i][j] = (routerBits[i][j])?'-':'#'; //- open, #blocked
+    if (targetRouter == curRouter)
+        return 0;
 
-	//Generate a hypothetical packet?
-	if (pa.action == 'c')
-	{
-		Data addition;
-		addition.currRouter = alaprouter;
-		addition.currStoreId = pa.createSlot;
-		addition.dir = createLeft ? Direction::LEFT : Direction::RIGHT;
-		addition.fromRouter = alaprouter;
-		addition.toRouter = (alaprouter+7)%14;
-		packets.push_back(addition);
-	}
-
-	//Store packets
-	for (int i = 0; i < packets.size(); i++)
-		state[packets[i].currRouter][packets[i].currStoreId] = '0'+i;
-
-	//Shift packets?
-	char temp;
-	if (pa.action == '^')
-	{
-		temp = state[pa.moveRouter][0];
-		for (int i = 0; i<9; i++)
-			state[pa.moveRouter][i] = state[pa.moveRouter][i+1];
-		state[pa.moveRouter][9] = temp;
-
-		for (int i = 0; i<10; i++)
-			if (state[pa.moveRouter][i] >= '0' && state[pa.moveRouter][i] <= '9')
-			{
-				packets[state[pa.moveRouter][i]-'0'].currStoreId = (packets[state[pa.moveRouter][i]-'0'].currStoreId-1)%14;
-				if (packets[state[pa.moveRouter][i]-'0'].fromRouter != alaprouter)
-					pa.value=-1;
-			}
-
-	} else
-	if (pa.action == 'v')
-	{
-		temp = state[pa.moveRouter][9];
-		for (int i = 9; i>0; i--)
-			state[pa.moveRouter][i] = state[pa.moveRouter][i-1];
-		state[pa.moveRouter][0] = temp;
-
-		for (int i = 0; i<10; i++)
-			if (state[pa.moveRouter][i] >= '0' && state[pa.moveRouter][i] <= '9')
-			{
-				packets[state[pa.moveRouter][i]-'0'].currStoreId = (packets[state[pa.moveRouter][i]-'0'].currStoreId+1)%14;
-				if (packets[state[pa.moveRouter][i]-'0'].fromRouter != alaprouter)
-					pa.value=-1;
-			}
-				
-	}
-	
-	//Start simulating
-	while (true)
-	{
-		togo:
-		//Automatic upwards shift
-		for(int i = 0; i<packets.size(); i++)
-			if (packets[i].currStoreId > 0 && state[packets[i].currRouter][packets[i].currStoreId - 1] == '-')
-			{
-
-				state[packets[i].currRouter][packets[i].currStoreId - 1] = '0'+i;
-
-				state[packets[i].currRouter][packets[i].currStoreId] = '-';
-
-				packets[i].currStoreId--;
-
-				goto togo;
-			}
-
-		//Automatic movement
-		for (int i = 0; i < packets.size(); i++)
-		{
-
-			int direction = 1;
-			if (packets[i].dir == Direction::LEFT) direction = -1;
-
-			if (packets[i].currRouter != packets[i].toRouter && state[(int(packets[i].currRouter) + direction)%14][packets[i].currStoreId] == '-')
-			{
-
-				state[(int(packets[i].currRouter) + direction)%14][packets[i].currStoreId] = '0'+i;
-				state[packets[i].currRouter][packets[i].currStoreId] = '-';
-				packets[i].currRouter = (int(packets[i].currRouter) + direction)%14;
-				if (packets[i].fromRouter == alaprouter)
-				{
-					pa.value++; //increment action's usefulness
-					couldMove[i] = 1;
-				}
-					
-
-				goto togo;
-				
-			}
-		}
+    int nextRouter = (curRouter+dir)%14;
+    if (routerBits[nextRouter][curRI])
+        return leu(routerBits, nextRouter, curRI, targetRouter, goingLeft)+1;
+    else
+        return 0;
 
 
-
-		break;
-	}
-
-	for(int i = 0; i<8; i++)
-		if (couldMove[i])
-			pa.value++;
 }
 
-void readData(Reader& to)
+void readData(Reader& to) // void barmi(int a)
 {
     std::string line;
     to.dataArray.clear();
@@ -212,7 +100,6 @@ void readData(Reader& to)
                 !line.rfind("TICK", 0))
         {
             to.hasEnd = true;
-			std::cerr<<"##end1\n"<<line<<"\n";
             to.previous = std::move(line);
         }
         else if (!line.rfind("REQUEST", 0))
@@ -246,6 +133,8 @@ void readData(Reader& to)
         }
         else if (!line.rfind("MESSAGE"))
         {
+            // std::cerr<<"MESSAGE"<<std::endl;
+
 
             MessagePiece & msg = to.receivedPieces.emplace_back();
 
@@ -255,30 +144,26 @@ void readData(Reader& to)
             std::cerr<<msg.message<<"__"<<msg.message.size()<<"\n";
             if(msg.message.size()==0)
             {
+                bevaras++;
                 finishMode=1;
-				if (msg.index < lowestEmptyPacket)
-					lowestEmptyPacket = msg.index;
-                std::cerr<<"Finish Mode Started\n";
+                std::cerr<<"Cerkam\n";
 
 
             }
-
-			//If only enemy packets left, end the game
             bool vegem=true;
             bool belep2=true;
             for(int i=0; i<to.dataArray.size(); i++)
             {
                 belep2=true;
-                if(to.dataArray[i].fromRouter==alaprouter /*&& to.dataArray[i].dataIndex < lowestEmptyPacket*/) //causes loss of empty packets, bad score
+                if(to.dataArray[i].fromRouter==alaprouter )
                 {
                     vegem=false;
 
                 }
             }
-            if(vegem && belep2 && finishMode)
+            if(vegem==true && belep2==true)
             {
                 to.hasEnd=true;
-				std::cerr<<"##end2\n";
             }
 
 
@@ -302,7 +187,6 @@ void readData(Reader& to)
     }
     std::cerr << "Unexpected input end." << std::endl;
     to.hasEnd = true;
-	std::cerr<<"##end3\n";
 }
 
 int main()
@@ -321,119 +205,213 @@ int main()
 
     int faszpicsa = 0;
 
+    bool createLeft = 1;
+
 
 
     while(true)
     {
         readData(reader);
 
-		if (reader.hasEnd || reader.receivedPieces.size() > 100)
-		{
-			std::cerr<<"##end4\n";
-			break;
-		}
-            
+        if (reader.hasEnd || reader.receivedPieces.size()>100)
+        {
+            break;
+        }
 
 
-		//Count our active packets
+        // TODO logika jobb mint a semmitteves
+        ///
+
         int bitjeim=0;
         for (int i=0; i<reader.dataArray.size(); i++)
-            if(reader.dataArray[i].fromRouter==alaprouter)
+        {
+            if( reader.dataArray[i].fromRouter==alaprouter)
+            {
                 bitjeim++;
 
-		std::vector<PossibleAction> posActs;
-
-		//If we can create
-		if (bitjeim < 4 && !finishMode)
-		{
-			for(int i=0; i<9; i++)
+            }
+        }
+        /*
+        if(bitjeim>0)
+        {
+            bool vege=true;
+            for (int j=0; j<bitjeim; j++)
             {
+                if( reader.dataArray[i].fromRouter==alaprouter && reader.receivedPieces[i].message.size()!=0)
+                {
+                    vege=false;
+                }
+            }
+            if(vege=true)
+            {
+                to.hasEnd = true;
+            }
+        }
+        */
 
+
+        int betesz=0;
+        int beleptem=0;
+        int tavolsagok[10]= {0};
+        if(bitjeim<4 && !finishMode)
+        {
+            beleptem=1;
+            int maxcenti=0;
+            for(int i=0; i<9; i++)
+            {
                 if(reader.routerBits[alaprouter][i]==1 )
                 {
-                    bool slotEmpty=1;
+                    int ures=1;
                     for(int j=0; j<reader.dataArray.size(); j++)
                     {
                         if(reader.dataArray[j].currStoreId==i && reader.dataArray[j].currRouter==alaprouter )
                         {
-                            slotEmpty=0;
+                            ures=0;
+                            std::cerr<<"Utkozes a bitek kozott"<<"\n";
                             break;
                         }
                     }
-
-                    if(slotEmpty)
+                    if(ures==1)
                     {
-                        PossibleAction pa('c', i);
-						pa.value += 5*(4-bitjeim);
-						simulateAction(reader.routerBits, reader.dataArray, pa);
-						posActs.push_back(pa);
+
+                        /*
+                        command= "CREATE ";
+                        command=command+std::to_string(i)+" "+std::to_string(faszpicsa++);
+                        //         std::cerr<<" a["<<i<<"]["<<alaprouter<<"]="<<reader.routerBits[i][alaprouter]<<"\n";
+                        betesz=1;
+
+                        createLeft = !createLeft;
+                        break;
+                        */
+                        tavolsagok[i]=leu(reader.routerBits, alaprouter, i,
+                                          (alaprouter+7)%14, createLeft);
+
 
                     }
 
 
                 }
 
-
             }
-		}
 
-		//All possible movements
-		for(int i=0; i<reader.dataArray.size(); i++)
-        {
-
-            if(reader.dataArray[i].fromRouter==alaprouter)
+            for(int fasz=0; fasz<10; fasz++)
             {
-
-				PossibleAction pa1('^', reader.dataArray[i].currRouter);
-	
-				simulateAction(reader.routerBits, reader.dataArray, pa1);
-			
-				posActs.push_back(pa1);
-	
-
-				PossibleAction pa2('v', reader.dataArray[i].currRouter);
-				simulateAction(reader.routerBits, reader.dataArray, pa2);
-				posActs.push_back(pa2);
-
-			
+                if(tavolsagok[fasz]>tavolsagok[maxcenti])
+                {
+                    maxcenti=fasz;
+                }
             }
+            command= "CREATE ";
+            command=command+std::to_string(maxcenti)+" "+std::to_string(faszpicsa++);
+            //         std::cerr<<" a["<<i<<"]["<<alaprouter<<"]="<<reader.routerBits[i][alaprouter]<<"\n";
+            betesz=1;
+
+            createLeft = !createLeft;
+           
+        }
+
+
+        if(bitjeim==4 || (betesz==0 && beleptem==1) || finishMode)
+
+        {
+            if (finishMode)
+            {
+                long unsigned int min=1000;
+                int minIndex=-1;
+                for(int i=0; i<8; i++)
+                {
+                    if(reader.dataArray[i].dataIndex<min && reader.dataArray[i].fromRouter==alaprouter)
+                    {
+                        min=reader.dataArray[i].dataIndex;
+                        minIndex = i;
+                    }
+
+                }
+
+                command= "MOVE ";
+                command=command+std::to_string(reader.dataArray[minIndex].currRouter)+" "+"v";
+
+            }
+            else
+            {
+                ///kod ide
+
+                int vals[28] = {0}; //0-14: le
+
+                for(int i=0; i<8; i++)
+                {
+                    if(reader.dataArray[i].fromRouter==alaprouter)
+                    {
+                        int res = leu(reader.routerBits, reader.dataArray[i].currRouter, reader.dataArray[i].currStoreId+1,
+                                      reader.dataArray[i].toRouter, reader.dataArray[i].dir == Direction::LEFT);
+                        vals[reader.dataArray[i].currRouter] += res;
+
+                        res = leu(reader.routerBits, reader.dataArray[i].currRouter, reader.dataArray[i].currStoreId-1,
+                                  reader.dataArray[i].toRouter, reader.dataArray[i].dir == Direction::LEFT);
+                        vals[reader.dataArray[i].currRouter+14] += res;
+                    }
+
+                }
+
+                int maxID = 0;
+                for (int i = 1; i<28; i++)
+                    if (vals[i]>vals[maxID])
+                        maxID = i;
+
+
+                char lofasz = 'v';
+                if (maxID >13)
+                {
+                    lofasz = '^';
+                    maxID -= 14;
+                }
+                command= "MOVE ";
+                command=command+std::to_string(maxID)+" "+lofasz;
+
+            }
+
+
+
+
+
+
+
+
+        }
+        if(reader.receivedPieces.size()!=0)
+        {
+            //  std::cerr << "Recived pieces number " << reader.receivedPieces[reader.receivedPieces.size()-1].index << std::endl;
 
         }
 
 
 
-		//Pick best possible action
-		int bestID = 0;
-		for(int i = 1; i<posActs.size(); i++) //todo if size() = 0 pass
-			if(posActs[i].value > posActs[bestID].value)
-				bestID = i;
+        // Ha szeretnetek debug uzenetet kuldeni, akkor megtehetitek.
+        // Vigyazzatok, mert maximalisan csak 1024 * 1024 bajtot kaptok vissza
+        //   std::cerr << "Send " << command << std::endl;
 
-		//Run best possible action
-		PossibleAction &pa = (posActs[bestID]);
-		if (pa.action == 'c')
-		{
-            command="CREATE "+std::to_string(pa.createSlot)+" "+std::to_string(faszpicsa++);
-			createLeft = !createLeft;
-		} else
-		if (pa.action == '^' || pa.action == 'v')
-		{
-			command="MOVE "+std::to_string(pa.moveRouter)+" "+pa.action;
-		}
+        // standard out-ra meg mehet ki a megoldas! Mas ne irodjon ide ki ;)
 
-		std::cerr<<"RUNCOMMAND0";
 
 
         std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
-		std::cerr<<"."<<finishMode<<"Command: "<<command<<"\n";
+        //   std::cerr << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
+        if(reader.receivedPieces.size()>100)
+        {
+            //  break;
+        }
     }
 
-	/*
+    for(int i=0; i<azenyem.size(); i++)
+    {
+        //   std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
+    }
+///**************
     for(int i=0; i<azenyem.size(); i++)
     {
         std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
-    }*/
+    }
 
-	//Sort
     for(long unsigned int i=0; i<azenyem.size()-1; i++)
     {
         for (long unsigned int j=0; j<azenyem.size()-i-1; j++)
