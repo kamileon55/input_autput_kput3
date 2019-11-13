@@ -16,7 +16,7 @@ enum class Direction : char
 };
 
 int fogadott=0;
-
+  int bevaras=0;
 struct Data
 {
     unsigned int currRouter; ///
@@ -112,15 +112,22 @@ void readData(Reader& to) // void barmi(int a)
             MessagePiece & msg = to.receivedPieces.emplace_back();
 
             std::istringstream(std::move(line).substr(8)) >> msg.index >> msg.message;
-            // std::cerr<<msg.message<<"   "<<msg.index<<std::endl;
+
+
             if(msg.message.size()==0)
+            {
+                bevaras++;
+
+            }
+            if(beveras>=3)
             {
                  to.hasEnd = true;
             }
-            
 
 
-           
+
+
+
            //
 
          //
@@ -177,8 +184,25 @@ int main()
 
             }
         }
-      //  std::cerr<<"Kor szama: "<<bitjeim<<"\n";
-      //  std::cerr<<"Bitek szama: "<<bitjeim<<"\n";
+        /*
+        if(bitjeim>0)
+        {
+            bool vege=true;
+            for (int j=0; j<bitjeim; j++)
+            {
+                if( reader.dataArray[i].fromRouter==alaprouter && reader.receivedPieces[i].message.size()!=0)
+                {
+                    vege=false;
+                }
+            }
+            if(vege=true)
+            {
+                to.hasEnd = true;
+            }
+        }
+        */
+
+
         int betesz=0;
         int beleptem=0;
         if(bitjeim<4)
