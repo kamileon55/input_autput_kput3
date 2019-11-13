@@ -82,6 +82,8 @@ void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vect
 	//Copy vector
 	std::vector<Data> packets(originalPackets);
 
+	//Diversify. Each moving by 1 is better than 1 moving by 4.
+	bool couldMove[8] = {0};
 
 	//Copy data into an array
 	char state[14][10];
@@ -163,6 +165,7 @@ void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vect
 				state[packets[i].currRouter][packets[i].currStoreId] = '-';
 				packets[i].currRouter = (int(packets[i].currRouter) + direction)%14;
 				pa.value++; //increment action's usefulness
+				couldMove[i] = 1;
 
 				goto togo;
 				
@@ -173,6 +176,10 @@ void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vect
 
 		break;
 	}
+
+	for(int i = 0; i<8; i++)
+		if (couldMove[i])
+			pa.value++;
 }
 
 void readData(Reader& to)
@@ -341,7 +348,7 @@ int main()
                     if(slotEmpty)
                     {
                         PossibleAction pa('c', i);
-						pa.value += 3*(4-bitjeim);
+						pa.value += 5*(4-bitjeim);
 						simulateAction(reader.routerBits, reader.dataArray, pa);
 						posActs.push_back(pa);
 
