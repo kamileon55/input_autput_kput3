@@ -122,6 +122,7 @@ void readData(Reader& to) // void barmi(int a)
             Rendezendo alma;
             alma.ertek=al_index/fogadott*(1001-to.data[1])/1000;
             alma.indexem=msg.index;
+            anyukad.push_back(alma);
             
           //  msg.index=al_index/fogadott*(1001-to.data[1])/1000;
             
@@ -285,7 +286,7 @@ int main()
     std::cerr<<"Betaprotokol "<<std::endl;
     for(int i=0; i<azenyem.size(); i++)
     {
-        std::cerr<<Rendezendo[i]->indexem<<" "<<Rendezendo[i]->ertek<<std::endl;
+        std::cerr<<anyukad[i].indexem<<" "<<anyukad[i].ertek<<std::endl;
         solution=solution+azenyem[i].message;
     }
 
