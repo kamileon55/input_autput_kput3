@@ -70,23 +70,27 @@ Sz7iPe5H2u__10
 YuyHRXY2z4__10
 jwvfvtzzyI__10
 jecRHkCxva__10
-oobv4GC2u3__10
-JKuJOSk8Xu__10
 yxKc0pmWUM__10
 Utkozes a bitek kozott
 Woznr5HFgO__10
-Utkozes a bitek kozott
-7emjD6UatS__10
-LHBWVe4pL8__10
-1hUipFz7jK__10
-VZ1SEP4NTF__10
-0t8xfWLpgq__10
 qv7CG2veGM__10
+JKuJOSk8Xu__10
+7emjD6UatS__10
+VZ1SEP4NTF__10
+LHBWVe4pL8__10
+oobv4GC2u3__10
+0t8xfWLpgq__10
+1hUipFz7jK__10
 Utkozes a bitek kozott
-__0
-Cerkam
 r1MQPbZHI__9
 ndrAoiEJCJ__10
+Utkozes a bitek kozott
+__0
+Cerkam
+__0
+Cerkam
+__0
+Cerkam
 __0
 Cerkam
 FJGiD9WcQy 1
@@ -146,20 +150,22 @@ Sz7iPe5H2u 53
 YuyHRXY2z4 55
 jwvfvtzzyI 57
 jecRHkCxva 58
-oobv4GC2u3 54
-JKuJOSk8Xu 61
 yxKc0pmWUM 56
 Woznr5HFgO 59
-7emjD6UatS 63
-LHBWVe4pL8 62
-1hUipFz7jK 64
-VZ1SEP4NTF 65
-0t8xfWLpgq 66
 qv7CG2veGM 60
- 70
+JKuJOSk8Xu 61
+7emjD6UatS 63
+VZ1SEP4NTF 65
+LHBWVe4pL8 62
+oobv4GC2u3 54
+0t8xfWLpgq 66
+1hUipFz7jK 64
 r1MQPbZHI 68
 ndrAoiEJCJ 67
+ 70
  69
+ 71
+ 72
 Betaprotokol 
 p6DnMiVbx1 0
 FJGiD9WcQy 1
@@ -232,6 +238,8 @@ ndrAoiEJCJ 67
 r1MQPbZHI 68
  69
  70
+ 71
+ 72
 Betaprotokol 
-112557 510 1 SOLUTION p6DnMiVbx1FJGiD9WcQyFVdFi0SM0fzQnS8nEjxIwYDKEtxD5mwBD9qwcjqIHWgvG90MFNrDG0BLYFjjNjLVzWGZku7iNrcawK9O32v3HR2JyztbTWmjFms0rkLYVkQXIWJ9BdauZht2o0y0IHQSrtAgHNAFJnrsv0Hj0F8YSmEIqvGXueOUJiiUjzRRPcVt0MLveJJiEafrMJGA7IV4VaLsGvwYA4TRPAjGTtUyZIgbdNVH5n3uPdVduNtpZaRfK2HTxFOWaA0GRecrCY81QjzHI9NAwFj8bPBZXfAB85Opur16tYq7na3VCXjyYQ7kTyjqJjQnrYmZw4a2cN2oM7eTuti3p4xkPTiLEmod1NtRjV0DqUuHql2S8CZZKKPx4mJnPQV8rzhuK6JFtSyAbrEdwzhlMzw5TutHVJciUIQORth69GBQgYDVHzaZWY9dGWCsRA1dgU2QwBi9N6fSl2letnikX9Thg6f0SMCtZSAfksybyzcbyXhptHe2PLcjKzYzOQ9yh2SVFOKlzgSz7iPe5H2uoobv4GC2u3YuyHRXY2z4yxKc0pmWUMjwvfvtzzyIjecRHkCxvaWoznr5HFgOqv7CG2veGMJKuJOSk8XuLHBWVe4pL87emjD6UatS1hUipFz7jKVZ1SEP4NTF0t8xfWLpgqndrAoiEJCJr1MQPbZHI
-END (latest message): [Cannot able to move router 0 rules, because it isn't contains any of your data in request 112557 455 1]
+112558 556 1 SOLUTION p6DnMiVbx1FJGiD9WcQyFVdFi0SM0fzQnS8nEjxIwYDKEtxD5mwBD9qwcjqIHWgvG90MFNrDG0BLYFjjNjLVzWGZku7iNrcawK9O32v3HR2JyztbTWmjFms0rkLYVkQXIWJ9BdauZht2o0y0IHQSrtAgHNAFJnrsv0Hj0F8YSmEIqvGXueOUJiiUjzRRPcVt0MLveJJiEafrMJGA7IV4VaLsGvwYA4TRPAjGTtUyZIgbdNVH5n3uPdVduNtpZaRfK2HTxFOWaA0GRecrCY81QjzHI9NAwFj8bPBZXfAB85Opur16tYq7na3VCXjyYQ7kTyjqJjQnrYmZw4a2cN2oM7eTuti3p4xkPTiLEmod1NtRjV0DqUuHql2S8CZZKKPx4mJnPQV8rzhuK6JFtSyAbrEdwzhlMzw5TutHVJciUIQORth69GBQgYDVHzaZWY9dGWCsRA1dgU2QwBi9N6fSl2letnikX9Thg6f0SMCtZSAfksybyzcbyXhptHe2PLcjKzYzOQ9yh2SVFOKlzgSz7iPe5H2uoobv4GC2u3YuyHRXY2z4yxKc0pmWUMjwvfvtzzyIjecRHkCxvaWoznr5HFgOqv7CG2veGMJKuJOSk8XuLHBWVe4pL87emjD6UatS1hUipFz7jKVZ1SEP4NTF0t8xfWLpgqndrAoiEJCJr1MQPbZHI
+END (latest message): [Cannot able to move router 0 rules, because it isn't contains any of your data in request 112558 469 1]
