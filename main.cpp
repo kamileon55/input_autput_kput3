@@ -106,7 +106,7 @@ void readData(Reader& to) // void barmi(int a)
         }
         else if (!line.rfind("MESSAGE"))
         {
-            std::cerr<<"MESSAGE"<<std::endl;
+           // std::cerr<<"MESSAGE"<<std::endl;
             
 
             MessagePiece & msg = to.receivedPieces.emplace_back();
@@ -125,7 +125,7 @@ void readData(Reader& to) // void barmi(int a)
             
           //  msg.index=al_index/fogadott*(1001-to.data[1])/1000;
             
-            std::cerr<<"Rendszam: "<<msg.rendszam<<"\n";
+         //   std::cerr<<"Rendszam: "<<msg.rendszam<<"\n";
             azenyem.push_back(msg);
 
 
@@ -205,7 +205,7 @@ int main()
 
                         command= "CREATE ";
                         command=command+std::to_string(i)+" "+std::to_string(faszpicsa++);
-                        std::cerr<<" a["<<i<<"]["<<alaprouter<<"]="<<reader.routerBits[i][alaprouter]<<"\n";
+               //         std::cerr<<" a["<<i<<"]["<<alaprouter<<"]="<<reader.routerBits[i][alaprouter]<<"\n";
                         betesz=1;
                         break;
 
@@ -260,7 +260,7 @@ int main()
 
 
         std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
-        std::cerr << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
+     //   std::cerr << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
         if(reader.receivedPieces.size()>100)
         {
             //  break;
@@ -269,7 +269,7 @@ int main()
 
     for(int i=0; i<azenyem.size(); i++)
     {
-        std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
+     //   std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
     }
 
     for(long unsigned int i=0; i<azenyem.size()-1; i++)
@@ -285,7 +285,7 @@ int main()
     std::cerr<<"Betaprotokol "<<std::endl;
     for(int i=0; i<azenyem.size(); i++)
     {
-        std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
+        std::cerr<<Rendezendo[i].indexem<<" "<<Rendezendo[i].ertek<<std::endl;
         solution=solution+azenyem[i].message;
     }
 
