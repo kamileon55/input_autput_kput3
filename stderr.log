@@ -1,63 +1,2416 @@
 Kor szama: 0
 Bitek szama: 0
  a[1][12]=0
-98174 0 12 CREATE 1 0
+98211 0 12 CREATE 1 0
 Kor szama: 1
 Bitek szama: 1
  a[1][12]=0
-98174 1 12 CREATE 1 1
+98211 1 12 CREATE 1 1
 Kor szama: 2
 Bitek szama: 2
  a[1][12]=0
-98174 2 12 CREATE 1 2
+98211 2 12 CREATE 1 2
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-98174 3 12 CREATE 1 3
+98211 3 12 CREATE 1 3
 Kor szama: 4
 Bitek szama: 4
-98174 4 12 MOVE 10 ^
+98211 4 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-98174 5 12 MOVE 10 ^
+98211 5 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-98174 6 12 MOVE 10 ^
+98211 6 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-98174 7 12 MOVE 10 ^
+98211 7 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-98174 8 12 MOVE 9 ^
+98211 8 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-98174 9 12 MOVE 9 ^
+98211 9 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-98174 10 12 MOVE 6 ^
+98211 10 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-98174 11 12 MOVE 5 ^
+98211 11 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-98174 12 12 MOVE 5 ^
+98211 12 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-98174 13 12 MOVE 8 ^
+98211 13 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-98174 14 12 MOVE 9 ^
+98211 14 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-98174 15 12 MOVE 10 ^
+98211 15 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-98174 16 12 MOVE 10 ^
+98211 16 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-98174 17 12 MOVE 10 ^
+98211 17 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-98174 18 12 MOVE 11 ^
+98211 18 12 MOVE 11 ^
 MESSAGE
-timeout: the monitored command dumped core
+Kor szama: 3
+Bitek szama: 3
+ a[0][12]=0
+98211 19 12 CREATE 0 4
+Kor szama: 4
+Bitek szama: 4
+98211 20 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+98211 21 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+98211 22 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+98211 23 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+98211 24 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+98211 25 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+98211 26 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+98211 27 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+98211 28 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+98211 29 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+98211 30 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+98211 31 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 32 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 33 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 34 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 35 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 36 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 37 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 38 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+98211 39 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+98211 40 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+98211 41 12 MOVE 13 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=0
+98211 42 12 CREATE 2 5
+Kor szama: 4
+Bitek szama: 4
+98211 43 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 44 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 45 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 46 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 47 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 48 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 49 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[5][12]=0
+98211 50 12 CREATE 5 6
+Kor szama: 4
+Bitek szama: 4
+98211 51 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+98211 52 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+98211 53 12 MOVE 13 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[0][12]=1
+98211 54 12 CREATE 0 7
+Kor szama: 4
+Bitek szama: 4
+98211 55 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 56 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 57 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 58 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 59 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 60 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 61 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 62 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 63 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 64 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 65 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 66 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 67 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 68 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[1][12]=0
+98211 69 12 CREATE 1 8
+Kor szama: 4
+Bitek szama: 4
+98211 70 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+98211 71 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+98211 72 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+98211 73 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 74 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 75 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 76 12 MOVE 0 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[1][12]=1
+98211 77 12 CREATE 1 9
+Kor szama: 4
+Bitek szama: 4
+98211 78 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 79 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 80 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 81 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 82 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 83 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 84 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=0
+98211 85 12 CREATE 2 10
+Kor szama: 4
+Bitek szama: 4
+98211 86 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 87 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 88 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 89 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 90 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 91 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 92 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 93 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 94 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 95 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 96 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 97 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 98 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 99 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 100 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 101 12 MOVE 10 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=0
+98211 102 12 CREATE 2 11
+Kor szama: 4
+Bitek szama: 4
+98211 103 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 104 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[4][12]=1
+98211 105 12 CREATE 4 12
+Kor szama: 4
+Bitek szama: 4
+98211 106 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 107 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 108 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 109 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 110 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+98211 111 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+98211 112 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+98211 113 12 MOVE 13 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[0][12]=1
+98211 114 12 CREATE 0 13
+Kor szama: 4
+Bitek szama: 4
+98211 115 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 116 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 117 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 118 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 119 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 120 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 121 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 122 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 123 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 124 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 125 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 126 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 127 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 128 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 129 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 130 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 131 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 132 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 133 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 134 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 135 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 136 12 MOVE 10 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=1
+98211 137 12 CREATE 2 14
+Kor szama: 4
+Bitek szama: 4
+98211 138 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 139 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 140 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 141 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+98211 142 12 MOVE 2 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=0
+98211 143 12 CREATE 2 15
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=0
+98211 144 12 CREATE 2 16
+Kor szama: 4
+Bitek szama: 4
+98211 145 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 146 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 147 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 148 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 149 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 150 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+98211 151 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+98211 152 12 MOVE 13 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[1][12]=0
+98211 153 12 CREATE 1 17
+Kor szama: 4
+Bitek szama: 4
+98211 154 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 155 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 156 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 157 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 158 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 159 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 160 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 161 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 162 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 163 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 164 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 165 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 166 12 MOVE 9 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[1][12]=1
+98211 167 12 CREATE 1 18
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[0][12]=0
+98211 168 12 CREATE 0 19
+Kor szama: 4
+Bitek szama: 4
+98211 169 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 170 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 171 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+98211 172 12 MOVE 0 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[1][12]=0
+98211 173 12 CREATE 1 20
+Kor szama: 4
+Bitek szama: 4
+98211 174 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+98211 175 12 MOVE 13 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=0
+98211 176 12 CREATE 2 21
+Kor szama: 4
+Bitek szama: 4
+98211 177 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 178 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 179 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 180 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 181 12 MOVE 9 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=0
+98211 182 12 CREATE 2 22
+Kor szama: 4
+Bitek szama: 4
+98211 183 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+98211 184 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+98211 185 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 186 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 187 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 188 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 189 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 190 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 191 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+98211 192 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+98211 193 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+98211 194 12 MOVE 0 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=0
+98211 195 12 CREATE 2 23
+Kor szama: 4
+Bitek szama: 4
+98211 196 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 197 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 198 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 199 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 200 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 201 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 202 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 203 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 204 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 205 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 206 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 207 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 208 12 MOVE 8 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[0][12]=0
+98211 209 12 CREATE 0 24
+Kor szama: 4
+Bitek szama: 4
+98211 210 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 211 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 212 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 213 12 MOVE 10 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[1][12]=0
+98211 214 12 CREATE 1 25
+Kor szama: 4
+Bitek szama: 4
+98211 215 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+98211 216 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+98211 217 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+98211 218 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+98211 219 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+98211 220 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+98211 221 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+98211 222 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+98211 223 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+98211 224 12 MOVE 13 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[0][12]=1
+98211 225 12 CREATE 0 26
+Kor szama: 4
+Bitek szama: 4
+98211 226 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+98211 227 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+98211 228 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+98211 229 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+98211 230 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 231 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 232 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 233 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+98211 234 12 MOVE 0 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=0
+98211 235 12 CREATE 2 27
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=0
+98211 236 12 CREATE 2 28
+Kor szama: 4
+Bitek szama: 4
+98211 237 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 238 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 239 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 240 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 241 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 242 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 243 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 244 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 245 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 246 12 MOVE 6 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=1
+98211 247 12 CREATE 2 29
+Kor szama: 4
+Bitek szama: 4
+98211 248 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 249 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 250 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 251 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 252 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 253 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 254 12 MOVE 10 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[1][12]=1
+98211 255 12 CREATE 1 30
+Kor szama: 4
+Bitek szama: 4
+98211 256 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 257 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 258 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[3][12]=0
+98211 259 12 CREATE 3 31
+Kor szama: 4
+Bitek szama: 4
+98211 260 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 261 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 262 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 263 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 264 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 265 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 266 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 267 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 268 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 269 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 270 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 271 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 272 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[1][12]=0
+98211 273 12 CREATE 1 32
+Kor szama: 4
+Bitek szama: 4
+98211 274 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+98211 275 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+98211 276 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+98211 277 12 MOVE 0 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[1][12]=1
+98211 278 12 CREATE 1 33
+Kor szama: 4
+Bitek szama: 4
+98211 279 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 280 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 281 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 282 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 283 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 284 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 285 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 286 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 287 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 288 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 289 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 290 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 291 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 292 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 293 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 294 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 295 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[0][12]=0
+98211 296 12 CREATE 0 34
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=1
+98211 297 12 CREATE 2 35
+Kor szama: 4
+Bitek szama: 4
+98211 298 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 299 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 300 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 301 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 302 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 303 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 304 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 305 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 306 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 307 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 308 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 309 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 310 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 311 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 312 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 313 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 314 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 315 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 316 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 317 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 318 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 319 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 320 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 321 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 322 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 323 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 324 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 325 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 326 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 327 12 MOVE 9 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[0][12]=0
+98211 328 12 CREATE 0 36
+Kor szama: 4
+Bitek szama: 4
+98211 329 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 330 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 331 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[0][12]=0
+98211 332 12 CREATE 0 37
+Kor szama: 4
+Bitek szama: 4
+98211 333 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+98211 334 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+98211 335 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+98211 336 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+98211 337 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+98211 338 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+98211 339 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+98211 340 12 MOVE 13 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=1
+98211 341 12 CREATE 2 38
+Kor szama: 4
+Bitek szama: 4
+98211 342 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+98211 343 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 344 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 345 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 346 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 347 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 348 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 349 12 MOVE 3 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[1][12]=1
+98211 350 12 CREATE 1 39
+Kor szama: 4
+Bitek szama: 4
+98211 351 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 352 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 353 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 354 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 355 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 356 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 357 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 358 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 359 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 360 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 361 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 362 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 363 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 364 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 365 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 366 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[4][12]=0
+98211 367 12 CREATE 4 40
+Kor szama: 4
+Bitek szama: 4
+98211 368 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+98211 369 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+98211 370 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+98211 371 12 MOVE 0 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[3][12]=0
+98211 372 12 CREATE 3 41
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[4][12]=1
+98211 373 12 CREATE 4 42
+Kor szama: 4
+Bitek szama: 4
+98211 374 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+98211 375 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+98211 376 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+98211 377 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+98211 378 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+98211 379 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+98211 380 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+98211 381 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 382 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 383 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 384 12 MOVE 5 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[0][12]=1
+98211 385 12 CREATE 0 43
+Kor szama: 4
+Bitek szama: 4
+98211 386 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 387 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 388 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 389 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 390 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+98211 391 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+98211 392 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+98211 393 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+98211 394 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+98211 395 12 MOVE 13 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[3][12]=0
+98211 396 12 CREATE 3 44
+Kor szama: 4
+Bitek szama: 4
+98211 397 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 398 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 399 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 400 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 401 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 402 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 403 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 404 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 405 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 406 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 407 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=0
+98211 408 12 CREATE 2 45
+Kor szama: 4
+Bitek szama: 4
+98211 409 12 MOVE 12 ^
+Kor szama: 4
+Bitek szama: 4
+98211 410 12 MOVE 12 ^
+Kor szama: 4
+Bitek szama: 4
+98211 411 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 412 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 413 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 414 12 MOVE 6 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[1][12]=1
+98211 415 12 CREATE 1 46
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[1][12]=1
+98211 416 12 CREATE 1 47
+Kor szama: 4
+Bitek szama: 4
+98211 417 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 418 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 419 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 420 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 421 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 422 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 423 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 424 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 425 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 426 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 427 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 428 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 429 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 430 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 431 12 MOVE 10 ^
+MESSAGE
+MESSAGE
+Kor szama: 2
+Bitek szama: 2
+ a[0][12]=1
+98211 432 12 CREATE 0 48
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[3][12]=1
+98211 433 12 CREATE 3 49
+Kor szama: 4
+Bitek szama: 4
+98211 434 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+98211 435 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+98211 436 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+98211 437 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+98211 438 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+98211 439 12 MOVE 13 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[0][12]=1
+98211 440 12 CREATE 0 50
+Kor szama: 4
+Bitek szama: 4
+98211 441 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 442 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 443 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 444 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[2][12]=1
+98211 445 12 CREATE 2 51
+Kor szama: 4
+Bitek szama: 4
+98211 446 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 447 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 448 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 449 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 450 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 451 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 452 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 453 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 454 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 455 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 456 12 MOVE 5 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[2][12]=0
+98211 457 12 CREATE 2 52
+Kor szama: 4
+Bitek szama: 4
+98211 458 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 459 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 460 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 461 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 462 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 463 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[1][12]=1
+98211 464 12 CREATE 1 53
+Kor szama: 4
+Bitek szama: 4
+98211 465 12 MOVE 12 ^
+Kor szama: 4
+Bitek szama: 4
+98211 466 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 467 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 468 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 469 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 470 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 471 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 472 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 473 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 474 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 475 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 476 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 477 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 478 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 479 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 480 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 481 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 482 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 483 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 484 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[0][12]=0
+98211 485 12 CREATE 0 54
+Kor szama: 4
+Bitek szama: 4
+98211 486 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+98211 487 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+98211 488 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+98211 489 12 MOVE 13 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=0
+98211 490 12 CREATE 2 55
+Kor szama: 4
+Bitek szama: 4
+98211 491 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 492 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 493 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 494 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 495 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 496 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 497 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 498 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 499 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 500 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 501 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 502 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 503 12 MOVE 7 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[3][12]=1
+98211 504 12 CREATE 3 56
+Kor szama: 4
+Bitek szama: 4
+98211 505 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 506 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 507 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 508 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 509 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 510 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 511 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 512 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 513 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 514 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 515 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 516 12 MOVE 9 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[2][12]=0
+98211 517 12 CREATE 2 57
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[2][12]=1
+98211 518 12 CREATE 2 58
+Kor szama: 4
+Bitek szama: 4
+98211 519 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+98211 520 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+98211 521 12 MOVE 13 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[1][12]=1
+98211 522 12 CREATE 1 59
+Kor szama: 4
+Bitek szama: 4
+98211 523 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 524 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 525 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 526 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 527 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 528 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 529 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 530 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 531 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 532 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 533 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 534 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 535 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 536 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 537 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 538 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 539 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 540 12 MOVE 10 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[0][12]=0
+98211 541 12 CREATE 0 60
+Kor szama: 4
+Bitek szama: 4
+98211 542 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+98211 543 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+98211 544 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+98211 545 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+98211 546 12 MOVE 3 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[0][12]=1
+98211 547 12 CREATE 0 61
+Kor szama: 4
+Bitek szama: 4
+98211 548 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 549 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 550 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+98211 551 12 MOVE 0 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[3][12]=0
+98211 552 12 CREATE 3 62
+Kor szama: 4
+Bitek szama: 4
+98211 553 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 554 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 555 12 MOVE 10 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[3][12]=1
+98211 556 12 CREATE 3 63
+Kor szama: 4
+Bitek szama: 4
+98211 557 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 558 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 559 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 560 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 561 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 562 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 563 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 564 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 565 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 566 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 567 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 568 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 569 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 570 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 571 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 572 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 573 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 574 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 575 12 MOVE 10 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[3][12]=1
+98211 576 12 CREATE 3 64
+Kor szama: 4
+Bitek szama: 4
+98211 577 12 MOVE 12 ^
+Kor szama: 4
+Bitek szama: 4
+98211 578 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+98211 579 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+98211 580 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 581 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 582 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 583 12 MOVE 5 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=0
+98211 584 12 CREATE 2 65
+Kor szama: 4
+Bitek szama: 4
+98211 585 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+98211 586 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+98211 587 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+98211 588 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+98211 589 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+98211 590 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+98211 591 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+98211 592 12 MOVE 13 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[0][12]=0
+98211 593 12 CREATE 0 66
+Kor szama: 4
+Bitek szama: 4
+98211 594 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 595 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 596 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 597 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[1][12]=0
+98211 598 12 CREATE 1 67
+Kor szama: 4
+Bitek szama: 4
+98211 599 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 600 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 601 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 602 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 603 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 604 12 MOVE 8 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=0
+98211 605 12 CREATE 2 68
+Kor szama: 4
+Bitek szama: 4
+98211 606 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 607 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 608 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 609 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[4][12]=1
+98211 610 12 CREATE 4 69
+Kor szama: 4
+Bitek szama: 4
+98211 611 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 612 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 613 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 614 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 615 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[0][12]=0
+98211 616 12 CREATE 0 70
+Kor szama: 4
+Bitek szama: 4
+98211 617 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+98211 618 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 619 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 620 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 621 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+98211 622 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+98211 623 12 MOVE 13 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=0
+98211 624 12 CREATE 2 71
+Kor szama: 4
+Bitek szama: 4
+98211 625 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+98211 626 12 MOVE 13 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=0
+98211 627 12 CREATE 2 72
+Kor szama: 4
+Bitek szama: 4
+98211 628 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 629 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+98211 630 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 631 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 632 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 633 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 634 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 635 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 636 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 637 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 638 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 639 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 640 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 641 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 642 12 MOVE 9 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=0
+98211 643 12 CREATE 2 73
+Kor szama: 4
+Bitek szama: 4
+98211 644 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 645 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 646 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 647 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 648 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 649 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 650 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 651 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 652 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 653 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 654 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 655 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[1][12]=0
+98211 656 12 CREATE 1 74
+Kor szama: 4
+Bitek szama: 4
+98211 657 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+98211 658 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+98211 659 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+98211 660 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 661 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 662 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+98211 663 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+98211 664 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+98211 665 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+98211 666 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+98211 667 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+98211 668 12 MOVE 0 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=0
+98211 669 12 CREATE 2 75
+Kor szama: 4
+Bitek szama: 4
+98211 670 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 671 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 672 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 673 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 674 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 675 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 676 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 677 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[0][12]=0
+98211 678 12 CREATE 0 76
+Kor szama: 4
+Bitek szama: 4
+98211 679 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+98211 680 12 MOVE 1 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[4][12]=0
+98211 681 12 CREATE 4 77
+Kor szama: 4
+Bitek szama: 4
+98211 682 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+98211 683 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 684 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 685 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 686 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 687 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+98211 688 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 689 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+98211 690 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+98211 691 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+98211 692 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+98211 693 12 MOVE 9 ^
+MESSAGE
+1QTX6BpXCH 0
+E3CjFoQyIz 1
+Q4eDLArtcP 2
+m8v3HvIOnf 3
+oBZauWl56w 4
+6fK9JNX4qt 5
+7nVE9iu2y0 7
+03etteZHRk 6
+ZWqXwqis3n 8
+g7IYPJ1XnF 9
+MUSDjHKDr9 10
+UWo2Fo3kcU 11
+8xRWv4wmg1 12
+JbZkD9CWPq 13
+H069X59mFU 16
+GGfhR2X4ms 14
+VXOJP0QBBm 17
+E1d96s6WUP 15
+DDrQZspCtk 18
+MYhtPzlajL 19
+CE9aWRpxPm 22
+dj7X4o4Egu 20
+ycRlE67YsW 21
+PVsrDzxpqt 25
+NUYzXB54mP 23
+7uj6OJAqhE 27
+kprrZovWMa 28
+rSPSmq6iuq 24
+mN0QxZoaIh 26
+pqIseKXEA0 29
+Esgwq8pYij 30
+qLWr8RJf37 31
+tX0cEKFgog 34
+eeGuPzRMU4 32
+wSA9qebs66 33
+R9caDLIQue 35
+LCEvck18Zx 36
+1yK1CxE3Ai 37
+HKwdYNIGhL 38
+Ph1beeEmuG 41
+wZwfBeS1lk 39
+Z7uQtXeqiv 40
+0FgXxDe1bg 42
+uTmezd5Md3 43
+2JXbWl5aon 44
+HRYGRVQBgN 47
+PSybhVq2SX 45
+VBh8UndUlV 46
+cmjlMmghPM 49
+vlTwq6sPvI 48
+UkSgaZOpsc 50
+NFxgcAEQiZ 51
+db6F4qfmMq 53
+xLLoO16fHu 54
+lnz1AJBoJw 52
+IHduoBMd03 55
+l7rj6wluSf 56
+Vfn0YBFcG0 59
+zv7M6eY0zA 57
+iljsq4o9wM 58
+iKf1Jfkes0 60
+6sB8VHlYYu 63
+F8NLrLD05E 61
+nK4Xy4VBKK 62
+JRAxHFB3hg 65
+1W2h9g0tbt 64
+xzoAHoQYbd 66
+Bk1Q8Ey3z6 69
+KWA0UGLixj 67
+aY3hdOYIOG 68
+ML330UUdC7 70
+Bib1xCOsJU 71
+vYGo0SoH7Z 72
+9 73
+ 74
+A bizonyos meret: 75
+Betaprotokol 
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+98211 694 12 SOLUTION 1QTX6BpXCHE3CjFoQyIzQ4eDLArtcPm8v3HvIOnfoBZauWl56w6fK9JNX4qt7nVE9iu2y003etteZHRkZWqXwqis3ng7IYPJ1XnFMUSDjHKDr9UWo2Fo3kcU8xRWv4wmg1JbZkD9CWPqH069X59mFUGGfhR2X4msVXOJP0QBBmE1d96s6WUPDDrQZspCtkMYhtPzlajLCE9aWRpxPmdj7X4o4EguycRlE67YsWPVsrDzxpqtNUYzXB54mP7uj6OJAqhEkprrZovWMarSPSmq6iuqmN0QxZoaIhpqIseKXEA0Esgwq8pYijqLWr8RJf37tX0cEKFgogeeGuPzRMU4wSA9qebs66R9caDLIQueLCEvck18Zx1yK1CxE3AiHKwdYNIGhLPh1beeEmuGwZwfBeS1lkZ7uQtXeqiv0FgXxDe1bguTmezd5Md32JXbWl5aonHRYGRVQBgNPSybhVq2SXVBh8UndUlVcmjlMmghPMvlTwq6sPvIUkSgaZOpscNFxgcAEQiZdb6F4qfmMqxLLoO16fHulnz1AJBoJwIHduoBMd03l7rj6wluSfVfn0YBFcG0zv7M6eY0zAiljsq4o9wMiKf1Jfkes06sB8VHlYYuF8NLrLD05EnK4Xy4VBKKJRAxHFB3hg1W2h9g0tbtxzoAHoQYbdBk1Q8Ey3z6KWA0UGLixjaY3hdOYIOGML330UUdC7Bib1xCOsJUvYGo0SoH7Z9
+END (latest message):
