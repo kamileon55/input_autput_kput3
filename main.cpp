@@ -121,6 +121,7 @@ void readData(Reader& to) // void barmi(int a)
           
             Rendezendo alma;
             alma.ertek=al_index/fogadott*(1001-to.data[1])/10;
+            cout<<"Az a nyomorult: "<<alma.ertek<<"\n";
             alma.indexem=msg.index;
          //   anyukad.push_back(alma);
             
