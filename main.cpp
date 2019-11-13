@@ -304,7 +304,7 @@ int main()
     {
         readData(reader);
 
-        if (reader.hasEnd || reader.receivedPieces.size()>100)
+        if (reader.hasEnd)
             break;
 
 
