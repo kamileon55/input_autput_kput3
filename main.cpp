@@ -147,42 +147,25 @@ int main()
         readData(reader);
 
         if (reader.hasEnd || reader.receivedPieces.size()>100)
-            break;
+        {
+             break;
+        }
+           
 
         // TODO logika jobb mint a semmitteves
         ///
-        /*
-         if(reader.dataArray.size()<8)
-         {
-
-
-             for(int i=0; i<9; i++)
-             {
-                 if(reader.routerBits[i][alaprouter]==1)
-                 {
-
-                         command= "CREATE ";
-                         command=command+std::to_string(i)+" "+std::to_string(faszpicsa++);
-                         std::cerr<<" a["<<i<<"]["<<alaprouter<<"]="<<reader.routerBits[i][alaprouter]<<"\n";
-                         break;
-
-
-
-
-                 }
-
-             }
-
-         }
-         */
+      
         int bitjeim=0;
         for (int i=0; i<reader.dataArray.size(); i++)
         {
             if( reader.dataArray[i].fromRouter==alaprouter)
             {
                 bitjeim++;
+                
             }
         }
+        cerr<<"Kor szama: "<<bitjeim<<"\n";
+        cerr<<"Bitek szama: "<<bitjeim<<"\n";
         int betesz=0;
         int beleptem=0;
         if(bitjeim<4)
@@ -198,6 +181,7 @@ int main()
                         if(reader.dataArray[j].currStoreId==i)
                         {
                             ures=0;
+                            cerr<<"Utkozes a bitek kozott"<<"\n";
                         }
                     }
                     if(ures==1)
