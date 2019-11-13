@@ -1,3 +1,7 @@
+/main.cpp: In function ‘void readData(Reader&)’:
+/main.cpp:116:17: warning: unused variable ‘al_index’ [-Wunused-variable]
+             int al_index=msg.rendszam;
+                 ^~~~~~~~
 /main.cpp: In function ‘int main()’:
 /main.cpp:165:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for (int i=0; i<reader.dataArray.size(); i++)
