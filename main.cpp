@@ -384,6 +384,7 @@ int main()
 
 
         std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
+		std::cerr<<"Command: "<<command<<"\n";
     }
 
     for(int i=0; i<azenyem.size(); i++)
