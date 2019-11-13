@@ -9,35 +9,35 @@
    for (int i = 0; i < packets.size(); i++)
                    ~~^~~~~~~~~~~~~~~~
 /main.cpp: In function ‘void readData(Reader&)’:
-/main.cpp:255:27: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:256:27: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
              for(int i=0; i<to.dataArray.size(); i++)
                           ~^~~~~~~~~~~~~~~~~~~~
-/main.cpp:258:88: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
+/main.cpp:259:88: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
                  if(to.dataArray[i].fromRouter==alaprouter && to.dataArray[i].dataIndex < lowestEmptyPacket)
 /main.cpp: In function ‘int main()’:
-/main.cpp:326:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:327:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for (int i=0; i<reader.dataArray.size(); i++)
                        ~^~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:327:13: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+/main.cpp:328:13: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
              if(reader.dataArray[i].fromRouter==alaprouter)
              ^~
-/main.cpp:330:3: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+/main.cpp:331:3: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
    std::vector<PossibleAction> posActs;
    ^~~
-/main.cpp:341:35: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:342:35: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
                      for(int j=0; j<reader.dataArray.size(); j++)
                                   ~^~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:343:59: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
+/main.cpp:344:59: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
                          if(reader.dataArray[j].currStoreId==i && reader.dataArray[j].currRouter==alaprouter )
-/main.cpp:367:17: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:368:17: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
    for(int i=0; i<reader.dataArray.size(); i++)
                 ~^~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:393:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<PossibleAction>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:394:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<PossibleAction>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
    for(int i = 1; i<posActs.size(); i++) //todo if size() = 0 pass
                   ~^~~~~~~~~~~~~~~
-/main.cpp:434:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:435:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
      for(int i=0; i<azenyem.size(); i++)
                   ~^~~~~~~~~~~~~~~
-/main.cpp:298:9: warning: unused variable ‘befutott’ [-Wunused-variable]
+/main.cpp:299:9: warning: unused variable ‘befutott’ [-Wunused-variable]
      int befutott=0;
          ^~~~~~~~
