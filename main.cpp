@@ -164,8 +164,8 @@ int main()
                 
             }
         }
-        cerr<<"Kor szama: "<<bitjeim<<"\n";
-        cerr<<"Bitek szama: "<<bitjeim<<"\n";
+        std::cerr<<"Kor szama: "<<bitjeim<<"\n";
+        std::cerr<<"Bitek szama: "<<bitjeim<<"\n";
         int betesz=0;
         int beleptem=0;
         if(bitjeim<4)
@@ -181,7 +181,7 @@ int main()
                         if(reader.dataArray[j].currStoreId==i)
                         {
                             ures=0;
-                            cerr<<"Utkozes a bitek kozott"<<"\n";
+                            std::cerr<<"Utkozes a bitek kozott"<<"\n";
                         }
                     }
                     if(ures==1)
