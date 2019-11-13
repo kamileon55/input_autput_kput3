@@ -256,7 +256,7 @@ void readData(Reader& to)
             for(int i=0; i<to.dataArray.size(); i++)
             {
                 belep2=true;
-                if(to.dataArray[i].fromRouter==alaprouter && to.dataArray[i].dataIndex < lowestEmptyPacket)
+                if(to.dataArray[i].fromRouter==alaprouter /*&& to.dataArray[i].dataIndex < lowestEmptyPacket*/) //causes loss of empty packets, bad score
                 {
                     vegem=false;
 
@@ -351,7 +351,7 @@ int main()
                     if(slotEmpty)
                     {
                         PossibleAction pa('c', i);
-						pa.value += 5*(4-bitjeim);
+						pa.value += 10*(4-bitjeim);
 						simulateAction(reader.routerBits, reader.dataArray, pa);
 						posActs.push_back(pa);
 
