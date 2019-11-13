@@ -34,7 +34,7 @@ struct MessagePiece
 {
     int index;
     std::string message;
-    int rendszam;
+    float rendszam;
 };
 std::vector<MessagePiece>azenyem;
 void swap(MessagePiece *xp, MessagePiece *yp)
