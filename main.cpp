@@ -178,7 +178,7 @@ int main()
                     int ures=1;
                     for(int j=0; j<reader.dataArray.size(); j++)
                     {
-                        if(reader.dataArray[j].currStoreId==i)
+                        if(reader.dataArray[j].currStoreId==i && reader.dataArray[j].currRouter==alaprouter )
                         {
                             ures=0;
                             std::cerr<<"Utkozes a bitek kozott"<<"\n";
