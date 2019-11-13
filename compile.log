@@ -2,54 +2,40 @@
 /main.cpp:107:20: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
   for (int i = 0; i < packets.size(); i++)
                   ~~^~~~~~~~~~~~~~~~
-/main.cpp:145:20: error: ‘packets’ was not declared in this scope
+/main.cpp:140:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
    for(int i = 0; i<packets.size(); i++)
-                    ^~~~~~~
-/main.cpp:146:38: error: ‘state’ was not declared in this scope
-    if (packets[i].currStoreId > 0 && state[packets[i].currRouter][packets[i].currStoreId - 1] == '-')
-                                      ^~~~~
-/main.cpp:146:38: note: suggested alternative: ‘stime’
-    if (packets[i].currStoreId > 0 && state[packets[i].currRouter][packets[i].currStoreId - 1] == '-')
-                                      ^~~~~
-                                      stime
-/main.cpp:155:23: error: ‘packets’ was not declared in this scope
+                  ~^~~~~~~~~~~~~~~
+/main.cpp:150:21: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
    for (int i = 0; i < packets.size(); i++)
-                       ^~~~~~~
-/main.cpp:160:56: error: ‘state’ was not declared in this scope
-    if (packets[i].currRouter != packets[i].toRouter && state[packets[i].currRouter + direction][packets[i].currStoreId] == '-')
-                                                        ^~~~~
-/main.cpp:160:56: note: suggested alternative: ‘stime’
-    if (packets[i].currRouter != packets[i].toRouter && state[packets[i].currRouter + direction][packets[i].currStoreId] == '-')
-                                                        ^~~~~
-                                                        stime
+                   ~~^~~~~~~~~~~~~~~~
 /main.cpp: In function ‘void readData(Reader&)’:
-/main.cpp:247:27: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:242:27: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
              for(int i=0; i<to.dataArray.size(); i++)
                           ~^~~~~~~~~~~~~~~~~~~~
 /main.cpp: In function ‘int main()’:
-/main.cpp:312:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:307:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for (int i=0; i<reader.dataArray.size(); i++)
                        ~^~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:313:13: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+/main.cpp:308:13: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
              if(reader.dataArray[i].fromRouter==alaprouter)
              ^~
-/main.cpp:316:3: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+/main.cpp:311:3: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
    std::vector<PossibleAction> posActs;
    ^~~
-/main.cpp:326:35: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:321:35: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
                      for(int j=0; j<reader.dataArray.size(); j++)
                                   ~^~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:328:59: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
+/main.cpp:323:59: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
                          if(reader.dataArray[j].currStoreId==i && reader.dataArray[j].currRouter==alaprouter )
-/main.cpp:367:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<PossibleAction>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:362:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<PossibleAction>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
    for(int i = 1; i<posActs.size(); i++) //todo if size() = 0 pass
                   ~^~~~~~~~~~~~~~~
-/main.cpp:388:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:383:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
      for(int i=0; i<azenyem.size(); i++)
                   ~^~~~~~~~~~~~~~~
-/main.cpp:405:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:400:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
      for(int i=0; i<azenyem.size(); i++)
                   ~^~~~~~~~~~~~~~~
-/main.cpp:288:9: warning: unused variable ‘befutott’ [-Wunused-variable]
+/main.cpp:283:9: warning: unused variable ‘befutott’ [-Wunused-variable]
      int befutott=0;
          ^~~~~~~~
