@@ -32,7 +32,7 @@ struct MessagePiece
 {
     int index;
     std::string message;
-    double rendszam;
+
 };
 std::vector<MessagePiece>azenyem;
 void swap(MessagePiece *xp, MessagePiece *yp)
@@ -119,19 +119,15 @@ void readData(Reader& to) // void barmi(int a)
             }
             int al_index=msg.rendszam;
 
-            Rendezendo alma;
-            alma.ertek=al_index/fogadott*(1001-to.data[1])/10;
+
+
             if(to.data[1]<100)
             {
                 std::cerr<<"Az a nyomorult: "<<alma.ertek<<"\n";
             }
-           // 
-            alma.indexem=msg.index;
-         //   anyukad.push_back(alma);
+           //
 
-          //  msg.index=al_index/fogadott*(1001-to.data[1])/1000;
-
-         //   std::cerr<<"Rendszam: "<<msg.rendszam<<"\n";
+         //
             azenyem.push_back(msg);
 
 
@@ -277,6 +273,11 @@ int main()
     {
      //   std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
     }
+///**************
+    for(int i=0; i<azenyem.size(); i++)
+    {
+        std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
+    }
 
     for(long unsigned int i=0; i<azenyem.size()-1; i++)
     {
@@ -289,12 +290,14 @@ int main()
         }
     }
     std::cerr<<"Betaprotokol "<<std::endl;
-  /*  for(int i=0; i<azenyem.size(); i++)
+    for(int i=0; i<azenyem.size(); i++)
     {
-        std::cerr<<anyukad[i].indexem<<" "<<anyukad[i].ertek<<std::endl;
+        std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
         solution=solution+azenyem[i].message;
     }
-    */
+    ///************************
+    std::cerr<<"Betaprotokol "<<std::endl;
+
 
 
     command="SOLUTION ";
