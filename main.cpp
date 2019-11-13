@@ -165,8 +165,12 @@ void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vect
 				state[(int(packets[i].currRouter) + direction)%14][packets[i].currStoreId] = '0'+i;
 				state[packets[i].currRouter][packets[i].currStoreId] = '-';
 				packets[i].currRouter = (int(packets[i].currRouter) + direction)%14;
-				pa.value++; //increment action's usefulness
-				couldMove[i] = 1;
+				if (packets[i].fromRouter == alaprouter)
+				{
+					pa.value++; //increment action's usefulness
+					couldMove[i] = 1;
+				}
+					
 
 				goto togo;
 				
