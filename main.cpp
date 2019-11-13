@@ -340,15 +340,21 @@ int main()
 		//All possible movements
 		for(int i=0; i<8; i++)
         {
+			std::cerr<<"#";
             if(reader.dataArray[i].fromRouter==alaprouter)
             {
+				std::cerr<<"1";
 				PossibleAction pa1('^', reader.dataArray[i].currRouter);
+				std::cerr<<"2";
 				simulateAction(reader.routerBits, reader.dataArray, pa1);
+				std::cerr<<"3";
 				posActs.push_back(pa1);
+				std::cerr<<"4";
 
 				PossibleAction pa2('v', reader.dataArray[i].currRouter);
 				simulateAction(reader.routerBits, reader.dataArray, pa2);
 				posActs.push_back(pa2);
+				std::cerr<<"5";
 			
             }
 
