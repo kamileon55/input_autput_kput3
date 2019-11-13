@@ -121,7 +121,11 @@ void readData(Reader& to) // void barmi(int a)
 
             Rendezendo alma;
             alma.ertek=al_index/fogadott*(1001-to.data[1])/10;
-           // std::cerr<<"Az a nyomorult: "<<alma.ertek<<"\n";
+            if(to.data[1]<100)
+            {
+                std::cerr<<"Az a nyomorult: "<<alma.ertek<<"\n";
+            }
+           // 
             alma.indexem=msg.index;
          //   anyukad.push_back(alma);
 
