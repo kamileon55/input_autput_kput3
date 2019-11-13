@@ -131,42 +131,39 @@ void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vect
 				packets[state[pa.moveRouter][i]-'0'].currStoreId = (packets[state[pa.moveRouter][i]-'0'].currStoreId+1)%14;
 	}
 	
-	std::cerr<<"SS";
 	//Start simulating
 	while (true)
 	{
 		togo:
-		std::cerr<<"i";
 		//Automatic upwards shift
 		for(int i = 0; i<packets.size(); i++)
 			if (packets[i].currStoreId > 0 && state[packets[i].currRouter][packets[i].currStoreId - 1] == '-')
 			{
-				std::cerr<<".";
+
 				state[packets[i].currRouter][packets[i].currStoreId - 1] = '0'+i;
-				std::cerr<<".";
+
 				state[packets[i].currRouter][packets[i].currStoreId] = '-';
-				std::cerr<<".";
+
 				packets[i].currStoreId--;
-				std::cerr<<"s";
+
 				goto togo;
 			}
-		std::cerr<<",";
+
 		//Automatic movement
 		for (int i = 0; i < packets.size(); i++)
 		{
-			std::cerr<<"m";
+
 			int direction = 1;
 			if (packets[i].dir == Direction::LEFT) direction = -1;
-			std::cerr<<"m";
+
 			if (packets[i].currRouter != packets[i].toRouter && state[(int(packets[i].currRouter) + direction)%14][packets[i].currStoreId] == '-')
 			{
-				std::cerr<<"m";
-				std::cerr<<"<"<<packets[i].currRouter<<"."<<packets[i].toRouter<<">";
+
 				state[(int(packets[i].currRouter) + direction)%14][packets[i].currStoreId] = '0'+i;
 				state[packets[i].currRouter][packets[i].currStoreId] = '-';
 				packets[i].currRouter = (int(packets[i].currRouter) + direction)%14;
 				pa.value++; //increment action's usefulness
-				std::cerr<<"m";
+
 				goto togo;
 				
 			}
@@ -322,13 +319,13 @@ int main()
                 bitjeim++;
 
 		std::vector<PossibleAction> posActs;
-		std::cerr<<"CANCREATE3";
+
 		//If we can create
 		if (bitjeim < 4 && !finishMode)
 		{
 			for(int i=0; i<9; i++)
             {
-				std::cerr<<"<";
+
                 if(reader.routerBits[alaprouter][i]==1 )
                 {
                     bool slotEmpty=1;
@@ -340,7 +337,7 @@ int main()
                             break;
                         }
                     }
-					std::cerr<<"@";
+
                     if(slotEmpty)
                     {
                         PossibleAction pa('c', i);
@@ -351,35 +348,35 @@ int main()
 
 
                 }
-				std::cerr<<">";
+
 
             }
 		}
-		std::cerr<<"ALLPOSSIBLE2";
+
 		//All possible movements
 		for(int i=0; i<reader.dataArray.size(); i++)
         {
-			std::cerr<<"#";
+
             if(reader.dataArray[i].fromRouter==alaprouter)
             {
-				std::cerr<<"1";
+
 				PossibleAction pa1('^', reader.dataArray[i].currRouter);
-				std::cerr<<"2";
+	
 				simulateAction(reader.routerBits, reader.dataArray, pa1);
-				std::cerr<<"3";
+			
 				posActs.push_back(pa1);
-				std::cerr<<"4";
+	
 
 				PossibleAction pa2('v', reader.dataArray[i].currRouter);
 				simulateAction(reader.routerBits, reader.dataArray, pa2);
 				posActs.push_back(pa2);
-				std::cerr<<"5";
+
 			
             }
 
         }
 
-		std::cerr<<"PICKBEST1";
+
 
 		//Pick best possible action
 		int bestID = 0;
