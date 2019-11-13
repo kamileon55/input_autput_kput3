@@ -122,7 +122,7 @@ void readData(Reader& to) // void barmi(int a)
             Rendezendo alma;
             alma.ertek=al_index/fogadott*(1001-to.data[1])/10;
             alma.indexem=msg.index;
-            anyukad.push_back(alma);
+         //   anyukad.push_back(alma);
             
           //  msg.index=al_index/fogadott*(1001-to.data[1])/1000;
             
