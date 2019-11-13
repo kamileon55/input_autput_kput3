@@ -33,10 +33,10 @@
 /main.cpp:367:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<PossibleAction>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
    for(int i = 1; i<posActs.size(); i++) //todo if size() = 0 pass
                   ~^~~~~~~~~~~~~~~
-/main.cpp:389:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:390:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
      for(int i=0; i<azenyem.size(); i++)
                   ~^~~~~~~~~~~~~~~
-/main.cpp:406:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:407:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
      for(int i=0; i<azenyem.size(); i++)
                   ~^~~~~~~~~~~~~~~
 /main.cpp:280:9: warning: unused variable ‘befutott’ [-Wunused-variable]
