@@ -76,7 +76,7 @@ void readData(Reader& to) // void barmi(int a)
         else if (!line.rfind("REQUEST", 0))
         {
             std::stringstream(std::move(line).substr(8)) >> to.data[0] >> to.data[1] >> to.data[2];
-            lepes=data[1];
+            lepes=to.data[1];
             alaprouter=to.data[2];
         }
         else if (!line.rfind("PREVIOUS", 0))
