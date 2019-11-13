@@ -4,11 +4,10 @@
 #include <iostream>
 #include <sstream>
 #include <cstring>
-#include <bits/stdc++.h>
 #include <vector>
 
 
-int seed = 68;
+int seed = 111;
 
 
 char verzio[20]="69";
@@ -26,7 +25,7 @@ enum class Direction : char
 
 struct Data
 {
-    unsigned int currRouter; ///
+    unsigned int currRouter;
     unsigned int currStoreId;
     unsigned int dataIndex;
     unsigned int messageId;
@@ -57,12 +56,6 @@ struct Reader
     std::vector<MessagePiece> receivedPieces; ///letarolando, rendezendo
     bool hasEnd;
 };
-struct Rendezendo
-{
-    float ertek;
-    int indexem;
-};
-std::vector<Rendezendo>anyukad;
 
 int leu(std::array<std::array<bool, 10>, 14> routerBits, int curRouter, int curRI, int targetRouter, bool goingLeft)
 {
@@ -84,7 +77,7 @@ int leu(std::array<std::array<bool, 10>, 14> routerBits, int curRouter, int curR
 
 }
 
-void readData(Reader& to) // void barmi(int a)
+void readData(Reader& to)
 {
     std::string line;
     to.dataArray.clear();
@@ -133,8 +126,6 @@ void readData(Reader& to) // void barmi(int a)
         }
         else if (!line.rfind("MESSAGE"))
         {
-            // std::cerr<<"MESSAGE"<<std::endl;
-
 
             MessagePiece & msg = to.receivedPieces.emplace_back();
 
@@ -144,12 +135,13 @@ void readData(Reader& to) // void barmi(int a)
             std::cerr<<msg.message<<"__"<<msg.message.size()<<"\n";
             if(msg.message.size()==0)
             {
-                bevaras++;
                 finishMode=1;
-                std::cerr<<"Cerkam\n";
+                std::cerr<<"Finish Mode Started\n";
 
 
             }
+
+			//If only enemy packets left, end the game
             bool vegem=true;
             bool belep2=true;
             for(int i=0; i<to.dataArray.size(); i++)
@@ -214,40 +206,14 @@ int main()
         readData(reader);
 
         if (reader.hasEnd || reader.receivedPieces.size()>100)
-        {
             break;
-        }
 
 
-        // TODO logika jobb mint a semmitteves
-        ///
-
+		//Count our active packets
         int bitjeim=0;
         for (int i=0; i<reader.dataArray.size(); i++)
-        {
-            if( reader.dataArray[i].fromRouter==alaprouter)
-            {
+            if(reader.dataArray[i].fromRouter==alaprouter)
                 bitjeim++;
-
-            }
-        }
-        /*
-        if(bitjeim>0)
-        {
-            bool vege=true;
-            for (int j=0; j<bitjeim; j++)
-            {
-                if( reader.dataArray[i].fromRouter==alaprouter && reader.receivedPieces[i].message.size()!=0)
-                {
-                    vege=false;
-                }
-            }
-            if(vege=true)
-            {
-                to.hasEnd = true;
-            }
-        }
-        */
 
 
         int betesz=0;
@@ -273,19 +239,8 @@ int main()
                     }
                     if(ures==1)
                     {
-
-                        /*
-                        command= "CREATE ";
-                        command=command+std::to_string(i)+" "+std::to_string(faszpicsa++);
-                        //         std::cerr<<" a["<<i<<"]["<<alaprouter<<"]="<<reader.routerBits[i][alaprouter]<<"\n";
-                        betesz=1;
-
-                        createLeft = !createLeft;
-                        break;
-                        */
                         tavolsagok[i]=leu(reader.routerBits, alaprouter, i,
                                           (alaprouter+7)%14, createLeft);
-
 
                     }
 
@@ -303,7 +258,6 @@ int main()
             }
             command= "CREATE ";
             command=command+std::to_string(maxcenti)+" "+std::to_string(faszpicsa++);
-            //         std::cerr<<" a["<<i<<"]["<<alaprouter<<"]="<<reader.routerBits[i][alaprouter]<<"\n";
             betesz=1;
 
             createLeft = !createLeft;
@@ -369,49 +323,17 @@ int main()
                 command=command+std::to_string(maxID)+" "+lofasz;
 
             }
-
-
-
-
-
-
-
-
         }
-        if(reader.receivedPieces.size()!=0)
-        {
-            //  std::cerr << "Recived pieces number " << reader.receivedPieces[reader.receivedPieces.size()-1].index << std::endl;
-
-        }
-
-
-
-        // Ha szeretnetek debug uzenetet kuldeni, akkor megtehetitek.
-        // Vigyazzatok, mert maximalisan csak 1024 * 1024 bajtot kaptok vissza
-        //   std::cerr << "Send " << command << std::endl;
-
-        // standard out-ra meg mehet ki a megoldas! Mas ne irodjon ide ki ;)
-
-
 
         std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
-        //   std::cerr << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
-        if(reader.receivedPieces.size()>100)
-        {
-            //  break;
-        }
     }
 
-    for(int i=0; i<azenyem.size(); i++)
-    {
-        //   std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
-    }
-///**************
     for(int i=0; i<azenyem.size(); i++)
     {
         std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
     }
 
+	//Sort
     for(long unsigned int i=0; i<azenyem.size()-1; i++)
     {
         for (long unsigned int j=0; j<azenyem.size()-i-1; j++)
