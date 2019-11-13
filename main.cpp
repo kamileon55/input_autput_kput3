@@ -254,7 +254,7 @@ void readData(Reader& to)
 
                 }
             }
-            if(vegem==true && belep2==true)
+            if(vegem && belep2 && finishMode)
             {
                 to.hasEnd=true;
             }
