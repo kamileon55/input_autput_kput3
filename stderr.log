@@ -1,2264 +1,2264 @@
 Kor szama: 0
 Bitek szama: 0
  a[1][12]=0
-97551 0 12 CREATE 1 0
+97622 0 12 CREATE 1 0
 Kor szama: 1
 Bitek szama: 1
  a[1][12]=0
-97551 1 12 CREATE 1 1
+97622 1 12 CREATE 1 1
 Kor szama: 2
 Bitek szama: 2
  a[1][12]=0
-97551 2 12 CREATE 1 2
+97622 2 12 CREATE 1 2
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-97551 3 12 CREATE 1 3
+97622 3 12 CREATE 1 3
 Kor szama: 4
 Bitek szama: 4
-97551 4 12 MOVE 10 ^
+97622 4 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 5 12 MOVE 10 ^
+97622 5 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 6 12 MOVE 10 ^
+97622 6 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 7 12 MOVE 10 ^
+97622 7 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 8 12 MOVE 9 ^
+97622 8 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 9 12 MOVE 9 ^
+97622 9 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 10 12 MOVE 6 ^
+97622 10 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 11 12 MOVE 5 ^
+97622 11 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 12 12 MOVE 5 ^
+97622 12 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 13 12 MOVE 8 ^
+97622 13 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 14 12 MOVE 9 ^
+97622 14 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 15 12 MOVE 10 ^
+97622 15 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 16 12 MOVE 10 ^
+97622 16 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 17 12 MOVE 10 ^
+97622 17 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 18 12 MOVE 11 ^
+97622 18 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-97551 19 12 CREATE 0 4
+97622 19 12 CREATE 0 4
 Kor szama: 4
 Bitek szama: 4
-97551 20 12 MOVE 1 ^
+97622 20 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97551 21 12 MOVE 1 ^
+97622 21 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97551 22 12 MOVE 1 ^
+97622 22 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97551 23 12 MOVE 1 ^
+97622 23 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97551 24 12 MOVE 1 ^
+97622 24 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97551 25 12 MOVE 1 ^
+97622 25 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97551 26 12 MOVE 1 ^
+97622 26 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97551 27 12 MOVE 2 ^
+97622 27 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97551 28 12 MOVE 2 ^
+97622 28 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97551 29 12 MOVE 3 ^
+97622 29 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97551 30 12 MOVE 3 ^
+97622 30 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97551 31 12 MOVE 4 ^
+97622 31 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 32 12 MOVE 4 ^
+97622 32 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 33 12 MOVE 4 ^
+97622 33 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 34 12 MOVE 4 ^
+97622 34 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 35 12 MOVE 4 ^
+97622 35 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 36 12 MOVE 5 ^
+97622 36 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 37 12 MOVE 4 ^
+97622 37 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 38 12 MOVE 0 ^
+97622 38 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97551 39 12 MOVE 13 ^
+97622 39 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97551 40 12 MOVE 13 ^
+97622 40 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97551 41 12 MOVE 13 ^
+97622 41 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97551 42 12 CREATE 2 5
+97622 42 12 CREATE 2 5
 Kor szama: 4
 Bitek szama: 4
-97551 43 12 MOVE 6 ^
+97622 43 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 44 12 MOVE 5 ^
+97622 44 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 45 12 MOVE 6 ^
+97622 45 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 46 12 MOVE 7 ^
+97622 46 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 47 12 MOVE 9 ^
+97622 47 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 48 12 MOVE 11 ^
+97622 48 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 49 12 MOVE 11 ^
+97622 49 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
 Utkozes a bitek kozott
  a[5][12]=0
-97551 50 12 CREATE 5 6
+97622 50 12 CREATE 5 6
 Kor szama: 4
 Bitek szama: 4
-97551 51 12 MOVE 0 ^
+97622 51 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97551 52 12 MOVE 13 ^
+97622 52 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97551 53 12 MOVE 13 ^
+97622 53 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=1
-97551 54 12 CREATE 0 7
+97622 54 12 CREATE 0 7
 Kor szama: 4
 Bitek szama: 4
-97551 55 12 MOVE 8 ^
+97622 55 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 56 12 MOVE 7 ^
+97622 56 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 57 12 MOVE 6 ^
+97622 57 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 58 12 MOVE 6 ^
+97622 58 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 59 12 MOVE 5 ^
+97622 59 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 60 12 MOVE 5 ^
+97622 60 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 61 12 MOVE 5 ^
+97622 61 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 62 12 MOVE 6 ^
+97622 62 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 63 12 MOVE 6 ^
+97622 63 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 64 12 MOVE 7 ^
+97622 64 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 65 12 MOVE 9 ^
+97622 65 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 66 12 MOVE 10 ^
+97622 66 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 67 12 MOVE 10 ^
+97622 67 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 68 12 MOVE 11 ^
+97622 68 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=0
-97551 69 12 CREATE 1 8
+97622 69 12 CREATE 1 8
 Kor szama: 4
 Bitek szama: 4
-97551 70 12 MOVE 2 ^
+97622 70 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97551 71 12 MOVE 2 ^
+97622 71 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97551 72 12 MOVE 3 ^
+97622 72 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97551 73 12 MOVE 4 ^
+97622 73 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 74 12 MOVE 5 ^
+97622 74 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 75 12 MOVE 5 ^
+97622 75 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 76 12 MOVE 0 ^
+97622 76 12 MOVE 0 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-97551 77 12 CREATE 1 9
+97622 77 12 CREATE 1 9
 Kor szama: 4
 Bitek szama: 4
-97551 78 12 MOVE 11 ^
+97622 78 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 79 12 MOVE 11 ^
+97622 79 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 80 12 MOVE 11 ^
+97622 80 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 81 12 MOVE 11 ^
+97622 81 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 82 12 MOVE 11 ^
+97622 82 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 83 12 MOVE 11 ^
+97622 83 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 84 12 MOVE 11 ^
+97622 84 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97551 85 12 CREATE 2 10
+97622 85 12 CREATE 2 10
 Kor szama: 4
 Bitek szama: 4
-97551 86 12 MOVE 11 ^
+97622 86 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 87 12 MOVE 10 ^
+97622 87 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 88 12 MOVE 8 ^
+97622 88 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 89 12 MOVE 8 ^
+97622 89 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 90 12 MOVE 8 ^
+97622 90 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 91 12 MOVE 7 ^
+97622 91 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 92 12 MOVE 7 ^
+97622 92 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 93 12 MOVE 5 ^
+97622 93 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 94 12 MOVE 6 ^
+97622 94 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 95 12 MOVE 7 ^
+97622 95 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 96 12 MOVE 7 ^
+97622 96 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 97 12 MOVE 7 ^
+97622 97 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 98 12 MOVE 7 ^
+97622 98 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 99 12 MOVE 7 ^
+97622 99 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 100 12 MOVE 8 ^
+97622 100 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 101 12 MOVE 10 ^
+97622 101 12 MOVE 10 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97551 102 12 CREATE 2 11
+97622 102 12 CREATE 2 11
 Kor szama: 4
 Bitek szama: 4
-97551 103 12 MOVE 11 ^
+97622 103 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 104 12 MOVE 11 ^
+97622 104 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[4][12]=1
-97551 105 12 CREATE 4 12
+97622 105 12 CREATE 4 12
 Kor szama: 4
 Bitek szama: 4
-97551 106 12 MOVE 4 ^
+97622 106 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 107 12 MOVE 4 ^
+97622 107 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 108 12 MOVE 4 ^
+97622 108 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 109 12 MOVE 4 ^
+97622 109 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 110 12 MOVE 2 ^
+97622 110 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97551 111 12 MOVE 0 ^
+97622 111 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97551 112 12 MOVE 13 ^
+97622 112 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97551 113 12 MOVE 13 ^
+97622 113 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=1
-97551 114 12 CREATE 0 13
+97622 114 12 CREATE 0 13
 Kor szama: 4
 Bitek szama: 4
-97551 115 12 MOVE 11 ^
+97622 115 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 116 12 MOVE 11 ^
+97622 116 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 117 12 MOVE 11 ^
+97622 117 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 118 12 MOVE 11 ^
+97622 118 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 119 12 MOVE 9 ^
+97622 119 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 120 12 MOVE 9 ^
+97622 120 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 121 12 MOVE 9 ^
+97622 121 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 122 12 MOVE 7 ^
+97622 122 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 123 12 MOVE 7 ^
+97622 123 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 124 12 MOVE 7 ^
+97622 124 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 125 12 MOVE 7 ^
+97622 125 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 126 12 MOVE 7 ^
+97622 126 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 127 12 MOVE 6 ^
+97622 127 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 128 12 MOVE 5 ^
+97622 128 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 129 12 MOVE 5 ^
+97622 129 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 130 12 MOVE 7 ^
+97622 130 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 131 12 MOVE 7 ^
+97622 131 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 132 12 MOVE 8 ^
+97622 132 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 133 12 MOVE 8 ^
+97622 133 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 134 12 MOVE 8 ^
+97622 134 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 135 12 MOVE 10 ^
+97622 135 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 136 12 MOVE 10 ^
+97622 136 12 MOVE 10 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=1
-97551 137 12 CREATE 2 14
+97622 137 12 CREATE 2 14
 Kor szama: 4
 Bitek szama: 4
-97551 138 12 MOVE 5 ^
+97622 138 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 139 12 MOVE 5 ^
+97622 139 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 140 12 MOVE 5 ^
+97622 140 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 141 12 MOVE 2 ^
+97622 141 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97551 142 12 MOVE 2 ^
+97622 142 12 MOVE 2 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97551 143 12 CREATE 2 15
+97622 143 12 CREATE 2 15
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97551 144 12 CREATE 2 16
+97622 144 12 CREATE 2 16
 Kor szama: 4
 Bitek szama: 4
-97551 145 12 MOVE 5 ^
+97622 145 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 146 12 MOVE 5 ^
+97622 146 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 147 12 MOVE 4 ^
+97622 147 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 148 12 MOVE 4 ^
+97622 148 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 149 12 MOVE 4 ^
+97622 149 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 150 12 MOVE 0 ^
+97622 150 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97551 151 12 MOVE 13 ^
+97622 151 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97551 152 12 MOVE 13 ^
+97622 152 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=0
-97551 153 12 CREATE 1 17
+97622 153 12 CREATE 1 17
 Kor szama: 4
 Bitek szama: 4
-97551 154 12 MOVE 9 ^
+97622 154 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 155 12 MOVE 9 ^
+97622 155 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 156 12 MOVE 7 ^
+97622 156 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 157 12 MOVE 7 ^
+97622 157 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 158 12 MOVE 6 ^
+97622 158 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 159 12 MOVE 5 ^
+97622 159 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 160 12 MOVE 5 ^
+97622 160 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 161 12 MOVE 6 ^
+97622 161 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 162 12 MOVE 7 ^
+97622 162 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 163 12 MOVE 9 ^
+97622 163 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 164 12 MOVE 9 ^
+97622 164 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 165 12 MOVE 9 ^
+97622 165 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 166 12 MOVE 9 ^
+97622 166 12 MOVE 9 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-97551 167 12 CREATE 1 18
+97622 167 12 CREATE 1 18
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-97551 168 12 CREATE 0 19
+97622 168 12 CREATE 0 19
 Kor szama: 4
 Bitek szama: 4
-97551 169 12 MOVE 5 ^
+97622 169 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 170 12 MOVE 5 ^
+97622 170 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 171 12 MOVE 2 ^
+97622 171 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97551 172 12 MOVE 0 ^
+97622 172 12 MOVE 0 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=0
-97551 173 12 CREATE 1 20
+97622 173 12 CREATE 1 20
 Kor szama: 4
 Bitek szama: 4
-97551 174 12 MOVE 0 ^
+97622 174 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97551 175 12 MOVE 13 ^
+97622 175 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97551 176 12 CREATE 2 21
+97622 176 12 CREATE 2 21
 Kor szama: 4
 Bitek szama: 4
-97551 177 12 MOVE 6 ^
+97622 177 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 178 12 MOVE 8 ^
+97622 178 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 179 12 MOVE 8 ^
+97622 179 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 180 12 MOVE 8 ^
+97622 180 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 181 12 MOVE 9 ^
+97622 181 12 MOVE 9 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97551 182 12 CREATE 2 22
+97622 182 12 CREATE 2 22
 Kor szama: 4
 Bitek szama: 4
-97551 183 12 MOVE 3 ^
+97622 183 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97551 184 12 MOVE 3 ^
+97622 184 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97551 185 12 MOVE 4 ^
+97622 185 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 186 12 MOVE 4 ^
+97622 186 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 187 12 MOVE 4 ^
+97622 187 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 188 12 MOVE 4 ^
+97622 188 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 189 12 MOVE 5 ^
+97622 189 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 190 12 MOVE 4 ^
+97622 190 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 191 12 MOVE 3 ^
+97622 191 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97551 192 12 MOVE 1 ^
+97622 192 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97551 193 12 MOVE 0 ^
+97622 193 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97551 194 12 MOVE 0 ^
+97622 194 12 MOVE 0 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97551 195 12 CREATE 2 23
+97622 195 12 CREATE 2 23
 Kor szama: 4
 Bitek szama: 4
-97551 196 12 MOVE 6 ^
+97622 196 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 197 12 MOVE 6 ^
+97622 197 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 198 12 MOVE 5 ^
+97622 198 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 199 12 MOVE 5 ^
+97622 199 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 200 12 MOVE 5 ^
+97622 200 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 201 12 MOVE 6 ^
+97622 201 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 202 12 MOVE 6 ^
+97622 202 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 203 12 MOVE 6 ^
+97622 203 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 204 12 MOVE 6 ^
+97622 204 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 205 12 MOVE 6 ^
+97622 205 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 206 12 MOVE 6 ^
+97622 206 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 207 12 MOVE 6 ^
+97622 207 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 208 12 MOVE 8 ^
+97622 208 12 MOVE 8 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-97551 209 12 CREATE 0 24
+97622 209 12 CREATE 0 24
 Kor szama: 4
 Bitek szama: 4
-97551 210 12 MOVE 10 ^
+97622 210 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 211 12 MOVE 10 ^
+97622 211 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 212 12 MOVE 10 ^
+97622 212 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 213 12 MOVE 10 ^
+97622 213 12 MOVE 10 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[1][12]=0
-97551 214 12 CREATE 1 25
+97622 214 12 CREATE 1 25
 Kor szama: 4
 Bitek szama: 4
-97551 215 12 MOVE 3 ^
+97622 215 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97551 216 12 MOVE 3 ^
+97622 216 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97551 217 12 MOVE 3 ^
+97622 217 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97551 218 12 MOVE 3 ^
+97622 218 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97551 219 12 MOVE 2 ^
+97622 219 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97551 220 12 MOVE 2 ^
+97622 220 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97551 221 12 MOVE 2 ^
+97622 221 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97551 222 12 MOVE 2 ^
+97622 222 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97551 223 12 MOVE 0 ^
+97622 223 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97551 224 12 MOVE 13 ^
+97622 224 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=1
-97551 225 12 CREATE 0 26
+97622 225 12 CREATE 0 26
 Kor szama: 4
 Bitek szama: 4
-97551 226 12 MOVE 3 ^
+97622 226 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97551 227 12 MOVE 3 ^
+97622 227 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97551 228 12 MOVE 3 ^
+97622 228 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97551 229 12 MOVE 3 ^
+97622 229 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97551 230 12 MOVE 5 ^
+97622 230 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 231 12 MOVE 5 ^
+97622 231 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 232 12 MOVE 5 ^
+97622 232 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 233 12 MOVE 2 ^
+97622 233 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97551 234 12 MOVE 0 ^
+97622 234 12 MOVE 0 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97551 235 12 CREATE 2 27
+97622 235 12 CREATE 2 27
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97551 236 12 CREATE 2 28
+97622 236 12 CREATE 2 28
 Kor szama: 4
 Bitek szama: 4
-97551 237 12 MOVE 10 ^
+97622 237 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 238 12 MOVE 10 ^
+97622 238 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 239 12 MOVE 10 ^
+97622 239 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 240 12 MOVE 10 ^
+97622 240 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 241 12 MOVE 10 ^
+97622 241 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 242 12 MOVE 8 ^
+97622 242 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 243 12 MOVE 7 ^
+97622 243 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 244 12 MOVE 7 ^
+97622 244 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 245 12 MOVE 7 ^
+97622 245 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 246 12 MOVE 6 ^
+97622 246 12 MOVE 6 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=1
-97551 247 12 CREATE 2 29
+97622 247 12 CREATE 2 29
 Kor szama: 4
 Bitek szama: 4
-97551 248 12 MOVE 7 ^
+97622 248 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 249 12 MOVE 8 ^
+97622 249 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 250 12 MOVE 8 ^
+97622 250 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 251 12 MOVE 8 ^
+97622 251 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 252 12 MOVE 8 ^
+97622 252 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 253 12 MOVE 10 ^
+97622 253 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 254 12 MOVE 10 ^
+97622 254 12 MOVE 10 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-97551 255 12 CREATE 1 30
+97622 255 12 CREATE 1 30
 Kor szama: 4
 Bitek szama: 4
-97551 256 12 MOVE 11 ^
+97622 256 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 257 12 MOVE 11 ^
+97622 257 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 258 12 MOVE 11 ^
+97622 258 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[3][12]=0
-97551 259 12 CREATE 3 31
+97622 259 12 CREATE 3 31
 Kor szama: 4
 Bitek szama: 4
-97551 260 12 MOVE 9 ^
+97622 260 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 261 12 MOVE 7 ^
+97622 261 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 262 12 MOVE 6 ^
+97622 262 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 263 12 MOVE 6 ^
+97622 263 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 264 12 MOVE 5 ^
+97622 264 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 265 12 MOVE 5 ^
+97622 265 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 266 12 MOVE 7 ^
+97622 266 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 267 12 MOVE 10 ^
+97622 267 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 268 12 MOVE 10 ^
+97622 268 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 269 12 MOVE 10 ^
+97622 269 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 270 12 MOVE 10 ^
+97622 270 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 271 12 MOVE 11 ^
+97622 271 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 272 12 MOVE 11 ^
+97622 272 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=0
-97551 273 12 CREATE 1 32
+97622 273 12 CREATE 1 32
 Kor szama: 4
 Bitek szama: 4
-97551 274 12 MOVE 3 ^
+97622 274 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97551 275 12 MOVE 2 ^
+97622 275 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97551 276 12 MOVE 2 ^
+97622 276 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97551 277 12 MOVE 0 ^
+97622 277 12 MOVE 0 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-97551 278 12 CREATE 1 33
+97622 278 12 CREATE 1 33
 Kor szama: 4
 Bitek szama: 4
-97551 279 12 MOVE 10 ^
+97622 279 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 280 12 MOVE 10 ^
+97622 280 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 281 12 MOVE 10 ^
+97622 281 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 282 12 MOVE 9 ^
+97622 282 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 283 12 MOVE 5 ^
+97622 283 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 284 12 MOVE 5 ^
+97622 284 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 285 12 MOVE 5 ^
+97622 285 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 286 12 MOVE 5 ^
+97622 286 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 287 12 MOVE 6 ^
+97622 287 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 288 12 MOVE 8 ^
+97622 288 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 289 12 MOVE 8 ^
+97622 289 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 290 12 MOVE 8 ^
+97622 290 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 291 12 MOVE 8 ^
+97622 291 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 292 12 MOVE 8 ^
+97622 292 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 293 12 MOVE 8 ^
+97622 293 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 294 12 MOVE 10 ^
+97622 294 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 295 12 MOVE 11 ^
+97622 295 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-97551 296 12 CREATE 0 34
+97622 296 12 CREATE 0 34
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=1
-97551 297 12 CREATE 2 35
+97622 297 12 CREATE 2 35
 Kor szama: 4
 Bitek szama: 4
-97551 298 12 MOVE 10 ^
+97622 298 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 299 12 MOVE 10 ^
+97622 299 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 300 12 MOVE 10 ^
+97622 300 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 301 12 MOVE 10 ^
+97622 301 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 302 12 MOVE 9 ^
+97622 302 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 303 12 MOVE 9 ^
+97622 303 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 304 12 MOVE 9 ^
+97622 304 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 305 12 MOVE 9 ^
+97622 305 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 306 12 MOVE 9 ^
+97622 306 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 307 12 MOVE 9 ^
+97622 307 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 308 12 MOVE 9 ^
+97622 308 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 309 12 MOVE 9 ^
+97622 309 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 310 12 MOVE 9 ^
+97622 310 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 311 12 MOVE 7 ^
+97622 311 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 312 12 MOVE 7 ^
+97622 312 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 313 12 MOVE 6 ^
+97622 313 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 314 12 MOVE 5 ^
+97622 314 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 315 12 MOVE 5 ^
+97622 315 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 316 12 MOVE 6 ^
+97622 316 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 317 12 MOVE 7 ^
+97622 317 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 318 12 MOVE 8 ^
+97622 318 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 319 12 MOVE 9 ^
+97622 319 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 320 12 MOVE 9 ^
+97622 320 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 321 12 MOVE 9 ^
+97622 321 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 322 12 MOVE 9 ^
+97622 322 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 323 12 MOVE 9 ^
+97622 323 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 324 12 MOVE 9 ^
+97622 324 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 325 12 MOVE 9 ^
+97622 325 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 326 12 MOVE 9 ^
+97622 326 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 327 12 MOVE 9 ^
+97622 327 12 MOVE 9 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-97551 328 12 CREATE 0 36
+97622 328 12 CREATE 0 36
 Kor szama: 4
 Bitek szama: 4
-97551 329 12 MOVE 10 ^
+97622 329 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 330 12 MOVE 10 ^
+97622 330 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 331 12 MOVE 11 ^
+97622 331 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-97551 332 12 CREATE 0 37
+97622 332 12 CREATE 0 37
 Kor szama: 4
 Bitek szama: 4
-97551 333 12 MOVE 1 ^
+97622 333 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97551 334 12 MOVE 1 ^
+97622 334 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97551 335 12 MOVE 1 ^
+97622 335 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97551 336 12 MOVE 1 ^
+97622 336 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97551 337 12 MOVE 1 ^
+97622 337 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97551 338 12 MOVE 0 ^
+97622 338 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97551 339 12 MOVE 0 ^
+97622 339 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97551 340 12 MOVE 13 ^
+97622 340 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=1
-97551 341 12 CREATE 2 38
+97622 341 12 CREATE 2 38
 Kor szama: 4
 Bitek szama: 4
-97551 342 12 MOVE 3 ^
+97622 342 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97551 343 12 MOVE 4 ^
+97622 343 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 344 12 MOVE 4 ^
+97622 344 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 345 12 MOVE 5 ^
+97622 345 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 346 12 MOVE 5 ^
+97622 346 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 347 12 MOVE 4 ^
+97622 347 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 348 12 MOVE 4 ^
+97622 348 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 349 12 MOVE 3 ^
+97622 349 12 MOVE 3 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-97551 350 12 CREATE 1 39
+97622 350 12 CREATE 1 39
 Kor szama: 4
 Bitek szama: 4
-97551 351 12 MOVE 7 ^
+97622 351 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 352 12 MOVE 7 ^
+97622 352 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 353 12 MOVE 7 ^
+97622 353 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 354 12 MOVE 7 ^
+97622 354 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 355 12 MOVE 8 ^
+97622 355 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 356 12 MOVE 8 ^
+97622 356 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 357 12 MOVE 8 ^
+97622 357 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 358 12 MOVE 8 ^
+97622 358 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 359 12 MOVE 8 ^
+97622 359 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 360 12 MOVE 9 ^
+97622 360 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 361 12 MOVE 9 ^
+97622 361 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 362 12 MOVE 9 ^
+97622 362 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 363 12 MOVE 11 ^
+97622 363 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 364 12 MOVE 11 ^
+97622 364 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 365 12 MOVE 11 ^
+97622 365 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 366 12 MOVE 11 ^
+97622 366 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
 Utkozes a bitek kozott
  a[4][12]=0
-97551 367 12 CREATE 4 40
+97622 367 12 CREATE 4 40
 Kor szama: 4
 Bitek szama: 4
-97551 368 12 MOVE 1 ^
+97622 368 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97551 369 12 MOVE 0 ^
+97622 369 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97551 370 12 MOVE 0 ^
+97622 370 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97551 371 12 MOVE 0 ^
+97622 371 12 MOVE 0 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[3][12]=0
-97551 372 12 CREATE 3 41
+97622 372 12 CREATE 3 41
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
 Utkozes a bitek kozott
  a[4][12]=1
-97551 373 12 CREATE 4 42
+97622 373 12 CREATE 4 42
 Kor szama: 4
 Bitek szama: 4
-97551 374 12 MOVE 13 ^
+97622 374 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97551 375 12 MOVE 0 ^
+97622 375 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97551 376 12 MOVE 0 ^
+97622 376 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97551 377 12 MOVE 0 ^
+97622 377 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97551 378 12 MOVE 0 ^
+97622 378 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97551 379 12 MOVE 2 ^
+97622 379 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97551 380 12 MOVE 2 ^
+97622 380 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97551 381 12 MOVE 4 ^
+97622 381 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 382 12 MOVE 5 ^
+97622 382 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 383 12 MOVE 5 ^
+97622 383 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 384 12 MOVE 5 ^
+97622 384 12 MOVE 5 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=1
-97551 385 12 CREATE 0 43
+97622 385 12 CREATE 0 43
 Kor szama: 4
 Bitek szama: 4
-97551 386 12 MOVE 5 ^
+97622 386 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 387 12 MOVE 5 ^
+97622 387 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 388 12 MOVE 4 ^
+97622 388 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 389 12 MOVE 4 ^
+97622 389 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 390 12 MOVE 2 ^
+97622 390 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97551 391 12 MOVE 2 ^
+97622 391 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97551 392 12 MOVE 1 ^
+97622 392 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97551 393 12 MOVE 1 ^
+97622 393 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97551 394 12 MOVE 0 ^
+97622 394 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97551 395 12 MOVE 13 ^
+97622 395 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[3][12]=0
-97551 396 12 CREATE 3 44
+97622 396 12 CREATE 3 44
 Kor szama: 4
 Bitek szama: 4
-97551 397 12 MOVE 11 ^
+97622 397 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 398 12 MOVE 10 ^
+97622 398 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 399 12 MOVE 8 ^
+97622 399 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 400 12 MOVE 8 ^
+97622 400 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 401 12 MOVE 5 ^
+97622 401 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 402 12 MOVE 5 ^
+97622 402 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 403 12 MOVE 7 ^
+97622 403 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 404 12 MOVE 7 ^
+97622 404 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 405 12 MOVE 11 ^
+97622 405 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 406 12 MOVE 11 ^
+97622 406 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 407 12 MOVE 11 ^
+97622 407 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97551 408 12 CREATE 2 45
+97622 408 12 CREATE 2 45
 Kor szama: 4
 Bitek szama: 4
-97551 409 12 MOVE 12 ^
+97622 409 12 MOVE 12 ^
 Kor szama: 4
 Bitek szama: 4
-97551 410 12 MOVE 12 ^
+97622 410 12 MOVE 12 ^
 Kor szama: 4
 Bitek szama: 4
-97551 411 12 MOVE 7 ^
+97622 411 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 412 12 MOVE 6 ^
+97622 412 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 413 12 MOVE 5 ^
+97622 413 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 414 12 MOVE 6 ^
+97622 414 12 MOVE 6 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-97551 415 12 CREATE 1 46
+97622 415 12 CREATE 1 46
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-97551 416 12 CREATE 1 47
+97622 416 12 CREATE 1 47
 Kor szama: 4
 Bitek szama: 4
-97551 417 12 MOVE 9 ^
+97622 417 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 418 12 MOVE 9 ^
+97622 418 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 419 12 MOVE 9 ^
+97622 419 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 420 12 MOVE 9 ^
+97622 420 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 421 12 MOVE 9 ^
+97622 421 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 422 12 MOVE 9 ^
+97622 422 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 423 12 MOVE 5 ^
+97622 423 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 424 12 MOVE 5 ^
+97622 424 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 425 12 MOVE 5 ^
+97622 425 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 426 12 MOVE 5 ^
+97622 426 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 427 12 MOVE 6 ^
+97622 427 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 428 12 MOVE 8 ^
+97622 428 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 429 12 MOVE 9 ^
+97622 429 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 430 12 MOVE 9 ^
+97622 430 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 431 12 MOVE 10 ^
+97622 431 12 MOVE 10 ^
 MESSAGE
 MESSAGE
 Kor szama: 2
 Bitek szama: 2
  a[0][12]=1
-97551 432 12 CREATE 0 48
+97622 432 12 CREATE 0 48
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
 Utkozes a bitek kozott
  a[3][12]=1
-97551 433 12 CREATE 3 49
+97622 433 12 CREATE 3 49
 Kor szama: 4
 Bitek szama: 4
-97551 434 12 MOVE 1 ^
+97622 434 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97551 435 12 MOVE 13 ^
+97622 435 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97551 436 12 MOVE 13 ^
+97622 436 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97551 437 12 MOVE 13 ^
+97622 437 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97551 438 12 MOVE 13 ^
+97622 438 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97551 439 12 MOVE 13 ^
+97622 439 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=1
-97551 440 12 CREATE 0 50
+97622 440 12 CREATE 0 50
 Kor szama: 4
 Bitek szama: 4
-97551 441 12 MOVE 10 ^
+97622 441 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 442 12 MOVE 10 ^
+97622 442 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 443 12 MOVE 11 ^
+97622 443 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 444 12 MOVE 11 ^
+97622 444 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[2][12]=1
-97551 445 12 CREATE 2 51
+97622 445 12 CREATE 2 51
 Kor szama: 4
 Bitek szama: 4
-97551 446 12 MOVE 10 ^
+97622 446 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 447 12 MOVE 10 ^
+97622 447 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 448 12 MOVE 10 ^
+97622 448 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 449 12 MOVE 10 ^
+97622 449 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 450 12 MOVE 10 ^
+97622 450 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 451 12 MOVE 10 ^
+97622 451 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 452 12 MOVE 10 ^
+97622 452 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 453 12 MOVE 10 ^
+97622 453 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 454 12 MOVE 10 ^
+97622 454 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 455 12 MOVE 8 ^
+97622 455 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 456 12 MOVE 5 ^
+97622 456 12 MOVE 5 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[2][12]=0
-97551 457 12 CREATE 2 52
+97622 457 12 CREATE 2 52
 Kor szama: 4
 Bitek szama: 4
-97551 458 12 MOVE 5 ^
+97622 458 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 459 12 MOVE 6 ^
+97622 459 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 460 12 MOVE 6 ^
+97622 460 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 461 12 MOVE 8 ^
+97622 461 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 462 12 MOVE 8 ^
+97622 462 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 463 12 MOVE 11 ^
+97622 463 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[1][12]=1
-97551 464 12 CREATE 1 53
+97622 464 12 CREATE 1 53
 Kor szama: 4
 Bitek szama: 4
-97551 465 12 MOVE 12 ^
+97622 465 12 MOVE 12 ^
 Kor szama: 4
 Bitek szama: 4
-97551 466 12 MOVE 11 ^
+97622 466 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 467 12 MOVE 9 ^
+97622 467 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 468 12 MOVE 9 ^
+97622 468 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 469 12 MOVE 9 ^
+97622 469 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 470 12 MOVE 8 ^
+97622 470 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 471 12 MOVE 8 ^
+97622 471 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 472 12 MOVE 8 ^
+97622 472 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 473 12 MOVE 8 ^
+97622 473 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 474 12 MOVE 8 ^
+97622 474 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 475 12 MOVE 8 ^
+97622 475 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 476 12 MOVE 8 ^
+97622 476 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 477 12 MOVE 5 ^
+97622 477 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 478 12 MOVE 5 ^
+97622 478 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 479 12 MOVE 5 ^
+97622 479 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 480 12 MOVE 8 ^
+97622 480 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 481 12 MOVE 8 ^
+97622 481 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 482 12 MOVE 8 ^
+97622 482 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 483 12 MOVE 10 ^
+97622 483 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 484 12 MOVE 11 ^
+97622 484 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-97551 485 12 CREATE 0 54
+97622 485 12 CREATE 0 54
 Kor szama: 4
 Bitek szama: 4
-97551 486 12 MOVE 13 ^
+97622 486 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97551 487 12 MOVE 13 ^
+97622 487 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97551 488 12 MOVE 13 ^
+97622 488 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97551 489 12 MOVE 13 ^
+97622 489 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97551 490 12 CREATE 2 55
+97622 490 12 CREATE 2 55
 Kor szama: 4
 Bitek szama: 4
-97551 491 12 MOVE 11 ^
+97622 491 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 492 12 MOVE 11 ^
+97622 492 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 493 12 MOVE 9 ^
+97622 493 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 494 12 MOVE 9 ^
+97622 494 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 495 12 MOVE 9 ^
+97622 495 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 496 12 MOVE 9 ^
+97622 496 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 497 12 MOVE 9 ^
+97622 497 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 498 12 MOVE 9 ^
+97622 498 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 499 12 MOVE 8 ^
+97622 499 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 500 12 MOVE 8 ^
+97622 500 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 501 12 MOVE 7 ^
+97622 501 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 502 12 MOVE 7 ^
+97622 502 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 503 12 MOVE 7 ^
+97622 503 12 MOVE 7 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[3][12]=1
-97551 504 12 CREATE 3 56
+97622 504 12 CREATE 3 56
 Kor szama: 4
 Bitek szama: 4
-97551 505 12 MOVE 6 ^
+97622 505 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 506 12 MOVE 6 ^
+97622 506 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 507 12 MOVE 6 ^
+97622 507 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 508 12 MOVE 6 ^
+97622 508 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 509 12 MOVE 6 ^
+97622 509 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 510 12 MOVE 5 ^
+97622 510 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 511 12 MOVE 5 ^
+97622 511 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 512 12 MOVE 5 ^
+97622 512 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 513 12 MOVE 8 ^
+97622 513 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 514 12 MOVE 8 ^
+97622 514 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 515 12 MOVE 9 ^
+97622 515 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 516 12 MOVE 9 ^
+97622 516 12 MOVE 9 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[2][12]=0
-97551 517 12 CREATE 2 57
+97622 517 12 CREATE 2 57
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[2][12]=1
-97551 518 12 CREATE 2 58
+97622 518 12 CREATE 2 58
 Kor szama: 4
 Bitek szama: 4
-97551 519 12 MOVE 1 ^
+97622 519 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97551 520 12 MOVE 0 ^
+97622 520 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97551 521 12 MOVE 13 ^
+97622 521 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[1][12]=1
-97551 522 12 CREATE 1 59
+97622 522 12 CREATE 1 59
 Kor szama: 4
 Bitek szama: 4
-97551 523 12 MOVE 8 ^
+97622 523 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 524 12 MOVE 8 ^
+97622 524 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 525 12 MOVE 8 ^
+97622 525 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 526 12 MOVE 8 ^
+97622 526 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 527 12 MOVE 7 ^
+97622 527 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 528 12 MOVE 6 ^
+97622 528 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 529 12 MOVE 6 ^
+97622 529 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 530 12 MOVE 6 ^
+97622 530 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 531 12 MOVE 6 ^
+97622 531 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 532 12 MOVE 6 ^
+97622 532 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 533 12 MOVE 5 ^
+97622 533 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 534 12 MOVE 5 ^
+97622 534 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 535 12 MOVE 9 ^
+97622 535 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 536 12 MOVE 9 ^
+97622 536 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 537 12 MOVE 9 ^
+97622 537 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 538 12 MOVE 9 ^
+97622 538 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 539 12 MOVE 9 ^
+97622 539 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 540 12 MOVE 10 ^
+97622 540 12 MOVE 10 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-97551 541 12 CREATE 0 60
+97622 541 12 CREATE 0 60
 Kor szama: 4
 Bitek szama: 4
-97551 542 12 MOVE 2 ^
+97622 542 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97551 543 12 MOVE 2 ^
+97622 543 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97551 544 12 MOVE 2 ^
+97622 544 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97551 545 12 MOVE 2 ^
+97622 545 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97551 546 12 MOVE 3 ^
+97622 546 12 MOVE 3 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=1
-97551 547 12 CREATE 0 61
+97622 547 12 CREATE 0 61
 Kor szama: 4
 Bitek szama: 4
-97551 548 12 MOVE 4 ^
+97622 548 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 549 12 MOVE 5 ^
+97622 549 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 550 12 MOVE 0 ^
+97622 550 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97551 551 12 MOVE 0 ^
+97622 551 12 MOVE 0 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[3][12]=0
-97551 552 12 CREATE 3 62
+97622 552 12 CREATE 3 62
 Kor szama: 4
 Bitek szama: 4
-97551 553 12 MOVE 10 ^
+97622 553 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 554 12 MOVE 10 ^
+97622 554 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 555 12 MOVE 10 ^
+97622 555 12 MOVE 10 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[3][12]=1
-97551 556 12 CREATE 3 63
+97622 556 12 CREATE 3 63
 Kor szama: 4
 Bitek szama: 4
-97551 557 12 MOVE 8 ^
+97622 557 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 558 12 MOVE 8 ^
+97622 558 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 559 12 MOVE 8 ^
+97622 559 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 560 12 MOVE 6 ^
+97622 560 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 561 12 MOVE 6 ^
+97622 561 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 562 12 MOVE 6 ^
+97622 562 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 563 12 MOVE 6 ^
+97622 563 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 564 12 MOVE 5 ^
+97622 564 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 565 12 MOVE 5 ^
+97622 565 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 566 12 MOVE 5 ^
+97622 566 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 567 12 MOVE 7 ^
+97622 567 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 568 12 MOVE 7 ^
+97622 568 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 569 12 MOVE 7 ^
+97622 569 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 570 12 MOVE 7 ^
+97622 570 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 571 12 MOVE 7 ^
+97622 571 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 572 12 MOVE 7 ^
+97622 572 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 573 12 MOVE 7 ^
+97622 573 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 574 12 MOVE 10 ^
+97622 574 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 575 12 MOVE 10 ^
+97622 575 12 MOVE 10 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[3][12]=1
-97551 576 12 CREATE 3 64
+97622 576 12 CREATE 3 64
 Kor szama: 4
 Bitek szama: 4
-97551 577 12 MOVE 12 ^
+97622 577 12 MOVE 12 ^
 Kor szama: 4
 Bitek szama: 4
-97551 578 12 MOVE 0 ^
+97622 578 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97551 579 12 MOVE 0 ^
+97622 579 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97551 580 12 MOVE 4 ^
+97622 580 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 581 12 MOVE 4 ^
+97622 581 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 582 12 MOVE 4 ^
+97622 582 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 583 12 MOVE 5 ^
+97622 583 12 MOVE 5 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97551 584 12 CREATE 2 65
+97622 584 12 CREATE 2 65
 Kor szama: 4
 Bitek szama: 4
-97551 585 12 MOVE 3 ^
+97622 585 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97551 586 12 MOVE 3 ^
+97622 586 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97551 587 12 MOVE 3 ^
+97622 587 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97551 588 12 MOVE 2 ^
+97622 588 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97551 589 12 MOVE 1 ^
+97622 589 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97551 590 12 MOVE 1 ^
+97622 590 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97551 591 12 MOVE 1 ^
+97622 591 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97551 592 12 MOVE 13 ^
+97622 592 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-97551 593 12 CREATE 0 66
+97622 593 12 CREATE 0 66
 Kor szama: 4
 Bitek szama: 4
-97551 594 12 MOVE 9 ^
+97622 594 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 595 12 MOVE 9 ^
+97622 595 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 596 12 MOVE 10 ^
+97622 596 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 597 12 MOVE 11 ^
+97622 597 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[1][12]=0
-97551 598 12 CREATE 1 67
+97622 598 12 CREATE 1 67
 Kor szama: 4
 Bitek szama: 4
-97551 599 12 MOVE 6 ^
+97622 599 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 600 12 MOVE 6 ^
+97622 600 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 601 12 MOVE 6 ^
+97622 601 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 602 12 MOVE 6 ^
+97622 602 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 603 12 MOVE 8 ^
+97622 603 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 604 12 MOVE 8 ^
+97622 604 12 MOVE 8 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97551 605 12 CREATE 2 68
+97622 605 12 CREATE 2 68
 Kor szama: 4
 Bitek szama: 4
-97551 606 12 MOVE 11 ^
+97622 606 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 607 12 MOVE 11 ^
+97622 607 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 608 12 MOVE 11 ^
+97622 608 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 609 12 MOVE 11 ^
+97622 609 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[4][12]=1
-97551 610 12 CREATE 4 69
+97622 610 12 CREATE 4 69
 Kor szama: 4
 Bitek szama: 4
-97551 611 12 MOVE 7 ^
+97622 611 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 612 12 MOVE 7 ^
+97622 612 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 613 12 MOVE 11 ^
+97622 613 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 614 12 MOVE 11 ^
+97622 614 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 615 12 MOVE 11 ^
+97622 615 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-97551 616 12 CREATE 0 70
+97622 616 12 CREATE 0 70
 Kor szama: 4
 Bitek szama: 4
-97551 617 12 MOVE 3 ^
+97622 617 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97551 618 12 MOVE 5 ^
+97622 618 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 619 12 MOVE 4 ^
+97622 619 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 620 12 MOVE 4 ^
+97622 620 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 621 12 MOVE 4 ^
+97622 621 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97551 622 12 MOVE 0 ^
+97622 622 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97551 623 12 MOVE 13 ^
+97622 623 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97551 624 12 CREATE 2 71
+97622 624 12 CREATE 2 71
 Kor szama: 4
 Bitek szama: 4
-97551 625 12 MOVE 13 ^
+97622 625 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97551 626 12 MOVE 13 ^
+97622 626 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97551 627 12 CREATE 2 72
+97622 627 12 CREATE 2 72
 Kor szama: 4
 Bitek szama: 4
-97551 628 12 MOVE 11 ^
+97622 628 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 629 12 MOVE 11 ^
+97622 629 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97551 630 12 MOVE 9 ^
+97622 630 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 631 12 MOVE 7 ^
+97622 631 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 632 12 MOVE 7 ^
+97622 632 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 633 12 MOVE 7 ^
+97622 633 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 634 12 MOVE 6 ^
+97622 634 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 635 12 MOVE 6 ^
+97622 635 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 636 12 MOVE 6 ^
+97622 636 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 637 12 MOVE 5 ^
+97622 637 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 638 12 MOVE 5 ^
+97622 638 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 639 12 MOVE 6 ^
+97622 639 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 640 12 MOVE 6 ^
+97622 640 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 641 12 MOVE 8 ^
+97622 641 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 642 12 MOVE 9 ^
+97622 642 12 MOVE 9 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97551 643 12 CREATE 2 73
+97622 643 12 CREATE 2 73
 Kor szama: 4
 Bitek szama: 4
-97551 644 12 MOVE 7 ^
+97622 644 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 645 12 MOVE 7 ^
+97622 645 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 646 12 MOVE 7 ^
+97622 646 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 647 12 MOVE 7 ^
+97622 647 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 648 12 MOVE 7 ^
+97622 648 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 649 12 MOVE 9 ^
+97622 649 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 650 12 MOVE 9 ^
+97622 650 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 651 12 MOVE 9 ^
+97622 651 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 652 12 MOVE 10 ^
+97622 652 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 653 12 MOVE 10 ^
+97622 653 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 654 12 MOVE 10 ^
+97622 654 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 655 12 MOVE 11 ^
+97622 655 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=0
-97551 656 12 CREATE 1 74
+97622 656 12 CREATE 1 74
 Kor szama: 4
 Bitek szama: 4
-97551 657 12 MOVE 13 ^
+97622 657 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97551 658 12 MOVE 13 ^
+97622 658 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97551 659 12 MOVE 1 ^
+97622 659 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97551 660 12 MOVE 5 ^
+97622 660 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 661 12 MOVE 5 ^
+97622 661 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 662 12 MOVE 3 ^
+97622 662 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97551 663 12 MOVE 3 ^
+97622 663 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97551 664 12 MOVE 2 ^
+97622 664 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97551 665 12 MOVE 2 ^
+97622 665 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97551 666 12 MOVE 2 ^
+97622 666 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97551 667 12 MOVE 2 ^
+97622 667 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97551 668 12 MOVE 0 ^
+97622 668 12 MOVE 0 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97551 669 12 CREATE 2 75
+97622 669 12 CREATE 2 75
 Kor szama: 4
 Bitek szama: 4
-97551 670 12 MOVE 10 ^
+97622 670 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 671 12 MOVE 10 ^
+97622 671 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 672 12 MOVE 10 ^
+97622 672 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 673 12 MOVE 10 ^
+97622 673 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 674 12 MOVE 10 ^
+97622 674 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 675 12 MOVE 10 ^
+97622 675 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 676 12 MOVE 10 ^
+97622 676 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 677 12 MOVE 11 ^
+97622 677 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-97551 678 12 CREATE 0 76
+97622 678 12 CREATE 0 76
 Kor szama: 4
 Bitek szama: 4
-97551 679 12 MOVE 1 ^
+97622 679 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97551 680 12 MOVE 1 ^
+97622 680 12 MOVE 1 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
 Utkozes a bitek kozott
  a[4][12]=0
-97551 681 12 CREATE 4 77
+97622 681 12 CREATE 4 77
 Kor szama: 4
 Bitek szama: 4
-97551 682 12 MOVE 10 ^
+97622 682 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97551 683 12 MOVE 9 ^
+97622 683 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 684 12 MOVE 7 ^
+97622 684 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 685 12 MOVE 6 ^
+97622 685 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 686 12 MOVE 6 ^
+97622 686 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 687 12 MOVE 6 ^
+97622 687 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97551 688 12 MOVE 5 ^
+97622 688 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 689 12 MOVE 5 ^
+97622 689 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97551 690 12 MOVE 7 ^
+97622 690 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97551 691 12 MOVE 8 ^
+97622 691 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97551 692 12 MOVE 9 ^
+97622 692 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97551 693 12 MOVE 9 ^
+97622 693 12 MOVE 9 ^
 MESSAGE
 1QTX6BpXCH 0
 E3CjFoQyIz 1
@@ -2337,80 +2337,80 @@ vYGo0SoH7Z 72
  74
 A bizonyos meret: 75
 Betaprotokol 
-1QTX6BpXCH 0
-E3CjFoQyIz 1
-Q4eDLArtcP 2
-m8v3HvIOnf 3
-oBZauWl56w 4
-6fK9JNX4qt 5
-7nVE9iu2y0 7
-03etteZHRk 6
-ZWqXwqis3n 8
-g7IYPJ1XnF 9
-MUSDjHKDr9 10
-UWo2Fo3kcU 11
-8xRWv4wmg1 12
-JbZkD9CWPq 13
-H069X59mFU 16
-GGfhR2X4ms 14
-VXOJP0QBBm 17
-E1d96s6WUP 15
-DDrQZspCtk 18
-MYhtPzlajL 19
-CE9aWRpxPm 22
-dj7X4o4Egu 20
-ycRlE67YsW 21
-PVsrDzxpqt 25
-NUYzXB54mP 23
-7uj6OJAqhE 27
-kprrZovWMa 28
-rSPSmq6iuq 24
-mN0QxZoaIh 26
-pqIseKXEA0 29
-Esgwq8pYij 30
-qLWr8RJf37 31
-tX0cEKFgog 34
-eeGuPzRMU4 32
-wSA9qebs66 33
-R9caDLIQue 35
-LCEvck18Zx 36
-1yK1CxE3Ai 37
-HKwdYNIGhL 38
-Ph1beeEmuG 41
-wZwfBeS1lk 39
-Z7uQtXeqiv 40
-0FgXxDe1bg 42
-uTmezd5Md3 43
-2JXbWl5aon 44
-HRYGRVQBgN 47
-PSybhVq2SX 45
-VBh8UndUlV 46
-cmjlMmghPM 49
-vlTwq6sPvI 48
-UkSgaZOpsc 50
-NFxgcAEQiZ 51
-db6F4qfmMq 53
-xLLoO16fHu 54
-lnz1AJBoJw 52
-IHduoBMd03 55
-l7rj6wluSf 56
-Vfn0YBFcG0 59
-zv7M6eY0zA 57
-iljsq4o9wM 58
-iKf1Jfkes0 60
-6sB8VHlYYu 63
-F8NLrLD05E 61
-nK4Xy4VBKK 62
-JRAxHFB3hg 65
-1W2h9g0tbt 64
-xzoAHoQYbd 66
-Bk1Q8Ey3z6 69
-KWA0UGLixj 67
-aY3hdOYIOG 68
-ML330UUdC7 70
-Bib1xCOsJU 71
-vYGo0SoH7Z 72
-9 73
- 74
-97551 694 12 SOLUTION 1QTX6BpXCHE3CjFoQyIzQ4eDLArtcPm8v3HvIOnfoBZauWl56w6fK9JNX4qt7nVE9iu2y003etteZHRkZWqXwqis3ng7IYPJ1XnFMUSDjHKDr9UWo2Fo3kcU8xRWv4wmg1JbZkD9CWPqH069X59mFUGGfhR2X4msVXOJP0QBBmE1d96s6WUPDDrQZspCtkMYhtPzlajLCE9aWRpxPmdj7X4o4EguycRlE67YsWPVsrDzxpqtNUYzXB54mP7uj6OJAqhEkprrZovWMarSPSmq6iuqmN0QxZoaIhpqIseKXEA0Esgwq8pYijqLWr8RJf37tX0cEKFgogeeGuPzRMU4wSA9qebs66R9caDLIQueLCEvck18Zx1yK1CxE3AiHKwdYNIGhLPh1beeEmuGwZwfBeS1lkZ7uQtXeqiv0FgXxDe1bguTmezd5Md32JXbWl5aonHRYGRVQBgNPSybhVq2SXVBh8UndUlVcmjlMmghPMvlTwq6sPvIUkSgaZOpscNFxgcAEQiZdb6F4qfmMqxLLoO16fHulnz1AJBoJwIHduoBMd03l7rj6wluSfVfn0YBFcG0zv7M6eY0zAiljsq4o9wMiKf1Jfkes06sB8VHlYYuF8NLrLD05EnK4Xy4VBKKJRAxHFB3hg1W2h9g0tbtxzoAHoQYbdBk1Q8Ey3z6KWA0UGLixjaY3hdOYIOGML330UUdC7Bib1xCOsJUvYGo0SoH7Z9
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+97622 694 12 SOLUTION 1QTX6BpXCHE3CjFoQyIzQ4eDLArtcPm8v3HvIOnfoBZauWl56w6fK9JNX4qt7nVE9iu2y003etteZHRkZWqXwqis3ng7IYPJ1XnFMUSDjHKDr9UWo2Fo3kcU8xRWv4wmg1JbZkD9CWPqH069X59mFUGGfhR2X4msVXOJP0QBBmE1d96s6WUPDDrQZspCtkMYhtPzlajLCE9aWRpxPmdj7X4o4EguycRlE67YsWPVsrDzxpqtNUYzXB54mP7uj6OJAqhEkprrZovWMarSPSmq6iuqmN0QxZoaIhpqIseKXEA0Esgwq8pYijqLWr8RJf37tX0cEKFgogeeGuPzRMU4wSA9qebs66R9caDLIQueLCEvck18Zx1yK1CxE3AiHKwdYNIGhLPh1beeEmuGwZwfBeS1lkZ7uQtXeqiv0FgXxDe1bguTmezd5Md32JXbWl5aonHRYGRVQBgNPSybhVq2SXVBh8UndUlVcmjlMmghPMvlTwq6sPvIUkSgaZOpscNFxgcAEQiZdb6F4qfmMqxLLoO16fHulnz1AJBoJwIHduoBMd03l7rj6wluSfVfn0YBFcG0zv7M6eY0zAiljsq4o9wMiKf1Jfkes06sB8VHlYYuF8NLrLD05EnK4Xy4VBKKJRAxHFB3hg1W2h9g0tbtxzoAHoQYbdBk1Q8Ey3z6KWA0UGLixjaY3hdOYIOGML330UUdC7Bib1xCOsJUvYGo0SoH7Z9
 END (latest message):
