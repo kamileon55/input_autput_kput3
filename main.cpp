@@ -143,6 +143,7 @@ void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vect
 				state[packets[i].currRouter][packets[i].currStoreId - 1] = '0'+i;
 				state[packets[i].currRouter][packets[i].currStoreId] = '-';
 				packets[i].currStoreId--;
+				std::cerr<<"s";
 				continue;
 			}
 
@@ -158,6 +159,9 @@ void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vect
 				state[packets[i].currRouter][packets[i].currStoreId] = '-';
 				packets[i].currRouter += direction;
 				pa.value++; //increment action's usefulness
+				std::cerr<<"m";
+				continue;
+				
 			}
 		}
 
