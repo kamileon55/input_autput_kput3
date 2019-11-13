@@ -257,9 +257,9 @@ int main()
     for(int i=0; i<azenyem.size(); i++)
     {
         std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
-        azenyem[i].rendszam=azenyem[i].index/(sizeof(azenyem)+1)*(1001-reader.data[1])/1000;
+        azenyem[i].rendszam=azenyem[i].index/(azenyem.size())*(1001-reader.data[1])/1000;
     }
-        std::cerr<<"A bizonyos meret: "<<sizeof(azenyem)<<"\n";
+        std::cerr<<"A bizonyos meret: "<<azenyem.size()<<"\n";
     for(long unsigned int i=0; i<azenyem.size()-1; i++)
     {
         for (long unsigned int j=0; j<azenyem.size()-i-1; j++)
