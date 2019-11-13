@@ -132,12 +132,7 @@ void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vect
 			if (state[pa.moveRouter][i] >= '0' && state[pa.moveRouter][i] <= '9')
 				packets[state[pa.moveRouter][i]-'0'].currStoreId++;
 	}
-	}
-	catch (...)
-	{
-		std::cerr<<"picsa1";
-	}
-	try{
+	
 	//Start simulating
 	while (true)
 	{
