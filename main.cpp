@@ -247,7 +247,7 @@ int main()
 
         int betesz=0;
         int beleptem=0;
-        int tavolsagok[10]={0};
+        int tavolsagok[10]= {0};
         if(bitjeim<4 && !finishMode)
         {
             beleptem=1;
@@ -279,7 +279,7 @@ int main()
                         break;
                         */
                         tavolsagok[i]=leu(reader.routerBits, alaprouter, i,
-                                      (alaprouter+7)%14, createLeft);
+                                          (alaprouter+7)%14, createLeft);
 
 
                     }
@@ -288,21 +288,21 @@ int main()
                 }
 
             }
-            
-             for(int fasz=0; fasz<10; fasz++)
-                    {
-                        if(tavolsagok[fasz]>tavolsagok[maxcenti])
-                        {
-                            maxcenti=fasz;
-                        }
-                    }
-                    command= "CREATE ";
-                    command=command+std::to_string(maxcenti)+" "+std::to_string(faszpicsa++);
-                        //         std::cerr<<" a["<<i<<"]["<<alaprouter<<"]="<<reader.routerBits[i][alaprouter]<<"\n";
-                    betesz=1;
 
-                    createLeft = !createLeft;
-                        break;
+            for(int fasz=0; fasz<10; fasz++)
+            {
+                if(tavolsagok[fasz]>tavolsagok[maxcenti])
+                {
+                    maxcenti=fasz;
+                }
+            }
+            command= "CREATE ";
+            command=command+std::to_string(maxcenti)+" "+std::to_string(faszpicsa++);
+            //         std::cerr<<" a["<<i<<"]["<<alaprouter<<"]="<<reader.routerBits[i][alaprouter]<<"\n";
+            betesz=1;
+
+            createLeft = !createLeft;
+           
         }
 
 
