@@ -285,7 +285,7 @@ int main()
     std::cerr<<"Betaprotokol "<<std::endl;
     for(int i=0; i<azenyem.size(); i++)
     {
-        std::cerr<<Rendezendo[i].indexem<<" "<<Rendezendo[i].ertek<<std::endl;
+        std::cerr<<Rendezendo[i]->indexem<<" "<<Rendezendo[i]->ertek<<std::endl;
         solution=solution+azenyem[i].message;
     }
 
