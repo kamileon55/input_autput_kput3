@@ -10,7 +10,7 @@
 #include<stdbool.h>
 char verzio[20]="69";
 unsigned int alaprouter;
-//bool vege=false;
+int lepes;
 enum class Direction : char
 {
     LEFT = 'l',
@@ -76,6 +76,7 @@ void readData(Reader& to) // void barmi(int a)
         else if (!line.rfind("REQUEST", 0))
         {
             std::stringstream(std::move(line).substr(8)) >> to.data[0] >> to.data[1] >> to.data[2];
+            lepes=data[1];
             alaprouter=to.data[2];
         }
         else if (!line.rfind("PREVIOUS", 0))
@@ -115,7 +116,7 @@ void readData(Reader& to) // void barmi(int a)
                  to.hasEnd = true;
             }
           
-            msg.rendszam=msg.index/azenyem.size()*(1001-data[1])/1000;
+            msg.rendszam=msg.index/azenyem.size()*(1001-lepes)/1000;
             azenyem.push_back(msg);
 
         }
