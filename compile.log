@@ -1,36 +1,30 @@
+/main.cpp: In function ‘void readData(Reader&)’:
+/main.cpp:117:13: error: ‘cout’ was not declared in this scope
+             cout<<msg.rendszam<<"\n";
+             ^~~~
+/main.cpp:117:13: note: suggested alternative:
+In file included from /main.cpp:5:
+/usr/include/c++/8/iostream:61:18: note:   ‘std::cout’
+   extern ostream cout;  /// Linked to standard output
+                  ^~~~
 /main.cpp: In function ‘int main()’:
-/main.cpp:165:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:166:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for (int i=0; i<reader.dataArray.size(); i++)
                        ~^~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:185:35: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:186:35: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
                      for(int j=0; j<reader.dataArray.size(); j++)
                                   ~^~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:187:59: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
+/main.cpp:188:59: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
                          if(reader.dataArray[j].currStoreId==i && reader.dataArray[j].currRouter==alaprouter )
-/main.cpp:154:14: warning: unused variable ‘tovabbitott_e’ [-Wunused-variable]
+/main.cpp:155:14: warning: unused variable ‘tovabbitott_e’ [-Wunused-variable]
          bool tovabbitott_e=true;
               ^~~~~~~~~~~~~
-/main.cpp:260:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:261:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
      for(int i=0; i<azenyem.size(); i++)
                   ~^~~~~~~~~~~~~~~
-/main.cpp:313:1: error: a function-definition is not allowed here before ‘{’ token
- {
- ^
-/main.cpp:331:1: error: a function-definition is not allowed here before ‘{’ token
- {
- ^
-/main.cpp:409:1: error: a function-definition is not allowed here before ‘{’ token
- {
- ^
-/main.cpp:283:6: warning: unused variable ‘verzio’ [-Wunused-variable]
- char verzio[20]="69";
-      ^~~~~~
-/main.cpp:284:14: warning: unused variable ‘alaprouter’ [-Wunused-variable]
- unsigned int alaprouter;
-              ^~~~~~~~~~
-/main.cpp:567:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:278:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
      for(int i=0; i<azenyem.size(); i++)
                   ~^~~~~~~~~~~~~~~
-/main.cpp:139:9: warning: unused variable ‘befutott’ [-Wunused-variable]
+/main.cpp:140:9: warning: unused variable ‘befutott’ [-Wunused-variable]
      int befutott=0;
          ^~~~~~~~
