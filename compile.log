@@ -1,88 +1,41 @@
 /main.cpp: In function ‘void simulateAction(std::array<std::array<bool, 10>, 14>, std::vector<Data>, PossibleAction&)’:
-/main.cpp:106:20: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:105:20: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
   for (int i = 0; i < packets.size(); i++)
                   ~~^~~~~~~~~~~~~~~~
-/main.cpp:140:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:139:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
    for(int i = 0; i<packets.size(); i++)
                   ~^~~~~~~~~~~~~~~
-/main.cpp:154:21: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:153:21: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
    for (int i = 0; i < packets.size(); i++)
                    ~~^~~~~~~~~~~~~~~~
 /main.cpp: In function ‘void readData(Reader&)’:
-/main.cpp:247:27: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:246:27: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
              for(int i=0; i<to.dataArray.size(); i++)
                           ~^~~~~~~~~~~~~~~~~~~~
 /main.cpp: In function ‘int main()’:
-/main.cpp:318:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:317:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for (int i=0; i<reader.dataArray.size(); i++)
                        ~^~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:319:13: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+/main.cpp:318:13: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
              if(reader.dataArray[i].fromRouter==alaprouter)
              ^~
-/main.cpp:322:3: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+/main.cpp:321:3: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
    std::vector<PossibleAction> posActs;
    ^~~
-/main.cpp:333:35: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:332:35: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
                      for(int j=0; j<reader.dataArray.size(); j++)
                                   ~^~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:335:59: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
+/main.cpp:334:59: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
                          if(reader.dataArray[j].currStoreId==i && reader.dataArray[j].currRouter==alaprouter )
-/main.cpp:358:17: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:357:17: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
    for(int i=0; i<reader.dataArray.size(); i++)
                 ~^~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:384:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<PossibleAction>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:383:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<PossibleAction>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
    for(int i = 1; i<posActs.size(); i++) //todo if size() = 0 pass
                   ~^~~~~~~~~~~~~~~
-/main.cpp: In lambda function:
-/main.cpp:414:100: warning: statement has no effect [-Wunused-value]
-  std::sort(azenyem.begin(), azenyem.end(), [](const MessagePiece &a, const MessagePiece &b){a.index<b.index;});
-                                                                                             ~~~~~~~^~~~~~~~
-/main.cpp: In function ‘int main()’:
-/main.cpp:417:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:424:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
      for(int i=0; i<azenyem.size(); i++)
                   ~^~~~~~~~~~~~~~~
-/main.cpp:419:26: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
-         for (int j = 0; j<azenyem[i].message.size(); j++)
-                         ~^~~~~~~~~~~~~~~~~~~~~~~~~~
-/main.cpp:290:9: warning: unused variable ‘befutott’ [-Wunused-variable]
+/main.cpp:289:9: warning: unused variable ‘befutott’ [-Wunused-variable]
      int befutott=0;
          ^~~~~~~~
-In file included from /usr/include/c++/8/bits/stl_algobase.h:71,
-                 from /usr/include/c++/8/bits/char_traits.h:39,
-                 from /usr/include/c++/8/string:40,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:1:
-/usr/include/c++/8/bits/predefined_ops.h: In instantiation of ‘constexpr bool __gnu_cxx::__ops::_Iter_comp_iter<_Compare>::operator()(_Iterator1, _Iterator2) [with _Iterator1 = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Iterator2 = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = main()::<lambda(const MessagePiece&, const MessagePiece&)>]’:
-/usr/include/c++/8/bits/stl_algo.h:81:17:   required from ‘void std::__move_median_to_first(_Iterator, _Iterator, _Iterator, _Iterator, _Compare) [with _Iterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(const MessagePiece&, const MessagePiece&)> >]’
-/usr/include/c++/8/bits/stl_algo.h:1921:34:   required from ‘_RandomAccessIterator std::__unguarded_partition_pivot(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(const MessagePiece&, const MessagePiece&)> >]’
-/usr/include/c++/8/bits/stl_algo.h:1953:38:   required from ‘void std::__introsort_loop(_RandomAccessIterator, _RandomAccessIterator, _Size, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Size = long int; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(const MessagePiece&, const MessagePiece&)> >]’
-/usr/include/c++/8/bits/stl_algo.h:1968:25:   required from ‘void std::__sort(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(const MessagePiece&, const MessagePiece&)> >]’
-/usr/include/c++/8/bits/stl_algo.h:4866:18:   required from ‘void std::sort(_RAIter, _RAIter, _Compare) [with _RAIter = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = main()::<lambda(const MessagePiece&, const MessagePiece&)>]’
-/main.cpp:414:110:   required from here
-/usr/include/c++/8/bits/predefined_ops.h:143:18: error: void value not ignored as it ought to be
-         { return bool(_M_comp(*__it1, *__it2)); }
-                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/include/c++/8/bits/predefined_ops.h: In instantiation of ‘bool __gnu_cxx::__ops::_Val_comp_iter<_Compare>::operator()(_Value&, _Iterator) [with _Value = MessagePiece; _Iterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = main()::<lambda(const MessagePiece&, const MessagePiece&)>]’:
-/usr/include/c++/8/bits/stl_algo.h:1828:20:   required from ‘void std::__unguarded_linear_insert(_RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Val_comp_iter<main()::<lambda(const MessagePiece&, const MessagePiece&)> >]’
-/usr/include/c++/8/bits/stl_algo.h:1855:36:   required from ‘void std::__insertion_sort(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(const MessagePiece&, const MessagePiece&)> >]’
-/usr/include/c++/8/bits/stl_algo.h:1885:25:   required from ‘void std::__final_insertion_sort(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(const MessagePiece&, const MessagePiece&)> >]’
-/usr/include/c++/8/bits/stl_algo.h:1971:31:   required from ‘void std::__sort(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(const MessagePiece&, const MessagePiece&)> >]’
-/usr/include/c++/8/bits/stl_algo.h:4866:18:   required from ‘void std::sort(_RAIter, _RAIter, _Compare) [with _RAIter = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = main()::<lambda(const MessagePiece&, const MessagePiece&)>]’
-/main.cpp:414:110:   required from here
-/usr/include/c++/8/bits/predefined_ops.h:215:11: error: void value not ignored as it ought to be
-  { return bool(_M_comp(__val, *__it)); }
-           ^~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/include/c++/8/bits/predefined_ops.h: In instantiation of ‘bool __gnu_cxx::__ops::_Iter_comp_val<_Compare>::operator()(_Iterator, _Value&) [with _Iterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Value = MessagePiece; _Compare = main()::<lambda(const MessagePiece&, const MessagePiece&)>]’:
-/usr/include/c++/8/bits/stl_heap.h:133:48:   required from ‘void std::__push_heap(_RandomAccessIterator, _Distance, _Distance, _Tp, _Compare&) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Distance = long int; _Tp = MessagePiece; _Compare = __gnu_cxx::__ops::_Iter_comp_val<main()::<lambda(const MessagePiece&, const MessagePiece&)> >]’
-/usr/include/c++/8/bits/stl_heap.h:237:23:   required from ‘void std::__adjust_heap(_RandomAccessIterator, _Distance, _Distance, _Tp, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Distance = long int; _Tp = MessagePiece; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(const MessagePiece&, const MessagePiece&)> >]’
-/usr/include/c++/8/bits/stl_heap.h:342:22:   required from ‘void std::__make_heap(_RandomAccessIterator, _RandomAccessIterator, _Compare&) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(const MessagePiece&, const MessagePiece&)> >]’
-/usr/include/c++/8/bits/stl_algo.h:1672:23:   required from ‘void std::__heap_select(_RandomAccessIterator, _RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(const MessagePiece&, const MessagePiece&)> >]’
-/usr/include/c++/8/bits/stl_algo.h:1933:25:   required from ‘void std::__partial_sort(_RandomAccessIterator, _RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(const MessagePiece&, const MessagePiece&)> >]’
-/usr/include/c++/8/bits/stl_algo.h:1948:27:   required from ‘void std::__introsort_loop(_RandomAccessIterator, _RandomAccessIterator, _Size, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Size = long int; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(const MessagePiece&, const MessagePiece&)> >]’
-/usr/include/c++/8/bits/stl_algo.h:1968:25:   required from ‘void std::__sort(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(const MessagePiece&, const MessagePiece&)> >]’
-/usr/include/c++/8/bits/stl_algo.h:4866:18:   required from ‘void std::sort(_RAIter, _RAIter, _Compare) [with _RAIter = __gnu_cxx::__normal_iterator<MessagePiece*, std::vector<MessagePiece> >; _Compare = main()::<lambda(const MessagePiece&, const MessagePiece&)>]’
-/main.cpp:414:110:   required from here
-/usr/include/c++/8/bits/predefined_ops.h:177:11: error: void value not ignored as it ought to be
-  { return bool(_M_comp(*__it, __val)); }
-           ^~~~~~~~~~~~~~~~~~~~~~~~~~~
