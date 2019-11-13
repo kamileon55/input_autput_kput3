@@ -17,6 +17,7 @@ int fogadott=0;
 int bevaras=0;
 
 bool createLeft = 1;
+int lowestEmptyPacket = 9999;
 
 enum class Direction : char
 {
@@ -242,6 +243,7 @@ void readData(Reader& to)
             if(msg.message.size()==0)
             {
                 finishMode=1;
+				lowestEmptyPacket = msg.index;
                 std::cerr<<"Finish Mode Started\n";
 
 
@@ -253,7 +255,7 @@ void readData(Reader& to)
             for(int i=0; i<to.dataArray.size(); i++)
             {
                 belep2=true;
-                if(to.dataArray[i].fromRouter==alaprouter )
+                if(to.dataArray[i].fromRouter==alaprouter && to.dataArray[i].dataIndex < lowestEmptyPacket)
                 {
                     vegem=false;
 
