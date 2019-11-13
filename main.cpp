@@ -7,8 +7,10 @@
 #include <cstring>
 #include <bits/stdc++.h>
 #include <vector>
+#include<stdbool.h>
 char verzio[20]="69";
 unsigned int alaprouter;
+//bool vege=false;
 enum class Direction : char
 {
     LEFT = 'l',
@@ -110,7 +112,7 @@ void readData(Reader& to) // void barmi(int a)
             // std::cerr<<msg.message<<"   "<<msg.index<<std::endl;
             if(msg.message.size()==0)
             {
-                // to.hasEnd = true;
+                 to.hasEnd = true;
             }
             azenyem.push_back(msg);
 
@@ -146,7 +148,7 @@ int main()
     while(true)
     {
         readData(reader);
-
+        bool tovabbitott_e=true;
         if (reader.hasEnd || reader.receivedPieces.size()>100)
         {
              break;
