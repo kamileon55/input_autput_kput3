@@ -5,7 +5,6 @@
 #include <sstream>
 #include <cstring>
 #include <vector>
-#include <algorithm>
 
 
 int seed = 111;
@@ -85,7 +84,7 @@ void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vect
 
 
 	//Copy data into an array
-	static char state[14][10];
+	char state[14][10];
 	for (int i = 0; i<14; i++)
 		for (int j = 0; j<10; j++)
 			state[i][j] = (routerBits[i][j])?'-':'#'; //- open, #blocked
@@ -411,15 +410,24 @@ int main()
     }*/
 
 	//Sort
-	std::sort(azenyem.begin(), azenyem.end(), [](const MessagePiece &a, const MessagePiece &b){a.index<b.index;});
-	solution.reserve(azenyem.size()*10);
-	int solPointer = 0;
+    for(long unsigned int i=0; i<azenyem.size()-1; i++)
+    {
+        for (long unsigned int j=0; j<azenyem.size()-i-1; j++)
+        {
+            if(azenyem[j].index>azenyem[j+1].index)
+            {
+                swap(&azenyem[j], &azenyem[j+1]);
+            }
+        }
+    }
+    std::cerr<<"Betaprotokol "<<std::endl;
     for(int i=0; i<azenyem.size(); i++)
     {
-        for (int j = 0; j<azenyem[i].message.size(); j++)
-			solution[solPointer++] = azenyem[i].message[j];
+        std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
+        solution=solution+azenyem[i].message;
     }
-	solution[solPointer] = '\0';
+    ///************************
+    std::cerr<<"Betaprotokol "<<std::endl;
 
 
 
