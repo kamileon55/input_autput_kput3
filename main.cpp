@@ -309,7 +309,7 @@ int main()
                                       reader.dataArray[i].toRouter, reader.dataArray[i].dir == Direction::LEFT);
                         vals[reader.dataArray[i].currRouter] += res;
                         
-                        int res = leu(reader.routerBits, reader.dataArray[i].currRouter, reader.dataArray[i].currStoreId-1,
+                        res = leu(reader.routerBits, reader.dataArray[i].currRouter, reader.dataArray[i].currStoreId-1,
                                       reader.dataArray[i].toRouter, reader.dataArray[i].dir == Direction::LEFT);
                         vals[reader.dataArray[i].currRouter+14] += res;
                     }
