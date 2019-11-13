@@ -351,7 +351,7 @@ int main()
                     if(slotEmpty)
                     {
                         PossibleAction pa('c', i);
-						pa.value += 10*(4-bitjeim);
+						pa.value += 4*(4-bitjeim);
 						simulateAction(reader.routerBits, reader.dataArray, pa);
 						posActs.push_back(pa);
 
