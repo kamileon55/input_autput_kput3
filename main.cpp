@@ -7,7 +7,7 @@
 #include <vector>
 
 
-int seed = 111;
+int seed = 192046;
 
 
 char verzio[20]="69";
