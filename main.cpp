@@ -338,7 +338,7 @@ int main()
 		}
 		std::cerr<<"ALLPOSSIBLE2";
 		//All possible movements
-		for(int i=0; i<8; i++)
+		for(int i=0; i<reader.dataArray.size(); i++)
         {
 			std::cerr<<"#";
             if(reader.dataArray[i].fromRouter==alaprouter)
