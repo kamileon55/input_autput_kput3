@@ -1,2663 +1,2663 @@
 Kor szama: 0
 Bitek szama: 0
  a[1][12]=0
-96690 0 12 CREATE 1 0
+96692 0 12 CREATE 1 0
 Kor szama: 1
 Bitek szama: 1
  a[1][12]=0
-96690 1 12 CREATE 1 1
+96692 1 12 CREATE 1 1
 Kor szama: 2
 Bitek szama: 2
  a[1][12]=0
-96690 2 12 CREATE 1 2
+96692 2 12 CREATE 1 2
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-96690 3 12 CREATE 1 3
+96692 3 12 CREATE 1 3
 Kor szama: 4
 Bitek szama: 4
-96690 4 12 MOVE 10 ^
+96692 4 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 5 12 MOVE 10 ^
+96692 5 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 6 12 MOVE 10 ^
+96692 6 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 7 12 MOVE 10 ^
+96692 7 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 8 12 MOVE 9 ^
+96692 8 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 9 12 MOVE 9 ^
+96692 9 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 10 12 MOVE 6 ^
+96692 10 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 11 12 MOVE 5 ^
+96692 11 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 12 12 MOVE 5 ^
+96692 12 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 13 12 MOVE 8 ^
+96692 13 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 14 12 MOVE 9 ^
+96692 14 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 15 12 MOVE 10 ^
+96692 15 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 16 12 MOVE 10 ^
+96692 16 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 17 12 MOVE 10 ^
+96692 17 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 18 12 MOVE 11 ^
+96692 18 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-96690 19 12 CREATE 0 4
+96692 19 12 CREATE 0 4
 Kor szama: 4
 Bitek szama: 4
-96690 20 12 MOVE 1 ^
+96692 20 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-96690 21 12 MOVE 1 ^
+96692 21 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-96690 22 12 MOVE 1 ^
+96692 22 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-96690 23 12 MOVE 1 ^
+96692 23 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-96690 24 12 MOVE 1 ^
+96692 24 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-96690 25 12 MOVE 1 ^
+96692 25 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-96690 26 12 MOVE 1 ^
+96692 26 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-96690 27 12 MOVE 2 ^
+96692 27 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 28 12 MOVE 2 ^
+96692 28 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 29 12 MOVE 3 ^
+96692 29 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-96690 30 12 MOVE 3 ^
+96692 30 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-96690 31 12 MOVE 4 ^
+96692 31 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 32 12 MOVE 4 ^
+96692 32 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 33 12 MOVE 4 ^
+96692 33 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 34 12 MOVE 4 ^
+96692 34 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 35 12 MOVE 4 ^
+96692 35 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 36 12 MOVE 5 ^
+96692 36 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 37 12 MOVE 4 ^
+96692 37 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 38 12 MOVE 0 ^
+96692 38 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-96690 39 12 MOVE 13 ^
+96692 39 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-96690 40 12 MOVE 13 ^
+96692 40 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-96690 41 12 MOVE 13 ^
+96692 41 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-96690 42 12 CREATE 2 5
+96692 42 12 CREATE 2 5
 Kor szama: 4
 Bitek szama: 4
-96690 43 12 MOVE 6 ^
+96692 43 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 44 12 MOVE 5 ^
+96692 44 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 45 12 MOVE 6 ^
+96692 45 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 46 12 MOVE 7 ^
+96692 46 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 47 12 MOVE 9 ^
+96692 47 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 48 12 MOVE 11 ^
+96692 48 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 49 12 MOVE 11 ^
+96692 49 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
 Utkozes a bitek kozott
  a[5][12]=0
-96690 50 12 CREATE 5 6
+96692 50 12 CREATE 5 6
 Kor szama: 4
 Bitek szama: 4
-96690 51 12 MOVE 0 ^
+96692 51 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-96690 52 12 MOVE 13 ^
+96692 52 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-96690 53 12 MOVE 13 ^
+96692 53 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=1
-96690 54 12 CREATE 0 7
+96692 54 12 CREATE 0 7
 Kor szama: 4
 Bitek szama: 4
-96690 55 12 MOVE 8 ^
+96692 55 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 56 12 MOVE 7 ^
+96692 56 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 57 12 MOVE 6 ^
+96692 57 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 58 12 MOVE 6 ^
+96692 58 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 59 12 MOVE 5 ^
+96692 59 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 60 12 MOVE 5 ^
+96692 60 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 61 12 MOVE 5 ^
+96692 61 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 62 12 MOVE 6 ^
+96692 62 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 63 12 MOVE 6 ^
+96692 63 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 64 12 MOVE 7 ^
+96692 64 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 65 12 MOVE 9 ^
+96692 65 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 66 12 MOVE 10 ^
+96692 66 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 67 12 MOVE 10 ^
+96692 67 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 68 12 MOVE 11 ^
+96692 68 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=0
-96690 69 12 CREATE 1 8
+96692 69 12 CREATE 1 8
 Kor szama: 4
 Bitek szama: 4
-96690 70 12 MOVE 2 ^
+96692 70 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 71 12 MOVE 2 ^
+96692 71 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 72 12 MOVE 3 ^
+96692 72 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-96690 73 12 MOVE 4 ^
+96692 73 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 74 12 MOVE 5 ^
+96692 74 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 75 12 MOVE 5 ^
+96692 75 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 76 12 MOVE 0 ^
+96692 76 12 MOVE 0 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-96690 77 12 CREATE 1 9
+96692 77 12 CREATE 1 9
 Kor szama: 4
 Bitek szama: 4
-96690 78 12 MOVE 11 ^
+96692 78 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 79 12 MOVE 11 ^
+96692 79 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 80 12 MOVE 11 ^
+96692 80 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 81 12 MOVE 11 ^
+96692 81 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 82 12 MOVE 11 ^
+96692 82 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 83 12 MOVE 11 ^
+96692 83 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 84 12 MOVE 11 ^
+96692 84 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-96690 85 12 CREATE 2 10
+96692 85 12 CREATE 2 10
 Kor szama: 4
 Bitek szama: 4
-96690 86 12 MOVE 11 ^
+96692 86 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 87 12 MOVE 10 ^
+96692 87 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 88 12 MOVE 8 ^
+96692 88 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 89 12 MOVE 8 ^
+96692 89 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 90 12 MOVE 8 ^
+96692 90 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 91 12 MOVE 7 ^
+96692 91 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 92 12 MOVE 7 ^
+96692 92 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 93 12 MOVE 5 ^
+96692 93 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 94 12 MOVE 6 ^
+96692 94 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 95 12 MOVE 7 ^
+96692 95 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 96 12 MOVE 7 ^
+96692 96 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 97 12 MOVE 7 ^
+96692 97 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 98 12 MOVE 7 ^
+96692 98 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 99 12 MOVE 7 ^
+96692 99 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 100 12 MOVE 8 ^
+96692 100 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 101 12 MOVE 10 ^
+96692 101 12 MOVE 10 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-96690 102 12 CREATE 2 11
+96692 102 12 CREATE 2 11
 Kor szama: 4
 Bitek szama: 4
-96690 103 12 MOVE 11 ^
+96692 103 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 104 12 MOVE 11 ^
+96692 104 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[4][12]=1
-96690 105 12 CREATE 4 12
+96692 105 12 CREATE 4 12
 Kor szama: 4
 Bitek szama: 4
-96690 106 12 MOVE 4 ^
+96692 106 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 107 12 MOVE 4 ^
+96692 107 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 108 12 MOVE 4 ^
+96692 108 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 109 12 MOVE 4 ^
+96692 109 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 110 12 MOVE 2 ^
+96692 110 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 111 12 MOVE 0 ^
+96692 111 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-96690 112 12 MOVE 13 ^
+96692 112 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-96690 113 12 MOVE 13 ^
+96692 113 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=1
-96690 114 12 CREATE 0 13
+96692 114 12 CREATE 0 13
 Kor szama: 4
 Bitek szama: 4
-96690 115 12 MOVE 11 ^
+96692 115 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 116 12 MOVE 11 ^
+96692 116 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 117 12 MOVE 11 ^
+96692 117 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 118 12 MOVE 11 ^
+96692 118 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 119 12 MOVE 9 ^
+96692 119 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 120 12 MOVE 9 ^
+96692 120 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 121 12 MOVE 9 ^
+96692 121 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 122 12 MOVE 7 ^
+96692 122 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 123 12 MOVE 7 ^
+96692 123 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 124 12 MOVE 7 ^
+96692 124 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 125 12 MOVE 7 ^
+96692 125 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 126 12 MOVE 7 ^
+96692 126 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 127 12 MOVE 6 ^
+96692 127 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 128 12 MOVE 5 ^
+96692 128 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 129 12 MOVE 5 ^
+96692 129 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 130 12 MOVE 7 ^
+96692 130 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 131 12 MOVE 7 ^
+96692 131 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 132 12 MOVE 8 ^
+96692 132 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 133 12 MOVE 8 ^
+96692 133 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 134 12 MOVE 8 ^
+96692 134 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 135 12 MOVE 10 ^
+96692 135 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 136 12 MOVE 10 ^
+96692 136 12 MOVE 10 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=1
-96690 137 12 CREATE 2 14
+96692 137 12 CREATE 2 14
 Kor szama: 4
 Bitek szama: 4
-96690 138 12 MOVE 5 ^
+96692 138 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 139 12 MOVE 5 ^
+96692 139 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 140 12 MOVE 5 ^
+96692 140 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 141 12 MOVE 2 ^
+96692 141 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 142 12 MOVE 2 ^
+96692 142 12 MOVE 2 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-96690 143 12 CREATE 2 15
+96692 143 12 CREATE 2 15
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-96690 144 12 CREATE 2 16
+96692 144 12 CREATE 2 16
 Kor szama: 4
 Bitek szama: 4
-96690 145 12 MOVE 5 ^
+96692 145 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 146 12 MOVE 5 ^
+96692 146 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 147 12 MOVE 4 ^
+96692 147 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 148 12 MOVE 4 ^
+96692 148 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 149 12 MOVE 4 ^
+96692 149 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 150 12 MOVE 0 ^
+96692 150 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-96690 151 12 MOVE 13 ^
+96692 151 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-96690 152 12 MOVE 13 ^
+96692 152 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=0
-96690 153 12 CREATE 1 17
+96692 153 12 CREATE 1 17
 Kor szama: 4
 Bitek szama: 4
-96690 154 12 MOVE 9 ^
+96692 154 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 155 12 MOVE 9 ^
+96692 155 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 156 12 MOVE 7 ^
+96692 156 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 157 12 MOVE 7 ^
+96692 157 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 158 12 MOVE 6 ^
+96692 158 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 159 12 MOVE 5 ^
+96692 159 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 160 12 MOVE 5 ^
+96692 160 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 161 12 MOVE 6 ^
+96692 161 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 162 12 MOVE 7 ^
+96692 162 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 163 12 MOVE 9 ^
+96692 163 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 164 12 MOVE 9 ^
+96692 164 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 165 12 MOVE 9 ^
+96692 165 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 166 12 MOVE 9 ^
+96692 166 12 MOVE 9 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-96690 167 12 CREATE 1 18
+96692 167 12 CREATE 1 18
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-96690 168 12 CREATE 0 19
+96692 168 12 CREATE 0 19
 Kor szama: 4
 Bitek szama: 4
-96690 169 12 MOVE 5 ^
+96692 169 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 170 12 MOVE 5 ^
+96692 170 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 171 12 MOVE 2 ^
+96692 171 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 172 12 MOVE 0 ^
+96692 172 12 MOVE 0 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=0
-96690 173 12 CREATE 1 20
+96692 173 12 CREATE 1 20
 Kor szama: 4
 Bitek szama: 4
-96690 174 12 MOVE 0 ^
+96692 174 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-96690 175 12 MOVE 13 ^
+96692 175 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-96690 176 12 CREATE 2 21
+96692 176 12 CREATE 2 21
 Kor szama: 4
 Bitek szama: 4
-96690 177 12 MOVE 6 ^
+96692 177 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 178 12 MOVE 8 ^
+96692 178 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 179 12 MOVE 8 ^
+96692 179 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 180 12 MOVE 8 ^
+96692 180 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 181 12 MOVE 9 ^
+96692 181 12 MOVE 9 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-96690 182 12 CREATE 2 22
+96692 182 12 CREATE 2 22
 Kor szama: 4
 Bitek szama: 4
-96690 183 12 MOVE 3 ^
+96692 183 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-96690 184 12 MOVE 3 ^
+96692 184 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-96690 185 12 MOVE 4 ^
+96692 185 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 186 12 MOVE 4 ^
+96692 186 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 187 12 MOVE 4 ^
+96692 187 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 188 12 MOVE 4 ^
+96692 188 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 189 12 MOVE 5 ^
+96692 189 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 190 12 MOVE 4 ^
+96692 190 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 191 12 MOVE 3 ^
+96692 191 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-96690 192 12 MOVE 1 ^
+96692 192 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-96690 193 12 MOVE 0 ^
+96692 193 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-96690 194 12 MOVE 0 ^
+96692 194 12 MOVE 0 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-96690 195 12 CREATE 2 23
+96692 195 12 CREATE 2 23
 Kor szama: 4
 Bitek szama: 4
-96690 196 12 MOVE 6 ^
+96692 196 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 197 12 MOVE 6 ^
+96692 197 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 198 12 MOVE 5 ^
+96692 198 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 199 12 MOVE 5 ^
+96692 199 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 200 12 MOVE 5 ^
+96692 200 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 201 12 MOVE 6 ^
+96692 201 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 202 12 MOVE 6 ^
+96692 202 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 203 12 MOVE 6 ^
+96692 203 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 204 12 MOVE 6 ^
+96692 204 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 205 12 MOVE 6 ^
+96692 205 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 206 12 MOVE 6 ^
+96692 206 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 207 12 MOVE 6 ^
+96692 207 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 208 12 MOVE 8 ^
+96692 208 12 MOVE 8 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-96690 209 12 CREATE 0 24
+96692 209 12 CREATE 0 24
 Kor szama: 4
 Bitek szama: 4
-96690 210 12 MOVE 10 ^
+96692 210 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 211 12 MOVE 10 ^
+96692 211 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 212 12 MOVE 10 ^
+96692 212 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 213 12 MOVE 10 ^
+96692 213 12 MOVE 10 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[1][12]=0
-96690 214 12 CREATE 1 25
+96692 214 12 CREATE 1 25
 Kor szama: 4
 Bitek szama: 4
-96690 215 12 MOVE 3 ^
+96692 215 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-96690 216 12 MOVE 3 ^
+96692 216 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-96690 217 12 MOVE 3 ^
+96692 217 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-96690 218 12 MOVE 3 ^
+96692 218 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-96690 219 12 MOVE 2 ^
+96692 219 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 220 12 MOVE 2 ^
+96692 220 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 221 12 MOVE 2 ^
+96692 221 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 222 12 MOVE 2 ^
+96692 222 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 223 12 MOVE 0 ^
+96692 223 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-96690 224 12 MOVE 13 ^
+96692 224 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=1
-96690 225 12 CREATE 0 26
+96692 225 12 CREATE 0 26
 Kor szama: 4
 Bitek szama: 4
-96690 226 12 MOVE 3 ^
+96692 226 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-96690 227 12 MOVE 3 ^
+96692 227 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-96690 228 12 MOVE 3 ^
+96692 228 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-96690 229 12 MOVE 3 ^
+96692 229 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-96690 230 12 MOVE 5 ^
+96692 230 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 231 12 MOVE 5 ^
+96692 231 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 232 12 MOVE 5 ^
+96692 232 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 233 12 MOVE 2 ^
+96692 233 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 234 12 MOVE 0 ^
+96692 234 12 MOVE 0 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-96690 235 12 CREATE 2 27
+96692 235 12 CREATE 2 27
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-96690 236 12 CREATE 2 28
+96692 236 12 CREATE 2 28
 Kor szama: 4
 Bitek szama: 4
-96690 237 12 MOVE 10 ^
+96692 237 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 238 12 MOVE 10 ^
+96692 238 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 239 12 MOVE 10 ^
+96692 239 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 240 12 MOVE 10 ^
+96692 240 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 241 12 MOVE 10 ^
+96692 241 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 242 12 MOVE 8 ^
+96692 242 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 243 12 MOVE 7 ^
+96692 243 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 244 12 MOVE 7 ^
+96692 244 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 245 12 MOVE 7 ^
+96692 245 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 246 12 MOVE 6 ^
+96692 246 12 MOVE 6 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=1
-96690 247 12 CREATE 2 29
+96692 247 12 CREATE 2 29
 Kor szama: 4
 Bitek szama: 4
-96690 248 12 MOVE 7 ^
+96692 248 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 249 12 MOVE 8 ^
+96692 249 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 250 12 MOVE 8 ^
+96692 250 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 251 12 MOVE 8 ^
+96692 251 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 252 12 MOVE 8 ^
+96692 252 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 253 12 MOVE 10 ^
+96692 253 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 254 12 MOVE 10 ^
+96692 254 12 MOVE 10 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-96690 255 12 CREATE 1 30
+96692 255 12 CREATE 1 30
 Kor szama: 4
 Bitek szama: 4
-96690 256 12 MOVE 11 ^
+96692 256 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 257 12 MOVE 11 ^
+96692 257 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 258 12 MOVE 11 ^
+96692 258 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[3][12]=0
-96690 259 12 CREATE 3 31
+96692 259 12 CREATE 3 31
 Kor szama: 4
 Bitek szama: 4
-96690 260 12 MOVE 9 ^
+96692 260 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 261 12 MOVE 7 ^
+96692 261 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 262 12 MOVE 6 ^
+96692 262 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 263 12 MOVE 6 ^
+96692 263 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 264 12 MOVE 5 ^
+96692 264 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 265 12 MOVE 5 ^
+96692 265 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 266 12 MOVE 7 ^
+96692 266 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 267 12 MOVE 10 ^
+96692 267 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 268 12 MOVE 10 ^
+96692 268 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 269 12 MOVE 10 ^
+96692 269 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 270 12 MOVE 10 ^
+96692 270 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 271 12 MOVE 11 ^
+96692 271 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 272 12 MOVE 11 ^
+96692 272 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=0
-96690 273 12 CREATE 1 32
+96692 273 12 CREATE 1 32
 Kor szama: 4
 Bitek szama: 4
-96690 274 12 MOVE 3 ^
+96692 274 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-96690 275 12 MOVE 2 ^
+96692 275 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 276 12 MOVE 2 ^
+96692 276 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 277 12 MOVE 0 ^
+96692 277 12 MOVE 0 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-96690 278 12 CREATE 1 33
+96692 278 12 CREATE 1 33
 Kor szama: 4
 Bitek szama: 4
-96690 279 12 MOVE 10 ^
+96692 279 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 280 12 MOVE 10 ^
+96692 280 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 281 12 MOVE 10 ^
+96692 281 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 282 12 MOVE 9 ^
+96692 282 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 283 12 MOVE 5 ^
+96692 283 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 284 12 MOVE 5 ^
+96692 284 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 285 12 MOVE 5 ^
+96692 285 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 286 12 MOVE 5 ^
+96692 286 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 287 12 MOVE 6 ^
+96692 287 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 288 12 MOVE 8 ^
+96692 288 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 289 12 MOVE 8 ^
+96692 289 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 290 12 MOVE 8 ^
+96692 290 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 291 12 MOVE 8 ^
+96692 291 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 292 12 MOVE 8 ^
+96692 292 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 293 12 MOVE 8 ^
+96692 293 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 294 12 MOVE 10 ^
+96692 294 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 295 12 MOVE 11 ^
+96692 295 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-96690 296 12 CREATE 0 34
+96692 296 12 CREATE 0 34
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=1
-96690 297 12 CREATE 2 35
+96692 297 12 CREATE 2 35
 Kor szama: 4
 Bitek szama: 4
-96690 298 12 MOVE 10 ^
+96692 298 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 299 12 MOVE 10 ^
+96692 299 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 300 12 MOVE 10 ^
+96692 300 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 301 12 MOVE 10 ^
+96692 301 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 302 12 MOVE 9 ^
+96692 302 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 303 12 MOVE 9 ^
+96692 303 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 304 12 MOVE 9 ^
+96692 304 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 305 12 MOVE 9 ^
+96692 305 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 306 12 MOVE 9 ^
+96692 306 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 307 12 MOVE 9 ^
+96692 307 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 308 12 MOVE 9 ^
+96692 308 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 309 12 MOVE 9 ^
+96692 309 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 310 12 MOVE 9 ^
+96692 310 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 311 12 MOVE 7 ^
+96692 311 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 312 12 MOVE 7 ^
+96692 312 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 313 12 MOVE 6 ^
+96692 313 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 314 12 MOVE 5 ^
+96692 314 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 315 12 MOVE 5 ^
+96692 315 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 316 12 MOVE 6 ^
+96692 316 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 317 12 MOVE 7 ^
+96692 317 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 318 12 MOVE 8 ^
+96692 318 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 319 12 MOVE 9 ^
+96692 319 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 320 12 MOVE 9 ^
+96692 320 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 321 12 MOVE 9 ^
+96692 321 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 322 12 MOVE 9 ^
+96692 322 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 323 12 MOVE 9 ^
+96692 323 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 324 12 MOVE 9 ^
+96692 324 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 325 12 MOVE 9 ^
+96692 325 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 326 12 MOVE 9 ^
+96692 326 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 327 12 MOVE 9 ^
+96692 327 12 MOVE 9 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-96690 328 12 CREATE 0 36
+96692 328 12 CREATE 0 36
 Kor szama: 4
 Bitek szama: 4
-96690 329 12 MOVE 10 ^
+96692 329 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 330 12 MOVE 10 ^
+96692 330 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 331 12 MOVE 11 ^
+96692 331 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-96690 332 12 CREATE 0 37
+96692 332 12 CREATE 0 37
 Kor szama: 4
 Bitek szama: 4
-96690 333 12 MOVE 1 ^
+96692 333 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-96690 334 12 MOVE 1 ^
+96692 334 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-96690 335 12 MOVE 1 ^
+96692 335 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-96690 336 12 MOVE 1 ^
+96692 336 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-96690 337 12 MOVE 1 ^
+96692 337 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-96690 338 12 MOVE 0 ^
+96692 338 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-96690 339 12 MOVE 0 ^
+96692 339 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-96690 340 12 MOVE 13 ^
+96692 340 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=1
-96690 341 12 CREATE 2 38
+96692 341 12 CREATE 2 38
 Kor szama: 4
 Bitek szama: 4
-96690 342 12 MOVE 3 ^
+96692 342 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-96690 343 12 MOVE 4 ^
+96692 343 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 344 12 MOVE 4 ^
+96692 344 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 345 12 MOVE 5 ^
+96692 345 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 346 12 MOVE 5 ^
+96692 346 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 347 12 MOVE 4 ^
+96692 347 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 348 12 MOVE 4 ^
+96692 348 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 349 12 MOVE 3 ^
+96692 349 12 MOVE 3 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-96690 350 12 CREATE 1 39
+96692 350 12 CREATE 1 39
 Kor szama: 4
 Bitek szama: 4
-96690 351 12 MOVE 7 ^
+96692 351 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 352 12 MOVE 7 ^
+96692 352 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 353 12 MOVE 7 ^
+96692 353 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 354 12 MOVE 7 ^
+96692 354 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 355 12 MOVE 8 ^
+96692 355 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 356 12 MOVE 8 ^
+96692 356 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 357 12 MOVE 8 ^
+96692 357 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 358 12 MOVE 8 ^
+96692 358 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 359 12 MOVE 8 ^
+96692 359 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 360 12 MOVE 9 ^
+96692 360 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 361 12 MOVE 9 ^
+96692 361 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 362 12 MOVE 9 ^
+96692 362 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 363 12 MOVE 11 ^
+96692 363 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 364 12 MOVE 11 ^
+96692 364 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 365 12 MOVE 11 ^
+96692 365 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 366 12 MOVE 11 ^
+96692 366 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
 Utkozes a bitek kozott
  a[4][12]=0
-96690 367 12 CREATE 4 40
+96692 367 12 CREATE 4 40
 Kor szama: 4
 Bitek szama: 4
-96690 368 12 MOVE 1 ^
+96692 368 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-96690 369 12 MOVE 0 ^
+96692 369 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-96690 370 12 MOVE 0 ^
+96692 370 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-96690 371 12 MOVE 0 ^
+96692 371 12 MOVE 0 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[3][12]=0
-96690 372 12 CREATE 3 41
+96692 372 12 CREATE 3 41
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
 Utkozes a bitek kozott
  a[4][12]=1
-96690 373 12 CREATE 4 42
+96692 373 12 CREATE 4 42
 Kor szama: 4
 Bitek szama: 4
-96690 374 12 MOVE 13 ^
+96692 374 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-96690 375 12 MOVE 0 ^
+96692 375 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-96690 376 12 MOVE 0 ^
+96692 376 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-96690 377 12 MOVE 0 ^
+96692 377 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-96690 378 12 MOVE 0 ^
+96692 378 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-96690 379 12 MOVE 2 ^
+96692 379 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 380 12 MOVE 2 ^
+96692 380 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 381 12 MOVE 4 ^
+96692 381 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 382 12 MOVE 5 ^
+96692 382 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 383 12 MOVE 5 ^
+96692 383 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 384 12 MOVE 5 ^
+96692 384 12 MOVE 5 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=1
-96690 385 12 CREATE 0 43
+96692 385 12 CREATE 0 43
 Kor szama: 4
 Bitek szama: 4
-96690 386 12 MOVE 5 ^
+96692 386 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 387 12 MOVE 5 ^
+96692 387 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 388 12 MOVE 4 ^
+96692 388 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 389 12 MOVE 4 ^
+96692 389 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 390 12 MOVE 2 ^
+96692 390 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 391 12 MOVE 2 ^
+96692 391 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 392 12 MOVE 1 ^
+96692 392 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-96690 393 12 MOVE 1 ^
+96692 393 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-96690 394 12 MOVE 0 ^
+96692 394 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-96690 395 12 MOVE 13 ^
+96692 395 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[3][12]=0
-96690 396 12 CREATE 3 44
+96692 396 12 CREATE 3 44
 Kor szama: 4
 Bitek szama: 4
-96690 397 12 MOVE 11 ^
+96692 397 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 398 12 MOVE 10 ^
+96692 398 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 399 12 MOVE 8 ^
+96692 399 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 400 12 MOVE 8 ^
+96692 400 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 401 12 MOVE 5 ^
+96692 401 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 402 12 MOVE 5 ^
+96692 402 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 403 12 MOVE 7 ^
+96692 403 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 404 12 MOVE 7 ^
+96692 404 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 405 12 MOVE 11 ^
+96692 405 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 406 12 MOVE 11 ^
+96692 406 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 407 12 MOVE 11 ^
+96692 407 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-96690 408 12 CREATE 2 45
+96692 408 12 CREATE 2 45
 Kor szama: 4
 Bitek szama: 4
-96690 409 12 MOVE 12 ^
+96692 409 12 MOVE 12 ^
 Kor szama: 4
 Bitek szama: 4
-96690 410 12 MOVE 12 ^
+96692 410 12 MOVE 12 ^
 Kor szama: 4
 Bitek szama: 4
-96690 411 12 MOVE 7 ^
+96692 411 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 412 12 MOVE 6 ^
+96692 412 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 413 12 MOVE 5 ^
+96692 413 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 414 12 MOVE 6 ^
+96692 414 12 MOVE 6 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-96690 415 12 CREATE 1 46
+96692 415 12 CREATE 1 46
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-96690 416 12 CREATE 1 47
+96692 416 12 CREATE 1 47
 Kor szama: 4
 Bitek szama: 4
-96690 417 12 MOVE 9 ^
+96692 417 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 418 12 MOVE 9 ^
+96692 418 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 419 12 MOVE 9 ^
+96692 419 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 420 12 MOVE 9 ^
+96692 420 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 421 12 MOVE 9 ^
+96692 421 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 422 12 MOVE 9 ^
+96692 422 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 423 12 MOVE 5 ^
+96692 423 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 424 12 MOVE 5 ^
+96692 424 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 425 12 MOVE 5 ^
+96692 425 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 426 12 MOVE 5 ^
+96692 426 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 427 12 MOVE 6 ^
+96692 427 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 428 12 MOVE 8 ^
+96692 428 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 429 12 MOVE 9 ^
+96692 429 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 430 12 MOVE 9 ^
+96692 430 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 431 12 MOVE 10 ^
+96692 431 12 MOVE 10 ^
 MESSAGE
 MESSAGE
 Kor szama: 2
 Bitek szama: 2
  a[0][12]=1
-96690 432 12 CREATE 0 48
+96692 432 12 CREATE 0 48
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
 Utkozes a bitek kozott
  a[3][12]=1
-96690 433 12 CREATE 3 49
+96692 433 12 CREATE 3 49
 Kor szama: 4
 Bitek szama: 4
-96690 434 12 MOVE 1 ^
+96692 434 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-96690 435 12 MOVE 13 ^
+96692 435 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-96690 436 12 MOVE 13 ^
+96692 436 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-96690 437 12 MOVE 13 ^
+96692 437 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-96690 438 12 MOVE 13 ^
+96692 438 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-96690 439 12 MOVE 13 ^
+96692 439 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=1
-96690 440 12 CREATE 0 50
+96692 440 12 CREATE 0 50
 Kor szama: 4
 Bitek szama: 4
-96690 441 12 MOVE 10 ^
+96692 441 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 442 12 MOVE 10 ^
+96692 442 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 443 12 MOVE 11 ^
+96692 443 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 444 12 MOVE 11 ^
+96692 444 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[2][12]=1
-96690 445 12 CREATE 2 51
+96692 445 12 CREATE 2 51
 Kor szama: 4
 Bitek szama: 4
-96690 446 12 MOVE 10 ^
+96692 446 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 447 12 MOVE 10 ^
+96692 447 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 448 12 MOVE 10 ^
+96692 448 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 449 12 MOVE 10 ^
+96692 449 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 450 12 MOVE 10 ^
+96692 450 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 451 12 MOVE 10 ^
+96692 451 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 452 12 MOVE 10 ^
+96692 452 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 453 12 MOVE 10 ^
+96692 453 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 454 12 MOVE 10 ^
+96692 454 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 455 12 MOVE 8 ^
+96692 455 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 456 12 MOVE 5 ^
+96692 456 12 MOVE 5 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[2][12]=0
-96690 457 12 CREATE 2 52
+96692 457 12 CREATE 2 52
 Kor szama: 4
 Bitek szama: 4
-96690 458 12 MOVE 5 ^
+96692 458 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 459 12 MOVE 6 ^
+96692 459 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 460 12 MOVE 6 ^
+96692 460 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 461 12 MOVE 8 ^
+96692 461 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 462 12 MOVE 8 ^
+96692 462 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 463 12 MOVE 11 ^
+96692 463 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[1][12]=1
-96690 464 12 CREATE 1 53
+96692 464 12 CREATE 1 53
 Kor szama: 4
 Bitek szama: 4
-96690 465 12 MOVE 12 ^
+96692 465 12 MOVE 12 ^
 Kor szama: 4
 Bitek szama: 4
-96690 466 12 MOVE 11 ^
+96692 466 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 467 12 MOVE 9 ^
+96692 467 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 468 12 MOVE 9 ^
+96692 468 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 469 12 MOVE 9 ^
+96692 469 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 470 12 MOVE 8 ^
+96692 470 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 471 12 MOVE 8 ^
+96692 471 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 472 12 MOVE 8 ^
+96692 472 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 473 12 MOVE 8 ^
+96692 473 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 474 12 MOVE 8 ^
+96692 474 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 475 12 MOVE 8 ^
+96692 475 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 476 12 MOVE 8 ^
+96692 476 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 477 12 MOVE 5 ^
+96692 477 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 478 12 MOVE 5 ^
+96692 478 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 479 12 MOVE 5 ^
+96692 479 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 480 12 MOVE 8 ^
+96692 480 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 481 12 MOVE 8 ^
+96692 481 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 482 12 MOVE 8 ^
+96692 482 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 483 12 MOVE 10 ^
+96692 483 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 484 12 MOVE 11 ^
+96692 484 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-96690 485 12 CREATE 0 54
+96692 485 12 CREATE 0 54
 Kor szama: 4
 Bitek szama: 4
-96690 486 12 MOVE 13 ^
+96692 486 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-96690 487 12 MOVE 13 ^
+96692 487 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-96690 488 12 MOVE 13 ^
+96692 488 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-96690 489 12 MOVE 13 ^
+96692 489 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-96690 490 12 CREATE 2 55
+96692 490 12 CREATE 2 55
 Kor szama: 4
 Bitek szama: 4
-96690 491 12 MOVE 11 ^
+96692 491 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 492 12 MOVE 11 ^
+96692 492 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 493 12 MOVE 9 ^
+96692 493 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 494 12 MOVE 9 ^
+96692 494 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 495 12 MOVE 9 ^
+96692 495 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 496 12 MOVE 9 ^
+96692 496 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 497 12 MOVE 9 ^
+96692 497 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 498 12 MOVE 9 ^
+96692 498 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 499 12 MOVE 8 ^
+96692 499 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 500 12 MOVE 8 ^
+96692 500 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 501 12 MOVE 7 ^
+96692 501 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 502 12 MOVE 7 ^
+96692 502 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 503 12 MOVE 7 ^
+96692 503 12 MOVE 7 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[3][12]=1
-96690 504 12 CREATE 3 56
+96692 504 12 CREATE 3 56
 Kor szama: 4
 Bitek szama: 4
-96690 505 12 MOVE 6 ^
+96692 505 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 506 12 MOVE 6 ^
+96692 506 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 507 12 MOVE 6 ^
+96692 507 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 508 12 MOVE 6 ^
+96692 508 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 509 12 MOVE 6 ^
+96692 509 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 510 12 MOVE 5 ^
+96692 510 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 511 12 MOVE 5 ^
+96692 511 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 512 12 MOVE 5 ^
+96692 512 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 513 12 MOVE 8 ^
+96692 513 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 514 12 MOVE 8 ^
+96692 514 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 515 12 MOVE 9 ^
+96692 515 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 516 12 MOVE 9 ^
+96692 516 12 MOVE 9 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[2][12]=0
-96690 517 12 CREATE 2 57
+96692 517 12 CREATE 2 57
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[2][12]=1
-96690 518 12 CREATE 2 58
+96692 518 12 CREATE 2 58
 Kor szama: 4
 Bitek szama: 4
-96690 519 12 MOVE 1 ^
+96692 519 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-96690 520 12 MOVE 0 ^
+96692 520 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-96690 521 12 MOVE 13 ^
+96692 521 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[1][12]=1
-96690 522 12 CREATE 1 59
+96692 522 12 CREATE 1 59
 Kor szama: 4
 Bitek szama: 4
-96690 523 12 MOVE 8 ^
+96692 523 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 524 12 MOVE 8 ^
+96692 524 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 525 12 MOVE 8 ^
+96692 525 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 526 12 MOVE 8 ^
+96692 526 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 527 12 MOVE 7 ^
+96692 527 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 528 12 MOVE 6 ^
+96692 528 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 529 12 MOVE 6 ^
+96692 529 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 530 12 MOVE 6 ^
+96692 530 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 531 12 MOVE 6 ^
+96692 531 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 532 12 MOVE 6 ^
+96692 532 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 533 12 MOVE 5 ^
+96692 533 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 534 12 MOVE 5 ^
+96692 534 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 535 12 MOVE 9 ^
+96692 535 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 536 12 MOVE 9 ^
+96692 536 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 537 12 MOVE 9 ^
+96692 537 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 538 12 MOVE 9 ^
+96692 538 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 539 12 MOVE 9 ^
+96692 539 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 540 12 MOVE 10 ^
+96692 540 12 MOVE 10 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-96690 541 12 CREATE 0 60
+96692 541 12 CREATE 0 60
 Kor szama: 4
 Bitek szama: 4
-96690 542 12 MOVE 2 ^
+96692 542 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 543 12 MOVE 2 ^
+96692 543 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 544 12 MOVE 2 ^
+96692 544 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 545 12 MOVE 2 ^
+96692 545 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 546 12 MOVE 3 ^
+96692 546 12 MOVE 3 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=1
-96690 547 12 CREATE 0 61
+96692 547 12 CREATE 0 61
 Kor szama: 4
 Bitek szama: 4
-96690 548 12 MOVE 4 ^
+96692 548 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 549 12 MOVE 5 ^
+96692 549 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 550 12 MOVE 0 ^
+96692 550 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-96690 551 12 MOVE 0 ^
+96692 551 12 MOVE 0 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[3][12]=0
-96690 552 12 CREATE 3 62
+96692 552 12 CREATE 3 62
 Kor szama: 4
 Bitek szama: 4
-96690 553 12 MOVE 10 ^
+96692 553 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 554 12 MOVE 10 ^
+96692 554 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 555 12 MOVE 10 ^
+96692 555 12 MOVE 10 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[3][12]=1
-96690 556 12 CREATE 3 63
+96692 556 12 CREATE 3 63
 Kor szama: 4
 Bitek szama: 4
-96690 557 12 MOVE 8 ^
+96692 557 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 558 12 MOVE 8 ^
+96692 558 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 559 12 MOVE 8 ^
+96692 559 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 560 12 MOVE 6 ^
+96692 560 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 561 12 MOVE 6 ^
+96692 561 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 562 12 MOVE 6 ^
+96692 562 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 563 12 MOVE 6 ^
+96692 563 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 564 12 MOVE 5 ^
+96692 564 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 565 12 MOVE 5 ^
+96692 565 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 566 12 MOVE 5 ^
+96692 566 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 567 12 MOVE 7 ^
+96692 567 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 568 12 MOVE 7 ^
+96692 568 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 569 12 MOVE 7 ^
+96692 569 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 570 12 MOVE 7 ^
+96692 570 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 571 12 MOVE 7 ^
+96692 571 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 572 12 MOVE 7 ^
+96692 572 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 573 12 MOVE 7 ^
+96692 573 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 574 12 MOVE 10 ^
+96692 574 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 575 12 MOVE 10 ^
+96692 575 12 MOVE 10 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[3][12]=1
-96690 576 12 CREATE 3 64
+96692 576 12 CREATE 3 64
 Kor szama: 4
 Bitek szama: 4
-96690 577 12 MOVE 12 ^
+96692 577 12 MOVE 12 ^
 Kor szama: 4
 Bitek szama: 4
-96690 578 12 MOVE 0 ^
+96692 578 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-96690 579 12 MOVE 0 ^
+96692 579 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-96690 580 12 MOVE 4 ^
+96692 580 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 581 12 MOVE 4 ^
+96692 581 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 582 12 MOVE 4 ^
+96692 582 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 583 12 MOVE 5 ^
+96692 583 12 MOVE 5 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-96690 584 12 CREATE 2 65
+96692 584 12 CREATE 2 65
 Kor szama: 4
 Bitek szama: 4
-96690 585 12 MOVE 3 ^
+96692 585 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-96690 586 12 MOVE 3 ^
+96692 586 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-96690 587 12 MOVE 3 ^
+96692 587 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-96690 588 12 MOVE 2 ^
+96692 588 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 589 12 MOVE 1 ^
+96692 589 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-96690 590 12 MOVE 1 ^
+96692 590 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-96690 591 12 MOVE 1 ^
+96692 591 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-96690 592 12 MOVE 13 ^
+96692 592 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-96690 593 12 CREATE 0 66
+96692 593 12 CREATE 0 66
 Kor szama: 4
 Bitek szama: 4
-96690 594 12 MOVE 9 ^
+96692 594 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 595 12 MOVE 9 ^
+96692 595 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 596 12 MOVE 10 ^
+96692 596 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 597 12 MOVE 11 ^
+96692 597 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[1][12]=0
-96690 598 12 CREATE 1 67
+96692 598 12 CREATE 1 67
 Kor szama: 4
 Bitek szama: 4
-96690 599 12 MOVE 6 ^
+96692 599 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 600 12 MOVE 6 ^
+96692 600 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 601 12 MOVE 6 ^
+96692 601 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 602 12 MOVE 6 ^
+96692 602 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 603 12 MOVE 8 ^
+96692 603 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 604 12 MOVE 8 ^
+96692 604 12 MOVE 8 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-96690 605 12 CREATE 2 68
+96692 605 12 CREATE 2 68
 Kor szama: 4
 Bitek szama: 4
-96690 606 12 MOVE 11 ^
+96692 606 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 607 12 MOVE 11 ^
+96692 607 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 608 12 MOVE 11 ^
+96692 608 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 609 12 MOVE 11 ^
+96692 609 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[4][12]=1
-96690 610 12 CREATE 4 69
+96692 610 12 CREATE 4 69
 Kor szama: 4
 Bitek szama: 4
-96690 611 12 MOVE 7 ^
+96692 611 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 612 12 MOVE 7 ^
+96692 612 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 613 12 MOVE 11 ^
+96692 613 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 614 12 MOVE 11 ^
+96692 614 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 615 12 MOVE 11 ^
+96692 615 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-96690 616 12 CREATE 0 70
+96692 616 12 CREATE 0 70
 Kor szama: 4
 Bitek szama: 4
-96690 617 12 MOVE 3 ^
+96692 617 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-96690 618 12 MOVE 5 ^
+96692 618 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 619 12 MOVE 4 ^
+96692 619 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 620 12 MOVE 4 ^
+96692 620 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 621 12 MOVE 4 ^
+96692 621 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 622 12 MOVE 0 ^
+96692 622 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-96690 623 12 MOVE 13 ^
+96692 623 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-96690 624 12 CREATE 2 71
+96692 624 12 CREATE 2 71
 Kor szama: 4
 Bitek szama: 4
-96690 625 12 MOVE 13 ^
+96692 625 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-96690 626 12 MOVE 13 ^
+96692 626 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-96690 627 12 CREATE 2 72
+96692 627 12 CREATE 2 72
 Kor szama: 4
 Bitek szama: 4
-96690 628 12 MOVE 11 ^
+96692 628 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 629 12 MOVE 11 ^
+96692 629 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 630 12 MOVE 9 ^
+96692 630 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 631 12 MOVE 7 ^
+96692 631 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 632 12 MOVE 7 ^
+96692 632 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 633 12 MOVE 7 ^
+96692 633 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 634 12 MOVE 6 ^
+96692 634 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 635 12 MOVE 6 ^
+96692 635 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 636 12 MOVE 6 ^
+96692 636 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 637 12 MOVE 5 ^
+96692 637 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 638 12 MOVE 5 ^
+96692 638 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 639 12 MOVE 6 ^
+96692 639 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 640 12 MOVE 6 ^
+96692 640 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 641 12 MOVE 8 ^
+96692 641 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 642 12 MOVE 9 ^
+96692 642 12 MOVE 9 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-96690 643 12 CREATE 2 73
+96692 643 12 CREATE 2 73
 Kor szama: 4
 Bitek szama: 4
-96690 644 12 MOVE 7 ^
+96692 644 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 645 12 MOVE 7 ^
+96692 645 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 646 12 MOVE 7 ^
+96692 646 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 647 12 MOVE 7 ^
+96692 647 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 648 12 MOVE 7 ^
+96692 648 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 649 12 MOVE 9 ^
+96692 649 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 650 12 MOVE 9 ^
+96692 650 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 651 12 MOVE 9 ^
+96692 651 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 652 12 MOVE 10 ^
+96692 652 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 653 12 MOVE 10 ^
+96692 653 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 654 12 MOVE 10 ^
+96692 654 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 655 12 MOVE 11 ^
+96692 655 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=0
-96690 656 12 CREATE 1 74
+96692 656 12 CREATE 1 74
 Kor szama: 4
 Bitek szama: 4
-96690 657 12 MOVE 13 ^
+96692 657 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-96690 658 12 MOVE 13 ^
+96692 658 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-96690 659 12 MOVE 1 ^
+96692 659 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-96690 660 12 MOVE 5 ^
+96692 660 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 661 12 MOVE 5 ^
+96692 661 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 662 12 MOVE 3 ^
+96692 662 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-96690 663 12 MOVE 3 ^
+96692 663 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-96690 664 12 MOVE 2 ^
+96692 664 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 665 12 MOVE 2 ^
+96692 665 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 666 12 MOVE 2 ^
+96692 666 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 667 12 MOVE 2 ^
+96692 667 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 668 12 MOVE 0 ^
+96692 668 12 MOVE 0 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-96690 669 12 CREATE 2 75
+96692 669 12 CREATE 2 75
 Kor szama: 4
 Bitek szama: 4
-96690 670 12 MOVE 10 ^
+96692 670 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 671 12 MOVE 10 ^
+96692 671 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 672 12 MOVE 10 ^
+96692 672 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 673 12 MOVE 10 ^
+96692 673 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 674 12 MOVE 10 ^
+96692 674 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 675 12 MOVE 10 ^
+96692 675 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 676 12 MOVE 10 ^
+96692 676 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 677 12 MOVE 11 ^
+96692 677 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-96690 678 12 CREATE 0 76
+96692 678 12 CREATE 0 76
 Kor szama: 4
 Bitek szama: 4
-96690 679 12 MOVE 1 ^
+96692 679 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-96690 680 12 MOVE 1 ^
+96692 680 12 MOVE 1 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
 Utkozes a bitek kozott
  a[4][12]=0
-96690 681 12 CREATE 4 77
+96692 681 12 CREATE 4 77
 Kor szama: 4
 Bitek szama: 4
-96690 682 12 MOVE 10 ^
+96692 682 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 683 12 MOVE 9 ^
+96692 683 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 684 12 MOVE 7 ^
+96692 684 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 685 12 MOVE 6 ^
+96692 685 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 686 12 MOVE 6 ^
+96692 686 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 687 12 MOVE 6 ^
+96692 687 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 688 12 MOVE 5 ^
+96692 688 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 689 12 MOVE 5 ^
+96692 689 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 690 12 MOVE 7 ^
+96692 690 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 691 12 MOVE 8 ^
+96692 691 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 692 12 MOVE 9 ^
+96692 692 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 693 12 MOVE 9 ^
+96692 693 12 MOVE 9 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-96690 694 12 CREATE 0 78
+96692 694 12 CREATE 0 78
 Kor szama: 4
 Bitek szama: 4
-96690 695 12 MOVE 3 ^
+96692 695 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-96690 696 12 MOVE 5 ^
+96692 696 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 697 12 MOVE 4 ^
+96692 697 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 698 12 MOVE 3 ^
+96692 698 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-96690 699 12 MOVE 3 ^
+96692 699 12 MOVE 3 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-96690 700 12 CREATE 0 79
+96692 700 12 CREATE 0 79
 Kor szama: 4
 Bitek szama: 4
-96690 701 12 MOVE 8 ^
+96692 701 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 702 12 MOVE 8 ^
+96692 702 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 703 12 MOVE 8 ^
+96692 703 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 704 12 MOVE 8 ^
+96692 704 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 705 12 MOVE 8 ^
+96692 705 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 706 12 MOVE 6 ^
+96692 706 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 707 12 MOVE 6 ^
+96692 707 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 708 12 MOVE 6 ^
+96692 708 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 709 12 MOVE 5 ^
+96692 709 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 710 12 MOVE 6 ^
+96692 710 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 711 12 MOVE 7 ^
+96692 711 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 712 12 MOVE 7 ^
+96692 712 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 713 12 MOVE 9 ^
+96692 713 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 714 12 MOVE 9 ^
+96692 714 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 715 12 MOVE 10 ^
+96692 715 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 716 12 MOVE 10 ^
+96692 716 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 717 12 MOVE 10 ^
+96692 717 12 MOVE 10 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[3][12]=0
-96690 718 12 CREATE 3 80
+96692 718 12 CREATE 3 80
 Kor szama: 4
 Bitek szama: 4
-96690 719 12 MOVE 0 ^
+96692 719 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-96690 720 12 MOVE 0 ^
+96692 720 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-96690 721 12 MOVE 0 ^
+96692 721 12 MOVE 0 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-96690 722 12 CREATE 1 81
+96692 722 12 CREATE 1 81
 Kor szama: 4
 Bitek szama: 4
-96690 723 12 MOVE 9 ^
+96692 723 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 724 12 MOVE 9 ^
+96692 724 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 725 12 MOVE 9 ^
+96692 725 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 726 12 MOVE 9 ^
+96692 726 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 727 12 MOVE 11 ^
+96692 727 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 728 12 MOVE 11 ^
+96692 728 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=1
-96690 729 12 CREATE 2 82
+96692 729 12 CREATE 2 82
 Kor szama: 4
 Bitek szama: 4
-96690 730 12 MOVE 5 ^
+96692 730 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 731 12 MOVE 5 ^
+96692 731 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 732 12 MOVE 4 ^
+96692 732 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 733 12 MOVE 2 ^
+96692 733 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 734 12 MOVE 2 ^
+96692 734 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 735 12 MOVE 2 ^
+96692 735 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 736 12 MOVE 2 ^
+96692 736 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 737 12 MOVE 2 ^
+96692 737 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 738 12 MOVE 1 ^
+96692 738 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-96690 739 12 MOVE 1 ^
+96692 739 12 MOVE 1 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=1
-96690 740 12 CREATE 2 83
+96692 740 12 CREATE 2 83
 Kor szama: 4
 Bitek szama: 4
-96690 741 12 MOVE 8 ^
+96692 741 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 742 12 MOVE 8 ^
+96692 742 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 743 12 MOVE 8 ^
+96692 743 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 744 12 MOVE 10 ^
+96692 744 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 745 12 MOVE 11 ^
+96692 745 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 746 12 MOVE 11 ^
+96692 746 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 747 12 MOVE 11 ^
+96692 747 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 748 12 MOVE 11 ^
+96692 748 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 749 12 MOVE 11 ^
+96692 749 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 750 12 MOVE 11 ^
+96692 750 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[3][12]=0
-96690 751 12 CREATE 3 84
+96692 751 12 CREATE 3 84
 Kor szama: 4
 Bitek szama: 4
-96690 752 12 MOVE 5 ^
+96692 752 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 753 12 MOVE 4 ^
+96692 753 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-96690 754 12 MOVE 3 ^
+96692 754 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-96690 755 12 MOVE 2 ^
+96692 755 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 756 12 MOVE 2 ^
+96692 756 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 757 12 MOVE 2 ^
+96692 757 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-96690 758 12 MOVE 1 ^
+96692 758 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-96690 759 12 MOVE 1 ^
+96692 759 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-96690 760 12 MOVE 13 ^
+96692 760 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=1
-96690 761 12 CREATE 2 85
+96692 761 12 CREATE 2 85
 Kor szama: 4
 Bitek szama: 4
-96690 762 12 MOVE 10 ^
+96692 762 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 763 12 MOVE 8 ^
+96692 763 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 764 12 MOVE 7 ^
+96692 764 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 765 12 MOVE 6 ^
+96692 765 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 766 12 MOVE 6 ^
+96692 766 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 767 12 MOVE 5 ^
+96692 767 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 768 12 MOVE 5 ^
+96692 768 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 769 12 MOVE 8 ^
+96692 769 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 770 12 MOVE 8 ^
+96692 770 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 771 12 MOVE 8 ^
+96692 771 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 772 12 MOVE 8 ^
+96692 772 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 773 12 MOVE 8 ^
+96692 773 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 774 12 MOVE 8 ^
+96692 774 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 775 12 MOVE 11 ^
+96692 775 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 776 12 MOVE 11 ^
+96692 776 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-96690 777 12 MOVE 11 ^
+96692 777 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=0
-96690 778 12 CREATE 1 86
+96692 778 12 CREATE 1 86
 Kor szama: 4
 Bitek szama: 4
-96690 779 12 MOVE 5 ^
+96692 779 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 780 12 MOVE 4 ^
+96692 780 12 MOVE 4 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[3][12]=1
-96690 781 12 CREATE 3 87
+96692 781 12 CREATE 3 87
 Kor szama: 4
 Bitek szama: 4
-96690 782 12 MOVE 7 ^
+96692 782 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 783 12 MOVE 7 ^
+96692 783 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 784 12 MOVE 7 ^
+96692 784 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 785 12 MOVE 8 ^
+96692 785 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 786 12 MOVE 8 ^
+96692 786 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 787 12 MOVE 8 ^
+96692 787 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 788 12 MOVE 8 ^
+96692 788 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 789 12 MOVE 9 ^
+96692 789 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 790 12 MOVE 10 ^
+96692 790 12 MOVE 10 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-96690 791 12 CREATE 1 88
+96692 791 12 CREATE 1 88
 Kor szama: 4
 Bitek szama: 4
-96690 792 12 MOVE 5 ^
+96692 792 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 793 12 MOVE 5 ^
+96692 793 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 794 12 MOVE 5 ^
+96692 794 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 795 12 MOVE 5 ^
+96692 795 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 796 12 MOVE 3 ^
+96692 796 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-96690 797 12 MOVE 3 ^
+96692 797 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-96690 798 12 MOVE 3 ^
+96692 798 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-96690 799 12 MOVE 0 ^
+96692 799 12 MOVE 0 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[4][12]=1
-96690 800 12 CREATE 4 89
+96692 800 12 CREATE 4 89
 Kor szama: 4
 Bitek szama: 4
-96690 801 12 MOVE 9 ^
+96692 801 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 802 12 MOVE 7 ^
+96692 802 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-96690 803 12 MOVE 5 ^
+96692 803 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 804 12 MOVE 5 ^
+96692 804 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-96690 805 12 MOVE 6 ^
+96692 805 12 MOVE 6 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-96690 806 12 CREATE 1 90
+96692 806 12 CREATE 1 90
 Kor szama: 4
 Bitek szama: 4
-96690 807 12 MOVE 6 ^
+96692 807 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 808 12 MOVE 6 ^
+96692 808 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-96690 809 12 MOVE 8 ^
+96692 809 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-96690 810 12 MOVE 9 ^
+96692 810 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-96690 811 12 MOVE 10 ^
+96692 811 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 812 12 MOVE 10 ^
+96692 812 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 813 12 MOVE 10 ^
+96692 813 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-96690 814 12 MOVE 10 ^
+96692 814 12 MOVE 10 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[4][12]=1
-96690 815 12 CREATE 4 91
+96692 815 12 CREATE 4 91
 READER ERROR HAPPENED: unrecognized command line: SLOW 184 88
 1QTX6BpXCH 0
 E3CjFoQyIz 1
@@ -2836,4 +2836,3 @@ vYGo0SoH7Z 72
  85
  86
  87
-96690 815 12 SOLUTION 1QTX6BpXCHE3CjFoQyIzQ4eDLArtcPm8v3HvIOnfoBZauWl56w6fK9JNX4qt03etteZHRk7nVE9iu2y0ZWqXwqis3ng7IYPJ1XnFMUSDjHKDr9UWo2Fo3kcU8xRWv4wmg1JbZkD9CWPqGGfhR2X4msE1d96s6WUPH069X59mFUVXOJP0QBBmDDrQZspCtkMYhtPzlajLdj7X4o4EguycRlE67YsWCE9aWRpxPmNUYzXB54mPrSPSmq6iuqPVsrDzxpqtmN0QxZoaIh7uj6OJAqhEkprrZovWMapqIseKXEA0Esgwq8pYijqLWr8RJf37eeGuPzRMU4wSA9qebs66tX0cEKFgogR9caDLIQueLCEvck18Zx1yK1CxE3AiHKwdYNIGhLwZwfBeS1lkZ7uQtXeqivPh1beeEmuG0FgXxDe1bguTmezd5Md32JXbWl5aonPSybhVq2SXVBh8UndUlVHRYGRVQBgNvlTwq6sPvIcmjlMmghPMUkSgaZOpscNFxgcAEQiZlnz1AJBoJwdb6F4qfmMqxLLoO16fHuIHduoBMd03l7rj6wluSfzv7M6eY0zAiljsq4o9wMVfn0YBFcG0iKf1Jfkes0F8NLrLD05EnK4Xy4VBKK6sB8VHlYYu1W2h9g0tbtJRAxHFB3hgxzoAHoQYbdKWA0UGLixjaY3hdOYIOGBk1Q8Ey3z6ML330UUdC7Bib1xCOsJUvYGo0SoH7Z9
