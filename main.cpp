@@ -135,6 +135,7 @@ void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vect
 	//Start simulating
 	while (true)
 	{
+		togo:
 		std::cerr<<"s";
 		//Automatic upwards shift
 		for(int i = 0; i<packets.size(); i++)
@@ -144,7 +145,7 @@ void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vect
 				state[packets[i].currRouter][packets[i].currStoreId] = '-';
 				packets[i].currStoreId--;
 				std::cerr<<"s";
-				continue;
+				goto togo;
 			}
 
 		//Automatic movement
@@ -160,7 +161,7 @@ void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vect
 				packets[i].currRouter += direction;
 				pa.value++; //increment action's usefulness
 				std::cerr<<"m";
-				continue;
+				goto togo;
 				
 			}
 		}
