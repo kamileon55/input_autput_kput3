@@ -6,6 +6,11 @@
 #include <cstring>
 #include <bits/stdc++.h>
 #include <vector>
+
+
+int seed = 68;
+
+
 char verzio[20]="69";
 unsigned int alaprouter;
 bool finishMode = 0;
@@ -187,7 +192,7 @@ void readData(Reader& to) // void barmi(int a)
 int main()
 {
     char teamToken[] = "tqEzVLvbq6wz_uWr6HS1";
-    int seed = 10;
+
     int befutott=0;
     std::string solution;
     std::cout << "START " << teamToken
