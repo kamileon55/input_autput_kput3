@@ -1,15 +1,3 @@
-/main.cpp: In function ‘void readData(Reader&)’:
-/main.cpp:79:19: error: ‘data’ was not declared in this scope
-             lepes=data[1];
-                   ^~~~
-/main.cpp:79:19: note: suggested alternative:
-In file included from /usr/include/c++/8/string:51,
-                 from /usr/include/c++/8/stdexcept:39,
-                 from /usr/include/c++/8/array:39,
-                 from /main.cpp:2:
-/usr/include/c++/8/bits/range_access.h:318:5: note:   ‘std::data’
-     data(initializer_list<_Tp> __il) noexcept
-     ^~~~
 /main.cpp: In function ‘int main()’:
 /main.cpp:164:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for (int i=0; i<reader.dataArray.size(); i++)
