@@ -50,8 +50,12 @@ struct Reader
     std::vector<MessagePiece> receivedPieces; ///letarolando, rendezendo
     bool hasEnd;
 };
-
-
+struct Rendezendo
+{
+    float ertek;
+    int indexem;
+};
+std::vector<Rendezendo>anyukad;
 
 void readData(Reader& to) // void barmi(int a)
 {
@@ -114,6 +118,11 @@ void readData(Reader& to) // void barmi(int a)
                  to.hasEnd = true;
             }
             int al_index=msg.rendszam;
+          
+            Rendezendo alma;
+            alma.ertek=al_index/fogadott*(1001-to.data[1])/1000;
+            alma.indexem=msg.index;
+            
           //  msg.index=al_index/fogadott*(1001-to.data[1])/1000;
             
             std::cerr<<"Rendszam: "<<msg.rendszam<<"\n";
