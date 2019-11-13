@@ -13,7 +13,22 @@
 /main.cpp:260:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
      for(int i=0; i<azenyem.size(); i++)
                   ~^~~~~~~~~~~~~~~
-/main.cpp:277:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:313:1: error: a function-definition is not allowed here before ‘{’ token
+ {
+ ^
+/main.cpp:331:1: error: a function-definition is not allowed here before ‘{’ token
+ {
+ ^
+/main.cpp:409:1: error: a function-definition is not allowed here before ‘{’ token
+ {
+ ^
+/main.cpp:283:6: warning: unused variable ‘verzio’ [-Wunused-variable]
+ char verzio[20]="69";
+      ^~~~~~
+/main.cpp:284:14: warning: unused variable ‘alaprouter’ [-Wunused-variable]
+ unsigned int alaprouter;
+              ^~~~~~~~~~
+/main.cpp:567:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
      for(int i=0; i<azenyem.size(); i++)
                   ~^~~~~~~~~~~~~~~
 /main.cpp:139:9: warning: unused variable ‘befutott’ [-Wunused-variable]
