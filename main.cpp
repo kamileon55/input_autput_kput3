@@ -9,17 +9,14 @@
 #include <vector>
 char verzio[20]="69";
 unsigned int alaprouter;
-bool finishMode = 0;
-int fogadott=0;
-  int bevaras=0;
-  
 enum class Direction : char
 {
     LEFT = 'l',
     RIGHT = 'r'
 };
 
-
+int fogadott=0;
+  int bevaras=0;
 struct Data
 {
     unsigned int currRouter; ///
@@ -59,26 +56,6 @@ struct Rendezendo
     int indexem;
 };
 std::vector<Rendezendo>anyukad;
-
-int leu(std::array<std::array<bool, 10>, 14> routerBits, int curRouter, int curRI, int targetRouter, bool goingLeft)
-{
-    
-    curRI = curRI % 14;
-    int dir = 1;
-    if (goingLeft)
-        dir = -1;
-        
-    if (targetRouter == curRouter)
-        return 0;
-    
-    int nextRouter = (curRouter+dir)%14;
-    if (routerBits[nextRouter][curRI])
-        return leu(routerBits, nextRouter, curRI, targetRouter, goingLeft)+1;
-    else
-        return 0;
-    
-    
-}
 
 void readData(Reader& to) // void barmi(int a)
 {
@@ -140,8 +117,6 @@ void readData(Reader& to) // void barmi(int a)
             if(msg.message.size()==0)
             {
                 bevaras++;
-                finishMode=1;
-                
 
             }
             if(bevaras>=3)
@@ -186,10 +161,6 @@ int main()
     std::string command;
 
     int faszpicsa = 0;
-    
-    bool createLeft = 1;
-    
- 
 
     while(true)
     {
@@ -234,7 +205,7 @@ int main()
 
         int betesz=0;
         int beleptem=0;
-        if(bitjeim<4 && !finishMode)
+        if(bitjeim<4)
         {
             beleptem=1;
             for(int i=0; i<9; i++)
@@ -258,8 +229,6 @@ int main()
                         command=command+std::to_string(i)+" "+std::to_string(faszpicsa++);
                //         std::cerr<<" a["<<i<<"]["<<alaprouter<<"]="<<reader.routerBits[i][alaprouter]<<"\n";
                         betesz=1;
-                        
-                        createLeft = !createLeft;
                         break;
 
 
@@ -275,68 +244,23 @@ int main()
         }
 
 
-        if(bitjeim==4 || (betesz==0 && beleptem==1) || finishMode)
+        if(bitjeim==4 || (betesz==0 && beleptem==1))
 
         {
-            if (finishMode)
+            long unsigned int min=1000;
+            int minIndex=-1;
+            for(int i=0; i<8; i++)
             {
-                long unsigned int min=1000;
-                int minIndex=-1;
-                for(int i=0; i<8; i++)
+                if(reader.dataArray[i].dataIndex<min && reader.dataArray[i].fromRouter==alaprouter)
                 {
-                    if(reader.dataArray[i].dataIndex<min && reader.dataArray[i].fromRouter==alaprouter)
-                    {
-                        min=reader.dataArray[i].dataIndex;
-                        minIndex = i;
-                    }
-
+                    min=reader.dataArray[i].dataIndex;
+                    minIndex = i;
                 }
-                
+
+            }
+
             command= "MOVE ";
             command=command+std::to_string(reader.dataArray[minIndex].currRouter)+" "+"v";
-                
-            } else
-            {
-                ///kod ide
-                
-                int vals[28] = {0}; //0-14: le
-                
-                for(int i=0; i<8; i++)
-                {
-                    if(reader.dataArray[i].fromRouter==alaprouter)
-                    {
-                        int res = leu(reader.routerBits, reader.dataArray[i].currRouter, reader.dataArray[i].currStoreId+1,
-                                      reader.dataArray[i].toRouter, reader.dataArray[i].dir == Direction::LEFT);
-                        vals[reader.dataArray[i].currRouter] += res;
-                        
-                        res = leu(reader.routerBits, reader.dataArray[i].currRouter, reader.dataArray[i].currStoreId-1,
-                                      reader.dataArray[i].toRouter, reader.dataArray[i].dir == Direction::LEFT);
-                        vals[reader.dataArray[i].currRouter+14] += res;
-                    }
-
-                }
-                
-                int maxID = 0;
-                for (int i = 1; i<28; i++)
-                    if (vals[i]>vals[maxID])
-                        maxID = i;
-                
-                
-                char lofasz = 'v';
-                if (maxID >13)
-                {
-                    lofasz = '^';
-                    maxID -= 14;
-                }
-                command= "MOVE ";
-                command=command+std::to_string(maxID)+" "+lofasz;
-                
-            }
-            
-            
-            
-
-
 
 
 
