@@ -161,6 +161,7 @@ void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vect
 			if (packets[i].currRouter != packets[i].toRouter && state[(packets[i].currRouter + direction)%14][packets[i].currStoreId] == '-')
 			{
 				std::cerr<<"m";
+				std::cerr<<"<"<<packets[i].currRouter<<"."<<packets[i].toRouter<<">";
 				state[(packets[i].currRouter + direction)%14][packets[i].currStoreId] = '0'+i;
 				state[packets[i].currRouter][packets[i].currStoreId] = '-';
 				packets[i].currRouter = (packets[i].currRouter + direction)%14;
