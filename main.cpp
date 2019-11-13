@@ -115,7 +115,7 @@ void readData(Reader& to) // void barmi(int a)
                  to.hasEnd = true;
             }
           
-            msg.rendszam=msg.index/msg.size()*(1001-reader.data[1])/1000;
+            msg.rendszam=msg.index/azenyem.size()*(1001-data[1])/1000;
             azenyem.push_back(msg);
 
         }
