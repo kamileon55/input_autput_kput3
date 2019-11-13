@@ -1,63 +1,63 @@
 Kor szama: 0
 Bitek szama: 0
  a[1][12]=0
-97872 0 12 CREATE 1 0
+97997 0 12 CREATE 1 0
 Kor szama: 1
 Bitek szama: 1
  a[1][12]=0
-97872 1 12 CREATE 1 1
+97997 1 12 CREATE 1 1
 Kor szama: 2
 Bitek szama: 2
  a[1][12]=0
-97872 2 12 CREATE 1 2
+97997 2 12 CREATE 1 2
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-97872 3 12 CREATE 1 3
+97997 3 12 CREATE 1 3
 Kor szama: 4
 Bitek szama: 4
-97872 4 12 MOVE 10 ^
+97997 4 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97872 5 12 MOVE 10 ^
+97997 5 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97872 6 12 MOVE 10 ^
+97997 6 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97872 7 12 MOVE 10 ^
+97997 7 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97872 8 12 MOVE 9 ^
+97997 8 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97872 9 12 MOVE 9 ^
+97997 9 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97872 10 12 MOVE 6 ^
+97997 10 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97872 11 12 MOVE 5 ^
+97997 11 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97872 12 12 MOVE 5 ^
+97997 12 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97872 13 12 MOVE 8 ^
+97997 13 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97872 14 12 MOVE 9 ^
+97997 14 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97872 15 12 MOVE 10 ^
+97997 15 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97872 16 12 MOVE 10 ^
+97997 16 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97872 17 12 MOVE 10 ^
+97997 17 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97872 18 12 MOVE 11 ^
+97997 18 12 MOVE 11 ^
 MESSAGE
 timeout: the monitored command dumped core
