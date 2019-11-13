@@ -5,6 +5,7 @@
 #include <sstream>
 #include <cstring>
 #include <vector>
+#include <algorithm>
 
 
 int seed = 111;
