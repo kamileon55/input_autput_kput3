@@ -257,7 +257,7 @@ int main()
     for(int i=0; i<azenyem.size(); i++)
     {
         std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
-        azenyem[i].rendszam=azenyem[i].index/sizeof(azenyem)*(1001-reader.data[1])/1000;
+        azenyem[i].rendszam=azenyem[i].index/(sizeof(azenyem)+1)*(1001-reader.data[1])/1000;
     }
 
     for(long unsigned int i=0; i<azenyem.size()-1; i++)
