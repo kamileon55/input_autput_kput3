@@ -187,7 +187,7 @@ void readData(Reader& to) // void barmi(int a)
 int main()
 {
     char teamToken[] = "tqEzVLvbq6wz_uWr6HS1";
-    int seed = 68;
+    int seed = 10;
     int befutott=0;
     std::string solution;
     std::cout << "START " << teamToken
@@ -251,6 +251,7 @@ int main()
         if(bitjeim<4 && !finishMode)
         {
             beleptem=1;
+            int maxcenti=0;
             for(int i=0; i<9; i++)
             {
                 if(reader.routerBits[alaprouter][i]==1 )
@@ -282,8 +283,13 @@ int main()
 
 
                     }
-                    int maxcenti=0;
-                    for(int fasz=0; fasz<10; fasz++)
+
+
+                }
+
+            }
+            
+             for(int fasz=0; fasz<10; fasz++)
                     {
                         if(tavolsagok[fasz]>tavolsagok[maxcenti])
                         {
@@ -297,12 +303,6 @@ int main()
 
                     createLeft = !createLeft;
                         break;
-
-
-
-                }
-
-            }
         }
 
 
