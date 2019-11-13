@@ -194,7 +194,7 @@ void readData(Reader& to)
                 !line.rfind("TICK", 0))
         {
             to.hasEnd = true;
-			std::cerr<<"##end1\n";
+			std::cerr<<"##end1\n"<<line<<"\n";
             to.previous = std::move(line);
         }
         else if (!line.rfind("REQUEST", 0))
