@@ -117,14 +117,10 @@ void readData(Reader& to) // void barmi(int a)
             {
                  to.hasEnd = true;
             }
-            int al_index=msg.rendszam;
+            
 
 
-
-            if(to.data[1]<100)
-            {
-                std::cerr<<"Az a nyomorult: "<<alma.ertek<<"\n";
-            }
+           
            //
 
          //
