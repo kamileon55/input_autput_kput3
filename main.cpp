@@ -114,8 +114,9 @@ void readData(Reader& to) // void barmi(int a)
             {
                  to.hasEnd = true;
             }
+          
+            msg.rendszam=msg.index/msg.size()*(1001-reader.data[1])/1000;
             azenyem.push_back(msg);
-
 
         }
         else
@@ -257,7 +258,7 @@ int main()
     for(int i=0; i<azenyem.size(); i++)
     {
         std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
-        azenyem[i].rendszam=azenyem[i].index/(azenyem.size())*(1001-reader.data[1])/1000;
+        
     }
         std::cerr<<"A bizonyos meret: "<<azenyem.size()<<"\n";
     for(long unsigned int i=0; i<azenyem.size()-1; i++)
