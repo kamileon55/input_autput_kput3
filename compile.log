@@ -1,14 +1,15 @@
 /main.cpp: In function ‘void readData(Reader&)’:
-/main.cpp:118:40: error: ‘struct MessagePiece’ has no member named ‘size’
-             msg.rendszam=msg.index/msg.size()*(1001-reader.data[1])/1000;
-                                        ^~~~
-/main.cpp:118:53: error: ‘reader’ was not declared in this scope
-             msg.rendszam=msg.index/msg.size()*(1001-reader.data[1])/1000;
-                                                     ^~~~~~
-/main.cpp:118:53: note: suggested alternative: ‘Reader’
-             msg.rendszam=msg.index/msg.size()*(1001-reader.data[1])/1000;
-                                                     ^~~~~~
-                                                     Reader
+/main.cpp:118:57: error: ‘data’ was not declared in this scope
+             msg.rendszam=msg.index/azenyem.size()*(1001-data[1])/1000;
+                                                         ^~~~
+/main.cpp:118:57: note: suggested alternative:
+In file included from /usr/include/c++/8/string:51,
+                 from /usr/include/c++/8/stdexcept:39,
+                 from /usr/include/c++/8/array:39,
+                 from /main.cpp:2:
+/usr/include/c++/8/bits/range_access.h:318:5: note:   ‘std::data’
+     data(initializer_list<_Tp> __il) noexcept
+     ^~~~
 /main.cpp: In function ‘int main()’:
 /main.cpp:163:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for (int i=0; i<reader.dataArray.size(); i++)
