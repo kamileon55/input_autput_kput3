@@ -84,8 +84,7 @@ void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vect
 
 
 	//Copy data into an array
-	//char state[14][10];
-	std::array < std::array<char, 10>, 14> state;
+	char state[14][10];
 	for (int i = 0; i<14; i++)
 		for (int j = 0; j<10; j++)
 			state[i][j] = (routerBits[i][j])?'-':'#'; //- open, #blocked
@@ -117,7 +116,7 @@ void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vect
 
 		for (int i = 0; i<10; i++)
 			if (state[pa.moveRouter][i] >= '0' && state[pa.moveRouter][i] <= '9')
-				packets[state[pa.moveRouter][i]-'0'].currStoreId--;
+				packets[state[pa.moveRouter][i]-'0'].currStoreId = (packets[state[pa.moveRouter][i]-'0'].currStoreId-1)%14;
 
 	} else
 	if (pa.action == 'v')
@@ -129,7 +128,7 @@ void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vect
 
 		for (int i = 0; i<10; i++)
 			if (state[pa.moveRouter][i] >= '0' && state[pa.moveRouter][i] <= '9')
-				packets[state[pa.moveRouter][i]-'0'].currStoreId++;
+				packets[state[pa.moveRouter][i]-'0'].currStoreId = (packets[state[pa.moveRouter][i]-'0'].currStoreId+1)%14;
 	}
 	
 	std::cerr<<"SS";
