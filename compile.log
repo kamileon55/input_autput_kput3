@@ -1,11 +1,3 @@
-/main.cpp: In function ‘void readData(Reader&)’:
-/main.cpp:122:16: error: ‘beveras’ was not declared in this scope
-             if(beveras>=3)
-                ^~~~~~~
-/main.cpp:122:16: note: suggested alternative: ‘bevaras’
-             if(beveras>=3)
-                ^~~~~~~
-                bevaras
 /main.cpp: In function ‘int main()’:
 /main.cpp:179:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for (int i=0; i<reader.dataArray.size(); i++)
