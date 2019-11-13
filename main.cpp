@@ -136,7 +136,7 @@ void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vect
 	while (true)
 	{
 		togo:
-		std::cerr<<"s";
+		std::cerr<<"i";
 		//Automatic upwards shift
 		for(int i = 0; i<packets.size(); i++)
 			if (packets[i].currStoreId > 0 && state[packets[i].currRouter][packets[i].currStoreId - 1] == '-')
