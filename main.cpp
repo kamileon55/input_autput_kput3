@@ -15,7 +15,7 @@ enum class Direction : char
     RIGHT = 'r'
 };
 
-
+int fogadott=0;
 
 struct Data
 {
@@ -103,6 +103,7 @@ void readData(Reader& to) // void barmi(int a)
         else if (!line.rfind("MESSAGE"))
         {
             std::cerr<<"MESSAGE"<<std::endl;
+            
 
             MessagePiece & msg = to.receivedPieces.emplace_back();
 
@@ -110,9 +111,11 @@ void readData(Reader& to) // void barmi(int a)
             // std::cerr<<msg.message<<"   "<<msg.index<<std::endl;
             if(msg.message.size()==0)
             {
-                // to.hasEnd = true;
+                 to.hasEnd = true;
             }
+            msg.rendszam=msg.index/fogadott*(1001-to.data[1])/1000
             azenyem.push_back(msg);
+            std::cerr<<"Rendszam: "<<msg.rendszam<<"\n";
 
 
         }
@@ -165,8 +168,8 @@ int main()
 
             }
         }
-        std::cerr<<"Kor szama: "<<bitjeim<<"\n";
-        std::cerr<<"Bitek szama: "<<bitjeim<<"\n";
+      //  std::cerr<<"Kor szama: "<<bitjeim<<"\n";
+      //  std::cerr<<"Bitek szama: "<<bitjeim<<"\n";
         int betesz=0;
         int beleptem=0;
         if(bitjeim<4)
@@ -183,6 +186,7 @@ int main()
                         {
                             ures=0;
                             std::cerr<<"Utkozes a bitek kozott"<<"\n";
+                            break;
                         }
                     }
                     if(ures==1)
