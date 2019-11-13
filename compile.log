@@ -27,13 +27,13 @@
                                   ~^~~~~~~~~~~~~~~~~~~~~~~~
 /main.cpp:320:59: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
                          if(reader.dataArray[j].currStoreId==i && reader.dataArray[j].currRouter==alaprouter )
-/main.cpp:361:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<PossibleAction>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:367:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<PossibleAction>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
    for(int i = 1; i<posActs.size(); i++) //todo if size() = 0 pass
                   ~^~~~~~~~~~~~~~~
-/main.cpp:383:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:389:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
      for(int i=0; i<azenyem.size(); i++)
                   ~^~~~~~~~~~~~~~~
-/main.cpp:400:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+/main.cpp:406:19: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<MessagePiece>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
      for(int i=0; i<azenyem.size(); i++)
                   ~^~~~~~~~~~~~~~~
 /main.cpp:280:9: warning: unused variable ‘befutott’ [-Wunused-variable]
