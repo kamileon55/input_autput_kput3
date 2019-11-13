@@ -119,7 +119,7 @@ void readData(Reader& to) // void barmi(int a)
                 bevaras++;
 
             }
-            if(beveras>=3)
+            if(bevaras>=3)
             {
                  to.hasEnd = true;
             }
