@@ -84,7 +84,7 @@ void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vect
 
 
 	//Copy data into an array
-	char state[14][10];
+	static char state[14][10];
 	for (int i = 0; i<14; i++)
 		for (int j = 0; j<10; j++)
 			state[i][j] = (routerBits[i][j])?'-':'#'; //- open, #blocked
@@ -403,30 +403,22 @@ int main()
 		std::cerr<<"."<<finishMode<<"Command: "<<command<<"\n";
     }
 
+	/*
     for(int i=0; i<azenyem.size(); i++)
     {
         std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
-    }
+    }*/
 
 	//Sort
-    for(long unsigned int i=0; i<azenyem.size()-1; i++)
-    {
-        for (long unsigned int j=0; j<azenyem.size()-i-1; j++)
-        {
-            if(azenyem[j].index>azenyem[j+1].index)
-            {
-                swap(&azenyem[j], &azenyem[j+1]);
-            }
-        }
-    }
-    std::cerr<<"Betaprotokol "<<std::endl;
+	std::sort(azenyem.begin(), azenyem.end(), [](const MessagePiece &a, const MessagePiece &b){a.index<b.index;});
+	solution.reserve(azenyem.size()*10);
+	int solPointer = 0;
     for(int i=0; i<azenyem.size(); i++)
     {
-        std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
-        solution=solution+azenyem[i].message;
+        for (int j = 0; j<azenyem[i].message.size(); j++)
+			solution[solPointer++] = azenyem[i].message[j];
     }
-    ///************************
-    std::cerr<<"Betaprotokol "<<std::endl;
+	solution[solPointer] = '\0';
 
 
 
