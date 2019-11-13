@@ -12,8 +12,6 @@
 /main.cpp:256:27: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
              for(int i=0; i<to.dataArray.size(); i++)
                           ~^~~~~~~~~~~~~~~~~~~~
-/main.cpp:259:88: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
-                 if(to.dataArray[i].fromRouter==alaprouter && to.dataArray[i].dataIndex < lowestEmptyPacket)
 /main.cpp: In function ‘int main()’:
 /main.cpp:327:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for (int i=0; i<reader.dataArray.size(); i++)
