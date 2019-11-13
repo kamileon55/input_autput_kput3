@@ -32,6 +32,7 @@ struct MessagePiece
 {
     int index;
     std::string message;
+    int rendszam;
 };
 std::vector<MessagePiece>azenyem;
 void swap(MessagePiece *xp, MessagePiece *yp)
@@ -129,7 +130,7 @@ void readData(Reader& to) // void barmi(int a)
 int main()
 {
     char teamToken[] = "tqEzVLvbq6wz_uWr6HS1";
-    int seed = 1;
+    int seed = 2;
     int befutott=0;
     std::string solution;
     std::cout << "START " << teamToken
@@ -150,18 +151,18 @@ int main()
         {
              break;
         }
-           
+
 
         // TODO logika jobb mint a semmitteves
         ///
-      
+
         int bitjeim=0;
         for (int i=0; i<reader.dataArray.size(); i++)
         {
             if( reader.dataArray[i].fromRouter==alaprouter)
             {
                 bitjeim++;
-                
+
             }
         }
         std::cerr<<"Kor szama: "<<bitjeim<<"\n";
@@ -254,13 +255,14 @@ int main()
     for(int i=0; i<azenyem.size(); i++)
     {
         std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
+        azenyem[i].rendszam=azenyem[i].index/sizeof(azenyem)*(1001-reader.data[1])/1000;
     }
 
     for(long unsigned int i=0; i<azenyem.size()-1; i++)
     {
         for (long unsigned int j=0; j<azenyem.size()-i-1; j++)
         {
-            if(azenyem[j].index>azenyem[j+1].index)
+            if(azenyem[j].rendszam>azenyem[j+1].rendszam)
             {
                 swap(&azenyem[j], &azenyem[j+1]);
             }
