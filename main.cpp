@@ -150,7 +150,7 @@ void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vect
 				std::cerr<<"s";
 				goto togo;
 			}
-
+		std::cerr<<",";
 		//Automatic movement
 		for (int i = 0; i < packets.size(); i++)
 		{
