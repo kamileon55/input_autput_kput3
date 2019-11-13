@@ -323,32 +323,29 @@ int main()
             if(reader.dataArray[i].fromRouter==alaprouter)
                 bitjeim++;
 
+		std::vector<PossibleAction> posActs;
 
-        int betesz=0;
-        int beleptem=0;
-        int tavolsagok[10]= {0};
-        if(bitjeim<4 && !finishMode)
-        {
-            beleptem=1;
-            int maxcenti=0;
-            for(int i=0; i<9; i++)
+		//If we can create
+		if (bitjeim < 4 && !finishMode)
+		{
+			for(int i=0; i<9; i++)
             {
                 if(reader.routerBits[alaprouter][i]==1 )
                 {
-                    int ures=1;
+                    bool slotEmpty=1;
                     for(int j=0; j<reader.dataArray.size(); j++)
                     {
                         if(reader.dataArray[j].currStoreId==i && reader.dataArray[j].currRouter==alaprouter )
                         {
-                            ures=0;
-                            std::cerr<<"Utkozes a bitek kozott"<<"\n";
+                            slotEmpty=0;
                             break;
                         }
                     }
-                    if(ures==1)
+                    if(slotEmpty)
                     {
-                        tavolsagok[i]=leu(reader.routerBits, alaprouter, i,
-                                          (alaprouter+7)%14, createLeft);
+                        PossibleAction pa('c', i);
+						simulateAction(reader.routerBits, reader.dataArray, pa);
+						posActs.push_back(pa);
 
                     }
 
@@ -356,82 +353,44 @@ int main()
                 }
 
             }
+		}
 
-            for(int fasz=0; fasz<10; fasz++)
-            {
-                if(tavolsagok[fasz]>tavolsagok[maxcenti])
-                {
-                    maxcenti=fasz;
-                }
-            }
-            command= "CREATE ";
-            command=command+std::to_string(maxcenti)+" "+std::to_string(faszpicsa++);
-            betesz=1;
-
-            createLeft = !createLeft;
-           
-        }
-
-
-        if(bitjeim==4 || (betesz==0 && beleptem==1) || finishMode)
-
+		//All possible movements
+		for(int i=0; i<8; i++)
         {
-            if (finishMode)
+            if(reader.dataArray[i].fromRouter==alaprouter)
             {
-                long unsigned int min=1000;
-                int minIndex=-1;
-                for(int i=0; i<8; i++)
-                {
-                    if(reader.dataArray[i].dataIndex<min && reader.dataArray[i].fromRouter==alaprouter)
-                    {
-                        min=reader.dataArray[i].dataIndex;
-                        minIndex = i;
-                    }
+				PossibleAction pa1('^', reader.dataArray[i].currRouter);
+				simulateAction(reader.routerBits, reader.dataArray, pa1);
+				posActs.push_back(pa1);
 
-                }
-
-                command= "MOVE ";
-                command=command+std::to_string(reader.dataArray[minIndex].currRouter)+" "+"v";
-
+				PossibleAction pa2('v', reader.dataArray[i].currRouter);
+				simulateAction(reader.routerBits, reader.dataArray, pa2);
+				posActs.push_back(pa2);
+			
             }
-            else
-            {
-                ///kod ide
 
-                int vals[28] = {0}; //0-14: le
-
-                for(int i=0; i<8; i++)
-                {
-                    if(reader.dataArray[i].fromRouter==alaprouter)
-                    {
-                        int res = leu(reader.routerBits, reader.dataArray[i].currRouter, reader.dataArray[i].currStoreId+1,
-                                      reader.dataArray[i].toRouter, reader.dataArray[i].dir == Direction::LEFT);
-                        vals[reader.dataArray[i].currRouter] += res;
-
-                        res = leu(reader.routerBits, reader.dataArray[i].currRouter, reader.dataArray[i].currStoreId-1,
-                                  reader.dataArray[i].toRouter, reader.dataArray[i].dir == Direction::LEFT);
-                        vals[reader.dataArray[i].currRouter+14] += res;
-                    }
-
-                }
-
-                int maxID = 0;
-                for (int i = 1; i<28; i++)
-                    if (vals[i]>vals[maxID])
-                        maxID = i;
-
-
-                char lofasz = 'v';
-                if (maxID >13)
-                {
-                    lofasz = '^';
-                    maxID -= 14;
-                }
-                command= "MOVE ";
-                command=command+std::to_string(maxID)+" "+lofasz;
-
-            }
         }
+
+		//Pick best possible action
+		int bestID = 0;
+		for(int i = 1; i<posActs.size(); i++) //todo if size() = 0 pass
+			if(posActs[i].value > posActs[bestID].value)
+				bestID = i;
+
+		//Run best possible action
+		PossibleAction &pa = (posActs[bestID]);
+		if (pa.action == 'c')
+		{
+            command="CREATE "+std::to_string(pa.createSlot)+" "+std::to_string(faszpicsa++);
+			createLeft = !createLeft;
+		} else
+		if (pa.action == '^' || pa.action == 'v')
+		{
+			command="MOVE "+std::to_string(pa.moveRouter)+" "+pa.action;
+		}
+
+
 
         std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
     }
