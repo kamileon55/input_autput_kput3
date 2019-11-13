@@ -7,8 +7,10 @@
 #include <cstring>
 #include <bits/stdc++.h>
 #include <vector>
+#include<stdbool.h>
 char verzio[20]="69";
 unsigned int alaprouter;
+//int lepes;
 enum class Direction : char
 {
     LEFT = 'l',
@@ -32,6 +34,7 @@ struct MessagePiece
 {
     int index;
     std::string message;
+    float rendszam;
 };
 std::vector<MessagePiece>azenyem;
 void swap(MessagePiece *xp, MessagePiece *yp)
@@ -73,6 +76,7 @@ void readData(Reader& to) // void barmi(int a)
         else if (!line.rfind("REQUEST", 0))
         {
             std::stringstream(std::move(line).substr(8)) >> to.data[0] >> to.data[1] >> to.data[2];
+            //lepes=to.data[1];
             alaprouter=to.data[2];
         }
         else if (!line.rfind("PREVIOUS", 0))
@@ -107,12 +111,14 @@ void readData(Reader& to) // void barmi(int a)
 
             std::istringstream(std::move(line).substr(8)) >> msg.index >> msg.message;
             // std::cerr<<msg.message<<"   "<<msg.index<<std::endl;
+
+
+            msg.rendszam=(int)msg.index/azenyem.size()*(1001-int(to.data[1])/1000;
+            azenyem.push_back(msg);
             if(msg.message.size()==0)
             {
-                // to.hasEnd = true;
+                 to.hasEnd = true;
             }
-            azenyem.push_back(msg);
-
 
         }
         else
@@ -145,7 +151,7 @@ int main()
     while(true)
     {
         readData(reader);
-
+        bool tovabbitott_e=true;
         if (reader.hasEnd || reader.receivedPieces.size()>100)
         {
              break;
@@ -254,13 +260,14 @@ int main()
     for(int i=0; i<azenyem.size(); i++)
     {
         std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
-    }
 
+    }
+        std::cerr<<"A bizonyos meret: "<<azenyem.size()<<"\n";
     for(long unsigned int i=0; i<azenyem.size()-1; i++)
     {
         for (long unsigned int j=0; j<azenyem.size()-i-1; j++)
         {
-            if(azenyem[j].index>azenyem[j+1].index)
+            if(azenyem[j].rendszam>azenyem[j+1].rendszam)
             {
                 swap(&azenyem[j], &azenyem[j+1]);
             }
@@ -269,7 +276,7 @@ int main()
     std::cerr<<"Betaprotokol "<<std::endl;
     for(int i=0; i<azenyem.size(); i++)
     {
-        std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
+        std::cerr<<azenyem[i].rendszam<<" "<<azenyem[i].rendszam<<std::endl;
         solution=solution+azenyem[i].message;
     }
 
