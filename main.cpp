@@ -273,7 +273,7 @@ int main()
     std::cerr<<"Betaprotokol "<<std::endl;
     for(int i=0; i<azenyem.size(); i++)
     {
-        std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
+        std::cerr<<azenyem[i].rendszam<<" "<<azenyem[i].rendszam<<std::endl;
         solution=solution+azenyem[i].message;
     }
 
