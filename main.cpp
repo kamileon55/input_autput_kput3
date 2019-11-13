@@ -173,7 +173,7 @@ int main()
             beleptem=1;
             for(int i=0; i<9; i++)
             {
-                if(reader.routerBits[i][alaprouter]==1 )
+                if(reader.routerBits[alaprouter][i]==1 )
                 {
                     int ures=1;
                     for(int j=0; j<reader.dataArray.size(); j++)
