@@ -312,6 +312,7 @@ int main()
 		{
 			for(int i=0; i<9; i++)
             {
+				std::cerr<<"<";
                 if(reader.routerBits[alaprouter][i]==1 )
                 {
                     bool slotEmpty=1;
@@ -323,6 +324,7 @@ int main()
                             break;
                         }
                     }
+					std::cerr<<"@";
                     if(slotEmpty)
                     {
                         PossibleAction pa('c', i);
@@ -333,6 +335,7 @@ int main()
 
 
                 }
+				std::cerr<<">";
 
             }
 		}
