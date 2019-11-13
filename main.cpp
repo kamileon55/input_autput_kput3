@@ -79,8 +79,6 @@ struct PossibleAction
 
 void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vector<Data> originalPackets, PossibleAction &pa)
 {
-	try {
-
 	//Copy vector
 	std::vector<Data> packets(originalPackets);
 
@@ -168,11 +166,6 @@ void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vect
 
 
 		break;
-	}
-	}
-	catch (...)
-	{
-		std::cerr<<"picsa2";
 	}
 }
 
@@ -313,7 +306,7 @@ int main()
                 bitjeim++;
 
 		std::vector<PossibleAction> posActs;
-
+		std::cerr<<"CANCREATE3";
 		//If we can create
 		if (bitjeim < 4 && !finishMode)
 		{
@@ -343,7 +336,7 @@ int main()
 
             }
 		}
-
+		std::cerr<<"ALLPOSSIBLE2";
 		//All possible movements
 		for(int i=0; i<8; i++)
         {
@@ -360,6 +353,8 @@ int main()
             }
 
         }
+
+		std::cerr<<"PICKBEST1";
 
 		//Pick best possible action
 		int bestID = 0;
@@ -379,6 +374,7 @@ int main()
 			command="MOVE "+std::to_string(pa.moveRouter)+" "+pa.action;
 		}
 
+		std::cerr<<"RUNCOMMAND0";
 
 
         std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
