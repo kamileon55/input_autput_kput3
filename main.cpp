@@ -149,7 +149,7 @@ void readData(Reader& to) // void barmi(int a)
 int main()
 {
     char teamToken[] = "tqEzVLvbq6wz_uWr6HS1";
-    int seed = 2;
+    int seed = 13;
     int befutott=0;
     std::string solution;
     std::cout << "START " << teamToken
