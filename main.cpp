@@ -135,7 +135,7 @@ void readData(Reader& to) // void barmi(int a)
 
             std::istringstream(std::move(line).substr(8)) >> msg.index >> msg.message;
 
-            
+
             std::cerr<<msg.message<<"__"<<msg.message.size()<<"\n";
             if(msg.message.size()==0)
             {
@@ -146,9 +146,10 @@ void readData(Reader& to) // void barmi(int a)
 
             }
             bool vegem=true;
+            bool belep2=true;
             for(int i=0; i<to.dataArray.size(); i++)
             {
-                bool belep2=true;
+                belep2=true;
                 if(to.dataArray[i].fromRouter==alaprouter )
                 {
                     vegem=false;
