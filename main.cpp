@@ -79,6 +79,8 @@ struct PossibleAction
 
 void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vector<Data> originalPackets, PossibleAction &pa)
 {
+	try {
+
 	//Copy vector
 	std::vector<Data> packets(originalPackets);
 
@@ -107,7 +109,6 @@ void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vect
 
 	//Shift packets?
 	char temp;
-	//todo shift packets too
 	if (pa.action == '^')
 	{
 		temp = state[pa.moveRouter][0];
@@ -131,7 +132,12 @@ void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vect
 			if (state[pa.moveRouter][i] >= '0' && state[pa.moveRouter][i] <= '9')
 				packets[state[pa.moveRouter][i]-'0'].currStoreId++;
 	}
-
+	}
+	catch (...)
+	{
+		std::cerr<<"picsa1";
+	}
+	try{
 	//Start simulating
 	while (true)
 	{
@@ -164,27 +170,11 @@ void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vect
 
 		break;
 	}
-
-}
-
-int leu(std::array<std::array<bool, 10>, 14> routerBits, int curRouter, int curRI, int targetRouter, bool goingLeft)
-{
-
-    curRI = curRI % 14;
-    int dir = 1;
-    if (goingLeft)
-        dir = -1;
-
-    if (targetRouter == curRouter)
-        return 0;
-
-    int nextRouter = (curRouter+dir)%14;
-    if (routerBits[nextRouter][curRI])
-        return leu(routerBits, nextRouter, curRI, targetRouter, goingLeft)+1;
-    else
-        return 0;
-
-
+	}
+	catch (...)
+	{
+		std::cerr<<"picsa2";
+	}
 }
 
 void readData(Reader& to)
