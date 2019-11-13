@@ -122,7 +122,7 @@ void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vect
 			{
 				packets[state[pa.moveRouter][i]-'0'].currStoreId = (packets[state[pa.moveRouter][i]-'0'].currStoreId-1)%14;
 				if (packets[state[pa.moveRouter][i]-'0'].fromRouter != alaprouter)
-					pa.value--;
+					pa.value=-1;
 			}
 
 	} else
@@ -138,7 +138,7 @@ void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vect
 			{
 				packets[state[pa.moveRouter][i]-'0'].currStoreId = (packets[state[pa.moveRouter][i]-'0'].currStoreId+1)%14;
 				if (packets[state[pa.moveRouter][i]-'0'].fromRouter != alaprouter)
-					pa.value--;
+					pa.value=-1;
 			}
 				
 	}
