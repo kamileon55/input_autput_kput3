@@ -1,8 +1,3 @@
-/main.cpp: In function ‘void readData(Reader&)’:
-/main.cpp:116:82: error: expected ‘)’ before ‘;’ token
-             msg.rendszam=(int)msg.index/azenyem.size()*(1001-int(to.data[1])/1000;
-                                                        ~                         ^
-                                                                                  )
 /main.cpp: In function ‘int main()’:
 /main.cpp:165:24: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
          for (int i=0; i<reader.dataArray.size(); i++)
