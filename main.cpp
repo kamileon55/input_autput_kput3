@@ -114,7 +114,7 @@ void readData(Reader& to) // void barmi(int a)
 
             int id_index=msg.index;
             msg.index=id_index/azenyem.size()*(1001-to.data[1])/1000;
-            cout<<msg.rendszam<<"\n";
+            std::cerr<<msg.rendszam<<"\n";
             azenyem.push_back(msg);
             if(msg.message.size()==0)
             {
