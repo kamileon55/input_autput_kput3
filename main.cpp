@@ -260,7 +260,7 @@ int main()
             }
 
             command= "MOVE ";
-            command=command+std::to_string(reader.dataArray[minIndex].currRouter)+" "+"^";
+            command=command+std::to_string(reader.dataArray[minIndex].currRouter)+" "+"v";
 
 
 
