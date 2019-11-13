@@ -1,2264 +1,2264 @@
 Kor szama: 0
 Bitek szama: 0
  a[1][12]=0
-97371 0 12 CREATE 1 0
+97410 0 12 CREATE 1 0
 Kor szama: 1
 Bitek szama: 1
  a[1][12]=0
-97371 1 12 CREATE 1 1
+97410 1 12 CREATE 1 1
 Kor szama: 2
 Bitek szama: 2
  a[1][12]=0
-97371 2 12 CREATE 1 2
+97410 2 12 CREATE 1 2
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-97371 3 12 CREATE 1 3
+97410 3 12 CREATE 1 3
 Kor szama: 4
 Bitek szama: 4
-97371 4 12 MOVE 10 ^
+97410 4 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 5 12 MOVE 10 ^
+97410 5 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 6 12 MOVE 10 ^
+97410 6 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 7 12 MOVE 10 ^
+97410 7 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 8 12 MOVE 9 ^
+97410 8 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 9 12 MOVE 9 ^
+97410 9 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 10 12 MOVE 6 ^
+97410 10 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 11 12 MOVE 5 ^
+97410 11 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 12 12 MOVE 5 ^
+97410 12 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 13 12 MOVE 8 ^
+97410 13 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 14 12 MOVE 9 ^
+97410 14 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 15 12 MOVE 10 ^
+97410 15 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 16 12 MOVE 10 ^
+97410 16 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 17 12 MOVE 10 ^
+97410 17 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 18 12 MOVE 11 ^
+97410 18 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-97371 19 12 CREATE 0 4
+97410 19 12 CREATE 0 4
 Kor szama: 4
 Bitek szama: 4
-97371 20 12 MOVE 1 ^
+97410 20 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97371 21 12 MOVE 1 ^
+97410 21 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97371 22 12 MOVE 1 ^
+97410 22 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97371 23 12 MOVE 1 ^
+97410 23 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97371 24 12 MOVE 1 ^
+97410 24 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97371 25 12 MOVE 1 ^
+97410 25 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97371 26 12 MOVE 1 ^
+97410 26 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97371 27 12 MOVE 2 ^
+97410 27 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97371 28 12 MOVE 2 ^
+97410 28 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97371 29 12 MOVE 3 ^
+97410 29 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97371 30 12 MOVE 3 ^
+97410 30 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97371 31 12 MOVE 4 ^
+97410 31 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 32 12 MOVE 4 ^
+97410 32 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 33 12 MOVE 4 ^
+97410 33 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 34 12 MOVE 4 ^
+97410 34 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 35 12 MOVE 4 ^
+97410 35 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 36 12 MOVE 5 ^
+97410 36 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 37 12 MOVE 4 ^
+97410 37 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 38 12 MOVE 0 ^
+97410 38 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97371 39 12 MOVE 13 ^
+97410 39 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97371 40 12 MOVE 13 ^
+97410 40 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97371 41 12 MOVE 13 ^
+97410 41 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97371 42 12 CREATE 2 5
+97410 42 12 CREATE 2 5
 Kor szama: 4
 Bitek szama: 4
-97371 43 12 MOVE 6 ^
+97410 43 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 44 12 MOVE 5 ^
+97410 44 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 45 12 MOVE 6 ^
+97410 45 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 46 12 MOVE 7 ^
+97410 46 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 47 12 MOVE 9 ^
+97410 47 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 48 12 MOVE 11 ^
+97410 48 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 49 12 MOVE 11 ^
+97410 49 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
 Utkozes a bitek kozott
  a[5][12]=0
-97371 50 12 CREATE 5 6
+97410 50 12 CREATE 5 6
 Kor szama: 4
 Bitek szama: 4
-97371 51 12 MOVE 0 ^
+97410 51 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97371 52 12 MOVE 13 ^
+97410 52 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97371 53 12 MOVE 13 ^
+97410 53 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=1
-97371 54 12 CREATE 0 7
+97410 54 12 CREATE 0 7
 Kor szama: 4
 Bitek szama: 4
-97371 55 12 MOVE 8 ^
+97410 55 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 56 12 MOVE 7 ^
+97410 56 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 57 12 MOVE 6 ^
+97410 57 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 58 12 MOVE 6 ^
+97410 58 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 59 12 MOVE 5 ^
+97410 59 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 60 12 MOVE 5 ^
+97410 60 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 61 12 MOVE 5 ^
+97410 61 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 62 12 MOVE 6 ^
+97410 62 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 63 12 MOVE 6 ^
+97410 63 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 64 12 MOVE 7 ^
+97410 64 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 65 12 MOVE 9 ^
+97410 65 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 66 12 MOVE 10 ^
+97410 66 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 67 12 MOVE 10 ^
+97410 67 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 68 12 MOVE 11 ^
+97410 68 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=0
-97371 69 12 CREATE 1 8
+97410 69 12 CREATE 1 8
 Kor szama: 4
 Bitek szama: 4
-97371 70 12 MOVE 2 ^
+97410 70 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97371 71 12 MOVE 2 ^
+97410 71 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97371 72 12 MOVE 3 ^
+97410 72 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97371 73 12 MOVE 4 ^
+97410 73 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 74 12 MOVE 5 ^
+97410 74 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 75 12 MOVE 5 ^
+97410 75 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 76 12 MOVE 0 ^
+97410 76 12 MOVE 0 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-97371 77 12 CREATE 1 9
+97410 77 12 CREATE 1 9
 Kor szama: 4
 Bitek szama: 4
-97371 78 12 MOVE 11 ^
+97410 78 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 79 12 MOVE 11 ^
+97410 79 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 80 12 MOVE 11 ^
+97410 80 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 81 12 MOVE 11 ^
+97410 81 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 82 12 MOVE 11 ^
+97410 82 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 83 12 MOVE 11 ^
+97410 83 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 84 12 MOVE 11 ^
+97410 84 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97371 85 12 CREATE 2 10
+97410 85 12 CREATE 2 10
 Kor szama: 4
 Bitek szama: 4
-97371 86 12 MOVE 11 ^
+97410 86 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 87 12 MOVE 10 ^
+97410 87 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 88 12 MOVE 8 ^
+97410 88 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 89 12 MOVE 8 ^
+97410 89 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 90 12 MOVE 8 ^
+97410 90 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 91 12 MOVE 7 ^
+97410 91 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 92 12 MOVE 7 ^
+97410 92 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 93 12 MOVE 5 ^
+97410 93 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 94 12 MOVE 6 ^
+97410 94 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 95 12 MOVE 7 ^
+97410 95 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 96 12 MOVE 7 ^
+97410 96 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 97 12 MOVE 7 ^
+97410 97 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 98 12 MOVE 7 ^
+97410 98 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 99 12 MOVE 7 ^
+97410 99 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 100 12 MOVE 8 ^
+97410 100 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 101 12 MOVE 10 ^
+97410 101 12 MOVE 10 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97371 102 12 CREATE 2 11
+97410 102 12 CREATE 2 11
 Kor szama: 4
 Bitek szama: 4
-97371 103 12 MOVE 11 ^
+97410 103 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 104 12 MOVE 11 ^
+97410 104 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[4][12]=1
-97371 105 12 CREATE 4 12
+97410 105 12 CREATE 4 12
 Kor szama: 4
 Bitek szama: 4
-97371 106 12 MOVE 4 ^
+97410 106 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 107 12 MOVE 4 ^
+97410 107 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 108 12 MOVE 4 ^
+97410 108 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 109 12 MOVE 4 ^
+97410 109 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 110 12 MOVE 2 ^
+97410 110 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97371 111 12 MOVE 0 ^
+97410 111 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97371 112 12 MOVE 13 ^
+97410 112 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97371 113 12 MOVE 13 ^
+97410 113 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=1
-97371 114 12 CREATE 0 13
+97410 114 12 CREATE 0 13
 Kor szama: 4
 Bitek szama: 4
-97371 115 12 MOVE 11 ^
+97410 115 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 116 12 MOVE 11 ^
+97410 116 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 117 12 MOVE 11 ^
+97410 117 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 118 12 MOVE 11 ^
+97410 118 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 119 12 MOVE 9 ^
+97410 119 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 120 12 MOVE 9 ^
+97410 120 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 121 12 MOVE 9 ^
+97410 121 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 122 12 MOVE 7 ^
+97410 122 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 123 12 MOVE 7 ^
+97410 123 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 124 12 MOVE 7 ^
+97410 124 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 125 12 MOVE 7 ^
+97410 125 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 126 12 MOVE 7 ^
+97410 126 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 127 12 MOVE 6 ^
+97410 127 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 128 12 MOVE 5 ^
+97410 128 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 129 12 MOVE 5 ^
+97410 129 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 130 12 MOVE 7 ^
+97410 130 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 131 12 MOVE 7 ^
+97410 131 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 132 12 MOVE 8 ^
+97410 132 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 133 12 MOVE 8 ^
+97410 133 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 134 12 MOVE 8 ^
+97410 134 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 135 12 MOVE 10 ^
+97410 135 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 136 12 MOVE 10 ^
+97410 136 12 MOVE 10 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=1
-97371 137 12 CREATE 2 14
+97410 137 12 CREATE 2 14
 Kor szama: 4
 Bitek szama: 4
-97371 138 12 MOVE 5 ^
+97410 138 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 139 12 MOVE 5 ^
+97410 139 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 140 12 MOVE 5 ^
+97410 140 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 141 12 MOVE 2 ^
+97410 141 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97371 142 12 MOVE 2 ^
+97410 142 12 MOVE 2 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97371 143 12 CREATE 2 15
+97410 143 12 CREATE 2 15
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97371 144 12 CREATE 2 16
+97410 144 12 CREATE 2 16
 Kor szama: 4
 Bitek szama: 4
-97371 145 12 MOVE 5 ^
+97410 145 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 146 12 MOVE 5 ^
+97410 146 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 147 12 MOVE 4 ^
+97410 147 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 148 12 MOVE 4 ^
+97410 148 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 149 12 MOVE 4 ^
+97410 149 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 150 12 MOVE 0 ^
+97410 150 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97371 151 12 MOVE 13 ^
+97410 151 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97371 152 12 MOVE 13 ^
+97410 152 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=0
-97371 153 12 CREATE 1 17
+97410 153 12 CREATE 1 17
 Kor szama: 4
 Bitek szama: 4
-97371 154 12 MOVE 9 ^
+97410 154 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 155 12 MOVE 9 ^
+97410 155 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 156 12 MOVE 7 ^
+97410 156 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 157 12 MOVE 7 ^
+97410 157 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 158 12 MOVE 6 ^
+97410 158 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 159 12 MOVE 5 ^
+97410 159 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 160 12 MOVE 5 ^
+97410 160 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 161 12 MOVE 6 ^
+97410 161 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 162 12 MOVE 7 ^
+97410 162 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 163 12 MOVE 9 ^
+97410 163 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 164 12 MOVE 9 ^
+97410 164 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 165 12 MOVE 9 ^
+97410 165 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 166 12 MOVE 9 ^
+97410 166 12 MOVE 9 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-97371 167 12 CREATE 1 18
+97410 167 12 CREATE 1 18
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-97371 168 12 CREATE 0 19
+97410 168 12 CREATE 0 19
 Kor szama: 4
 Bitek szama: 4
-97371 169 12 MOVE 5 ^
+97410 169 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 170 12 MOVE 5 ^
+97410 170 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 171 12 MOVE 2 ^
+97410 171 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97371 172 12 MOVE 0 ^
+97410 172 12 MOVE 0 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=0
-97371 173 12 CREATE 1 20
+97410 173 12 CREATE 1 20
 Kor szama: 4
 Bitek szama: 4
-97371 174 12 MOVE 0 ^
+97410 174 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97371 175 12 MOVE 13 ^
+97410 175 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97371 176 12 CREATE 2 21
+97410 176 12 CREATE 2 21
 Kor szama: 4
 Bitek szama: 4
-97371 177 12 MOVE 6 ^
+97410 177 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 178 12 MOVE 8 ^
+97410 178 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 179 12 MOVE 8 ^
+97410 179 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 180 12 MOVE 8 ^
+97410 180 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 181 12 MOVE 9 ^
+97410 181 12 MOVE 9 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97371 182 12 CREATE 2 22
+97410 182 12 CREATE 2 22
 Kor szama: 4
 Bitek szama: 4
-97371 183 12 MOVE 3 ^
+97410 183 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97371 184 12 MOVE 3 ^
+97410 184 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97371 185 12 MOVE 4 ^
+97410 185 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 186 12 MOVE 4 ^
+97410 186 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 187 12 MOVE 4 ^
+97410 187 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 188 12 MOVE 4 ^
+97410 188 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 189 12 MOVE 5 ^
+97410 189 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 190 12 MOVE 4 ^
+97410 190 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 191 12 MOVE 3 ^
+97410 191 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97371 192 12 MOVE 1 ^
+97410 192 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97371 193 12 MOVE 0 ^
+97410 193 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97371 194 12 MOVE 0 ^
+97410 194 12 MOVE 0 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97371 195 12 CREATE 2 23
+97410 195 12 CREATE 2 23
 Kor szama: 4
 Bitek szama: 4
-97371 196 12 MOVE 6 ^
+97410 196 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 197 12 MOVE 6 ^
+97410 197 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 198 12 MOVE 5 ^
+97410 198 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 199 12 MOVE 5 ^
+97410 199 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 200 12 MOVE 5 ^
+97410 200 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 201 12 MOVE 6 ^
+97410 201 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 202 12 MOVE 6 ^
+97410 202 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 203 12 MOVE 6 ^
+97410 203 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 204 12 MOVE 6 ^
+97410 204 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 205 12 MOVE 6 ^
+97410 205 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 206 12 MOVE 6 ^
+97410 206 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 207 12 MOVE 6 ^
+97410 207 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 208 12 MOVE 8 ^
+97410 208 12 MOVE 8 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-97371 209 12 CREATE 0 24
+97410 209 12 CREATE 0 24
 Kor szama: 4
 Bitek szama: 4
-97371 210 12 MOVE 10 ^
+97410 210 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 211 12 MOVE 10 ^
+97410 211 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 212 12 MOVE 10 ^
+97410 212 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 213 12 MOVE 10 ^
+97410 213 12 MOVE 10 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[1][12]=0
-97371 214 12 CREATE 1 25
+97410 214 12 CREATE 1 25
 Kor szama: 4
 Bitek szama: 4
-97371 215 12 MOVE 3 ^
+97410 215 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97371 216 12 MOVE 3 ^
+97410 216 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97371 217 12 MOVE 3 ^
+97410 217 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97371 218 12 MOVE 3 ^
+97410 218 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97371 219 12 MOVE 2 ^
+97410 219 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97371 220 12 MOVE 2 ^
+97410 220 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97371 221 12 MOVE 2 ^
+97410 221 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97371 222 12 MOVE 2 ^
+97410 222 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97371 223 12 MOVE 0 ^
+97410 223 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97371 224 12 MOVE 13 ^
+97410 224 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=1
-97371 225 12 CREATE 0 26
+97410 225 12 CREATE 0 26
 Kor szama: 4
 Bitek szama: 4
-97371 226 12 MOVE 3 ^
+97410 226 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97371 227 12 MOVE 3 ^
+97410 227 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97371 228 12 MOVE 3 ^
+97410 228 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97371 229 12 MOVE 3 ^
+97410 229 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97371 230 12 MOVE 5 ^
+97410 230 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 231 12 MOVE 5 ^
+97410 231 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 232 12 MOVE 5 ^
+97410 232 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 233 12 MOVE 2 ^
+97410 233 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97371 234 12 MOVE 0 ^
+97410 234 12 MOVE 0 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97371 235 12 CREATE 2 27
+97410 235 12 CREATE 2 27
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97371 236 12 CREATE 2 28
+97410 236 12 CREATE 2 28
 Kor szama: 4
 Bitek szama: 4
-97371 237 12 MOVE 10 ^
+97410 237 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 238 12 MOVE 10 ^
+97410 238 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 239 12 MOVE 10 ^
+97410 239 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 240 12 MOVE 10 ^
+97410 240 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 241 12 MOVE 10 ^
+97410 241 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 242 12 MOVE 8 ^
+97410 242 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 243 12 MOVE 7 ^
+97410 243 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 244 12 MOVE 7 ^
+97410 244 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 245 12 MOVE 7 ^
+97410 245 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 246 12 MOVE 6 ^
+97410 246 12 MOVE 6 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=1
-97371 247 12 CREATE 2 29
+97410 247 12 CREATE 2 29
 Kor szama: 4
 Bitek szama: 4
-97371 248 12 MOVE 7 ^
+97410 248 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 249 12 MOVE 8 ^
+97410 249 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 250 12 MOVE 8 ^
+97410 250 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 251 12 MOVE 8 ^
+97410 251 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 252 12 MOVE 8 ^
+97410 252 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 253 12 MOVE 10 ^
+97410 253 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 254 12 MOVE 10 ^
+97410 254 12 MOVE 10 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-97371 255 12 CREATE 1 30
+97410 255 12 CREATE 1 30
 Kor szama: 4
 Bitek szama: 4
-97371 256 12 MOVE 11 ^
+97410 256 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 257 12 MOVE 11 ^
+97410 257 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 258 12 MOVE 11 ^
+97410 258 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[3][12]=0
-97371 259 12 CREATE 3 31
+97410 259 12 CREATE 3 31
 Kor szama: 4
 Bitek szama: 4
-97371 260 12 MOVE 9 ^
+97410 260 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 261 12 MOVE 7 ^
+97410 261 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 262 12 MOVE 6 ^
+97410 262 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 263 12 MOVE 6 ^
+97410 263 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 264 12 MOVE 5 ^
+97410 264 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 265 12 MOVE 5 ^
+97410 265 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 266 12 MOVE 7 ^
+97410 266 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 267 12 MOVE 10 ^
+97410 267 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 268 12 MOVE 10 ^
+97410 268 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 269 12 MOVE 10 ^
+97410 269 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 270 12 MOVE 10 ^
+97410 270 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 271 12 MOVE 11 ^
+97410 271 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 272 12 MOVE 11 ^
+97410 272 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=0
-97371 273 12 CREATE 1 32
+97410 273 12 CREATE 1 32
 Kor szama: 4
 Bitek szama: 4
-97371 274 12 MOVE 3 ^
+97410 274 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97371 275 12 MOVE 2 ^
+97410 275 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97371 276 12 MOVE 2 ^
+97410 276 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97371 277 12 MOVE 0 ^
+97410 277 12 MOVE 0 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-97371 278 12 CREATE 1 33
+97410 278 12 CREATE 1 33
 Kor szama: 4
 Bitek szama: 4
-97371 279 12 MOVE 10 ^
+97410 279 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 280 12 MOVE 10 ^
+97410 280 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 281 12 MOVE 10 ^
+97410 281 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 282 12 MOVE 9 ^
+97410 282 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 283 12 MOVE 5 ^
+97410 283 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 284 12 MOVE 5 ^
+97410 284 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 285 12 MOVE 5 ^
+97410 285 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 286 12 MOVE 5 ^
+97410 286 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 287 12 MOVE 6 ^
+97410 287 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 288 12 MOVE 8 ^
+97410 288 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 289 12 MOVE 8 ^
+97410 289 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 290 12 MOVE 8 ^
+97410 290 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 291 12 MOVE 8 ^
+97410 291 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 292 12 MOVE 8 ^
+97410 292 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 293 12 MOVE 8 ^
+97410 293 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 294 12 MOVE 10 ^
+97410 294 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 295 12 MOVE 11 ^
+97410 295 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-97371 296 12 CREATE 0 34
+97410 296 12 CREATE 0 34
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=1
-97371 297 12 CREATE 2 35
+97410 297 12 CREATE 2 35
 Kor szama: 4
 Bitek szama: 4
-97371 298 12 MOVE 10 ^
+97410 298 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 299 12 MOVE 10 ^
+97410 299 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 300 12 MOVE 10 ^
+97410 300 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 301 12 MOVE 10 ^
+97410 301 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 302 12 MOVE 9 ^
+97410 302 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 303 12 MOVE 9 ^
+97410 303 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 304 12 MOVE 9 ^
+97410 304 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 305 12 MOVE 9 ^
+97410 305 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 306 12 MOVE 9 ^
+97410 306 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 307 12 MOVE 9 ^
+97410 307 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 308 12 MOVE 9 ^
+97410 308 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 309 12 MOVE 9 ^
+97410 309 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 310 12 MOVE 9 ^
+97410 310 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 311 12 MOVE 7 ^
+97410 311 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 312 12 MOVE 7 ^
+97410 312 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 313 12 MOVE 6 ^
+97410 313 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 314 12 MOVE 5 ^
+97410 314 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 315 12 MOVE 5 ^
+97410 315 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 316 12 MOVE 6 ^
+97410 316 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 317 12 MOVE 7 ^
+97410 317 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 318 12 MOVE 8 ^
+97410 318 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 319 12 MOVE 9 ^
+97410 319 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 320 12 MOVE 9 ^
+97410 320 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 321 12 MOVE 9 ^
+97410 321 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 322 12 MOVE 9 ^
+97410 322 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 323 12 MOVE 9 ^
+97410 323 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 324 12 MOVE 9 ^
+97410 324 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 325 12 MOVE 9 ^
+97410 325 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 326 12 MOVE 9 ^
+97410 326 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 327 12 MOVE 9 ^
+97410 327 12 MOVE 9 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-97371 328 12 CREATE 0 36
+97410 328 12 CREATE 0 36
 Kor szama: 4
 Bitek szama: 4
-97371 329 12 MOVE 10 ^
+97410 329 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 330 12 MOVE 10 ^
+97410 330 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 331 12 MOVE 11 ^
+97410 331 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-97371 332 12 CREATE 0 37
+97410 332 12 CREATE 0 37
 Kor szama: 4
 Bitek szama: 4
-97371 333 12 MOVE 1 ^
+97410 333 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97371 334 12 MOVE 1 ^
+97410 334 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97371 335 12 MOVE 1 ^
+97410 335 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97371 336 12 MOVE 1 ^
+97410 336 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97371 337 12 MOVE 1 ^
+97410 337 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97371 338 12 MOVE 0 ^
+97410 338 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97371 339 12 MOVE 0 ^
+97410 339 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97371 340 12 MOVE 13 ^
+97410 340 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=1
-97371 341 12 CREATE 2 38
+97410 341 12 CREATE 2 38
 Kor szama: 4
 Bitek szama: 4
-97371 342 12 MOVE 3 ^
+97410 342 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97371 343 12 MOVE 4 ^
+97410 343 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 344 12 MOVE 4 ^
+97410 344 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 345 12 MOVE 5 ^
+97410 345 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 346 12 MOVE 5 ^
+97410 346 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 347 12 MOVE 4 ^
+97410 347 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 348 12 MOVE 4 ^
+97410 348 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 349 12 MOVE 3 ^
+97410 349 12 MOVE 3 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-97371 350 12 CREATE 1 39
+97410 350 12 CREATE 1 39
 Kor szama: 4
 Bitek szama: 4
-97371 351 12 MOVE 7 ^
+97410 351 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 352 12 MOVE 7 ^
+97410 352 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 353 12 MOVE 7 ^
+97410 353 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 354 12 MOVE 7 ^
+97410 354 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 355 12 MOVE 8 ^
+97410 355 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 356 12 MOVE 8 ^
+97410 356 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 357 12 MOVE 8 ^
+97410 357 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 358 12 MOVE 8 ^
+97410 358 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 359 12 MOVE 8 ^
+97410 359 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 360 12 MOVE 9 ^
+97410 360 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 361 12 MOVE 9 ^
+97410 361 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 362 12 MOVE 9 ^
+97410 362 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 363 12 MOVE 11 ^
+97410 363 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 364 12 MOVE 11 ^
+97410 364 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 365 12 MOVE 11 ^
+97410 365 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 366 12 MOVE 11 ^
+97410 366 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
 Utkozes a bitek kozott
  a[4][12]=0
-97371 367 12 CREATE 4 40
+97410 367 12 CREATE 4 40
 Kor szama: 4
 Bitek szama: 4
-97371 368 12 MOVE 1 ^
+97410 368 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97371 369 12 MOVE 0 ^
+97410 369 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97371 370 12 MOVE 0 ^
+97410 370 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97371 371 12 MOVE 0 ^
+97410 371 12 MOVE 0 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[3][12]=0
-97371 372 12 CREATE 3 41
+97410 372 12 CREATE 3 41
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
 Utkozes a bitek kozott
  a[4][12]=1
-97371 373 12 CREATE 4 42
+97410 373 12 CREATE 4 42
 Kor szama: 4
 Bitek szama: 4
-97371 374 12 MOVE 13 ^
+97410 374 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97371 375 12 MOVE 0 ^
+97410 375 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97371 376 12 MOVE 0 ^
+97410 376 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97371 377 12 MOVE 0 ^
+97410 377 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97371 378 12 MOVE 0 ^
+97410 378 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97371 379 12 MOVE 2 ^
+97410 379 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97371 380 12 MOVE 2 ^
+97410 380 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97371 381 12 MOVE 4 ^
+97410 381 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 382 12 MOVE 5 ^
+97410 382 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 383 12 MOVE 5 ^
+97410 383 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 384 12 MOVE 5 ^
+97410 384 12 MOVE 5 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=1
-97371 385 12 CREATE 0 43
+97410 385 12 CREATE 0 43
 Kor szama: 4
 Bitek szama: 4
-97371 386 12 MOVE 5 ^
+97410 386 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 387 12 MOVE 5 ^
+97410 387 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 388 12 MOVE 4 ^
+97410 388 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 389 12 MOVE 4 ^
+97410 389 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 390 12 MOVE 2 ^
+97410 390 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97371 391 12 MOVE 2 ^
+97410 391 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97371 392 12 MOVE 1 ^
+97410 392 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97371 393 12 MOVE 1 ^
+97410 393 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97371 394 12 MOVE 0 ^
+97410 394 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97371 395 12 MOVE 13 ^
+97410 395 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[3][12]=0
-97371 396 12 CREATE 3 44
+97410 396 12 CREATE 3 44
 Kor szama: 4
 Bitek szama: 4
-97371 397 12 MOVE 11 ^
+97410 397 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 398 12 MOVE 10 ^
+97410 398 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 399 12 MOVE 8 ^
+97410 399 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 400 12 MOVE 8 ^
+97410 400 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 401 12 MOVE 5 ^
+97410 401 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 402 12 MOVE 5 ^
+97410 402 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 403 12 MOVE 7 ^
+97410 403 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 404 12 MOVE 7 ^
+97410 404 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 405 12 MOVE 11 ^
+97410 405 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 406 12 MOVE 11 ^
+97410 406 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 407 12 MOVE 11 ^
+97410 407 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97371 408 12 CREATE 2 45
+97410 408 12 CREATE 2 45
 Kor szama: 4
 Bitek szama: 4
-97371 409 12 MOVE 12 ^
+97410 409 12 MOVE 12 ^
 Kor szama: 4
 Bitek szama: 4
-97371 410 12 MOVE 12 ^
+97410 410 12 MOVE 12 ^
 Kor szama: 4
 Bitek szama: 4
-97371 411 12 MOVE 7 ^
+97410 411 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 412 12 MOVE 6 ^
+97410 412 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 413 12 MOVE 5 ^
+97410 413 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 414 12 MOVE 6 ^
+97410 414 12 MOVE 6 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-97371 415 12 CREATE 1 46
+97410 415 12 CREATE 1 46
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=1
-97371 416 12 CREATE 1 47
+97410 416 12 CREATE 1 47
 Kor szama: 4
 Bitek szama: 4
-97371 417 12 MOVE 9 ^
+97410 417 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 418 12 MOVE 9 ^
+97410 418 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 419 12 MOVE 9 ^
+97410 419 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 420 12 MOVE 9 ^
+97410 420 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 421 12 MOVE 9 ^
+97410 421 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 422 12 MOVE 9 ^
+97410 422 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 423 12 MOVE 5 ^
+97410 423 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 424 12 MOVE 5 ^
+97410 424 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 425 12 MOVE 5 ^
+97410 425 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 426 12 MOVE 5 ^
+97410 426 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 427 12 MOVE 6 ^
+97410 427 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 428 12 MOVE 8 ^
+97410 428 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 429 12 MOVE 9 ^
+97410 429 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 430 12 MOVE 9 ^
+97410 430 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 431 12 MOVE 10 ^
+97410 431 12 MOVE 10 ^
 MESSAGE
 MESSAGE
 Kor szama: 2
 Bitek szama: 2
  a[0][12]=1
-97371 432 12 CREATE 0 48
+97410 432 12 CREATE 0 48
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
 Utkozes a bitek kozott
  a[3][12]=1
-97371 433 12 CREATE 3 49
+97410 433 12 CREATE 3 49
 Kor szama: 4
 Bitek szama: 4
-97371 434 12 MOVE 1 ^
+97410 434 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97371 435 12 MOVE 13 ^
+97410 435 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97371 436 12 MOVE 13 ^
+97410 436 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97371 437 12 MOVE 13 ^
+97410 437 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97371 438 12 MOVE 13 ^
+97410 438 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97371 439 12 MOVE 13 ^
+97410 439 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=1
-97371 440 12 CREATE 0 50
+97410 440 12 CREATE 0 50
 Kor szama: 4
 Bitek szama: 4
-97371 441 12 MOVE 10 ^
+97410 441 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 442 12 MOVE 10 ^
+97410 442 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 443 12 MOVE 11 ^
+97410 443 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 444 12 MOVE 11 ^
+97410 444 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[2][12]=1
-97371 445 12 CREATE 2 51
+97410 445 12 CREATE 2 51
 Kor szama: 4
 Bitek szama: 4
-97371 446 12 MOVE 10 ^
+97410 446 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 447 12 MOVE 10 ^
+97410 447 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 448 12 MOVE 10 ^
+97410 448 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 449 12 MOVE 10 ^
+97410 449 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 450 12 MOVE 10 ^
+97410 450 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 451 12 MOVE 10 ^
+97410 451 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 452 12 MOVE 10 ^
+97410 452 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 453 12 MOVE 10 ^
+97410 453 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 454 12 MOVE 10 ^
+97410 454 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 455 12 MOVE 8 ^
+97410 455 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 456 12 MOVE 5 ^
+97410 456 12 MOVE 5 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[2][12]=0
-97371 457 12 CREATE 2 52
+97410 457 12 CREATE 2 52
 Kor szama: 4
 Bitek szama: 4
-97371 458 12 MOVE 5 ^
+97410 458 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 459 12 MOVE 6 ^
+97410 459 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 460 12 MOVE 6 ^
+97410 460 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 461 12 MOVE 8 ^
+97410 461 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 462 12 MOVE 8 ^
+97410 462 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 463 12 MOVE 11 ^
+97410 463 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[1][12]=1
-97371 464 12 CREATE 1 53
+97410 464 12 CREATE 1 53
 Kor szama: 4
 Bitek szama: 4
-97371 465 12 MOVE 12 ^
+97410 465 12 MOVE 12 ^
 Kor szama: 4
 Bitek szama: 4
-97371 466 12 MOVE 11 ^
+97410 466 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 467 12 MOVE 9 ^
+97410 467 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 468 12 MOVE 9 ^
+97410 468 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 469 12 MOVE 9 ^
+97410 469 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 470 12 MOVE 8 ^
+97410 470 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 471 12 MOVE 8 ^
+97410 471 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 472 12 MOVE 8 ^
+97410 472 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 473 12 MOVE 8 ^
+97410 473 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 474 12 MOVE 8 ^
+97410 474 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 475 12 MOVE 8 ^
+97410 475 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 476 12 MOVE 8 ^
+97410 476 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 477 12 MOVE 5 ^
+97410 477 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 478 12 MOVE 5 ^
+97410 478 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 479 12 MOVE 5 ^
+97410 479 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 480 12 MOVE 8 ^
+97410 480 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 481 12 MOVE 8 ^
+97410 481 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 482 12 MOVE 8 ^
+97410 482 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 483 12 MOVE 10 ^
+97410 483 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 484 12 MOVE 11 ^
+97410 484 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-97371 485 12 CREATE 0 54
+97410 485 12 CREATE 0 54
 Kor szama: 4
 Bitek szama: 4
-97371 486 12 MOVE 13 ^
+97410 486 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97371 487 12 MOVE 13 ^
+97410 487 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97371 488 12 MOVE 13 ^
+97410 488 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97371 489 12 MOVE 13 ^
+97410 489 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97371 490 12 CREATE 2 55
+97410 490 12 CREATE 2 55
 Kor szama: 4
 Bitek szama: 4
-97371 491 12 MOVE 11 ^
+97410 491 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 492 12 MOVE 11 ^
+97410 492 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 493 12 MOVE 9 ^
+97410 493 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 494 12 MOVE 9 ^
+97410 494 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 495 12 MOVE 9 ^
+97410 495 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 496 12 MOVE 9 ^
+97410 496 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 497 12 MOVE 9 ^
+97410 497 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 498 12 MOVE 9 ^
+97410 498 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 499 12 MOVE 8 ^
+97410 499 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 500 12 MOVE 8 ^
+97410 500 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 501 12 MOVE 7 ^
+97410 501 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 502 12 MOVE 7 ^
+97410 502 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 503 12 MOVE 7 ^
+97410 503 12 MOVE 7 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[3][12]=1
-97371 504 12 CREATE 3 56
+97410 504 12 CREATE 3 56
 Kor szama: 4
 Bitek szama: 4
-97371 505 12 MOVE 6 ^
+97410 505 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 506 12 MOVE 6 ^
+97410 506 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 507 12 MOVE 6 ^
+97410 507 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 508 12 MOVE 6 ^
+97410 508 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 509 12 MOVE 6 ^
+97410 509 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 510 12 MOVE 5 ^
+97410 510 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 511 12 MOVE 5 ^
+97410 511 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 512 12 MOVE 5 ^
+97410 512 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 513 12 MOVE 8 ^
+97410 513 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 514 12 MOVE 8 ^
+97410 514 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 515 12 MOVE 9 ^
+97410 515 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 516 12 MOVE 9 ^
+97410 516 12 MOVE 9 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[2][12]=0
-97371 517 12 CREATE 2 57
+97410 517 12 CREATE 2 57
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[2][12]=1
-97371 518 12 CREATE 2 58
+97410 518 12 CREATE 2 58
 Kor szama: 4
 Bitek szama: 4
-97371 519 12 MOVE 1 ^
+97410 519 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97371 520 12 MOVE 0 ^
+97410 520 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97371 521 12 MOVE 13 ^
+97410 521 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[1][12]=1
-97371 522 12 CREATE 1 59
+97410 522 12 CREATE 1 59
 Kor szama: 4
 Bitek szama: 4
-97371 523 12 MOVE 8 ^
+97410 523 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 524 12 MOVE 8 ^
+97410 524 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 525 12 MOVE 8 ^
+97410 525 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 526 12 MOVE 8 ^
+97410 526 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 527 12 MOVE 7 ^
+97410 527 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 528 12 MOVE 6 ^
+97410 528 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 529 12 MOVE 6 ^
+97410 529 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 530 12 MOVE 6 ^
+97410 530 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 531 12 MOVE 6 ^
+97410 531 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 532 12 MOVE 6 ^
+97410 532 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 533 12 MOVE 5 ^
+97410 533 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 534 12 MOVE 5 ^
+97410 534 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 535 12 MOVE 9 ^
+97410 535 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 536 12 MOVE 9 ^
+97410 536 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 537 12 MOVE 9 ^
+97410 537 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 538 12 MOVE 9 ^
+97410 538 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 539 12 MOVE 9 ^
+97410 539 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 540 12 MOVE 10 ^
+97410 540 12 MOVE 10 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-97371 541 12 CREATE 0 60
+97410 541 12 CREATE 0 60
 Kor szama: 4
 Bitek szama: 4
-97371 542 12 MOVE 2 ^
+97410 542 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97371 543 12 MOVE 2 ^
+97410 543 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97371 544 12 MOVE 2 ^
+97410 544 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97371 545 12 MOVE 2 ^
+97410 545 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97371 546 12 MOVE 3 ^
+97410 546 12 MOVE 3 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=1
-97371 547 12 CREATE 0 61
+97410 547 12 CREATE 0 61
 Kor szama: 4
 Bitek szama: 4
-97371 548 12 MOVE 4 ^
+97410 548 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 549 12 MOVE 5 ^
+97410 549 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 550 12 MOVE 0 ^
+97410 550 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97371 551 12 MOVE 0 ^
+97410 551 12 MOVE 0 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[3][12]=0
-97371 552 12 CREATE 3 62
+97410 552 12 CREATE 3 62
 Kor szama: 4
 Bitek szama: 4
-97371 553 12 MOVE 10 ^
+97410 553 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 554 12 MOVE 10 ^
+97410 554 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 555 12 MOVE 10 ^
+97410 555 12 MOVE 10 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[3][12]=1
-97371 556 12 CREATE 3 63
+97410 556 12 CREATE 3 63
 Kor szama: 4
 Bitek szama: 4
-97371 557 12 MOVE 8 ^
+97410 557 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 558 12 MOVE 8 ^
+97410 558 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 559 12 MOVE 8 ^
+97410 559 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 560 12 MOVE 6 ^
+97410 560 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 561 12 MOVE 6 ^
+97410 561 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 562 12 MOVE 6 ^
+97410 562 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 563 12 MOVE 6 ^
+97410 563 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 564 12 MOVE 5 ^
+97410 564 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 565 12 MOVE 5 ^
+97410 565 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 566 12 MOVE 5 ^
+97410 566 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 567 12 MOVE 7 ^
+97410 567 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 568 12 MOVE 7 ^
+97410 568 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 569 12 MOVE 7 ^
+97410 569 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 570 12 MOVE 7 ^
+97410 570 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 571 12 MOVE 7 ^
+97410 571 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 572 12 MOVE 7 ^
+97410 572 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 573 12 MOVE 7 ^
+97410 573 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 574 12 MOVE 10 ^
+97410 574 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 575 12 MOVE 10 ^
+97410 575 12 MOVE 10 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[3][12]=1
-97371 576 12 CREATE 3 64
+97410 576 12 CREATE 3 64
 Kor szama: 4
 Bitek szama: 4
-97371 577 12 MOVE 12 ^
+97410 577 12 MOVE 12 ^
 Kor szama: 4
 Bitek szama: 4
-97371 578 12 MOVE 0 ^
+97410 578 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97371 579 12 MOVE 0 ^
+97410 579 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97371 580 12 MOVE 4 ^
+97410 580 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 581 12 MOVE 4 ^
+97410 581 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 582 12 MOVE 4 ^
+97410 582 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 583 12 MOVE 5 ^
+97410 583 12 MOVE 5 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97371 584 12 CREATE 2 65
+97410 584 12 CREATE 2 65
 Kor szama: 4
 Bitek szama: 4
-97371 585 12 MOVE 3 ^
+97410 585 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97371 586 12 MOVE 3 ^
+97410 586 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97371 587 12 MOVE 3 ^
+97410 587 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97371 588 12 MOVE 2 ^
+97410 588 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97371 589 12 MOVE 1 ^
+97410 589 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97371 590 12 MOVE 1 ^
+97410 590 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97371 591 12 MOVE 1 ^
+97410 591 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97371 592 12 MOVE 13 ^
+97410 592 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-97371 593 12 CREATE 0 66
+97410 593 12 CREATE 0 66
 Kor szama: 4
 Bitek szama: 4
-97371 594 12 MOVE 9 ^
+97410 594 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 595 12 MOVE 9 ^
+97410 595 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 596 12 MOVE 10 ^
+97410 596 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 597 12 MOVE 11 ^
+97410 597 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[1][12]=0
-97371 598 12 CREATE 1 67
+97410 598 12 CREATE 1 67
 Kor szama: 4
 Bitek szama: 4
-97371 599 12 MOVE 6 ^
+97410 599 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 600 12 MOVE 6 ^
+97410 600 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 601 12 MOVE 6 ^
+97410 601 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 602 12 MOVE 6 ^
+97410 602 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 603 12 MOVE 8 ^
+97410 603 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 604 12 MOVE 8 ^
+97410 604 12 MOVE 8 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97371 605 12 CREATE 2 68
+97410 605 12 CREATE 2 68
 Kor szama: 4
 Bitek szama: 4
-97371 606 12 MOVE 11 ^
+97410 606 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 607 12 MOVE 11 ^
+97410 607 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 608 12 MOVE 11 ^
+97410 608 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 609 12 MOVE 11 ^
+97410 609 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
  a[4][12]=1
-97371 610 12 CREATE 4 69
+97410 610 12 CREATE 4 69
 Kor szama: 4
 Bitek szama: 4
-97371 611 12 MOVE 7 ^
+97410 611 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 612 12 MOVE 7 ^
+97410 612 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 613 12 MOVE 11 ^
+97410 613 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 614 12 MOVE 11 ^
+97410 614 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 615 12 MOVE 11 ^
+97410 615 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-97371 616 12 CREATE 0 70
+97410 616 12 CREATE 0 70
 Kor szama: 4
 Bitek szama: 4
-97371 617 12 MOVE 3 ^
+97410 617 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97371 618 12 MOVE 5 ^
+97410 618 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 619 12 MOVE 4 ^
+97410 619 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 620 12 MOVE 4 ^
+97410 620 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 621 12 MOVE 4 ^
+97410 621 12 MOVE 4 ^
 Kor szama: 4
 Bitek szama: 4
-97371 622 12 MOVE 0 ^
+97410 622 12 MOVE 0 ^
 Kor szama: 4
 Bitek szama: 4
-97371 623 12 MOVE 13 ^
+97410 623 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97371 624 12 CREATE 2 71
+97410 624 12 CREATE 2 71
 Kor szama: 4
 Bitek szama: 4
-97371 625 12 MOVE 13 ^
+97410 625 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97371 626 12 MOVE 13 ^
+97410 626 12 MOVE 13 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97371 627 12 CREATE 2 72
+97410 627 12 CREATE 2 72
 Kor szama: 4
 Bitek szama: 4
-97371 628 12 MOVE 11 ^
+97410 628 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 629 12 MOVE 11 ^
+97410 629 12 MOVE 11 ^
 Kor szama: 4
 Bitek szama: 4
-97371 630 12 MOVE 9 ^
+97410 630 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 631 12 MOVE 7 ^
+97410 631 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 632 12 MOVE 7 ^
+97410 632 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 633 12 MOVE 7 ^
+97410 633 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 634 12 MOVE 6 ^
+97410 634 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 635 12 MOVE 6 ^
+97410 635 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 636 12 MOVE 6 ^
+97410 636 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 637 12 MOVE 5 ^
+97410 637 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 638 12 MOVE 5 ^
+97410 638 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 639 12 MOVE 6 ^
+97410 639 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 640 12 MOVE 6 ^
+97410 640 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 641 12 MOVE 8 ^
+97410 641 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 642 12 MOVE 9 ^
+97410 642 12 MOVE 9 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97371 643 12 CREATE 2 73
+97410 643 12 CREATE 2 73
 Kor szama: 4
 Bitek szama: 4
-97371 644 12 MOVE 7 ^
+97410 644 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 645 12 MOVE 7 ^
+97410 645 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 646 12 MOVE 7 ^
+97410 646 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 647 12 MOVE 7 ^
+97410 647 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 648 12 MOVE 7 ^
+97410 648 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 649 12 MOVE 9 ^
+97410 649 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 650 12 MOVE 9 ^
+97410 650 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 651 12 MOVE 9 ^
+97410 651 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 652 12 MOVE 10 ^
+97410 652 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 653 12 MOVE 10 ^
+97410 653 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 654 12 MOVE 10 ^
+97410 654 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 655 12 MOVE 11 ^
+97410 655 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[1][12]=0
-97371 656 12 CREATE 1 74
+97410 656 12 CREATE 1 74
 Kor szama: 4
 Bitek szama: 4
-97371 657 12 MOVE 13 ^
+97410 657 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97371 658 12 MOVE 13 ^
+97410 658 12 MOVE 13 ^
 Kor szama: 4
 Bitek szama: 4
-97371 659 12 MOVE 1 ^
+97410 659 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97371 660 12 MOVE 5 ^
+97410 660 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 661 12 MOVE 5 ^
+97410 661 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 662 12 MOVE 3 ^
+97410 662 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97371 663 12 MOVE 3 ^
+97410 663 12 MOVE 3 ^
 Kor szama: 4
 Bitek szama: 4
-97371 664 12 MOVE 2 ^
+97410 664 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97371 665 12 MOVE 2 ^
+97410 665 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97371 666 12 MOVE 2 ^
+97410 666 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97371 667 12 MOVE 2 ^
+97410 667 12 MOVE 2 ^
 Kor szama: 4
 Bitek szama: 4
-97371 668 12 MOVE 0 ^
+97410 668 12 MOVE 0 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[2][12]=0
-97371 669 12 CREATE 2 75
+97410 669 12 CREATE 2 75
 Kor szama: 4
 Bitek szama: 4
-97371 670 12 MOVE 10 ^
+97410 670 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 671 12 MOVE 10 ^
+97410 671 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 672 12 MOVE 10 ^
+97410 672 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 673 12 MOVE 10 ^
+97410 673 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 674 12 MOVE 10 ^
+97410 674 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 675 12 MOVE 10 ^
+97410 675 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 676 12 MOVE 10 ^
+97410 676 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 677 12 MOVE 11 ^
+97410 677 12 MOVE 11 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
  a[0][12]=0
-97371 678 12 CREATE 0 76
+97410 678 12 CREATE 0 76
 Kor szama: 4
 Bitek szama: 4
-97371 679 12 MOVE 1 ^
+97410 679 12 MOVE 1 ^
 Kor szama: 4
 Bitek szama: 4
-97371 680 12 MOVE 1 ^
+97410 680 12 MOVE 1 ^
 MESSAGE
 Kor szama: 3
 Bitek szama: 3
 Utkozes a bitek kozott
 Utkozes a bitek kozott
  a[4][12]=0
-97371 681 12 CREATE 4 77
+97410 681 12 CREATE 4 77
 Kor szama: 4
 Bitek szama: 4
-97371 682 12 MOVE 10 ^
+97410 682 12 MOVE 10 ^
 Kor szama: 4
 Bitek szama: 4
-97371 683 12 MOVE 9 ^
+97410 683 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 684 12 MOVE 7 ^
+97410 684 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 685 12 MOVE 6 ^
+97410 685 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 686 12 MOVE 6 ^
+97410 686 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 687 12 MOVE 6 ^
+97410 687 12 MOVE 6 ^
 Kor szama: 4
 Bitek szama: 4
-97371 688 12 MOVE 5 ^
+97410 688 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 689 12 MOVE 5 ^
+97410 689 12 MOVE 5 ^
 Kor szama: 4
 Bitek szama: 4
-97371 690 12 MOVE 7 ^
+97410 690 12 MOVE 7 ^
 Kor szama: 4
 Bitek szama: 4
-97371 691 12 MOVE 8 ^
+97410 691 12 MOVE 8 ^
 Kor szama: 4
 Bitek szama: 4
-97371 692 12 MOVE 9 ^
+97410 692 12 MOVE 9 ^
 Kor szama: 4
 Bitek szama: 4
-97371 693 12 MOVE 9 ^
+97410 693 12 MOVE 9 ^
 MESSAGE
 1QTX6BpXCH 0
 E3CjFoQyIz 1
@@ -2335,6 +2335,7 @@ Bib1xCOsJU 71
 vYGo0SoH7Z 72
 9 73
  74
+A bizonyos meret: 24
 Betaprotokol 
 1QTX6BpXCH 0
 E3CjFoQyIz 1
@@ -2411,5 +2412,5 @@ Bib1xCOsJU 71
 vYGo0SoH7Z 72
 9 73
  74
-97371 694 12 SOLUTION 1QTX6BpXCHE3CjFoQyIzQ4eDLArtcPm8v3HvIOnfoBZauWl56w6fK9JNX4qt7nVE9iu2y003etteZHRkZWqXwqis3ng7IYPJ1XnFMUSDjHKDr9UWo2Fo3kcU8xRWv4wmg1JbZkD9CWPqH069X59mFUGGfhR2X4msVXOJP0QBBmE1d96s6WUPDDrQZspCtkMYhtPzlajLCE9aWRpxPmdj7X4o4EguycRlE67YsWPVsrDzxpqtNUYzXB54mP7uj6OJAqhEkprrZovWMarSPSmq6iuqmN0QxZoaIhpqIseKXEA0Esgwq8pYijqLWr8RJf37tX0cEKFgogeeGuPzRMU4wSA9qebs66R9caDLIQueLCEvck18Zx1yK1CxE3AiHKwdYNIGhLPh1beeEmuGwZwfBeS1lkZ7uQtXeqiv0FgXxDe1bguTmezd5Md32JXbWl5aonHRYGRVQBgNPSybhVq2SXVBh8UndUlVcmjlMmghPMvlTwq6sPvIUkSgaZOpscNFxgcAEQiZdb6F4qfmMqxLLoO16fHulnz1AJBoJwIHduoBMd03l7rj6wluSfVfn0YBFcG0zv7M6eY0zAiljsq4o9wMiKf1Jfkes06sB8VHlYYuF8NLrLD05EnK4Xy4VBKKJRAxHFB3hg1W2h9g0tbtxzoAHoQYbdBk1Q8Ey3z6KWA0UGLixjaY3hdOYIOGML330UUdC7Bib1xCOsJUvYGo0SoH7Z9
+97410 694 12 SOLUTION 1QTX6BpXCHE3CjFoQyIzQ4eDLArtcPm8v3HvIOnfoBZauWl56w6fK9JNX4qt7nVE9iu2y003etteZHRkZWqXwqis3ng7IYPJ1XnFMUSDjHKDr9UWo2Fo3kcU8xRWv4wmg1JbZkD9CWPqH069X59mFUGGfhR2X4msVXOJP0QBBmE1d96s6WUPDDrQZspCtkMYhtPzlajLCE9aWRpxPmdj7X4o4EguycRlE67YsWPVsrDzxpqtNUYzXB54mP7uj6OJAqhEkprrZovWMarSPSmq6iuqmN0QxZoaIhpqIseKXEA0Esgwq8pYijqLWr8RJf37tX0cEKFgogeeGuPzRMU4wSA9qebs66R9caDLIQueLCEvck18Zx1yK1CxE3AiHKwdYNIGhLPh1beeEmuGwZwfBeS1lkZ7uQtXeqiv0FgXxDe1bguTmezd5Md32JXbWl5aonHRYGRVQBgNPSybhVq2SXVBh8UndUlVcmjlMmghPMvlTwq6sPvIUkSgaZOpscNFxgcAEQiZdb6F4qfmMqxLLoO16fHulnz1AJBoJwIHduoBMd03l7rj6wluSfVfn0YBFcG0zv7M6eY0zAiljsq4o9wMiKf1Jfkes06sB8VHlYYuF8NLrLD05EnK4Xy4VBKKJRAxHFB3hg1W2h9g0tbtxzoAHoQYbdBk1Q8Ey3z6KWA0UGLixjaY3hdOYIOGML330UUdC7Bib1xCOsJUvYGo0SoH7Z9
 END (latest message):
