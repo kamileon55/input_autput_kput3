@@ -8,9 +8,6 @@
 /main.cpp:155:21: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
    for (int i = 0; i < packets.size(); i++)
                    ~~^~~~~~~~~~~~~~~~
-/main.cpp:166:64: warning: value computed is not used [-Wunused-value]
-     (packets[i].currRouter = packets[i].currRouter + direction)%14;
-     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~
 /main.cpp: In function ‘void readData(Reader&)’:
 /main.cpp:247:27: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Data>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
              for(int i=0; i<to.dataArray.size(); i++)
