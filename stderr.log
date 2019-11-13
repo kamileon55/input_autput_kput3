@@ -1,0 +1,3030 @@
+Kor szama: 0
+Bitek szama: 0
+ a[2][12]=1
+96430 0 12 CREATE 2 0
+Kor szama: 1
+Bitek szama: 1
+ a[3][12]=1
+96430 1 12 CREATE 3 1
+Kor szama: 1
+Bitek szama: 1
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+96430 2 12 MOVE 10 ^
+Kor szama: 1
+Bitek szama: 1
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+96430 3 12 MOVE 10 ^
+Kor szama: 1
+Bitek szama: 1
+Utkozes a bitek kozott
+ a[4][12]=1
+96430 4 12 CREATE 4 2
+Kor szama: 1
+Bitek szama: 1
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[7][12]=1
+96430 5 12 CREATE 7 3
+Kor szama: 2
+Bitek szama: 2
+Utkozes a bitek kozott
+ a[1][12]=1
+96430 6 12 CREATE 1 4
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[5][12]=1
+96430 7 12 CREATE 5 5
+Kor szama: 4
+Bitek szama: 4
+96430 8 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 9 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 10 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 11 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 12 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 13 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 14 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 15 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 16 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 17 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 18 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 19 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 20 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 21 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 22 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 23 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 24 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 25 12 MOVE 10 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[1][12]=1
+96430 26 12 CREATE 1 6
+Kor szama: 4
+Bitek szama: 4
+96430 27 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+96430 28 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+96430 29 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 30 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 31 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+96430 32 12 MOVE 3 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[4][12]=1
+96430 33 12 CREATE 4 7
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[6][12]=1
+96430 34 12 CREATE 6 8
+Kor szama: 4
+Bitek szama: 4
+96430 35 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 36 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 37 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 38 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 39 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 40 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 41 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 42 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 43 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 44 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 45 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 46 12 MOVE 5 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[2][12]=1
+96430 47 12 CREATE 2 9
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[1][12]=1
+96430 48 12 CREATE 1 10
+Kor szama: 4
+Bitek szama: 4
+96430 49 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 50 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 51 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 52 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 53 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 54 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 55 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 56 12 MOVE 10 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[2][12]=1
+96430 57 12 CREATE 2 11
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[5][12]=1
+96430 58 12 CREATE 5 12
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[5][12]=1
+96430 59 12 CREATE 5 13
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[5][12]=1
+96430 60 12 CREATE 5 14
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[5][12]=1
+96430 61 12 CREATE 5 15
+Kor szama: 3
+Bitek szama: 3
+ a[0][12]=1
+96430 62 12 CREATE 0 16
+Kor szama: 4
+Bitek szama: 4
+96430 63 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 64 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 65 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 66 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[3][12]=1
+96430 67 12 CREATE 3 17
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[3][12]=1
+96430 68 12 CREATE 3 18
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[5][12]=1
+96430 69 12 CREATE 5 19
+Kor szama: 4
+Bitek szama: 4
+96430 70 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 71 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 72 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 73 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 74 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 75 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 76 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+96430 77 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+96430 78 12 MOVE 0 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[3][12]=1
+96430 79 12 CREATE 3 20
+Kor szama: 3
+Bitek szama: 3
+ a[3][12]=1
+96430 80 12 CREATE 3 21
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[3][12]=1
+96430 81 12 CREATE 3 22
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[6][12]=1
+96430 82 12 CREATE 6 23
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[6][12]=1
+96430 83 12 CREATE 6 24
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[5][12]=1
+96430 84 12 CREATE 5 25
+Kor szama: 4
+Bitek szama: 4
+96430 85 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[5][12]=1
+96430 86 12 CREATE 5 26
+Kor szama: 4
+Bitek szama: 4
+96430 87 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 88 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 89 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+96430 90 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+96430 91 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+96430 92 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+96430 93 12 MOVE 0 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[6][12]=1
+96430 94 12 CREATE 6 27
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=1
+96430 95 12 CREATE 2 28
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=1
+96430 96 12 CREATE 2 29
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=1
+96430 97 12 CREATE 2 30
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[5][12]=1
+96430 98 12 CREATE 5 31
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=1
+96430 99 12 CREATE 2 32
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=1
+96430 100 12 CREATE 2 33
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=1
+96430 101 12 CREATE 2 34
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=1
+96430 102 12 CREATE 2 35
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=1
+96430 103 12 CREATE 2 36
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=1
+96430 104 12 CREATE 2 37
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=1
+96430 105 12 CREATE 2 38
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=1
+96430 106 12 CREATE 2 39
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=1
+96430 107 12 CREATE 2 40
+Kor szama: 4
+Bitek szama: 4
+96430 108 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 109 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 110 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 111 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 112 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 113 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 114 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 115 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 116 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=1
+96430 117 12 CREATE 2 41
+Kor szama: 4
+Bitek szama: 4
+96430 118 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+96430 119 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+96430 120 12 MOVE 13 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[5][12]=1
+96430 121 12 CREATE 5 42
+Kor szama: 4
+Bitek szama: 4
+96430 122 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 123 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 124 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+96430 125 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+96430 126 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+96430 127 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+96430 128 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=1
+96430 129 12 CREATE 2 43
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=1
+96430 130 12 CREATE 2 44
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=1
+96430 131 12 CREATE 2 45
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=1
+96430 132 12 CREATE 2 46
+Kor szama: 4
+Bitek szama: 4
+96430 133 12 MOVE 3 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[3][12]=1
+96430 134 12 CREATE 3 47
+Kor szama: 4
+Bitek szama: 4
+96430 135 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 136 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 137 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 138 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 139 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 140 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 141 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 142 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 143 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 144 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 145 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[4][12]=1
+96430 146 12 CREATE 4 48
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[3][12]=1
+96430 147 12 CREATE 3 49
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[7][12]=1
+96430 148 12 CREATE 7 50
+Kor szama: 4
+Bitek szama: 4
+96430 149 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 150 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+96430 151 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+96430 152 12 MOVE 0 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=1
+96430 153 12 CREATE 2 51
+Kor szama: 4
+Bitek szama: 4
+96430 154 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 155 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 156 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 157 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 158 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 159 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 160 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 161 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 162 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 163 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 164 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 165 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 166 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 167 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 168 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 169 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[7][12]=1
+96430 170 12 CREATE 7 52
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+96430 171 12 MOVE 13 ^
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[4][12]=1
+96430 172 12 CREATE 4 53
+Kor szama: 4
+Bitek szama: 4
+96430 173 12 MOVE 13 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[4][12]=1
+96430 174 12 CREATE 4 54
+Kor szama: 4
+Bitek szama: 4
+96430 175 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+96430 176 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 177 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 178 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+96430 179 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 180 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+96430 181 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+96430 182 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+96430 183 12 MOVE 13 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[4][12]=1
+96430 184 12 CREATE 4 55
+Kor szama: 4
+Bitek szama: 4
+96430 185 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 186 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 187 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 188 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 189 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 190 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 191 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 192 12 MOVE 9 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[1][12]=1
+96430 193 12 CREATE 1 56
+Kor szama: 4
+Bitek szama: 4
+96430 194 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+96430 195 12 MOVE 0 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[4][12]=1
+96430 196 12 CREATE 4 57
+Kor szama: 4
+Bitek szama: 4
+96430 197 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 198 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 199 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 200 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 201 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 202 12 MOVE 8 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[4][12]=1
+96430 203 12 CREATE 4 58
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[4][12]=1
+96430 204 12 CREATE 4 59
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[4][12]=1
+96430 205 12 CREATE 4 60
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[4][12]=1
+96430 206 12 CREATE 4 61
+Kor szama: 4
+Bitek szama: 4
+96430 207 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 208 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 209 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 210 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 211 12 MOVE 2 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[1][12]=1
+96430 212 12 CREATE 1 62
+Kor szama: 4
+Bitek szama: 4
+96430 213 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+96430 214 12 MOVE 13 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[4][12]=1
+96430 215 12 CREATE 4 63
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[8][12]=1
+96430 216 12 CREATE 8 64
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[8][12]=1
+96430 217 12 CREATE 8 65
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[7][12]=1
+96430 218 12 CREATE 7 66
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[6][12]=1
+96430 219 12 CREATE 6 67
+Kor szama: 4
+Bitek szama: 4
+96430 220 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 221 12 MOVE 10 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[5][12]=1
+96430 222 12 CREATE 5 68
+Kor szama: 4
+Bitek szama: 4
+96430 223 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 224 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 225 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 226 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 227 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 228 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 229 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 230 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 231 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 232 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 233 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 234 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 235 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 236 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 237 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 238 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 239 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[8][12]=1
+96430 240 12 CREATE 8 69
+MESSAGE
+Kor szama: 2
+Bitek szama: 2
+ a[0][12]=1
+96430 241 12 CREATE 0 70
+Kor szama: 2
+Bitek szama: 2
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[8][12]=1
+96430 242 12 CREATE 8 71
+Kor szama: 2
+Bitek szama: 2
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[7][12]=1
+96430 243 12 CREATE 7 72
+Kor szama: 2
+Bitek szama: 2
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[7][12]=1
+96430 244 12 CREATE 7 73
+Kor szama: 3
+Bitek szama: 3
+ a[0][12]=1
+96430 245 12 CREATE 0 74
+Kor szama: 4
+Bitek szama: 4
+96430 246 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+96430 247 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+96430 248 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+96430 249 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+96430 250 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+96430 251 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+96430 252 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+96430 253 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 254 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+96430 255 12 MOVE 3 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[1][12]=1
+96430 256 12 CREATE 1 75
+Kor szama: 4
+Bitek szama: 4
+96430 257 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+96430 258 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+96430 259 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+96430 260 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+96430 261 12 MOVE 13 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[2][12]=1
+96430 262 12 CREATE 2 76
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[2][12]=1
+96430 263 12 CREATE 2 77
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[2][12]=1
+96430 264 12 CREATE 2 78
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[7][12]=1
+96430 265 12 CREATE 7 79
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+96430 266 12 MOVE 7 ^
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[1][12]=1
+96430 267 12 CREATE 1 80
+Kor szama: 4
+Bitek szama: 4
+96430 268 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 269 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 270 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 271 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 272 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 273 12 MOVE 10 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[2][12]=1
+96430 274 12 CREATE 2 81
+Kor szama: 4
+Bitek szama: 4
+96430 275 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+96430 276 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+96430 277 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+96430 278 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 279 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 280 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 281 12 MOVE 3 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[4][12]=1
+96430 282 12 CREATE 4 82
+Kor szama: 4
+Bitek szama: 4
+96430 283 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 284 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 285 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 286 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 287 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 288 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 289 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 290 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 291 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 292 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 293 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 294 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 295 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 296 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 297 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 298 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 299 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 300 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 301 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 302 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 303 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 304 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 305 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 306 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 307 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 308 12 MOVE 10 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[1][12]=1
+96430 309 12 CREATE 1 83
+Kor szama: 3
+Bitek szama: 3
+ a[1][12]=1
+96430 310 12 CREATE 1 84
+Kor szama: 3
+Bitek szama: 3
+ a[1][12]=1
+96430 311 12 CREATE 1 85
+Kor szama: 4
+Bitek szama: 4
+96430 312 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+96430 313 12 MOVE 0 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[1][12]=1
+96430 314 12 CREATE 1 86
+Kor szama: 4
+Bitek szama: 4
+96430 315 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 316 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 317 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 318 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 319 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 320 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 321 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 322 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 323 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 324 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 325 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 326 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 327 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 328 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 329 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 330 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 331 12 MOVE 9 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[2][12]=1
+96430 332 12 CREATE 2 87
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[4][12]=1
+96430 333 12 CREATE 4 88
+Kor szama: 4
+Bitek szama: 4
+96430 334 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 335 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 336 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+96430 337 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[5][12]=1
+96430 338 12 CREATE 5 89
+Kor szama: 4
+Bitek szama: 4
+96430 339 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 340 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 341 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+96430 342 12 MOVE 0 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[6][12]=1
+96430 343 12 CREATE 6 90
+Kor szama: 4
+Bitek szama: 4
+96430 344 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 345 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 346 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 347 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 348 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 349 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 350 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 351 12 MOVE 8 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+96430 352 12 MOVE 8 ^
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+96430 353 12 MOVE 9 ^
+MESSAGE
+Kor szama: 2
+Bitek szama: 2
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[8][12]=1
+96430 354 12 CREATE 8 91
+Kor szama: 2
+Bitek szama: 2
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+96430 355 12 MOVE 7 ^
+Kor szama: 2
+Bitek szama: 2
+ a[0][12]=1
+96430 356 12 CREATE 0 92
+Kor szama: 2
+Bitek szama: 2
+ a[0][12]=1
+96430 357 12 CREATE 0 93
+Kor szama: 2
+Bitek szama: 2
+Utkozes a bitek kozott
+ a[6][12]=1
+96430 358 12 CREATE 6 94
+Kor szama: 3
+Bitek szama: 3
+ a[0][12]=1
+96430 359 12 CREATE 0 95
+Kor szama: 3
+Bitek szama: 3
+ a[0][12]=1
+96430 360 12 CREATE 0 96
+Kor szama: 3
+Bitek szama: 3
+ a[0][12]=1
+96430 361 12 CREATE 0 97
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+96430 362 12 MOVE 5 ^
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[7][12]=1
+96430 363 12 CREATE 7 98
+MESSAGE
+Kor szama: 2
+Bitek szama: 2
+ a[3][12]=1
+96430 364 12 CREATE 3 99
+Kor szama: 3
+Bitek szama: 3
+ a[3][12]=1
+96430 365 12 CREATE 3 100
+Kor szama: 4
+Bitek szama: 4
+96430 366 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 367 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 368 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 369 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 370 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 371 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 372 12 MOVE 10 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[5][12]=1
+96430 373 12 CREATE 5 101
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[6][12]=1
+96430 374 12 CREATE 6 102
+Kor szama: 4
+Bitek szama: 4
+96430 375 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+96430 376 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+96430 377 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+96430 378 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+96430 379 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 380 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 381 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 382 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 383 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+96430 384 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+96430 385 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+96430 386 12 MOVE 1 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[5][12]=1
+96430 387 12 CREATE 5 103
+Kor szama: 4
+Bitek szama: 4
+96430 388 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 389 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 390 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 391 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 392 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 393 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 394 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 395 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 396 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 397 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 398 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 399 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[5][12]=1
+96430 400 12 CREATE 5 104
+Kor szama: 4
+Bitek szama: 4
+96430 401 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 402 12 MOVE 0 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[8][12]=1
+96430 403 12 CREATE 8 105
+Kor szama: 4
+Bitek szama: 4
+96430 404 12 MOVE 9 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[2][12]=1
+96430 405 12 CREATE 2 106
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[4][12]=1
+96430 406 12 CREATE 4 107
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[4][12]=1
+96430 407 12 CREATE 4 108
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[2][12]=1
+96430 408 12 CREATE 2 109
+Kor szama: 4
+Bitek szama: 4
+96430 409 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 410 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 411 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 412 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 413 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 414 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 415 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 416 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 417 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 418 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 419 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 420 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 421 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 422 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 423 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 424 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 425 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+96430 426 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+96430 427 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[1][12]=1
+96430 428 12 CREATE 1 110
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[1][12]=1
+96430 429 12 CREATE 1 111
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[8][12]=1
+96430 430 12 CREATE 8 112
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[7][12]=1
+96430 431 12 CREATE 7 113
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[7][12]=1
+96430 432 12 CREATE 7 114
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[3][12]=1
+96430 433 12 CREATE 3 115
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[2][12]=1
+96430 434 12 CREATE 2 116
+Kor szama: 4
+Bitek szama: 4
+96430 435 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 436 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 437 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 438 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 439 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 440 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 441 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 442 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 443 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 444 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 445 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 446 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 447 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 448 12 MOVE 10 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[6][12]=1
+96430 449 12 CREATE 6 117
+Kor szama: 4
+Bitek szama: 4
+96430 450 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 451 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 452 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 453 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 454 12 MOVE 10 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[2][12]=1
+96430 455 12 CREATE 2 118
+Kor szama: 4
+Bitek szama: 4
+96430 456 12 MOVE 13 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[6][12]=1
+96430 457 12 CREATE 6 119
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[5][12]=1
+96430 458 12 CREATE 5 120
+Kor szama: 4
+Bitek szama: 4
+96430 459 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+96430 460 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 461 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 462 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+96430 463 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+96430 464 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+96430 465 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+96430 466 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+96430 467 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+96430 468 12 MOVE 13 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[4][12]=1
+96430 469 12 CREATE 4 121
+Kor szama: 3
+Bitek szama: 3
+ a[0][12]=1
+96430 470 12 CREATE 0 122
+Kor szama: 4
+Bitek szama: 4
+96430 471 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+96430 472 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+96430 473 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+96430 474 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 475 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 476 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 477 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 478 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 479 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 480 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 481 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 482 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 483 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 484 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 485 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 486 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 487 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 488 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 489 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 490 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[1][12]=1
+96430 491 12 CREATE 1 123
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[6][12]=1
+96430 492 12 CREATE 6 124
+Kor szama: 4
+Bitek szama: 4
+96430 493 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+96430 494 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+96430 495 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+96430 496 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+96430 497 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 498 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 499 12 MOVE 5 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[2][12]=1
+96430 500 12 CREATE 2 125
+Kor szama: 4
+Bitek szama: 4
+96430 501 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 502 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 503 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 504 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 505 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 506 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 507 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 508 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[4][12]=1
+96430 509 12 CREATE 4 126
+Kor szama: 4
+Bitek szama: 4
+96430 510 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+96430 511 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+96430 512 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 513 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 514 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 515 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+96430 516 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+96430 517 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+96430 518 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+96430 519 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+96430 520 12 MOVE 0 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[1][12]=1
+96430 521 12 CREATE 1 127
+Kor szama: 4
+Bitek szama: 4
+96430 522 12 MOVE 0 ^
+MESSAGE
+MESSAGE
+Kor szama: 2
+Bitek szama: 2
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[2][12]=1
+96430 523 12 CREATE 2 128
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[3][12]=1
+96430 524 12 CREATE 3 129
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[3][12]=1
+96430 525 12 CREATE 3 130
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[3][12]=1
+96430 526 12 CREATE 3 131
+Kor szama: 4
+Bitek szama: 4
+96430 527 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 528 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 529 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 530 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 531 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 532 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 533 12 MOVE 9 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[1][12]=1
+96430 534 12 CREATE 1 132
+Kor szama: 3
+Bitek szama: 3
+ a[1][12]=1
+96430 535 12 CREATE 1 133
+Kor szama: 4
+Bitek szama: 4
+96430 536 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+96430 537 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+96430 538 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+96430 539 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+96430 540 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 541 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+96430 542 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+96430 543 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+96430 544 12 MOVE 13 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[7][12]=1
+96430 545 12 CREATE 7 134
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[7][12]=1
+96430 546 12 CREATE 7 135
+Kor szama: 4
+Bitek szama: 4
+96430 547 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+96430 548 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 549 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 550 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+96430 551 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+96430 552 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+96430 553 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+96430 554 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 555 12 MOVE 4 ^
+Kor szama: 4
+Bitek szama: 4
+96430 556 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+96430 557 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+96430 558 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+96430 559 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+96430 560 12 MOVE 13 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[6][12]=1
+96430 561 12 CREATE 6 136
+Kor szama: 4
+Bitek szama: 4
+96430 562 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 563 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 564 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 565 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 566 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 567 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[1][12]=1
+96430 568 12 CREATE 1 137
+Kor szama: 4
+Bitek szama: 4
+96430 569 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 570 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 571 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 572 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 573 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 574 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 575 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+96430 576 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+96430 577 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+96430 578 12 MOVE 1 ^
+Kor szama: 4
+Bitek szama: 4
+96430 579 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+96430 580 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+96430 581 12 MOVE 13 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[3][12]=1
+96430 582 12 CREATE 3 138
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[4][12]=1
+96430 583 12 CREATE 4 139
+Kor szama: 4
+Bitek szama: 4
+96430 584 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 585 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 586 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 587 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 588 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 589 12 MOVE 10 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[4][12]=1
+96430 590 12 CREATE 4 140
+Kor szama: 4
+Bitek szama: 4
+96430 591 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 592 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 593 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 594 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+96430 595 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+96430 596 12 MOVE 0 ^
+MESSAGE
+MESSAGE
+Kor szama: 2
+Bitek szama: 2
+Utkozes a bitek kozott
+ a[2][12]=1
+96430 597 12 CREATE 2 141
+Kor szama: 2
+Bitek szama: 2
+ a[1][12]=1
+96430 598 12 CREATE 1 142
+Kor szama: 3
+Bitek szama: 3
+ a[1][12]=1
+96430 599 12 CREATE 1 143
+Kor szama: 3
+Bitek szama: 3
+ a[1][12]=1
+96430 600 12 CREATE 1 144
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[1][12]=1
+96430 601 12 CREATE 1 145
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[1][12]=1
+96430 602 12 CREATE 1 146
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[1][12]=1
+96430 603 12 CREATE 1 147
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[1][12]=1
+96430 604 12 CREATE 1 148
+Kor szama: 4
+Bitek szama: 4
+96430 605 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 606 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 607 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 608 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 609 12 MOVE 8 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[4][12]=1
+96430 610 12 CREATE 4 149
+Kor szama: 4
+Bitek szama: 4
+96430 611 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 612 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 613 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 614 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 615 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 616 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 617 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 618 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 619 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 620 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 621 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 622 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 623 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 624 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 625 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 626 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 627 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 628 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 629 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[4][12]=1
+96430 630 12 CREATE 4 150
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[1][12]=1
+96430 631 12 CREATE 1 151
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[1][12]=1
+96430 632 12 CREATE 1 152
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[1][12]=1
+96430 633 12 CREATE 1 153
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[1][12]=1
+96430 634 12 CREATE 1 154
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[1][12]=1
+96430 635 12 CREATE 1 155
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[1][12]=1
+96430 636 12 CREATE 1 156
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[1][12]=1
+96430 637 12 CREATE 1 157
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+ a[1][12]=1
+96430 638 12 CREATE 1 158
+MESSAGE
+Kor szama: 2
+Bitek szama: 2
+Utkozes a bitek kozott
+ a[1][12]=1
+96430 639 12 CREATE 1 159
+Kor szama: 2
+Bitek szama: 2
+Utkozes a bitek kozott
+ a[1][12]=1
+96430 640 12 CREATE 1 160
+Kor szama: 2
+Bitek szama: 2
+ a[1][12]=1
+96430 641 12 CREATE 1 161
+Kor szama: 2
+Bitek szama: 2
+ a[1][12]=1
+96430 642 12 CREATE 1 162
+Kor szama: 2
+Bitek szama: 2
+ a[1][12]=1
+96430 643 12 CREATE 1 163
+Kor szama: 2
+Bitek szama: 2
+ a[1][12]=1
+96430 644 12 CREATE 1 164
+Kor szama: 3
+Bitek szama: 3
+ a[1][12]=1
+96430 645 12 CREATE 1 165
+Kor szama: 4
+Bitek szama: 4
+96430 646 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 647 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 648 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 649 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 650 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 651 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 652 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+96430 653 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[5][12]=1
+96430 654 12 CREATE 5 166
+Kor szama: 4
+Bitek szama: 4
+96430 655 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 656 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 657 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+96430 658 12 MOVE 0 ^
+Kor szama: 4
+Bitek szama: 4
+96430 659 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+96430 660 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+96430 661 12 MOVE 13 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[2][12]=1
+96430 662 12 CREATE 2 167
+Kor szama: 4
+Bitek szama: 4
+96430 663 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+96430 664 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+96430 665 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+96430 666 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+96430 667 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+96430 668 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[4][12]=1
+96430 669 12 CREATE 4 168
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[3][12]=1
+96430 670 12 CREATE 3 169
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[3][12]=1
+96430 671 12 CREATE 3 170
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[4][12]=1
+96430 672 12 CREATE 4 171
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[4][12]=1
+96430 673 12 CREATE 4 172
+Kor szama: 4
+Bitek szama: 4
+96430 674 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 675 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 676 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 677 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 678 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 679 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 680 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 681 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 682 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 683 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 684 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 685 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 686 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 687 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 688 12 MOVE 11 ^
+Kor szama: 4
+Bitek szama: 4
+96430 689 12 MOVE 11 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+ a[0][12]=1
+96430 690 12 CREATE 0 173
+MESSAGE
+Kor szama: 2
+Bitek szama: 2
+ a[0][12]=1
+96430 691 12 CREATE 0 174
+Kor szama: 2
+Bitek szama: 2
+ a[0][12]=1
+96430 692 12 CREATE 0 175
+Kor szama: 2
+Bitek szama: 2
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[3][12]=1
+96430 693 12 CREATE 3 176
+Kor szama: 2
+Bitek szama: 2
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[3][12]=1
+96430 694 12 CREATE 3 177
+Kor szama: 2
+Bitek szama: 2
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[3][12]=1
+96430 695 12 CREATE 3 178
+Kor szama: 2
+Bitek szama: 2
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[3][12]=1
+96430 696 12 CREATE 3 179
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[5][12]=1
+96430 697 12 CREATE 5 180
+Kor szama: 4
+Bitek szama: 4
+96430 698 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+96430 699 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+96430 700 12 MOVE 13 ^
+Kor szama: 4
+Bitek szama: 4
+96430 701 12 MOVE 13 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[4][12]=1
+96430 702 12 CREATE 4 181
+Kor szama: 4
+Bitek szama: 4
+96430 703 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 704 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 705 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 706 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 707 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 708 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 709 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 710 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 711 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 712 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 713 12 MOVE 9 ^
+Kor szama: 4
+Bitek szama: 4
+96430 714 12 MOVE 9 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[8][12]=1
+96430 715 12 CREATE 8 182
+Kor szama: 4
+Bitek szama: 4
+96430 716 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+96430 717 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 718 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 719 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 720 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+96430 721 12 MOVE 2 ^
+Kor szama: 4
+Bitek szama: 4
+96430 722 12 MOVE 1 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[8][12]=1
+96430 723 12 CREATE 8 183
+Kor szama: 4
+Bitek szama: 4
+96430 724 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 725 12 MOVE 6 ^
+Kor szama: 4
+Bitek szama: 4
+96430 726 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 727 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 728 12 MOVE 7 ^
+Kor szama: 4
+Bitek szama: 4
+96430 729 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 730 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 731 12 MOVE 8 ^
+Kor szama: 4
+Bitek szama: 4
+96430 732 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 733 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 734 12 MOVE 10 ^
+Kor szama: 4
+Bitek szama: 4
+96430 735 12 MOVE 10 ^
+MESSAGE
+Kor szama: 3
+Bitek szama: 3
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+Utkozes a bitek kozott
+ a[7][12]=1
+96430 736 12 CREATE 7 184
+Kor szama: 4
+Bitek szama: 4
+96430 737 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 738 12 MOVE 3 ^
+Kor szama: 4
+Bitek szama: 4
+96430 739 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 740 12 MOVE 5 ^
+Kor szama: 4
+Bitek szama: 4
+96430 741 12 MOVE 2 ^
+READER ERROR HAPPENED: unrecognized command line: SLOW 258 75
+1QTX6BpXCH 0
+m8v3HvIOnf 3
+6fK9JNX4qt 5
+oBZauWl56w 4
+03etteZHRk 6
+ZWqXwqis3n 8
+MUSDjHKDr9 10
+H069X59mFU 16
+MYhtPzlajL 19
+PVsrDzxpqt 25
+mN0QxZoaIh 26
+Z7uQtXeqiv 40
+Ph1beeEmuG 41
+0FgXxDe1bg 42
+VBh8UndUlV 46
+UkSgaZOpsc 50
+HRYGRVQBgN 47
+NFxgcAEQiZ 51
+lnz1AJBoJw 52
+db6F4qfmMq 53
+xLLoO16fHu 54
+zv7M6eY0zA 57
+IHduoBMd03 55
+l7rj6wluSf 56
+F8NLrLD05E 61
+KWA0UGLixj 67
+nK4Xy4VBKK 62
+aY3hdOYIOG 68
+9 73
+ 74
+ 75
+ 80
+ 86
+ 81
+ 82
+ 90
+ 85
+ 89
+ 88
+ 94
+ 99
+ 100
+ 103
+ 102
+ 109
+ 104
+ 105
+ 116
+ 117
+ 118
+ 120
+ 125
+ 122
+ 124
+ 126
+ 127
+ 128
+ 131
+ 133
+ 134
+ 135
+ 136
+ 139
+ 142
+ 137
+ 140
+ 148
+ 149
+ 165
+ 164
+ 166
+ 167
+ 172
+ 179
+ 180
+Betaprotokol 
+1QTX6BpXCH 0
+m8v3HvIOnf 3
+oBZauWl56w 4
+6fK9JNX4qt 5
+03etteZHRk 6
+ZWqXwqis3n 8
+MUSDjHKDr9 10
+H069X59mFU 16
+MYhtPzlajL 19
+PVsrDzxpqt 25
+mN0QxZoaIh 26
+Z7uQtXeqiv 40
+Ph1beeEmuG 41
+0FgXxDe1bg 42
+VBh8UndUlV 46
+HRYGRVQBgN 47
+UkSgaZOpsc 50
+NFxgcAEQiZ 51
+lnz1AJBoJw 52
+db6F4qfmMq 53
+xLLoO16fHu 54
+IHduoBMd03 55
+l7rj6wluSf 56
+zv7M6eY0zA 57
+F8NLrLD05E 61
+nK4Xy4VBKK 62
+KWA0UGLixj 67
+aY3hdOYIOG 68
+9 73
+ 74
+ 75
+ 80
+ 81
+ 82
+ 85
+ 86
+ 88
+ 89
+ 90
+ 94
+ 99
+ 100
+ 102
+ 103
+ 104
+ 105
+ 109
+ 116
+ 117
+ 118
+ 120
+ 122
+ 124
+ 125
+ 126
+ 127
+ 128
+ 131
+ 133
+ 134
+ 135
+ 136
+ 137
+ 139
+ 140
+ 142
+ 148
+ 149
+ 164
+ 165
+ 166
+ 167
+ 172
+ 179
+ 180
+96430 741 12 SOLUTION 1QTX6BpXCHm8v3HvIOnfoBZauWl56w6fK9JNX4qt03etteZHRkZWqXwqis3nMUSDjHKDr9H069X59mFUMYhtPzlajLPVsrDzxpqtmN0QxZoaIhZ7uQtXeqivPh1beeEmuG0FgXxDe1bgVBh8UndUlVHRYGRVQBgNUkSgaZOpscNFxgcAEQiZlnz1AJBoJwdb6F4qfmMqxLLoO16fHuIHduoBMd03l7rj6wluSfzv7M6eY0zAF8NLrLD05EnK4Xy4VBKKKWA0UGLixjaY3hdOYIOG9
