@@ -144,20 +144,21 @@ void readData(Reader& to) // void barmi(int a)
                 std::cerr<<"Cerkam\n";
 
 
-            }/*
+            }
             bool vegem=true;
             for(int i=0; i<to.dataArray.size(); i++)
             {
-                if(to.dataArray[i].fromRouter==alaprouter && to.dataArray.size()!=0)
+                bool belep2=true;
+                if(to.dataArray[i].fromRouter==alaprouter )
                 {
                     vegem=false;
 
                 }
             }
-            if(vegem==true)
+            if(vegem==true && belep2==true)
             {
-                
-            }*/
+                to.hasEnd=true;
+            }
 
 
 
