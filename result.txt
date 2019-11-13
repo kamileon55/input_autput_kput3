@@ -1,6 +1,6 @@
 {
-  "compile_id": "12696",
-  "git_hash": "89aada55575ad3c3f06369235c9059383cf6607d",
+  "compile_id": "12697",
+  "git_hash": "91ccea1172b9832c2f1d9b5aed9cdc2570748870",
   "compile_success": true,
-  "result": "{\"gameID\":96430,\"seed\":2,\"isTest\":true,\"maxSize\":76,\"score\":{\"success\":false,\"point\":258,\"size\":75}}\n"
+  "result": "{\"gameID\":96578,\"seed\":2,\"isTest\":true,\"maxSize\":81,\"score\":{\"success\":false,\"point\":217,\"size\":81}}\n"
 }
