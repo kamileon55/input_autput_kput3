@@ -114,7 +114,7 @@ void readData(Reader& to) // void barmi(int a)
                  to.hasEnd = true;
             }
             int al_index=msg.rendszam;
-            msg.index=al_index/fogadott*(1001-to.data[1])/1000;
+          //  msg.index=al_index/fogadott*(1001-to.data[1])/1000;
             
             std::cerr<<"Rendszam: "<<msg.rendszam<<"\n";
             azenyem.push_back(msg);
