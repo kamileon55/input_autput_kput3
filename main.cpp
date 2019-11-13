@@ -10,7 +10,7 @@ char verzio[20]="69";
 unsigned int alaprouter;
 bool finishMode = 0;
 int fogadott=0;
-  int bevaras=0;
+int bevaras=0;
 
 enum class Direction : char
 {
@@ -128,14 +128,15 @@ void readData(Reader& to) // void barmi(int a)
         }
         else if (!line.rfind("MESSAGE"))
         {
-           // std::cerr<<"MESSAGE"<<std::endl;
+            // std::cerr<<"MESSAGE"<<std::endl;
 
 
             MessagePiece & msg = to.receivedPieces.emplace_back();
 
             std::istringstream(std::move(line).substr(8)) >> msg.index >> msg.message;
 
-
+            
+            std::cerr<<msg.message<<"__"<<msg.message.size()<<"\n";
             if(msg.message.size()==0)
             {
                 bevaras++;
@@ -143,19 +144,29 @@ void readData(Reader& to) // void barmi(int a)
                 std::cerr<<"Cerkam\n";
 
 
-            }
-            if(bevaras>=3)
+            }/*
+            bool vegem=true;
+            for(int i=0; i<to.dataArray.size(); i++)
             {
-                 to.hasEnd = true;
+                if(to.dataArray[i].fromRouter==alaprouter && to.dataArray.size()!=0)
+                {
+                    vegem=false;
+
+                }
             }
+            if(vegem==true)
+            {
+                
+            }*/
 
 
 
 
 
-           //
 
-         //
+            //
+
+            //
             azenyem.push_back(msg);
 
 
@@ -197,7 +208,7 @@ int main()
 
         if (reader.hasEnd || reader.receivedPieces.size()>100)
         {
-             break;
+            break;
         }
 
 
@@ -256,7 +267,7 @@ int main()
 
                         command= "CREATE ";
                         command=command+std::to_string(i)+" "+std::to_string(faszpicsa++);
-               //         std::cerr<<" a["<<i<<"]["<<alaprouter<<"]="<<reader.routerBits[i][alaprouter]<<"\n";
+                        //         std::cerr<<" a["<<i<<"]["<<alaprouter<<"]="<<reader.routerBits[i][alaprouter]<<"\n";
                         betesz=1;
 
                         createLeft = !createLeft;
@@ -292,10 +303,11 @@ int main()
 
                 }
 
-            command= "MOVE ";
-            command=command+std::to_string(reader.dataArray[minIndex].currRouter)+" "+"v";
+                command= "MOVE ";
+                command=command+std::to_string(reader.dataArray[minIndex].currRouter)+" "+"v";
 
-            } else
+            }
+            else
             {
                 ///kod ide
 
@@ -310,7 +322,7 @@ int main()
                         vals[reader.dataArray[i].currRouter] += res;
 
                         res = leu(reader.routerBits, reader.dataArray[i].currRouter, reader.dataArray[i].currStoreId-1,
-                                      reader.dataArray[i].toRouter, reader.dataArray[i].dir == Direction::LEFT);
+                                  reader.dataArray[i].toRouter, reader.dataArray[i].dir == Direction::LEFT);
                         vals[reader.dataArray[i].currRouter+14] += res;
                     }
 
@@ -358,7 +370,7 @@ int main()
 
 
         std::cout << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
-     //   std::cerr << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
+        //   std::cerr << reader.data[0] << " " << reader.data[1] << " " << reader.data[2] << " " << command << std::endl;
         if(reader.receivedPieces.size()>100)
         {
             //  break;
@@ -367,7 +379,7 @@ int main()
 
     for(int i=0; i<azenyem.size(); i++)
     {
-     //   std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
+        //   std::cerr<<azenyem[i].message<<" "<<azenyem[i].index<<std::endl;
     }
 ///**************
     for(int i=0; i<azenyem.size(); i++)
