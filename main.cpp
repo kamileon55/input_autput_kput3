@@ -243,7 +243,8 @@ void readData(Reader& to)
             if(msg.message.size()==0)
             {
                 finishMode=1;
-				lowestEmptyPacket = msg.index;
+				if (msg.index < lowestEmptyPacket)
+					lowestEmptyPacket = msg.index;
                 std::cerr<<"Finish Mode Started\n";
 
 
