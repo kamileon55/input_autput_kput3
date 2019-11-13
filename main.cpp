@@ -16,6 +16,8 @@ bool finishMode = 0;
 int fogadott=0;
 int bevaras=0;
 
+bool createLeft = 1;
+
 enum class Direction : char
 {
     LEFT = 'l',
@@ -56,6 +58,114 @@ struct Reader
     std::vector<MessagePiece> receivedPieces; ///letarolando, rendezendo
     bool hasEnd;
 };
+
+struct PossibleAction
+{
+	PossibleAction(char c, int i) {
+		action = c;
+		moveRouter = i;
+		value = 0;
+	}
+	char action; //^, v, c
+	union
+	{
+		int moveRouter;
+		int createSlot;
+	};
+
+	int value;
+};
+
+
+void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vector<Data> originalPackets, PossibleAction &pa)
+{
+	//Copy vector
+	std::vector<Data> packets(originalPackets);
+
+
+	//Copy data into an array
+	char state[14][10];
+	for (int i = 0; i<14; i++)
+		for (int j = 0; j<10; j++)
+			state[i][j] = (routerBits[i][j])?'-':'#'; //- open, #blocked
+
+	//Generate a hypothetical packet?
+	if (pa.action == 'c')
+	{
+		Data addition;
+		addition.currRouter = alaprouter;
+		addition.currStoreId = pa.createSlot;
+		addition.dir = createLeft ? Direction::LEFT : Direction::RIGHT;
+		addition.fromRouter = alaprouter;
+		addition.toRouter = (alaprouter+7)%14;
+		packets.push_back(addition);
+	}
+
+	//Store packets
+	for (int i = 0; i < packets.size(); i++)
+		state[packets[i].currRouter][packets[i].currStoreId] = '0'+i;
+
+	//Shift packets?
+	char temp;
+	//todo shift packets too
+	if (pa.action == '^')
+	{
+		temp = state[pa.moveRouter][0];
+		for (int i = 0; i<9; i++)
+			state[pa.moveRouter][i] = state[pa.moveRouter][i+1];
+		state[pa.moveRouter][9] = temp;
+
+		for (int i = 0; i<10; i++)
+			if (state[pa.moveRouter][i] >= '0' && state[pa.moveRouter][i] <= '9')
+				packets[state[pa.moveRouter][i]-'0'].currStoreId--;
+
+	} else
+	if (pa.action == 'v')
+	{
+		temp = state[pa.moveRouter][9];
+		for (int i = 9; i>0; i--)
+			state[pa.moveRouter][i] = state[pa.moveRouter][i-1];
+		state[pa.moveRouter][0] = temp;
+
+		for (int i = 0; i<10; i++)
+			if (state[pa.moveRouter][i] >= '0' && state[pa.moveRouter][i] <= '9')
+				packets[state[pa.moveRouter][i]-'0'].currStoreId++;
+	}
+
+	//Start simulating
+	while (true)
+	{
+		//Automatic upwards shift
+		for(int i = 0; i<packets.size(); i++)
+			if (packets[i].currStoreId > 0 && state[packets[i].currRouter][packets[i].currStoreId - 1] == '-')
+			{
+				state[packets[i].currRouter][packets[i].currStoreId - 1] = '0'+i;
+				state[packets[i].currRouter][packets[i].currStoreId] = '-';
+				packets[i].currStoreId--;
+				continue;
+			}
+
+		//Automatic movement
+		for (int i = 0; i < packets.size(); i++)
+		{
+			int direction = 1;
+			if (packets[i].dir == Direction::LEFT) direction = -1;
+
+			if (packets[i].currRouter != packets[i].toRouter && state[packets[i].currRouter + direction][packets[i].currStoreId] == '-')
+			{
+				state[packets[i].currRouter + direction][packets[i].currStoreId] = '0'+i;
+				state[packets[i].currRouter][packets[i].currStoreId] = '-';
+				packets[i].currRouter += direction;
+				pa.value++; //increment action's usefulness
+			}
+		}
+
+
+
+		break;
+	}
+
+}
 
 int leu(std::array<std::array<bool, 10>, 14> routerBits, int curRouter, int curRI, int targetRouter, bool goingLeft)
 {
@@ -196,8 +306,6 @@ int main()
     std::string command;
 
     int faszpicsa = 0;
-
-    bool createLeft = 1;
 
 
 
