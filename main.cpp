@@ -107,7 +107,7 @@ void readData(Reader& to) // void barmi(int a)
         else if (!line.rfind("MESSAGE"))
         {
            // std::cerr<<"MESSAGE"<<std::endl;
-            
+
 
             MessagePiece & msg = to.receivedPieces.emplace_back();
 
@@ -118,15 +118,15 @@ void readData(Reader& to) // void barmi(int a)
                  to.hasEnd = true;
             }
             int al_index=msg.rendszam;
-          
+
             Rendezendo alma;
             alma.ertek=al_index/fogadott*(1001-to.data[1])/10;
-            std::cerr<<"Az a nyomorult: "<<alma.ertek<<"\n";
+           // std::cerr<<"Az a nyomorult: "<<alma.ertek<<"\n";
             alma.indexem=msg.index;
          //   anyukad.push_back(alma);
-            
+
           //  msg.index=al_index/fogadott*(1001-to.data[1])/1000;
-            
+
          //   std::cerr<<"Rendszam: "<<msg.rendszam<<"\n";
             azenyem.push_back(msg);
 
