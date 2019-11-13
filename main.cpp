@@ -111,13 +111,14 @@ void readData(Reader& to) // void barmi(int a)
 
             std::istringstream(std::move(line).substr(8)) >> msg.index >> msg.message;
             // std::cerr<<msg.message<<"   "<<msg.index<<std::endl;
+
+
+            msg.rendszam=msg.index/azenyem.size()*(1001-to.data[1])/1000;
+            azenyem.push_back(msg);
             if(msg.message.size()==0)
             {
                  to.hasEnd = true;
             }
-
-            msg.rendszam=msg.index/azenyem.size()*(1001-to.data[1])/1000;
-            azenyem.push_back(msg);
 
         }
         else
