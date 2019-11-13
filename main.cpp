@@ -194,6 +194,7 @@ void readData(Reader& to)
                 !line.rfind("TICK", 0))
         {
             to.hasEnd = true;
+			std::cerr<<"##end1\n";
             to.previous = std::move(line);
         }
         else if (!line.rfind("REQUEST", 0))
@@ -257,6 +258,7 @@ void readData(Reader& to)
             if(vegem && belep2 && finishMode)
             {
                 to.hasEnd=true;
+				std::cerr<<"##end2\n";
             }
 
 
@@ -280,6 +282,7 @@ void readData(Reader& to)
     }
     std::cerr << "Unexpected input end." << std::endl;
     to.hasEnd = true;
+	std::cerr<<"##end3\n";
 }
 
 int main()
@@ -304,8 +307,12 @@ int main()
     {
         readData(reader);
 
-        if (reader.hasEnd)
-            break;
+		if (reader.hasEnd || reader.receivedPieces.size() > 100)
+		{
+			std::cerr<<"##end4\n";
+			break;
+		}
+            
 
 
 		//Count our active packets
