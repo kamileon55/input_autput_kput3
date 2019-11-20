@@ -100,7 +100,7 @@ void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vect
 		addition.currStoreId = pa.createSlot;
 		addition.dir = createLeft ? Direction::LEFT : Direction::RIGHT;
 		addition.fromRouter = alaprouter;
-		addition.toRouter = (alaprouter+7)%14;
+		addition.toRouter = (alaprouter+7)%10;
 		packets.push_back(addition);
 	}
 
@@ -120,7 +120,7 @@ void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vect
 		for (int i = 0; i<10; i++)
 			if (state[pa.moveRouter][i] >= '0' && state[pa.moveRouter][i] <= '9')
 			{
-				packets[state[pa.moveRouter][i]-'0'].currStoreId = (packets[state[pa.moveRouter][i]-'0'].currStoreId-1)%10;
+				packets[state[pa.moveRouter][i]-'0'].currStoreId = (packets[state[pa.moveRouter][i]-'0'].currStoreId-1)%14;
 				if (packets[state[pa.moveRouter][i]-'0'].fromRouter != alaprouter)
 					pa.value=-1;
 			}
@@ -136,7 +136,7 @@ void simulateAction(std::array < std::array<bool, 10>, 14> routerBits, std::vect
 		for (int i = 0; i<10; i++)
 			if (state[pa.moveRouter][i] >= '0' && state[pa.moveRouter][i] <= '9')
 			{
-				packets[state[pa.moveRouter][i]-'0'].currStoreId = (packets[state[pa.moveRouter][i]-'0'].currStoreId+1)%10;
+				packets[state[pa.moveRouter][i]-'0'].currStoreId = (packets[state[pa.moveRouter][i]-'0'].currStoreId+1)%14;
 				if (packets[state[pa.moveRouter][i]-'0'].fromRouter != alaprouter)
 					pa.value=-1;
 			}
