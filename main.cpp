@@ -312,7 +312,7 @@ int main()
     int befutott=0;
     std::string solution;
     std::cout << "START " << teamToken
-              << " " << seed<<" "<<verzio << " 1v1" <<
+              << " " << seed<<" "<<verzio<<" 1v1"
               << std::endl;
 
     Reader reader = {};
